@@ -1,0 +1,4729 @@
+﻿1
+00:01:21,010 --> 00:01:23,640
+Dear Momo
+
+2
+00:01:33,430 --> 00:01:36,610
+Seto Inland Sea is wonderful as ever.
+
+3
+00:01:37,370 --> 00:01:39,470
+It's exactly like I described, right?
+
+4
+00:01:39,470 --> 00:01:41,740
+There are so many islands.
+
+5
+00:01:41,740 --> 00:01:43,280
+Yeah.
+
+6
+00:01:43,280 --> 00:01:45,480
+Sure brings back memories.
+
+7
+00:01:45,480 --> 00:01:48,710
+You weren't even born on my last visit here.
+
+8
+00:01:49,120 --> 00:01:50,250
+Right.
+
+9
+00:02:04,470 --> 00:02:07,230
+Maybe that one over there is Shiojima.
+
+10
+00:02:07,230 --> 00:02:09,470
+Take a look, Momo.
+
+11
+00:02:11,190 --> 00:02:13,540
+Just behind the big island.
+
+12
+00:02:13,540 --> 00:02:16,400
+You can see a glimpse of it in the distance.
+
+13
+00:02:16,400 --> 00:02:17,830
+Yes.
+
+14
+00:02:34,340 --> 00:02:40,420
+A Letter to Momo
+
+15
+00:02:43,760 --> 00:02:49,810
+Producers
+
+16
+00:02:43,760 --> 00:02:49,810
+Ishikawa Mitsuhisa
+Ikeda Hiroyuki
+Watanabe Shigeru
+Hamana Kazuya
+
+17
+00:02:50,640 --> 00:02:54,190
+Key Animation Supervisor
+
+18
+00:02:50,640 --> 00:02:54,190
+Andou Masashi
+
+19
+00:02:57,150 --> 00:03:00,570
+Art Director
+
+20
+00:02:57,150 --> 00:03:00,570
+Oono Hiroshi
+
+21
+00:03:01,570 --> 00:03:05,160
+Animation Director
+
+22
+00:03:01,570 --> 00:03:05,160
+Kusumi Naoko
+
+23
+00:03:06,450 --> 00:03:10,000
+Color Designer
+
+24
+00:03:06,450 --> 00:03:10,000
+Mizuta Nobuko
+
+25
+00:03:10,660 --> 00:03:15,880
+Art Designer
+
+26
+00:03:10,660 --> 00:03:15,880
+Watabe Takashi
+
+27
+00:03:10,660 --> 00:03:15,880
+Vehicle Designer
+
+28
+00:03:10,660 --> 00:03:15,880
+Kawaguchi Toshio
+
+29
+00:03:33,350 --> 00:03:37,730
+Translated by   8thSin
+
+30
+00:03:38,730 --> 00:03:42,280
+Additional
+Animation Supervisor
+
+31
+00:03:38,730 --> 00:03:42,280
+Inoue Toshiyuki
+
+32
+00:03:48,780 --> 00:03:56,210
+Welcome to Shiojima
+
+33
+00:03:58,130 --> 00:04:03,170
+CG Director
+
+34
+00:03:58,130 --> 00:04:03,170
+Nishikawa Kazuhiro
+
+35
+00:03:58,130 --> 00:04:03,170
+Director of
+Photography
+
+36
+00:03:58,130 --> 00:04:03,170
+Tanaka Kouji
+
+37
+00:04:06,140 --> 00:04:11,100
+Sound Director
+
+38
+00:04:06,140 --> 00:04:11,100
+Wakabayashi Kazuhiro
+
+39
+00:04:06,140 --> 00:04:11,100
+Film Editor
+
+40
+00:04:06,140 --> 00:04:11,100
+Uematsu Junichi
+
+41
+00:04:11,100 --> 00:04:14,640
+Music
+
+42
+00:04:11,100 --> 00:04:14,640
+Kubota Mina
+
+43
+00:04:16,600 --> 00:04:20,650
+Co-Producers
+
+44
+00:04:16,600 --> 00:04:20,650
+Matsushita Keiko
+Mukaichi Motoki
+Noguchi Mariko
+Okada Arimasa
+
+45
+00:04:34,580 --> 00:04:38,670
+Written and Directed by
+
+46
+00:04:34,580 --> 00:04:38,670
+Okiura Hiroyuki
+
+47
+00:04:49,700 --> 00:04:52,460
+It's exactly as I remembered!
+
+48
+00:04:54,030 --> 00:04:55,440
+It's old.
+
+49
+00:04:55,440 --> 00:04:57,570
+That's what's good about it!
+
+50
+00:04:58,050 --> 00:04:59,410
+Ikuko!
+
+51
+00:04:59,410 --> 00:05:00,860
+Mom!
+
+52
+00:05:00,860 --> 00:05:03,510
+It's been so long!
+
+53
+00:05:03,510 --> 00:05:07,180
+I'm sorry that I haven't made more frequent visits.
+
+54
+00:05:07,180 --> 00:05:09,120
+I'm glad to see you're doing well.
+
+55
+00:05:09,120 --> 00:05:12,090
+We old folks live a simple life.
+
+56
+00:05:12,090 --> 00:05:16,480
+Large items are already in place.
+Take your time unpacking the rest.
+
+57
+00:05:16,480 --> 00:05:18,020
+Oh, I'm sorry.
+
+58
+00:05:18,020 --> 00:05:20,560
+I only cleaned up a bit.
+
+59
+00:05:20,560 --> 00:05:23,760
+The movers took care of everything.
+
+60
+00:05:23,760 --> 00:05:27,090
+But I don't want you to work too hard.
+Please leave everything to us.
+
+61
+00:05:35,410 --> 00:05:37,980
+We'll be staying with you starting today.
+
+62
+00:05:37,980 --> 00:05:39,140
+She's my daughter, Momo.
+
+63
+00:05:39,140 --> 00:05:40,650
+Momo?
+
+64
+00:05:40,650 --> 00:05:45,010
+You're such a big girl!
+It's good to see you.
+
+65
+00:05:45,420 --> 00:05:46,530
+Momo.
+
+66
+00:05:48,560 --> 00:05:49,990
+Hello.
+
+67
+00:05:49,990 --> 00:05:52,380
+Hello to you.
+
+68
+00:05:52,380 --> 00:05:54,430
+Come on right up.
+
+69
+00:05:54,430 --> 00:05:56,000
+It's your new home.
+
+70
+00:05:56,000 --> 00:05:57,920
+We will. Thanks.
+
+71
+00:06:13,750 --> 00:06:15,250
+Which one is our home?
+
+72
+00:06:15,250 --> 00:06:16,390
+This one.
+
+73
+00:06:16,390 --> 00:06:18,590
+Grandpa and Grandma live next door.
+
+74
+00:06:18,590 --> 00:06:20,020
+Oh...
+
+75
+00:06:27,070 --> 00:06:31,460
+I was surprised to see such a big bridge being built here.
+
+76
+00:06:31,460 --> 00:06:33,930
+Yes, it's scheduled to open in September.
+
+77
+00:06:33,930 --> 00:06:35,370
+It'll be pretty convenient.
+
+78
+00:06:35,370 --> 00:06:38,670
+I don't know whether if it's a good thing or not.
+
+79
+00:06:38,670 --> 00:06:44,110
+I can only hope the traffic doesn't pollute the island.
+
+80
+00:06:44,110 --> 00:06:46,740
+Right... I guess so.
+
+81
+00:06:47,650 --> 00:06:50,340
+So are you feeling better now?
+
+82
+00:06:50,340 --> 00:06:52,950
+Oh, I'm totally fine now.
+
+83
+00:06:52,950 --> 00:06:55,020
+Don't worry about me.
+
+84
+00:06:55,020 --> 00:06:56,520
+Momo,
+
+85
+00:06:56,520 --> 00:07:01,700
+Ikuko had to live on this island when she was little, for about a year due to asthma.
+
+86
+00:07:01,700 --> 00:07:03,430
+I'm sure you've heard of it.
+
+87
+00:07:05,800 --> 00:07:08,150
+You said you wanted to work right away.
+
+88
+00:07:08,150 --> 00:07:11,930
+What did you do with that condo of yours?
+
+89
+00:07:11,930 --> 00:07:13,550
+I sold it.
+
+90
+00:07:13,550 --> 00:07:16,310
+I could've rent it out and made some money,
+
+91
+00:07:16,310 --> 00:07:18,160
+but I don't care anymore.
+
+92
+00:07:18,160 --> 00:07:20,010
+I see.
+
+93
+00:07:20,210 --> 00:07:22,580
+Oh well, it doesn't matter.
+
+94
+00:07:22,580 --> 00:07:25,490
+Truth be told, we were starting to feel lonely.
+
+95
+00:07:25,490 --> 00:07:28,170
+The more the merrier.
+
+96
+00:07:28,170 --> 00:07:30,680
+All our neighbors are very old.
+
+97
+00:07:30,680 --> 00:07:32,830
+It's always nice to have young people here.
+
+98
+00:07:32,830 --> 00:07:35,900
+Oh? Do I count as young, too?
+
+99
+00:07:35,900 --> 00:07:37,460
+Of course!
+
+100
+00:07:42,240 --> 00:07:44,230
+You've got mail!
+
+101
+00:07:44,230 --> 00:07:47,170
+Oh, is that you, Iku?
+
+102
+00:07:47,170 --> 00:07:49,210
+Oh, are you Kou?
+
+103
+00:07:49,210 --> 00:07:51,010
+I haven't seen you in so long!
+
+104
+00:07:51,010 --> 00:07:54,180
+I heard you were coming back, so I was looking forward to see you.
+
+105
+00:07:54,180 --> 00:07:55,850
+Didn't know it was today, though.
+
+106
+00:07:55,850 --> 00:07:57,780
+What happened to being a businessman?
+
+107
+00:07:57,780 --> 00:08:00,850
+I quit ages ago!
+
+108
+00:08:00,850 --> 00:08:02,690
+It just wasn't for me.
+
+109
+00:08:02,690 --> 00:08:05,020
+I've been doing this ever since.
+
+110
+00:08:05,530 --> 00:08:06,880
+Uh...
+
+111
+00:08:07,730 --> 00:08:08,840
+She's Momo.
+
+112
+00:08:10,760 --> 00:08:11,750
+Kouichi!
+
+113
+00:08:12,300 --> 00:08:14,230
+Our neighbor's mail is mixed in again!
+
+114
+00:08:14,230 --> 00:08:17,140
+Learn to do your job!
+You're always making mistakes.
+
+115
+00:08:17,140 --> 00:08:19,540
+Oops, I did it again.
+
+116
+00:08:19,540 --> 00:08:21,270
+You never change, do you?
+
+117
+00:08:28,010 --> 00:08:31,230
+Well then, I gotta get back to work.
+Talk to you some other time!
+
+118
+00:08:31,230 --> 00:08:35,210
+He really didn't change at all. I can't stop laughing.
+
+119
+00:08:35,590 --> 00:08:36,700
+Oh,
+
+120
+00:08:37,760 --> 00:08:39,660
+it's not moving.
+
+121
+00:08:39,660 --> 00:08:42,430
+Oh, it stopped moving in early spring this year.
+
+122
+00:08:42,430 --> 00:08:45,270
+I had a watchmaker to take a look at it,
+but apparently, it can't be fixed.
+
+123
+00:08:45,270 --> 00:08:48,070
+But it feels weird to have a new clock,
+
+124
+00:08:48,070 --> 00:08:50,170
+so we just kept it there.
+
+125
+00:08:50,170 --> 00:08:53,440
+Oh... early spring...
+
+126
+00:08:53,440 --> 00:08:56,100
+You can take it off if you don't like it.
+
+127
+00:08:57,040 --> 00:08:58,910
+Momo,
+
+128
+00:08:58,910 --> 00:09:02,680
+can you help me move some luggage to the <i>Sky</i> ?
+
+129
+00:09:03,450 --> 00:09:04,940
+The sky?
+
+130
+00:09:12,060 --> 00:09:13,860
+Come on up.
+
+131
+00:09:27,440 --> 00:09:29,830
+It's a mess, isn't it?
+
+132
+00:09:29,830 --> 00:09:34,570
+Old folks don't throw things away, you know?
+
+133
+00:09:35,080 --> 00:09:38,110
+Heave-ho!
+
+134
+00:09:39,090 --> 00:09:42,510
+Momo, carry that bag over here.
+
+135
+00:09:49,100 --> 00:09:51,500
+Thank you.
+
+136
+00:10:05,380 --> 00:10:08,250
+Oh, you have an eye for antiques.
+
+137
+00:10:08,250 --> 00:10:10,960
+Go ahead and open it.
+
+138
+00:10:22,720 --> 00:10:25,430
+Beware of Monsters Vol.1
+
+139
+00:10:23,800 --> 00:10:25,430
+Take a good look.
+
+140
+00:10:25,900 --> 00:10:28,890
+It's quite odd, though.
+
+141
+00:10:41,490 --> 00:10:45,290
+Your Grandpa's father collected these books.
+
+142
+00:10:45,290 --> 00:10:48,090
+There are many other books like it here.
+
+143
+00:10:48,090 --> 00:10:51,540
+I've been told they're illustrated storybooks from the Edo Period,
+
+144
+00:10:51,540 --> 00:10:55,500
+but this one is supposed to be especially unique.
+
+145
+00:10:55,500 --> 00:11:00,060
+You can come up and read it whenever you want.
+
+146
+00:11:00,670 --> 00:11:03,000
+Well then,
+
+147
+00:11:03,200 --> 00:11:05,510
+be careful on your way down.
+
+148
+00:11:40,670 --> 00:11:42,840
+What? You never told me about that!
+
+149
+00:11:42,840 --> 00:11:44,170
+Yes, I have.
+
+150
+00:11:44,170 --> 00:11:46,630
+There's Class-2 caregiver certificate training in Imabari.
+
+151
+00:11:46,650 --> 00:11:50,450
+I knew about that, but you said it's from the day after tomorrow.
+
+152
+00:11:50,450 --> 00:11:52,580
+Oh, did I forget to tell you?
+
+153
+00:11:52,580 --> 00:11:55,860
+As it turns out, the course starts tomorrow.
+
+154
+00:11:55,860 --> 00:11:57,920
+I almost got the date wrong.
+
+155
+00:11:57,920 --> 00:12:02,380
+What am I supposed to do alone, then?
+
+156
+00:12:02,900 --> 00:12:06,660
+You have to unpack, and homework too, remember?
+
+157
+00:12:06,660 --> 00:12:10,270
+They said you can hand in homework from your old school, so you can start now.
+
+158
+00:12:10,270 --> 00:12:12,940
+That's not what I meant...
+
+159
+00:12:12,940 --> 00:12:17,680
+The bath is ready. I'm unpacking shampoo and other stuff now, so you go first.
+
+160
+00:12:46,780 --> 00:12:50,990
+Dear Momo
+
+161
+00:12:53,650 --> 00:12:55,440
+Dad...
+
+162
+00:12:55,850 --> 00:12:57,370
+<i>Whatever.
+
+163
+00:12:57,740 --> 00:12:59,330
+<i>I hate you, Dad.
+
+164
+00:13:04,490 --> 00:13:07,220
+Don't even bother coming back.
+
+165
+00:13:15,140 --> 00:13:16,600
+Vienna Boy's Choir
+
+166
+00:13:22,040 --> 00:13:25,410
+So, did the research ship made it out all right?
+
+167
+00:13:27,120 --> 00:13:27,860
+Yes.
+
+168
+00:13:29,080 --> 00:13:32,980
+I-Is my husband alive?
+
+169
+00:14:06,690 --> 00:14:08,780
+Creativity
+
+170
+00:14:14,240 --> 00:14:14,950
+Dear Momo
+
+171
+00:14:24,420 --> 00:14:25,380
+Dear Momo
+
+172
+00:14:35,110 --> 00:14:39,210
+What were you going to write, Dad?
+
+173
+00:15:03,340 --> 00:15:05,000
+Let's get going.
+
+174
+00:15:15,760 --> 00:15:18,160
+This should be enough for now.
+
+175
+00:15:18,160 --> 00:15:20,960
+Hey, don't they have bigger supermarkets here?
+
+176
+00:15:20,960 --> 00:15:22,940
+Nope, and no convenience stores either.
+
+177
+00:15:22,940 --> 00:15:25,400
+No way!
+
+178
+00:15:29,440 --> 00:15:31,820
+Everyone's waiting for you.
+
+179
+00:15:31,820 --> 00:15:33,840
+Decide already!
+
+180
+00:15:33,970 --> 00:15:37,370
+It's a bit heavy, but please carry it for me.
+
+181
+00:15:41,450 --> 00:15:45,220
+He's about your age. Let's talk to them!
+
+182
+00:15:45,220 --> 00:15:46,130
+Please, no!
+
+183
+00:15:47,190 --> 00:15:49,980
+Hey, you guys!
+
+184
+00:15:50,860 --> 00:15:53,950
+Then, your family grows tangerines too?
+
+185
+00:15:53,950 --> 00:15:55,120
+Yes.
+
+186
+00:15:55,120 --> 00:15:58,930
+I'm so glad there's another 6th grader on this island.
+
+187
+00:15:58,930 --> 00:16:00,890
+Please show her around.
+
+188
+00:16:13,180 --> 00:16:17,520
+Youta, can you let her play with you guys?
+
+189
+00:16:17,520 --> 00:16:19,880
+Y-Yes...
+
+190
+00:16:19,890 --> 00:16:21,320
+Momo.
+
+191
+00:16:26,160 --> 00:16:27,330
+Um...
+
+192
+00:16:30,710 --> 00:16:32,830
+See you.
+
+193
+00:16:32,830 --> 00:16:33,890
+Umi.
+
+194
+00:16:40,670 --> 00:16:43,230
+Please ask her to join you next time!
+
+195
+00:16:46,410 --> 00:16:48,560
+Come on!
+
+196
+00:16:54,780 --> 00:17:00,740
+To Imawari
+
+197
+00:16:57,360 --> 00:17:00,740
+Don't forget to eat the rice balls.
+You can have those puddings too.
+
+198
+00:17:01,890 --> 00:17:04,360
+Can I come with?
+
+199
+00:17:04,360 --> 00:17:06,570
+I'll take you with me next time.
+
+200
+00:17:06,570 --> 00:17:10,240
+The telephone man is coming today.
+Please take care of things at home.
+
+201
+00:17:10,240 --> 00:17:11,560
+Okay...
+
+202
+00:17:11,740 --> 00:17:13,550
+See you.
+
+203
+00:17:57,950 --> 00:18:00,430
+What <i>was</i> that thing?
+
+204
+00:18:27,210 --> 00:18:30,840
+<i>I'm starving to death.
+
+205
+00:18:38,890 --> 00:18:42,300
+<i>Wanna go check the kitchen?
+
+206
+00:18:59,010 --> 00:19:05,280
+The installation fee will be included in your next bill. Please let your family know.
+
+207
+00:19:06,820 --> 00:19:07,950
+Good-bye.
+
+208
+00:19:07,950 --> 00:19:09,950
+Thank you for coming.
+
+209
+00:19:18,800 --> 00:19:20,600
+Did I close it?
+
+210
+00:19:44,950 --> 00:19:48,050
+<i>Maybe there's something in that rice cooker.
+
+211
+00:19:48,900 --> 00:19:51,060
+<i>Momo is...
+
+212
+00:20:01,880 --> 00:20:04,580
+Momo!
+
+213
+00:20:04,580 --> 00:20:06,800
+Where ya goin'?
+
+214
+00:20:07,760 --> 00:20:10,840
+Roads are really narrow here, so watch out for cars!
+
+215
+00:20:14,010 --> 00:20:15,040
+What?
+
+216
+00:20:36,640 --> 00:20:38,330
+E-Excuse me!
+
+217
+00:21:21,590 --> 00:21:25,300
+Lord Michizane's Tomb
+
+218
+00:22:05,300 --> 00:22:07,320
+It was just my imagination...
+
+219
+00:22:07,600 --> 00:22:09,530
+...or was it?
+
+220
+00:22:24,050 --> 00:22:27,520
+Where am I?
+
+221
+00:22:38,560 --> 00:22:41,670
+What are you doing?
+
+222
+00:22:42,200 --> 00:22:45,770
+If you get lost on the island, just look for the sea.
+
+223
+00:22:45,770 --> 00:22:50,530
+This path extends around the island.
+You'll find your way back in no time.
+
+224
+00:22:50,980 --> 00:22:52,540
+What is it?
+
+225
+00:22:52,750 --> 00:22:54,300
+Nothing.
+
+226
+00:23:02,150 --> 00:23:04,020
+Your home is that way.
+
+227
+00:23:04,020 --> 00:23:05,980
+I live that way.
+
+228
+00:23:15,600 --> 00:23:18,740
+Wanna see the straw boats?
+
+229
+00:23:29,120 --> 00:23:31,240
+No one's home.
+
+230
+00:23:32,020 --> 00:23:34,420
+My grandpa makes them,
+
+231
+00:23:35,220 --> 00:23:37,550
+but he's out somewhere.
+
+232
+00:23:45,630 --> 00:23:49,360
+Check it out. This is what it looks like when it's finished.
+
+233
+00:23:49,700 --> 00:23:52,230
+She's a beauty, isn't she?
+
+234
+00:23:53,070 --> 00:23:56,270
+It's used for a festival called Miyajima.
+
+235
+00:23:56,270 --> 00:24:00,910
+We push these off the beach, then...
+
+236
+00:24:03,120 --> 00:24:12,550
+Offering
+
+237
+00:24:04,450 --> 00:24:07,710
+I wonder where my grandpa went.
+
+238
+00:24:09,060 --> 00:24:11,750
+I think I'll get going.
+
+239
+00:24:12,560 --> 00:24:16,330
+My mom will be back soon, so I'll be at the pier.
+
+240
+00:24:16,330 --> 00:24:17,650
+Thanks for showing me around.
+
+241
+00:24:21,630 --> 00:24:23,730
+Miyaura!
+
+242
+00:24:23,730 --> 00:24:26,010
+We're diving off the bridge again tomorrow.
+
+243
+00:24:26,010 --> 00:24:27,800
+Come if you want!
+
+244
+00:24:35,110 --> 00:24:36,380
+Grandpa!
+
+245
+00:24:37,030 --> 00:24:39,060
+Where did you go?
+
+246
+00:24:39,060 --> 00:24:41,120
+I needed you here!
+
+247
+00:24:41,120 --> 00:24:42,410
+Huh?
+
+248
+00:24:55,420 --> 00:24:58,370
+Fine, I'll go check.
+
+249
+00:24:58,370 --> 00:25:00,660
+You're such a scaredy-cat.
+
+250
+00:25:02,710 --> 00:25:04,740
+You didn't lock the door!
+
+251
+00:25:04,740 --> 00:25:07,030
+I didn't have the time to!
+
+252
+00:25:07,030 --> 00:25:08,350
+Please go check!
+
+253
+00:25:08,350 --> 00:25:10,080
+Geez!
+
+254
+00:25:10,080 --> 00:25:14,450
+I always remind you to lock up!
+
+255
+00:25:14,850 --> 00:25:16,860
+Act your age!
+
+256
+00:25:16,860 --> 00:25:17,850
+Just go!
+
+257
+00:25:19,630 --> 00:25:21,850
+Sorry. Please!
+
+258
+00:25:54,930 --> 00:25:57,570
+Why are you screaming?!
+
+259
+00:25:57,570 --> 00:26:01,410
+S-Something just licked me!
+
+260
+00:26:01,430 --> 00:26:02,920
+Huh?
+
+261
+00:26:03,600 --> 00:26:05,730
+There's nothing there.
+
+262
+00:26:06,270 --> 00:26:08,740
+Yes, there is!
+
+263
+00:26:09,940 --> 00:26:11,500
+There isn't.
+
+264
+00:26:23,620 --> 00:26:25,890
+They really chased me!
+
+265
+00:26:25,890 --> 00:26:29,630
+I'm only telling you to make sure to lock up next time.
+
+266
+00:26:29,630 --> 00:26:33,230
+How could I eat three pudding on my own?
+
+267
+00:26:33,230 --> 00:26:35,900
+I'm not mad about that.
+
+268
+00:26:35,900 --> 00:26:38,250
+I'm telling you, there's something here.
+
+269
+00:26:38,250 --> 00:26:39,140
+There isn't.
+
+270
+00:26:39,140 --> 00:26:40,000
+Is too!
+
+271
+00:26:40,000 --> 00:26:42,700
+No, there isn't.
+Stop messing around!
+
+272
+00:26:51,980 --> 00:26:53,540
+What is it?
+
+273
+00:26:54,620 --> 00:26:57,050
+Hey, let's go back to Tokyo.
+
+274
+00:26:59,760 --> 00:27:02,090
+We have nowhere to stay.
+
+275
+00:27:02,090 --> 00:27:03,930
+I know, but...
+
+276
+00:27:03,930 --> 00:27:07,290
+You'll get used to the life here.
+Now, eat up!
+
+277
+00:27:23,850 --> 00:27:25,910
+What's your problem?
+
+278
+00:27:26,150 --> 00:27:30,780
+You've decided coming here on your own.
+
+279
+00:27:30,780 --> 00:27:32,120
+You never ask for my opinion.
+
+280
+00:27:32,120 --> 00:27:36,020
+What? I asked, and you said okay.
+
+281
+00:27:37,130 --> 00:27:39,900
+I just said I don't mind.
+
+282
+00:27:39,900 --> 00:27:42,700
+I'm going to lose my mind if I stayed here any longer.
+
+283
+00:27:42,700 --> 00:27:44,090
+Let's go back.
+
+284
+00:27:44,090 --> 00:27:47,510
+Then go back on your own if you hate this island so much.
+
+285
+00:27:47,510 --> 00:27:48,710
+Okay, I'll go.
+
+286
+00:27:48,710 --> 00:27:50,130
+How?
+
+287
+00:27:50,940 --> 00:27:53,560
+You're such a meanie.
+
+288
+00:27:56,620 --> 00:28:00,520
+Get right up!
+
+289
+00:28:16,970 --> 00:28:20,610
+You should go if Youta asked you to come.
+
+290
+00:28:20,610 --> 00:28:23,840
+Don't forget to unpack your stuff soon.
+
+291
+00:28:23,980 --> 00:28:26,280
+Make sure to eat breakfast too.
+
+292
+00:28:26,280 --> 00:28:28,250
+I already asked Grandma to make lunch for you.
+
+293
+00:28:28,250 --> 00:28:30,120
+Go and eat with them.
+
+294
+00:28:30,120 --> 00:28:31,640
+See you!
+
+295
+00:28:34,900 --> 00:28:35,870
+Mom...!
+
+296
+00:28:43,760 --> 00:28:46,970
+<i>Ikuko is gone.
+
+297
+00:28:46,970 --> 00:28:49,630
+<i>What are you still doing here? Follow her, Mame!
+
+298
+00:28:50,580 --> 00:28:53,710
+<i>Let's go do something about our hunger!
+
+299
+00:28:53,710 --> 00:28:56,040
+<i>What's Momo doing?
+
+300
+00:28:56,040 --> 00:28:59,210
+<i>I've got no clue. She was sleeping just now.
+
+301
+00:28:59,210 --> 00:29:01,710
+<i>Whatever, I'm starving.
+
+302
+00:29:01,710 --> 00:29:03,590
+<i>Me too.
+
+303
+00:29:11,360 --> 00:29:13,380
+We came to pick you up!
+
+304
+00:29:13,430 --> 00:29:14,810
+Where's your swimsuit?
+
+305
+00:29:18,600 --> 00:29:20,390
+I'll go get changed.
+
+306
+00:29:21,070 --> 00:29:22,630
+There you have it.
+
+307
+00:29:22,630 --> 00:29:25,500
+She's one of us starting today.
+Got it?
+
+308
+00:29:25,500 --> 00:29:26,270
+Got it!
+
+309
+00:29:26,270 --> 00:29:26,910
+Nice to meet ya!
+
+310
+00:29:26,910 --> 00:29:27,970
+Nice to meet you.
+
+311
+00:29:27,970 --> 00:29:29,700
+I'm happy to see another girl in our group.
+
+312
+00:29:29,700 --> 00:29:32,140
+Nice to meet you, Miyaura.
+
+313
+00:29:32,140 --> 00:29:33,250
+Nice to meet you.
+
+314
+00:29:33,250 --> 00:29:35,240
+All right! Let's go!
+
+315
+00:29:35,240 --> 00:29:36,680
+Get ready.
+
+316
+00:29:36,680 --> 00:29:39,810
+It's a bit high, but you won't be scared after the first jump.
+
+317
+00:29:48,090 --> 00:29:49,340
+Off I go!
+
+318
+00:29:49,340 --> 00:29:50,150
+What?!
+
+319
+00:30:02,440 --> 00:30:05,010
+Watch, this is how you do it.
+
+320
+00:30:05,010 --> 00:30:07,150
+Hurry and jump, Youta!
+
+321
+00:30:07,150 --> 00:30:08,780
+Watch this!
+
+322
+00:30:17,960 --> 00:30:20,420
+Can you do it?
+
+323
+00:30:30,260 --> 00:30:32,000
+No one's forcing you to jump!
+
+324
+00:30:44,020 --> 00:30:45,880
+I'm not done!
+
+325
+00:30:59,530 --> 00:31:01,730
+Are you going home, Momo?
+
+326
+00:31:01,730 --> 00:31:03,160
+Sorry.
+
+327
+00:32:05,460 --> 00:32:10,630
+<i>Man, it sucks! I hate rain and lighting!
+
+328
+00:32:11,110 --> 00:32:13,820
+<i>I'm so sick of it!
+
+329
+00:32:13,820 --> 00:32:20,250
+<i>Your form right now somehow doesn't look like water would be a problem, though.
+
+330
+00:32:20,250 --> 00:32:24,070
+<i>What? You must be joking!
+
+331
+00:32:39,160 --> 00:32:41,060
+That was a big one.
+
+332
+00:32:41,930 --> 00:32:47,610
+The rule is, we have to get our own food in this world,
+
+333
+00:32:47,610 --> 00:32:49,780
+but all we get are these green tangerines.
+
+334
+00:32:49,780 --> 00:32:52,440
+I want to eat some meat!
+
+335
+00:32:52,440 --> 00:32:54,440
+Yup, me too.
+
+336
+00:33:00,020 --> 00:33:01,240
+Huh?
+
+337
+00:33:11,670 --> 00:33:15,460
+Oops, I sat on Momo.
+
+338
+00:33:25,140 --> 00:33:28,640
+She saw us.
+
+339
+00:33:28,640 --> 00:33:30,210
+What should we do?
+
+340
+00:33:46,330 --> 00:33:49,230
+The tangerine field was wrecked again.
+
+341
+00:33:49,230 --> 00:33:52,100
+When is the city do something about it?
+
+342
+00:33:52,100 --> 00:33:55,460
+I need them to get rid of the wild boars soon.
+
+343
+00:33:55,510 --> 00:33:57,220
+What's the matter?
+
+344
+00:34:05,150 --> 00:34:09,140
+It's yokan made from lemon grown on this island.
+Help yourself.
+
+345
+00:34:09,660 --> 00:34:12,850
+My father loved to collect these when he was alive.
+
+346
+00:34:13,760 --> 00:34:18,060
+He called them "Guardians," if my memory serves me right.
+
+347
+00:34:18,060 --> 00:34:19,950
+They used to be gods,
+
+348
+00:34:19,950 --> 00:34:22,730
+but they were relegated to yokai.
+
+349
+00:34:23,070 --> 00:34:24,660
+They were gods?
+
+350
+00:34:29,170 --> 00:34:31,450
+Actually,
+
+351
+00:34:31,450 --> 00:34:34,460
+my father said he saw them.
+
+352
+00:34:36,180 --> 00:34:40,050
+He told me that it's a secret when I was little.
+
+353
+00:34:40,050 --> 00:34:43,790
+They're horrifying, from what I heard.
+
+354
+00:34:44,460 --> 00:34:45,990
+Have some.
+
+355
+00:34:45,990 --> 00:34:49,090
+These are pretty good. Not too sweet.
+
+356
+00:34:50,560 --> 00:34:52,930
+I-I just met...
+
+357
+00:34:59,400 --> 00:35:02,970
+Right, then he said...
+
+358
+00:35:02,970 --> 00:35:07,010
+"I'll tell you, but you mustn't tell anyone.
+
+359
+00:35:07,010 --> 00:35:08,950
+Something bad might happen."
+
+360
+00:35:09,780 --> 00:35:11,670
+But then again...
+
+361
+00:35:11,670 --> 00:35:15,950
+I wouldn't say my father's a lier,
+
+362
+00:35:15,950 --> 00:35:18,510
+but he sure liked to exaggerate things.
+
+363
+00:35:18,510 --> 00:35:20,920
+That story's no exception.
+
+364
+00:35:22,220 --> 00:35:25,910
+Still, when I look at them,
+
+365
+00:35:25,910 --> 00:35:28,930
+I think they have funny faces, rather than scary.
+
+366
+00:35:31,770 --> 00:35:36,900
+Why didn't Mame follow Ikuko to Imabari?
+
+367
+00:35:37,340 --> 00:35:38,940
+He's asking you.
+
+368
+00:35:38,940 --> 00:35:42,110
+I missed the ship.
+
+369
+00:35:42,110 --> 00:35:43,050
+Hear that?
+
+370
+00:35:43,050 --> 00:35:44,910
+Oh!
+
+371
+00:35:46,080 --> 00:35:50,250
+He's the one in the middle.
+Your great-grandfather.
+
+372
+00:35:56,830 --> 00:35:59,690
+He's always watching over us.
+
+373
+00:36:00,270 --> 00:36:02,800
+It's funny when you think he's watching.
+
+374
+00:36:02,800 --> 00:36:06,600
+It makes me want to act responsibly.
+
+375
+00:36:10,510 --> 00:36:15,350
+What... exactly should I do if I met one of those yokai?
+
+376
+00:36:15,350 --> 00:36:19,480
+They'll get you if you're feeling scared.
+
+377
+00:36:19,480 --> 00:36:22,020
+Muster up the courage and glare right back!
+
+378
+00:36:22,020 --> 00:36:25,720
+They'll think you're tough, and stay away from you.
+
+379
+00:36:25,790 --> 00:36:30,410
+They're actually cowards, according to my old man.
+
+380
+00:36:30,410 --> 00:36:31,530
+I don't know if it's true though!
+
+381
+00:36:51,250 --> 00:36:55,590
+It's not happening! I don't have the courage to glare back at them!
+
+382
+00:36:55,590 --> 00:36:58,620
+Please, don't show up again!
+
+383
+00:37:16,470 --> 00:37:18,810
+<i>I'm going to help out at the field.
+
+384
+00:37:18,810 --> 00:37:21,770
+<i>Your lunch is rice balls again, but please eat them.
+
+385
+00:37:21,770 --> 00:37:26,120
+<i>P.S. Take care of a package that will arrive this afternoon.
+
+386
+00:37:26,120 --> 00:37:27,480
+Take care of...
+
+387
+00:37:31,320 --> 00:37:33,550
+I'll be alone again.
+
+388
+00:37:50,580 --> 00:37:53,310
+Is this really going to work?
+
+389
+00:37:53,310 --> 00:37:55,650
+I have an idea.
+
+390
+00:37:55,650 --> 00:37:59,280
+When did any of your ideas <i>ever</i>  work before?
+
+391
+00:37:59,280 --> 00:38:00,680
+Go on.
+
+392
+00:38:18,540 --> 00:38:20,440
+Rice balls.
+
+393
+00:38:24,400 --> 00:38:28,400
+Guardians my butt!
+What were you planning to do with us?
+
+394
+00:38:30,950 --> 00:38:34,280
+What happened to your bright idea, huh?!
+
+395
+00:38:38,390 --> 00:38:41,760
+We are the yokai defeated by Sugawara no Michizane, the prince,
+
+396
+00:38:41,760 --> 00:38:44,860
+and sealed within the illustrated storybook.
+
+397
+00:38:44,860 --> 00:38:47,430
+Your opening the sealed box
+
+398
+00:38:47,430 --> 00:38:50,060
+has unleashed us from millennia of sleep!
+
+399
+00:38:50,060 --> 00:38:52,670
+That's what happened?
+
+400
+00:38:52,670 --> 00:38:56,470
+I thought we came down from the sky or someth...
+
+401
+00:38:58,560 --> 00:39:01,220
+My name is Iwa.
+
+402
+00:39:01,220 --> 00:39:03,050
+The skinny one here is Kawa,
+
+403
+00:39:03,050 --> 00:39:05,020
+and the tiny one is Mame.
+
+404
+00:39:05,020 --> 00:39:09,400
+As you can see, we are not suspicious in any way or form!
+
+405
+00:39:10,060 --> 00:39:11,860
+Stay away from me!
+
+406
+00:39:13,360 --> 00:39:14,920
+Stop... stop that!
+
+407
+00:39:34,510 --> 00:39:37,290
+You must not break it!
+
+408
+00:39:37,290 --> 00:39:39,220
+It's an important pass,
+
+409
+00:39:39,220 --> 00:39:40,650
+if you break it in half,
+
+410
+00:39:40,650 --> 00:39:42,890
+it would stop working!
+
+411
+00:39:42,890 --> 00:39:45,960
+Why did you just explain everything, dude!?
+
+412
+00:39:45,960 --> 00:39:47,190
+Give it back!
+
+413
+00:39:50,600 --> 00:39:55,030
+No! Please stop!
+
+414
+00:39:56,240 --> 00:39:58,140
+Get down!
+
+415
+00:39:58,140 --> 00:40:01,470
+We'll listen to anything you say.
+
+416
+00:40:01,470 --> 00:40:03,740
+Is there anything you want?
+
+417
+00:40:04,830 --> 00:40:08,300
+You can ask for anything.
+
+418
+00:40:08,780 --> 00:40:12,940
+Perhaps... this might please you?
+
+419
+00:40:13,590 --> 00:40:15,050
+That's mine.
+
+420
+00:40:15,050 --> 00:40:17,190
+Yes, it's your...
+
+421
+00:40:17,190 --> 00:40:21,020
+I-I still have other things.
+
+422
+00:40:21,020 --> 00:40:23,190
+I don't want anything! Just get out of here!
+
+423
+00:40:23,190 --> 00:40:24,550
+D-Don't do that!
+
+424
+00:40:25,480 --> 00:40:27,630
+Please, stop!
+
+425
+00:40:29,020 --> 00:40:33,890
+Okay. We will leave this house.
+
+426
+00:40:33,890 --> 00:40:36,530
+If you could give that back first...
+
+427
+00:40:37,680 --> 00:40:41,240
+Yes, Ma'am!
+
+428
+00:40:49,020 --> 00:40:52,960
+Yes, yes, yes.
+
+429
+00:41:12,340 --> 00:41:15,710
+That was one evil girl back there.
+
+430
+00:41:15,710 --> 00:41:20,350
+The pass is in her hands... this is going to be tough.
+
+431
+00:41:20,350 --> 00:41:23,190
+How can she see us anyway?
+
+432
+00:41:23,190 --> 00:41:24,560
+Is it because she's evil?
+
+433
+00:41:24,560 --> 00:41:29,390
+If I were to guess, it's because when we dropped down here,
+
+434
+00:41:29,390 --> 00:41:31,690
+we hit that Momo girl by mistake.
+
+435
+00:41:34,130 --> 00:41:37,470
+Maybe that's why she can see us.
+
+436
+00:41:38,800 --> 00:41:43,440
+It was so much better in the old days when we went on rampages.
+
+437
+00:41:43,440 --> 00:41:45,680
+We would just kick stupid humans out of our way.
+
+438
+00:41:45,680 --> 00:41:48,710
+Agreed.
+
+439
+00:42:24,020 --> 00:42:26,020
+Well, then.
+
+440
+00:42:26,020 --> 00:42:28,080
+A girl's mood swing doesn't last very long.
+
+441
+00:42:28,080 --> 00:42:30,420
+It should be safe to go back.
+
+442
+00:42:30,420 --> 00:42:31,760
+Yeah...
+
+443
+00:42:31,760 --> 00:42:33,770
+Wait, are you sure?!
+
+444
+00:42:41,730 --> 00:42:43,530
+Thank you.
+
+445
+00:42:44,450 --> 00:42:49,940
+I still don't think you have to force yourself to work right away.
+
+446
+00:42:49,940 --> 00:42:55,280
+Yes, but I have to support Momo until she's a grown-up.
+
+447
+00:42:55,280 --> 00:42:58,640
+If I have to work anyway, then sooner the better.
+
+448
+00:42:59,880 --> 00:43:02,880
+I have to put bread on the table and a roof over our heads.
+
+449
+00:43:02,880 --> 00:43:06,320
+Although, I'm totally depending on you right now.
+
+450
+00:43:06,320 --> 00:43:10,150
+We don't mind. We love having you here.
+
+451
+00:43:16,630 --> 00:43:20,200
+Kazuo was a good man.
+
+452
+00:43:20,200 --> 00:43:21,770
+You must miss him.
+
+453
+00:43:21,770 --> 00:43:25,530
+I don't feel that lonely now.
+
+454
+00:43:28,910 --> 00:43:31,510
+"Plow your way to the Heavens."
+
+455
+00:43:31,500 --> 00:43:36,520
+It really makes you wonder how they plowed fields near the top those mountains.
+
+456
+00:43:36,520 --> 00:43:42,320
+This island doesn't have many flatlands. We have our ancestors to thank.
+
+457
+00:43:44,930 --> 00:43:46,590
+Are you all right?
+
+458
+00:43:48,100 --> 00:43:51,660
+I choked on the tea.
+
+459
+00:43:58,610 --> 00:44:02,650
+I thought you were sick again.
+
+460
+00:44:02,650 --> 00:44:03,710
+Sorry.
+
+461
+00:44:04,280 --> 00:44:05,880
+That gave me a scare.
+
+462
+00:44:05,880 --> 00:44:08,170
+You're telling me!
+
+463
+00:44:16,890 --> 00:44:18,450
+There.
+
+464
+00:44:18,560 --> 00:44:20,620
+Gotta use the bathroom.
+
+465
+00:44:28,170 --> 00:44:30,010
+I'm using it!
+
+466
+00:44:30,010 --> 00:44:32,200
+Oh, I'm sorry!
+
+467
+00:44:34,600 --> 00:44:36,610
+What happened to our promise?
+
+468
+00:44:36,610 --> 00:44:39,570
+We can't leave this place!
+
+469
+00:44:39,570 --> 00:44:40,790
+What are you talking about?
+
+470
+00:44:40,790 --> 00:44:43,190
+<i>Goal! He scored!
+
+471
+00:44:43,190 --> 00:44:44,360
+Don't tell me...
+
+472
+00:44:58,630 --> 00:45:02,030
+We'll die if you break that thing.
+
+473
+00:45:02,030 --> 00:45:04,570
+Can you kill people?
+
+474
+00:45:06,080 --> 00:45:08,010
+You guys aren't people...
+
+475
+00:45:14,190 --> 00:45:15,910
+W-Wait!
+
+476
+00:45:19,690 --> 00:45:21,680
+Here, eat.
+
+477
+00:45:21,680 --> 00:45:25,000
+Y-You stole these?
+
+478
+00:45:25,000 --> 00:45:26,290
+Eat.
+
+479
+00:45:28,740 --> 00:45:29,770
+Fine!
+
+480
+00:45:29,770 --> 00:45:33,740
+You can stay, but don't do anything bad!
+
+481
+00:45:33,740 --> 00:45:36,370
+'kay.
+
+482
+00:45:44,510 --> 00:45:49,240
+Mom isn't home... Yokai show up...
+
+483
+00:45:49,240 --> 00:45:52,040
+What a crazy situation.
+
+484
+00:46:06,740 --> 00:46:08,930
+It was true...
+
+485
+00:46:08,930 --> 00:46:11,670
+Momo! Are you in the Sky?
+
+486
+00:46:14,280 --> 00:46:16,180
+Welcome home.
+
+487
+00:46:16,280 --> 00:46:17,410
+Thanks.
+
+488
+00:46:17,410 --> 00:46:19,150
+I bought some snacks. Let's eat them together.
+
+489
+00:46:19,150 --> 00:46:20,310
+Come down here.
+
+490
+00:46:28,440 --> 00:46:29,640
+She can't see them?
+
+491
+00:47:36,410 --> 00:47:38,040
+Umi
+
+492
+00:47:55,750 --> 00:47:58,620
+We're going to see Kazuo.
+
+493
+00:47:58,620 --> 00:48:00,080
+What?
+
+494
+00:48:00,080 --> 00:48:01,650
+My dad's gone.
+
+495
+00:48:01,650 --> 00:48:04,480
+Does he look like you?
+
+496
+00:48:04,480 --> 00:48:05,720
+I don't know.
+
+497
+00:48:05,720 --> 00:48:08,050
+Take a look at his photo on the altar.
+
+498
+00:48:08,090 --> 00:48:10,230
+Why do you ask?
+
+499
+00:48:10,230 --> 00:48:13,960
+I'm really forgetful.
+
+500
+00:48:13,960 --> 00:48:15,590
+Why did I ask?
+
+501
+00:48:20,870 --> 00:48:22,160
+Now's our chance!
+
+502
+00:48:39,890 --> 00:48:41,020
+Miyaura?
+
+503
+00:48:41,630 --> 00:48:46,090
+S-Sorry for leaving without saying anything.
+
+504
+00:48:47,710 --> 00:48:50,150
+Oh, don't worry about it.
+
+505
+00:48:50,150 --> 00:48:52,090
+You came here just to tell me that?
+
+506
+00:48:54,320 --> 00:48:55,900
+Momo.
+
+507
+00:48:55,910 --> 00:48:57,670
+Hi there.
+
+508
+00:48:58,840 --> 00:49:01,850
+It's my raincoat!
+
+509
+00:49:01,850 --> 00:49:03,880
+Did you find it for me?
+
+510
+00:49:03,880 --> 00:49:08,620
+Y-Yeah... Your name was on it.
+
+511
+00:49:20,200 --> 00:49:21,690
+Who are you?
+
+512
+00:49:26,000 --> 00:49:27,600
+Don't mind her.
+
+513
+00:49:27,600 --> 00:49:30,340
+She says weird stuff sometimes.
+
+514
+00:49:30,340 --> 00:49:32,610
+Cut it out, it's creepy.
+
+515
+00:49:32,780 --> 00:49:37,610
+I'm so sorry. Good-bye.
+
+516
+00:49:55,070 --> 00:49:58,370
+I'll get going.
+Go visit your grandparents again today.
+
+517
+00:49:58,370 --> 00:49:59,180
+See you.
+
+518
+00:49:59,180 --> 00:50:01,960
+Bye.
+
+519
+00:50:06,880 --> 00:50:09,640
+Do I look like my dad?
+
+520
+00:50:11,860 --> 00:50:14,520
+That's great.
+
+521
+00:50:14,520 --> 00:50:17,720
+Oh, your field was wrecked again, right?
+
+522
+00:50:17,720 --> 00:50:19,080
+That's horrible.
+
+523
+00:50:19,080 --> 00:50:20,690
+Did the wild boars do it?
+
+524
+00:50:20,690 --> 00:50:21,860
+I think so.
+
+525
+00:50:21,860 --> 00:50:23,190
+You <i>think</i>?
+
+526
+00:50:23,190 --> 00:50:27,000
+Wild boars should've left more mess behind.
+
+527
+00:50:27,000 --> 00:50:29,390
+What else could've done it?
+
+528
+00:50:30,940 --> 00:50:34,380
+I have no clue.
+
+529
+00:50:40,710 --> 00:50:43,580
+Did you get used to the life on this island yet?
+
+530
+00:50:44,390 --> 00:50:47,790
+You can ask me anything you want!
+
+531
+00:50:47,790 --> 00:50:48,920
+Okay.
+
+532
+00:50:49,050 --> 00:50:51,560
+Did Iku go training again today?
+
+533
+00:50:51,560 --> 00:50:52,510
+Yes.
+
+534
+00:50:54,930 --> 00:50:56,130
+What is it?
+
+535
+00:50:56,130 --> 00:50:58,950
+Nothing.
+
+536
+00:50:59,530 --> 00:51:01,100
+See you then.
+
+537
+00:51:01,100 --> 00:51:02,260
+See ya!
+
+538
+00:51:07,770 --> 00:51:10,240
+I'm going first!
+
+539
+00:51:11,040 --> 00:51:13,960
+I'm next!
+
+540
+00:51:15,880 --> 00:51:19,350
+You're next, Youta! Dive head first!
+
+541
+00:51:19,350 --> 00:51:21,090
+What, again?
+
+542
+00:51:21,090 --> 00:51:22,320
+Please?
+
+543
+00:51:22,320 --> 00:51:23,970
+Come on!
+
+544
+00:51:54,420 --> 00:51:56,390
+You did it!
+
+545
+00:51:56,390 --> 00:51:57,630
+What'd you do that for?!
+
+546
+00:51:57,630 --> 00:51:59,530
+I didn't dive in...
+
+547
+00:52:02,420 --> 00:52:03,760
+You pushed me down!
+
+548
+00:52:09,430 --> 00:52:11,230
+I thought I was dead.
+
+549
+00:52:11,230 --> 00:52:12,830
+Listen...
+
+550
+00:52:12,810 --> 00:52:13,850
+Off you go!
+
+551
+00:52:18,510 --> 00:52:20,770
+Impressive!
+
+552
+00:52:22,710 --> 00:52:25,010
+You've got to be kidding me!
+
+553
+00:52:32,360 --> 00:52:36,210
+I told you not to steal.
+Catch and eat fishes!
+
+554
+00:52:38,130 --> 00:52:40,490
+I don't like fishes.
+
+555
+00:52:40,830 --> 00:52:42,800
+They have scales and stuff.
+
+556
+00:52:45,300 --> 00:52:47,640
+Well, I'm off.
+
+557
+00:52:47,640 --> 00:52:50,510
+Oh, look at that!
+
+558
+00:52:50,510 --> 00:52:52,080
+She's pretty good.
+
+559
+00:52:52,080 --> 00:52:54,650
+You'll never see the end of it if you did it for free.
+
+560
+00:52:54,650 --> 00:52:56,510
+Ask for some allowance!
+
+561
+00:52:56,910 --> 00:52:58,440
+Have a good day.
+
+562
+00:53:06,660 --> 00:53:08,150
+Can I ask you something?
+
+563
+00:53:09,260 --> 00:53:14,410
+Is there anything you can eat on this island for free?
+
+564
+00:53:14,410 --> 00:53:16,370
+Are you still hungry?
+
+565
+00:53:16,370 --> 00:53:18,600
+No, it's not like that.
+
+566
+00:53:18,600 --> 00:53:21,540
+You know, something found in the nature.
+
+567
+00:53:21,540 --> 00:53:23,570
+You can find as many fishes as you need.
+
+568
+00:53:23,570 --> 00:53:24,940
+No fishes!
+
+569
+00:53:24,940 --> 00:53:26,210
+Huh?
+
+570
+00:53:26,210 --> 00:53:28,770
+Any food other than fishes.
+
+571
+00:53:28,770 --> 00:53:30,840
+Let's see...
+
+572
+00:53:31,680 --> 00:53:34,430
+You might find some in the mountains...
+
+573
+00:53:44,320 --> 00:53:47,660
+Can I really eat until I'm full?
+
+574
+00:53:47,660 --> 00:53:50,500
+Just order me a deluxe-size of whatever we're getting!
+
+575
+00:53:50,500 --> 00:53:54,300
+I haven't eaten anything for <i>three days</i> !
+
+576
+00:53:54,300 --> 00:53:55,720
+I just saw you eat!
+
+577
+00:54:04,920 --> 00:54:06,720
+Hold on!
+
+578
+00:54:06,720 --> 00:54:08,410
+Let's ride on this thing.
+
+579
+00:54:08,620 --> 00:54:11,050
+No! We'll get in trouble!
+
+580
+00:54:11,050 --> 00:54:14,660
+We'll get in <i>trouble</i> ?
+
+581
+00:54:15,190 --> 00:54:17,060
+Listen, chump!
+
+582
+00:54:17,060 --> 00:54:22,630
+This great guy here once ate a grown-up man in one bite!
+
+583
+00:54:22,630 --> 00:54:23,900
+See?
+
+584
+00:54:23,900 --> 00:54:27,190
+As for me, I did this...
+
+585
+00:54:29,310 --> 00:54:32,840
+...and sucked human livers from their mouths and ate them all!
+
+586
+00:54:32,840 --> 00:54:34,700
+Sure brings me back.
+
+587
+00:54:35,210 --> 00:54:37,940
+As long as you understand.
+
+588
+00:54:37,940 --> 00:54:39,000
+Let's go.
+
+589
+00:54:45,050 --> 00:54:48,010
+How far do we have to climb up?
+
+590
+00:54:48,010 --> 00:54:51,160
+Hmm... he said we'll probably have to get near the top.
+
+591
+00:54:51,160 --> 00:54:54,520
+You'd better not make us eat some stupid nuts.
+
+592
+00:55:02,670 --> 00:55:05,730
+Looks like it's made a new home.
+
+593
+00:55:14,070 --> 00:55:15,980
+Shut up!
+
+594
+00:55:19,500 --> 00:55:20,520
+You see that?
+
+595
+00:55:20,520 --> 00:55:23,170
+Our main dish!
+
+596
+00:55:23,170 --> 00:55:24,290
+Hey!
+
+597
+00:55:24,290 --> 00:55:25,460
+Wait!
+
+598
+00:55:50,390 --> 00:55:53,750
+Run!
+
+599
+00:56:13,010 --> 00:56:14,640
+No way...
+
+600
+00:56:14,640 --> 00:56:16,510
+Iwa! Kawa!
+
+601
+00:56:16,510 --> 00:56:18,210
+Stop!
+
+602
+00:56:21,180 --> 00:56:23,390
+They're coming!
+
+603
+00:56:23,390 --> 00:56:26,150
+Here they come!
+
+604
+00:56:42,710 --> 00:56:45,180
+That was a close call, huh? Momo.
+
+605
+00:56:45,180 --> 00:56:48,170
+You were trying to run without me!
+
+606
+00:56:59,180 --> 00:57:02,180
+It's a feast tonight!
+
+607
+00:57:02,690 --> 00:57:05,630
+I can't stop drooling.
+
+608
+00:57:05,630 --> 00:57:07,970
+You can't!
+
+609
+00:57:07,970 --> 00:57:09,190
+Don't you feel sorry for them?
+
+610
+00:57:09,190 --> 00:57:10,150
+Hey, look!
+
+611
+00:57:13,340 --> 00:57:14,900
+Don't they know when to give up?
+
+612
+00:57:14,900 --> 00:57:16,140
+Let these babies go!
+
+613
+00:57:16,140 --> 00:57:17,310
+Are you crazy?
+
+614
+00:57:17,310 --> 00:57:18,410
+But...
+
+615
+00:57:18,410 --> 00:57:19,580
+Okay!
+
+616
+00:57:19,580 --> 00:57:21,040
+Leave it to me!
+
+617
+00:57:42,010 --> 00:57:44,100
+Nice!
+
+618
+00:57:48,810 --> 00:57:52,170
+Sandwich? What a formidable foe!
+
+619
+00:57:54,650 --> 00:57:57,530
+We're done for!
+
+620
+00:57:55,150 --> 00:57:57,530
+I'm counting on you, Kawa!
+
+621
+00:58:05,490 --> 00:58:09,020
+It stinks!
+
+622
+00:58:09,190 --> 00:58:11,130
+You guys are amazing!
+
+623
+00:58:11,130 --> 00:58:15,090
+But I'm out of gas...
+
+624
+00:58:31,010 --> 00:58:33,550
+Do something, Kawa!
+
+625
+00:58:33,550 --> 00:58:36,190
+I'm out of <i>gas</i>  too!
+
+626
+00:58:58,970 --> 00:59:02,710
+We didn't even find any nuts.
+
+627
+00:59:02,710 --> 00:59:05,920
+The wild boars must have eaten them.
+
+628
+00:59:05,920 --> 00:59:07,850
+I'm starving.
+
+629
+00:59:07,850 --> 00:59:11,640
+Still, they looked so tasty.
+
+630
+00:59:58,910 --> 01:00:00,400
+Incredible!
+
+631
+01:00:04,110 --> 01:00:06,030
+You guys should take a look.
+
+632
+01:00:06,030 --> 01:00:07,540
+It's <i>really</i> beautiful!
+
+633
+01:00:07,540 --> 01:00:10,370
+We can't eat the scenery!
+
+634
+01:00:11,520 --> 01:00:13,330
+It's beyond repair.
+
+635
+01:00:13,330 --> 01:00:14,350
+Let's walk home.
+
+636
+01:00:14,350 --> 01:00:15,690
+What?!
+
+637
+01:00:15,690 --> 01:00:16,920
+I can't.
+
+638
+01:00:16,920 --> 01:00:19,660
+We're delicate, you know. Unlike you!
+
+639
+01:00:19,660 --> 01:00:22,430
+Ow! The pain!
+
+640
+01:00:22,430 --> 01:00:25,000
+I'm sorry, but go home on your own.
+
+641
+01:00:25,000 --> 01:00:29,270
+Well, I would, but it'd be scary when it gets dark.
+
+642
+01:00:29,270 --> 01:00:33,350
+Walk, young girl, over our corpses.
+
+643
+01:00:54,580 --> 01:00:58,590
+Well then, it's time to show what I'm truly capable of.
+
+644
+01:01:00,760 --> 01:01:04,590
+I hate hard work and fish scales.
+
+645
+01:01:18,380 --> 01:01:20,210
+I'm home!
+
+646
+01:01:28,790 --> 01:01:29,870
+I'm home...
+
+647
+01:01:32,260 --> 01:01:34,020
+Welcome back.
+
+648
+01:01:34,020 --> 01:01:35,710
+Oh, you're covered in mud!
+
+649
+01:01:39,660 --> 01:01:41,570
+That little girl...
+
+650
+01:01:41,570 --> 01:01:46,780
+Her attitude is getting worse, just because she's holding the pass...
+
+651
+01:01:46,780 --> 01:01:50,530
+Girls are scary creatures.
+
+652
+01:01:53,720 --> 01:01:55,990
+I can't take anything out of the fridge,
+
+653
+01:01:55,990 --> 01:01:59,190
+but I can get away with these if I replace them using my allowance.
+
+654
+01:01:59,190 --> 01:02:00,280
+Eat up!
+
+655
+01:02:07,400 --> 01:02:10,740
+You finally learned to make offering, huh?
+Took you long enough!
+
+656
+01:02:24,350 --> 01:02:26,280
+Where did you go?
+
+657
+01:02:27,080 --> 01:02:28,520
+Bathroom.
+
+658
+01:02:32,990 --> 01:02:36,790
+Dad loved the sea.
+
+659
+01:02:37,090 --> 01:02:38,750
+Yeah.
+
+660
+01:02:40,030 --> 01:02:41,760
+Mom,
+
+661
+01:02:42,300 --> 01:02:48,200
+I don't hate this island all that much.
+
+662
+01:03:09,390 --> 01:03:11,730
+Now that I think of it,
+
+663
+01:03:11,730 --> 01:03:14,640
+we've been like this for a long time.
+
+664
+01:03:14,640 --> 01:03:18,840
+I couldn't agree more. It's an everlasting task.
+
+665
+01:03:18,840 --> 01:03:22,400
+But then again, if we actually worked...
+
+666
+01:03:22,400 --> 01:03:24,650
+Nah, it wouldn't have been any better.
+
+667
+01:03:26,080 --> 01:03:30,550
+Just so you know, we have to send our report to the Sky soon.
+
+668
+01:03:30,550 --> 01:03:32,950
+What is that?
+
+669
+01:03:32,950 --> 01:03:34,660
+At least remember <i>some</i> stuff, would ya?
+
+670
+01:03:34,660 --> 01:03:38,330
+Our task is to report Momo and Ikuko's life to the Sky!
+
+671
+01:03:40,890 --> 01:03:45,030
+I thought we were defeated by Sugawara-something,
+
+672
+01:03:45,030 --> 01:03:49,570
+and sealed in something-book for thousands of years?
+
+673
+01:03:49,570 --> 01:03:52,870
+That was a made-up story to fool the girl!
+
+674
+01:03:52,870 --> 01:03:54,770
+Unbelievable!
+
+675
+01:03:54,770 --> 01:03:56,040
+I know!
+
+676
+01:03:56,040 --> 01:04:00,520
+Mame should write the report this time,
+as part of the training!
+
+677
+01:04:48,890 --> 01:04:50,550
+Umi.
+
+678
+01:04:51,060 --> 01:04:53,550
+Listen, Momo.
+
+679
+01:04:55,820 --> 01:04:58,100
+The others aren't coming today.
+
+680
+01:04:58,100 --> 01:05:00,270
+It's just me and my brother.
+
+681
+01:05:00,270 --> 01:05:03,000
+Would you like to come with us and dive?
+
+682
+01:05:03,740 --> 01:05:05,110
+Can't you?
+
+683
+01:05:05,110 --> 01:05:06,310
+Momo,
+
+684
+01:05:06,310 --> 01:05:07,940
+it's time for lunch!
+
+685
+01:05:07,940 --> 01:05:09,470
+Got it!
+
+686
+01:05:09,950 --> 01:05:12,710
+All right. I'll go later.
+
+687
+01:05:12,710 --> 01:05:16,610
+Okay, we'll be waiting for you on the bridge.
+
+688
+01:05:33,470 --> 01:05:38,130
+I don't know how to write.
+
+689
+01:05:44,910 --> 01:05:46,420
+It's so hot!
+
+690
+01:05:46,420 --> 01:05:47,650
+It sure is.
+
+691
+01:05:48,720 --> 01:05:53,130
+By the way, I've been getting reports of girls' belongings...
+
+692
+01:05:53,130 --> 01:05:56,980
+like bags and hats being stolen.
+
+693
+01:05:56,980 --> 01:06:00,730
+Looks like someone's messing with the field too.
+
+694
+01:06:00,730 --> 01:06:04,270
+Let me know if you see anything suspicious, all right?
+
+695
+01:06:06,870 --> 01:06:08,270
+Hey, Kouichi?
+
+696
+01:06:08,270 --> 01:06:10,410
+You listening to me?
+
+697
+01:06:10,410 --> 01:06:13,230
+What? Uh...
+
+698
+01:06:14,510 --> 01:06:17,010
+You're hopeless.
+
+699
+01:06:17,010 --> 01:06:18,200
+Huh?
+
+700
+01:06:20,780 --> 01:06:23,820
+It feels heavy for some reason.
+
+701
+01:06:33,900 --> 01:06:35,560
+Iku...
+
+702
+01:06:39,670 --> 01:06:44,260
+Poor guy, the heat's got him.
+
+703
+01:06:45,180 --> 01:06:46,870
+Mame.
+
+704
+01:06:48,110 --> 01:06:49,910
+Are you there?
+
+705
+01:06:57,520 --> 01:06:59,350
+"Dear Momo."
+
+706
+01:06:59,520 --> 01:07:04,020
+That little Mame, he ran away with the report half-finished.
+
+707
+01:07:04,530 --> 01:07:07,040
+I have no choice.
+
+708
+01:07:23,180 --> 01:07:27,640
+<s>Dear</s> Momo is well.
+Ikuko is also well.
+
+709
+01:07:24,680 --> 01:07:27,640
+This is the proper usage of the Japanese language.
+
+710
+01:07:27,650 --> 01:07:32,780
+I'm moved by my own masterpiece.
+
+711
+01:07:35,930 --> 01:07:39,320
+I finished the report for you.
+Let's send it.
+
+712
+01:07:59,460 --> 01:08:01,930
+Report
+
+713
+01:08:05,060 --> 01:08:06,780
+Clap!
+
+714
+01:08:12,980 --> 01:08:15,060
+What are you...
+
+715
+01:08:15,060 --> 01:08:17,130
+Hey! What's with the getup?
+
+716
+01:08:17,130 --> 01:08:21,670
+Quiet! This is a holy ceremony for report transmission.
+
+717
+01:08:21,770 --> 01:08:23,500
+What?
+
+718
+01:08:24,270 --> 01:08:25,910
+Would you like to join us?
+
+719
+01:08:25,910 --> 01:08:28,680
+What? No way.
+
+720
+01:08:30,450 --> 01:08:32,650
+Would you like to join us?
+
+721
+01:08:32,650 --> 01:08:34,580
+I said no!
+
+722
+01:08:38,290 --> 01:08:40,300
+Would you like to join us?
+
+723
+01:08:40,300 --> 01:08:43,380
+Absolutely not!
+
+724
+01:08:46,860 --> 01:08:50,560
+<i>Would you like to join us?
+
+725
+01:09:02,940 --> 01:09:04,180
+Ow!
+
+726
+01:09:04,180 --> 01:09:06,170
+What did you...
+
+727
+01:09:04,720 --> 01:09:06,910
+Observe!
+
+728
+01:09:06,910 --> 01:09:08,220
+This.
+
+729
+01:09:08,220 --> 01:09:09,520
+This.
+
+730
+01:09:09,520 --> 01:09:11,150
+And this.
+
+731
+01:09:12,200 --> 01:09:14,080
+Now...!
+
+732
+01:09:41,520 --> 01:09:44,860
+Report
+
+733
+01:09:54,620 --> 01:09:55,870
+Wow!
+
+734
+01:09:55,870 --> 01:09:57,520
+Where did you send it?
+
+735
+01:10:00,370 --> 01:10:05,110
+W-We reported our safety to Lord Michizane's soul.
+
+736
+01:10:05,110 --> 01:10:07,810
+He can never return to this world again, you know?
+
+737
+01:10:07,810 --> 01:10:10,640
+He must be screaming in envy right now!
+
+738
+01:10:12,380 --> 01:10:15,420
+Screaming...
+
+739
+01:10:15,420 --> 01:10:18,090
+You can send letters to the dead?
+
+740
+01:10:19,020 --> 01:10:21,400
+He can...
+
+741
+01:10:21,400 --> 01:10:21,860
+Really?
+
+742
+01:10:21,860 --> 01:10:24,860
+I-I don't know anything about it!
+
+743
+01:10:24,860 --> 01:10:27,550
+I want to send a letter to my dad.
+
+744
+01:10:27,550 --> 01:10:28,570
+Wait here!
+
+745
+01:10:33,240 --> 01:10:36,660
+This is a bad turn of events.
+
+746
+01:10:42,160 --> 01:10:43,130
+A letter?
+
+747
+01:10:43,150 --> 01:10:46,120
+It was on my desk.
+Have you seen it?
+
+748
+01:10:46,120 --> 01:10:47,780
+Hmm...
+
+749
+01:10:48,720 --> 01:10:51,390
+N-No, I haven't seen it!
+
+750
+01:10:51,390 --> 01:10:52,290
+Really?
+
+751
+01:10:52,290 --> 01:10:53,920
+No, I haven't.
+
+752
+01:10:53,920 --> 01:10:55,460
+What about you, Mame?
+
+753
+01:10:58,130 --> 01:11:00,810
+What am I going to do?
+
+754
+01:11:06,080 --> 01:11:08,140
+Momo's taking her time.
+
+755
+01:11:08,140 --> 01:11:09,450
+Wanna go get her?
+
+756
+01:11:12,740 --> 01:11:13,860
+No.
+
+757
+01:11:13,860 --> 01:11:15,210
+Let's wait.
+
+758
+01:11:18,350 --> 01:11:20,980
+It has to be here, somewhere!
+
+759
+01:11:23,380 --> 01:11:26,220
+It's nowhere to be found...
+
+760
+01:11:30,860 --> 01:11:32,550
+The promise!
+
+761
+01:12:23,270 --> 01:12:27,730
+<i>The typhoon is maintaining its momentum as it advances north.
+
+762
+01:12:27,730 --> 01:12:31,950
+<i>Severe wind warning is expected to be issued for Southern Kyuushuu and all of Shikoku by afternoon.
+
+763
+01:12:31,950 --> 01:12:34,320
+I'm glad I don't have training today.
+
+764
+01:12:34,320 --> 01:12:36,750
+I should clean things up while I still can.
+
+765
+01:12:36,750 --> 01:12:39,130
+You haven't even touched your homework, have you?
+
+766
+01:12:39,130 --> 01:12:42,860
+It doesn't look like you can go out today anyway.
+Finish it up.
+
+767
+01:12:43,600 --> 01:12:45,560
+Where's my reply?
+
+768
+01:12:45,560 --> 01:12:47,710
+Yes.
+
+769
+01:12:54,180 --> 01:12:56,640
+Dear Dad
+
+770
+01:13:01,260 --> 01:13:03,100
+Hey, did you see my hand mirror?
+
+771
+01:13:03,980 --> 01:13:05,090
+Knock the door!
+
+772
+01:13:05,090 --> 01:13:07,270
+You left it open.
+
+773
+01:13:07,270 --> 01:13:08,760
+What about the hand mirror?
+
+774
+01:13:09,160 --> 01:13:10,270
+I don't know.
+
+775
+01:13:10,270 --> 01:13:12,120
+Isn't it on the dressing table?
+
+776
+01:13:12,560 --> 01:13:14,390
+That's strange...
+
+777
+01:13:24,290 --> 01:13:27,580
+I don't look bad at all in this form.
+
+778
+01:13:27,580 --> 01:13:30,730
+I'm so handsome no matter what my body looks like.
+
+779
+01:13:30,730 --> 01:13:33,670
+I wonder if this is what they call "class?"
+
+780
+01:13:34,120 --> 01:13:35,780
+Let me see.
+
+781
+01:13:39,740 --> 01:13:40,970
+Not bad.
+
+782
+01:13:40,970 --> 01:13:45,690
+Our job as the Guardians is so much easier when they're in home together.
+
+783
+01:13:45,760 --> 01:13:47,850
+I couldn't agree more.
+
+784
+01:13:49,430 --> 01:13:54,070
+By the way, are we getting enough protein?
+
+785
+01:14:12,190 --> 01:14:15,090
+They're back.
+
+786
+01:14:16,090 --> 01:14:19,290
+I'm hungry.
+
+787
+01:14:25,940 --> 01:14:27,250
+You guys!
+
+788
+01:14:27,250 --> 01:14:28,330
+Yes?
+
+789
+01:14:30,810 --> 01:14:33,230
+Seriously, how many times do I have to tell you?
+
+790
+01:14:33,230 --> 01:14:36,840
+I told you to never steal...
+
+791
+01:14:38,090 --> 01:14:39,740
+You can't take that!
+
+792
+01:14:41,660 --> 01:14:45,890
+What's the big deal?
+I just borrowed it for a bit.
+
+793
+01:14:47,760 --> 01:14:49,420
+Watch it!
+
+794
+01:14:49,420 --> 01:14:53,710
+That's a precious gift my dad bought for my mom!
+
+795
+01:14:53,710 --> 01:14:55,450
+Give it back!
+
+796
+01:14:58,070 --> 01:14:59,900
+Give it back!
+
+797
+01:14:59,900 --> 01:15:01,690
+Hey!
+
+798
+01:15:06,880 --> 01:15:09,780
+Cut it out! Stop!
+
+799
+01:15:09,780 --> 01:15:11,210
+Give it back!
+
+800
+01:15:23,160 --> 01:15:24,820
+Momo?
+
+801
+01:15:38,270 --> 01:15:40,800
+What's going on here?
+
+802
+01:15:43,910 --> 01:15:45,940
+Are you hurt?
+
+803
+01:15:49,110 --> 01:15:51,860
+I'm sorry, Mom.
+
+804
+01:15:51,860 --> 01:15:53,590
+The mirror broke.
+
+805
+01:15:53,590 --> 01:15:55,520
+I don't care about the mirror!
+
+806
+01:16:02,770 --> 01:16:05,670
+Please explain this.
+
+807
+01:16:05,670 --> 01:16:07,730
+It wasn't me.
+
+808
+01:16:07,730 --> 01:16:09,620
+I didn't take them.
+
+809
+01:16:09,620 --> 01:16:12,080
+Are you saying someone brought them here?
+
+810
+01:16:13,280 --> 01:16:15,140
+Mom...
+
+811
+01:16:15,810 --> 01:16:17,800
+Tell me the truth.
+
+812
+01:16:20,050 --> 01:16:21,540
+Momo.
+
+813
+01:16:24,550 --> 01:16:27,820
+You may not believe me, but...
+
+814
+01:16:28,490 --> 01:16:33,550
+there are yokai here, and they're hungry.
+
+815
+01:16:36,630 --> 01:16:39,430
+Momo. Don't lie.
+
+816
+01:16:39,640 --> 01:16:41,500
+I'm not lying.
+
+817
+01:16:41,500 --> 01:16:42,740
+Momo!
+
+818
+01:16:42,740 --> 01:16:44,700
+I'm not lying!
+
+819
+01:16:44,700 --> 01:16:47,730
+Where are those yokai, then?
+
+820
+01:16:50,150 --> 01:16:52,170
+They're right here.
+
+821
+01:16:52,520 --> 01:16:54,710
+No, they're not!
+
+822
+01:16:54,710 --> 01:16:55,680
+Yes, they are.
+
+823
+01:16:55,680 --> 01:16:56,920
+No, they're not!
+
+824
+01:16:56,920 --> 01:16:59,500
+Can't you see?
+
+825
+01:17:08,030 --> 01:17:11,260
+You've changed, Mom.
+
+826
+01:17:12,030 --> 01:17:13,350
+How so?
+
+827
+01:17:15,530 --> 01:17:19,340
+You haven't been yourself since Dad died.
+
+828
+01:17:20,210 --> 01:17:22,110
+Don't change the subject.
+
+829
+01:17:22,900 --> 01:17:24,710
+I'm not!
+
+830
+01:17:24,710 --> 01:17:28,310
+You don't understand me at all, Mom!
+
+831
+01:17:29,390 --> 01:17:31,220
+You're never home.
+
+832
+01:17:35,790 --> 01:17:40,800
+You've forgotten about Dad.
+
+833
+01:17:41,900 --> 01:17:45,490
+Wait! We're not done here!
+
+834
+01:18:36,690 --> 01:18:39,270
+Where were you yesterday?
+
+835
+01:18:40,020 --> 01:18:42,010
+We were waiting for you.
+
+836
+01:18:42,060 --> 01:18:43,680
+Sorry.
+
+837
+01:18:46,430 --> 01:18:50,470
+I actually couldn't dive off the bridge until last year.
+
+838
+01:18:50,470 --> 01:18:53,290
+You'll be able to jump one day.
+
+839
+01:18:56,070 --> 01:18:58,300
+It's almost time for the festival.
+
+840
+01:18:58,870 --> 01:19:03,840
+The straw boats I showed you the other day will be carried here by our dads, and released into the sea.
+
+841
+01:19:03,840 --> 01:19:06,540
+It's quite a sight.
+
+842
+01:19:07,320 --> 01:19:09,880
+My dad's gone.
+
+843
+01:20:25,830 --> 01:20:28,200
+Don't take it too hard.
+
+844
+01:20:28,200 --> 01:20:30,520
+It's a common family quarrel.
+
+845
+01:20:31,130 --> 01:20:34,970
+Don't you remember? It's all your fault.
+
+846
+01:20:43,150 --> 01:20:44,600
+I...
+
+847
+01:20:46,820 --> 01:20:51,240
+I had a fight with my dad right before he died.
+
+848
+01:20:54,160 --> 01:20:58,490
+When my parents went on a date for the first time,
+
+849
+01:20:58,530 --> 01:21:02,090
+they went to see a performance by the Vienna Boys' Choir.
+
+850
+01:21:05,670 --> 01:21:10,940
+I found out that the same choir was coming to Japan on the day of their wedding anniversary,
+
+851
+01:21:10,940 --> 01:21:15,830
+so I asked my mom to buy three tickets.
+
+852
+01:21:18,010 --> 01:21:23,550
+But we only made a promise to spend the day together,
+
+853
+01:21:23,550 --> 01:21:26,840
+without telling my dad about the choir.
+
+854
+01:21:26,840 --> 01:21:28,850
+I wanted it to be a surprise.
+
+855
+01:21:32,190 --> 01:21:35,960
+Then, on that day...
+
+856
+01:21:36,820 --> 01:21:38,600
+I'm so sorry.
+
+857
+01:21:38,600 --> 01:21:41,160
+I promise to keep my schedule open next week.
+
+858
+01:21:41,900 --> 01:21:44,870
+It has to be today.
+
+859
+01:21:44,870 --> 01:21:47,270
+It's an important research project.
+
+860
+01:21:47,580 --> 01:21:51,530
+A lot of people will be in trouble if I don't go.
+
+861
+01:21:51,980 --> 01:21:53,640
+But...
+
+862
+01:21:55,720 --> 01:21:57,880
+Please?
+
+863
+01:21:59,820 --> 01:22:01,120
+I'm begging you.
+
+864
+01:22:01,100 --> 01:22:04,390
+Okay? Hmm?
+
+865
+01:22:09,400 --> 01:22:10,830
+Whatever.
+
+866
+01:22:11,300 --> 01:22:13,830
+I hate you, Dad.
+
+867
+01:22:21,610 --> 01:22:24,100
+Don't even bother coming back.
+
+868
+01:22:32,960 --> 01:22:34,670
+Vienna Boy's Choir
+
+869
+01:22:50,060 --> 01:22:51,610
+Dear Momo
+
+870
+01:23:12,250 --> 01:23:15,000
+Why did I say such a terrible thing?
+
+871
+01:23:17,800 --> 01:23:20,000
+I'm sorry!
+
+872
+01:23:20,000 --> 01:23:22,600
+I didn't know it was such an important letter.
+
+873
+01:23:22,600 --> 01:23:26,360
+It was sent to the Sky by mistake!
+
+874
+01:23:27,640 --> 01:23:31,580
+What? By "Sky," you mean...
+
+875
+01:23:31,560 --> 01:23:34,240
+Not the attic.
+
+876
+01:23:35,250 --> 01:23:39,380
+A greater Sky.
+
+877
+01:23:46,500 --> 01:23:48,900
+Do you think the boats will be all right?
+
+878
+01:23:48,900 --> 01:23:49,860
+Yeah.
+
+879
+01:23:51,700 --> 01:23:53,330
+Youta?
+
+880
+01:23:59,680 --> 01:24:04,340
+Youta... did you... see Momo?
+
+881
+01:24:04,680 --> 01:24:08,840
+I saw her by the beach earlier, but it's been a while.
+
+882
+01:24:09,350 --> 01:24:11,220
+Thank you.
+
+883
+01:24:11,220 --> 01:24:14,850
+I may have said something terrible to her.
+
+884
+01:24:24,370 --> 01:24:26,200
+What's wrong?
+
+885
+01:24:26,200 --> 01:24:27,620
+Are you all right?
+
+886
+01:24:27,620 --> 01:24:28,950
+Hang on!
+
+887
+01:24:31,960 --> 01:24:36,710
+We were quite mischievous in the past.
+
+888
+01:24:36,710 --> 01:24:38,980
+We crossed the line,
+
+889
+01:24:38,980 --> 01:24:42,480
+and the boss in the Sky finally punished us.
+
+890
+01:24:43,050 --> 01:24:47,390
+We lost our true forms and powers.
+
+891
+01:24:47,390 --> 01:24:51,260
+Nowadays, we're just lowly servants.
+
+892
+01:24:51,260 --> 01:24:54,220
+Only our appetites haven't changed.
+
+893
+01:24:54,400 --> 01:24:57,590
+We're stuck in our role.
+
+894
+01:24:58,500 --> 01:25:01,640
+What about Sugawara no Michizane?
+
+895
+01:25:01,640 --> 01:25:03,200
+It was a lie.
+
+896
+01:25:03,200 --> 01:25:05,740
+What? It was a lie?
+
+897
+01:25:05,740 --> 01:25:08,110
+Stop forgetting!
+
+898
+01:25:08,110 --> 01:25:09,880
+You have to stop too, old man.
+
+899
+01:25:09,880 --> 01:25:11,980
+It doesn't matter.
+
+900
+01:25:13,080 --> 01:25:19,020
+Momo, we have some ties with your father.
+
+901
+01:25:20,490 --> 01:25:25,160
+Dead humans wander around the ground for a while,
+
+902
+01:25:25,160 --> 01:25:28,970
+but they all eventually head to the Sky.
+
+903
+01:25:28,970 --> 01:25:31,830
+While they're moving from the ground to the Sky,
+
+904
+01:25:31,830 --> 01:25:35,570
+they cannot watch over their family.
+
+905
+01:25:35,570 --> 01:25:39,620
+That's when we watch after their families,
+
+906
+01:25:39,620 --> 01:25:41,560
+and report back to the Sky.
+
+907
+01:25:41,560 --> 01:25:45,450
+That's the task given to us, the Guardians.
+
+908
+01:25:45,450 --> 01:25:48,150
+Your father will reach the Sky soon.
+
+909
+01:25:48,150 --> 01:25:52,390
+When he can watch over you with his own eyes,
+
+910
+01:25:52,390 --> 01:25:54,910
+our task will be complete.
+
+911
+01:25:54,910 --> 01:25:58,700
+Believe it or not, it will happen tomorrow morning.
+
+912
+01:25:58,700 --> 01:26:00,290
+It's almost time to withdraw.
+
+913
+01:26:00,460 --> 01:26:05,100
+I apologize. We're not allow to say too much.
+
+914
+01:26:05,100 --> 01:26:07,940
+Hello? You've told her everything!
+
+915
+01:26:09,710 --> 01:26:11,670
+My dad is...?
+
+916
+01:26:15,540 --> 01:26:18,380
+Is that you, Momo?
+
+917
+01:26:21,650 --> 01:26:23,650
+I finally found you.
+
+918
+01:26:23,650 --> 01:26:26,880
+Hurry and get on the back seat!
+Something terrible happened to Iku!
+
+919
+01:26:28,320 --> 01:26:30,320
+Momo!
+
+920
+01:26:46,780 --> 01:26:48,310
+Mom!
+
+921
+01:26:48,310 --> 01:26:49,840
+Momo!
+
+922
+01:26:52,050 --> 01:26:53,450
+Mom!
+
+923
+01:26:54,450 --> 01:26:58,250
+Momo. I'm glad you're safe.
+
+924
+01:26:58,250 --> 01:27:01,560
+Are you okay?
+I'm sorry for making you worry.
+
+925
+01:27:04,190 --> 01:27:05,480
+Where's the doctor?
+
+926
+01:27:05,480 --> 01:27:10,570
+The doctor and the nurse, Mitsuko, are both on another island for a house call.
+
+927
+01:27:10,570 --> 01:27:13,570
+They can't come back in the typhoon.
+
+928
+01:27:13,570 --> 01:27:14,730
+What?
+
+929
+01:27:15,490 --> 01:27:18,170
+You're completely soaked.
+Go get changed.
+
+930
+01:27:18,170 --> 01:27:20,200
+No, I'm fine.
+
+931
+01:27:21,480 --> 01:27:25,500
+We're keeping in touch with Miss Mitsuko.
+
+932
+01:27:30,380 --> 01:27:32,150
+It's no use.
+
+933
+01:27:33,160 --> 01:27:37,990
+They can't use boats or helicopters until the typhoon passes us by.
+
+934
+01:27:37,990 --> 01:27:41,960
+This is why I said we need more than one doctor on this island!
+
+935
+01:27:41,960 --> 01:27:43,920
+What should we do?
+
+936
+01:27:45,830 --> 01:27:47,940
+If we had a doctor or a nurse here,
+
+937
+01:27:47,940 --> 01:27:52,000
+they could've given her an oxygen inhalation therapy or an injection.
+
+938
+01:27:57,580 --> 01:28:02,240
+That's not very effective, and repeated use isn't good for health.
+
+939
+01:28:06,820 --> 01:28:07,980
+Mom!
+
+940
+01:28:09,090 --> 01:28:10,850
+Iku!
+
+941
+01:28:18,930 --> 01:28:21,370
+The bridge! What about that big bridge?
+
+942
+01:28:21,370 --> 01:28:25,440
+The construction is over, but it's not officially open yet.
+
+943
+01:28:25,440 --> 01:28:29,570
+Even if it were, it would be too dangerous in the typhoon...
+
+944
+01:28:45,290 --> 01:28:48,390
+What would happen to her?
+
+945
+01:28:48,460 --> 01:28:52,190
+A doctor will come right away, once the typhoon passes.
+
+946
+01:28:52,970 --> 01:28:55,140
+What if it doesn't?
+
+947
+01:28:55,140 --> 01:28:59,060
+It will, in time. Don't worry.
+
+948
+01:28:59,060 --> 01:29:00,530
+Calm down.
+
+949
+01:29:03,650 --> 01:29:06,430
+She must have endured it for a long time.
+
+950
+01:29:06,430 --> 01:29:08,380
+Poor girl.
+
+951
+01:29:09,250 --> 01:29:12,350
+She must have been very sad.
+
+952
+01:29:12,990 --> 01:29:15,520
+But she's the type who kept everything inside.
+
+953
+01:29:15,520 --> 01:29:18,150
+It must have felt all the more painful.
+
+954
+01:30:13,000 --> 01:30:16,410
+Mom was crying...
+
+955
+01:30:33,320 --> 01:30:36,370
+Please cross the bridge to Imabari with me!
+
+956
+01:30:36,370 --> 01:30:38,300
+I want to bring the doctor here!
+
+957
+01:30:38,300 --> 01:30:39,640
+We can't!
+
+958
+01:30:39,640 --> 01:30:42,710
+We're forbidden to get involved in personal matters!
+
+959
+01:30:42,710 --> 01:30:44,010
+Please!
+
+960
+01:30:44,010 --> 01:30:47,450
+Who knows what'll happen to use if we broke the rule?
+
+961
+01:30:47,450 --> 01:30:50,210
+I mean, do you even think we have that kind of power?
+
+962
+01:30:53,620 --> 01:30:55,460
+You said you'd do anything for me!
+
+963
+01:30:55,460 --> 01:30:58,960
+That's one thing we can't do, even if you break the pass.
+
+964
+01:30:58,960 --> 01:31:00,670
+There you have it.
+
+965
+01:31:00,670 --> 01:31:02,500
+We'll withdraw tomorrow morning.
+
+966
+01:31:02,500 --> 01:31:05,470
+Please leave us alone.
+
+967
+01:31:07,940 --> 01:31:10,480
+Fine, I won't ask for your help.
+I'll do it on my own!
+
+968
+01:31:29,410 --> 01:31:31,220
+Momo?
+
+969
+01:31:31,630 --> 01:31:34,360
+What are you doing, Kouichi?
+Stop her!
+
+970
+01:31:38,500 --> 01:31:40,380
+Kouichi!
+
+971
+01:31:40,380 --> 01:31:42,070
+Use your bike!
+
+972
+01:31:42,550 --> 01:31:44,730
+Catch up with us!
+
+973
+01:31:47,240 --> 01:31:49,730
+Where's my key?
+
+974
+01:32:00,160 --> 01:32:05,150
+<i>I didn't understand my mom's feeling at all.
+
+975
+01:32:17,010 --> 01:32:19,100
+You can't, Momo.
+
+976
+01:32:19,170 --> 01:32:21,840
+Please, let me go.
+
+977
+01:32:21,840 --> 01:32:24,880
+Don't be reckless! We have to get back!
+
+978
+01:32:24,880 --> 01:32:27,120
+My mom will die at this rate!
+
+979
+01:32:27,120 --> 01:32:28,350
+Don't be ridiculous!
+
+980
+01:32:28,350 --> 01:32:30,550
+That's not going to happen.
+
+981
+01:32:31,590 --> 01:32:34,180
+All right? Let's go home.
+
+982
+01:32:38,360 --> 01:32:43,920
+I never got to make up with my dad.
+
+983
+01:32:45,300 --> 01:32:49,620
+I said a terrible thing to my mom today too.
+
+984
+01:32:50,870 --> 01:32:54,870
+I have to go now! I have to save Mom!
+
+985
+01:32:55,040 --> 01:32:57,170
+Momo...
+
+986
+01:32:57,170 --> 01:32:59,480
+Can you help her?
+
+987
+01:32:59,480 --> 01:33:00,450
+What?
+
+988
+01:33:00,450 --> 01:33:03,210
+I know you can help her.
+
+989
+01:33:03,210 --> 01:33:06,080
+Please, help her out!
+
+990
+01:33:06,390 --> 01:33:08,220
+Youta...
+
+991
+01:33:10,160 --> 01:33:13,880
+<i>You're so assertive.
+
+992
+01:33:13,880 --> 01:33:15,960
+<i>But look at me...
+
+993
+01:33:31,310 --> 01:33:35,510
+Iku is an important person to me too.
+
+994
+01:33:37,850 --> 01:33:39,650
+Hop on!
+
+995
+01:33:42,820 --> 01:33:45,090
+Wish us luck, Youta!
+
+996
+01:33:47,590 --> 01:33:51,640
+Miyaura! Good luck!
+
+997
+01:33:52,270 --> 01:33:54,770
+Pass
+
+998
+01:33:58,410 --> 01:34:00,230
+We didn't have a choice.
+
+999
+01:34:00,680 --> 01:34:05,550
+There was someone who recently broke the rule.
+
+1000
+01:34:05,550 --> 01:34:07,740
+It was a sad end.
+
+1001
+01:34:07,740 --> 01:34:09,380
+Just the thought of it makes me shiver.
+
+1002
+01:34:09,380 --> 01:34:11,950
+I don't want to die.
+
+1003
+01:34:12,690 --> 01:34:18,120
+What would happen to us if Ikuko and Momoko died?
+
+1004
+01:34:18,120 --> 01:34:19,540
+Let's see...
+
+1005
+01:34:19,540 --> 01:34:22,430
+It's okay if they die from natural causes or fate.
+
+1006
+01:34:22,430 --> 01:34:26,230
+But otherwise, we've failed as Guardians.
+
+1007
+01:34:26,230 --> 01:34:28,450
+Heads will fall, if you know what I mean.
+
+1008
+01:34:28,450 --> 01:34:31,640
+One life aside, two lives...
+
+1009
+01:34:31,640 --> 01:34:36,640
+Wait, the reason this time is because we...
+
+1010
+01:34:42,320 --> 01:34:43,820
+Oh, I know!
+
+1011
+01:34:43,820 --> 01:34:48,220
+If we save Momo, then we would have functioned as Guardians,
+
+1012
+01:34:48,220 --> 01:34:52,030
+even if we broke the rule in the progress?
+
+1013
+01:34:52,030 --> 01:34:55,120
+Maybe we can avoid the punishment!
+
+1014
+01:34:55,120 --> 01:34:56,770
+I see.
+
+1015
+01:34:57,430 --> 01:34:58,660
+Hold on,
+
+1016
+01:34:58,660 --> 01:35:01,800
+what can we do anyway?
+
+1017
+01:35:02,070 --> 01:35:08,220
+Crazy fart or running insanely fast aren't going to help when we're up against a typhoon!
+
+1018
+01:35:08,220 --> 01:35:09,600
+It's hopeless.
+
+1019
+01:35:15,250 --> 01:35:17,610
+We're not alone.
+
+1020
+01:35:28,030 --> 01:35:30,570
+No Trespassing
+
+1021
+01:35:36,290 --> 01:35:37,970
+Okay. Let's go!
+
+1022
+01:35:37,970 --> 01:35:39,000
+Yes!
+
+1023
+01:35:51,380 --> 01:35:53,760
+Hang on tight!
+
+1024
+01:37:09,030 --> 01:37:10,520
+Kouichi!
+
+1025
+01:37:10,520 --> 01:37:12,200
+I'm fine.
+
+1026
+01:37:43,230 --> 01:37:46,330
+Damn! It's over!
+
+1027
+01:38:04,290 --> 01:38:06,080
+Mom...
+
+1028
+01:38:13,090 --> 01:38:15,070
+Dad.
+
+1029
+01:38:15,070 --> 01:38:19,820
+Please save Mom!
+
+1030
+01:39:00,950 --> 01:39:03,700
+Momo!
+
+1031
+01:39:05,250 --> 01:39:07,800
+Iwa! Kawa! Mame!
+
+1032
+01:39:07,800 --> 01:39:10,480
+You all came for me?
+
+1033
+01:39:10,490 --> 01:39:11,880
+Huh?
+
+1034
+01:39:11,880 --> 01:39:12,880
+Momo!
+
+1035
+01:39:12,880 --> 01:39:18,340
+We'll block the wind, so just break through the storm!
+
+1036
+01:39:33,040 --> 01:39:34,900
+Momo...
+
+1037
+01:39:34,900 --> 01:39:37,070
+The rain...
+
+1038
+01:39:37,070 --> 01:39:38,750
+Let's go while we can!
+
+1039
+01:39:38,750 --> 01:39:40,610
+This is impossible.
+
+1040
+01:39:40,610 --> 01:39:42,880
+Kouichi!
+
+1041
+01:39:52,790 --> 01:39:54,400
+What?!
+
+1042
+01:39:54,400 --> 01:39:56,190
+Run, please.
+
+1043
+01:40:21,400 --> 01:40:23,870
+It's so heavy...
+
+1044
+01:40:58,190 --> 01:41:00,070
+Kouichi!
+
+1045
+01:41:08,840 --> 01:41:09,970
+Iwa!
+
+1046
+01:41:09,970 --> 01:41:13,120
+No more thinking for me!
+
+1047
+01:41:55,680 --> 01:41:57,920
+All right!
+
+1048
+01:41:58,420 --> 01:42:00,710
+Yahoo!
+
+1049
+01:42:04,890 --> 01:42:06,520
+Amazing.
+
+1050
+01:42:17,210 --> 01:42:19,400
+We're in the Shikoku Region.
+
+1051
+01:42:27,080 --> 01:42:29,410
+We're almost there.
+
+1052
+01:42:29,410 --> 01:42:33,080
+Please wait for us!
+
+1053
+01:42:33,080 --> 01:42:37,520
+I hate rain. Please make it quick!
+
+1054
+01:43:24,810 --> 01:43:28,420
+I'm going back home for a bit, but I'll be back right away.
+
+1055
+01:43:50,930 --> 01:43:53,530
+Great! I made it in time!
+
+1056
+01:43:54,870 --> 01:43:56,120
+Thank you.
+
+1057
+01:43:56,120 --> 01:43:59,700
+My mom made it alive, thanks to you guys.
+
+1058
+01:44:00,110 --> 01:44:04,650
+We only did our duty as Guardians.
+
+1059
+01:44:04,650 --> 01:44:07,420
+It was mostly to save our own butts, though.
+
+1060
+01:44:08,050 --> 01:44:09,540
+Um...
+
+1061
+01:44:10,150 --> 01:44:16,780
+If you can, I want you to take this letter to my father.
+
+1062
+01:44:17,430 --> 01:44:20,930
+That would be against the rule, too...
+
+1063
+01:44:20,930 --> 01:44:27,440
+Maybe I can, because I can't remember the rules.
+
+1064
+01:44:27,970 --> 01:44:31,230
+I envy your carefree life.
+
+1065
+01:44:32,200 --> 01:44:35,510
+See ya. I wanted to taste your liver.
+
+1066
+01:44:35,510 --> 01:44:39,880
+I wanted to eat Kouichi in one bite!
+
+1067
+01:44:39,880 --> 01:44:41,410
+I...
+
+1068
+01:44:44,590 --> 01:44:46,670
+...just want tangerines.
+
+1069
+01:44:55,560 --> 01:44:57,560
+By the way, what's in there?
+
+1070
+01:44:58,100 --> 01:45:00,500
+Uh, oh!
+
+1071
+01:45:01,060 --> 01:45:04,770
+Stop! These are my private stuff!
+
+1072
+01:45:15,280 --> 01:45:19,490
+Never mind. I want my memory to be filled with fond ones.
+
+1073
+01:45:19,490 --> 01:45:21,250
+Go on.
+
+1074
+01:45:23,710 --> 01:45:26,190
+We'll take you up on your offer.
+
+1075
+01:45:45,310 --> 01:45:47,430
+Thank you, everyone.
+
+1076
+01:45:47,430 --> 01:45:48,730
+I'll never forget you.
+
+1077
+01:45:48,730 --> 01:45:51,820
+Girls always say that.
+
+1078
+01:45:51,820 --> 01:45:54,780
+Well then, farewell.
+
+1079
+01:47:08,020 --> 01:47:10,890
+Bye-bye!
+
+1080
+01:47:44,700 --> 01:47:46,770
+<i>Dear Dad,
+
+1081
+01:47:46,770 --> 01:47:50,140
+<i>I'm doing well.
+
+1082
+01:47:50,140 --> 01:47:53,070
+<i>I'm sorry for saying such a terrible thing on that day.
+
+1083
+01:47:53,110 --> 01:47:55,690
+<i>All this time, I wanted to apologize for that.
+
+1084
+01:47:56,840 --> 01:48:00,650
+<i>The three yokai saved my mom.
+
+1085
+01:48:00,680 --> 01:48:04,340
+<i>I hope you would thank them as well.
+
+1086
+01:48:04,870 --> 01:48:05,990
+<i>Maybe,
+
+1087
+01:48:05,990 --> 01:48:09,330
+<i>you're in another form right now.
+
+1088
+01:48:10,790 --> 01:48:15,190
+<i>I will live my life to the fullest, together with Mom.
+
+1089
+01:48:15,630 --> 01:48:18,430
+<i>Please always watch over us,
+
+1090
+01:48:18,430 --> 01:48:21,030
+<i>with a little bit of anxiety.
+
+1091
+01:48:21,880 --> 01:48:24,870
+<i>To my dear dad.
+
+1092
+01:48:24,870 --> 01:48:26,030
+<i>Momo.
+
+1093
+01:48:29,990 --> 01:48:35,920
+I think I have an idea of what he wanted to write on that letter.
+
+1094
+01:48:35,920 --> 01:48:37,270
+Really?
+
+1095
+01:48:37,750 --> 01:48:41,360
+He wanted to apologize for what he did.
+
+1096
+01:48:41,360 --> 01:48:42,570
+You think?
+
+1097
+01:48:42,560 --> 01:48:44,220
+Yeah.
+
+1098
+01:48:44,230 --> 01:48:48,500
+Writing up a research paper was like breathing for your father,
+
+1099
+01:48:48,500 --> 01:48:51,300
+but he was really bad at writing letters.
+
+1100
+01:48:51,300 --> 01:48:54,000
+I'm sure he couldn't put his feelings into words.
+
+1101
+01:48:55,170 --> 01:48:58,730
+He always worried too much other how others felt.
+
+1102
+01:49:10,020 --> 01:49:14,180
+He loved the sea.
+
+1103
+01:49:14,490 --> 01:49:15,520
+Yes.
+
+1104
+01:49:17,260 --> 01:49:20,160
+I'm sorry for hitting you.
+
+1105
+01:49:21,100 --> 01:49:24,050
+And I didn't understand you...
+
+1106
+01:49:24,050 --> 01:49:26,620
+No, I should be the one apologizing.
+
+1107
+01:49:26,620 --> 01:49:28,800
+I made you worry.
+
+1108
+01:49:28,800 --> 01:49:31,070
+That's because I scolded you.
+
+1109
+01:49:31,070 --> 01:49:34,770
+But still, I'm sorry.
+
+1110
+01:49:42,880 --> 01:49:48,160
+All this time, I thought I had to take care of everything,
+
+1111
+01:49:48,160 --> 01:49:50,810
+and it backfired.
+
+1112
+01:49:51,490 --> 01:49:54,090
+I made you feel lonely.
+
+1113
+01:49:54,090 --> 01:49:55,520
+No, I'm fine.
+
+1114
+01:49:56,130 --> 01:50:00,190
+I'll try to consult with you next time.
+
+1115
+01:50:00,980 --> 01:50:02,180
+Okay.
+
+1116
+01:50:02,180 --> 01:50:04,150
+But I'm not very helpful.
+
+1117
+01:50:05,010 --> 01:50:07,000
+I already know that!
+
+1118
+01:50:13,080 --> 01:50:14,640
+One more thing.
+
+1119
+01:50:16,850 --> 01:50:19,480
+Thank you, Momo.
+
+1120
+01:50:32,680 --> 01:50:35,930
+Go for it, Dad!
+
+1121
+01:50:39,910 --> 01:50:41,270
+Yeah!
+
+1122
+01:50:41,510 --> 01:50:44,240
+Awesome, Dad!
+
+1123
+01:50:44,250 --> 01:50:46,510
+Momo.
+
+1124
+01:50:47,050 --> 01:50:48,740
+Hey!
+
+1125
+01:51:38,100 --> 01:51:40,620
+Let's go home.
+
+1126
+01:52:19,570 --> 01:52:21,300
+Mom!
+
+1127
+01:52:41,810 --> 01:52:44,690
+Dear Momo
+
+1128
+01:53:09,360 --> 01:53:11,550
+Mom...
+
+1129
+01:53:13,060 --> 01:53:15,340
+There's something written on it?
+
+1130
+01:53:21,400 --> 01:53:24,470
+"I'm proud of you.
+
+1131
+01:53:24,470 --> 01:53:26,840
+Take care of your mom.
+
+1132
+01:53:27,070 --> 01:53:29,480
+I'll always watch over you.
+
+1133
+01:53:30,580 --> 01:53:32,480
+From Dad."
+
+1134
+01:53:40,820 --> 01:53:42,720
+It's gone.
+
+1135
+01:53:46,260 --> 01:53:47,920
+Momo...
+
+1136
+01:53:50,760 --> 01:53:52,800
+Mom!
+
+1137
+01:53:53,770 --> 01:53:57,700
+There's no mistake. That's Dad.
+
+1138
+01:53:57,700 --> 01:54:00,080
+He's so straight to the point.
+
+1139
+01:54:00,140 --> 01:54:00,910
+Yeah.
+
+1140
+01:54:39,180 --> 01:54:40,700
+Hey, Momo.
+
+1141
+01:54:41,580 --> 01:54:43,710
+What happened to your friends?
+
+1142
+01:54:44,890 --> 01:54:46,610
+They went back home.
+
+1143
+01:54:47,640 --> 01:54:50,110
+Really?
+
+1144
+01:55:00,470 --> 01:55:02,130
+You scared?
+
+1145
+01:55:04,720 --> 01:55:07,070
+I've got a feelin' I can jump today.
+
+1146
+01:55:09,750 --> 01:55:12,290
+All right!
+
+1147
+01:55:33,370 --> 01:55:35,150
+Thank you.
+
+1148
+01:56:01,730 --> 01:56:03,390
+That was so cool!
+
+1149
+01:56:03,390 --> 01:56:05,200
+You did great, Miyaura.
+
+1150
+01:56:05,200 --> 01:56:07,470
+Now you're one of us island kids!
+
+1151
+01:56:07,470 --> 01:56:10,970
+I'm impressed that you learned to jump so soon.
+
+1152
+01:56:13,950 --> 01:56:24,490
+Sound of the wind moved my heart years later
+
+1153
+01:56:24,490 --> 01:56:34,630
+My memory projects you in the faraway sky
+
+1154
+01:56:34,630 --> 01:56:44,840
+When I find myself wandering along the path to the sea
+
+1155
+01:56:44,840 --> 01:56:54,850
+Unchanging summer sunlight still shines upon me
+
+1156
+01:56:54,850 --> 01:57:00,030
+Never-ending blue sky expanded above
+
+1157
+01:57:00,030 --> 01:57:09,870
+When I expressed my feelings to the person forever in my heart
+
+1158
+01:57:09,870 --> 01:57:23,510
+Let the passing clouds carry the song that connects our soul
+
+1159
+01:57:30,520 --> 01:57:40,900
+The wind caressed my cheeks as seasons pass by
+
+1160
+01:57:40,900 --> 01:57:50,940
+Wherever you are, my dear love, please kindly watch over me
+
+1161
+01:57:50,940 --> 01:57:56,180
+The town shimmers under the heat
+
+1162
+01:57:56,180 --> 01:58:01,320
+Surrounded by the sound of waves
+
+1163
+01:58:01,320 --> 01:58:11,600
+Where is the fragment of my dream hiding?
+
+1164
+01:58:11,600 --> 01:58:21,610
+Beautiful utopia, grant me this wish
+
+1165
+01:58:21,610 --> 01:58:31,720
+I put my hands together and pray for everybody's happiness
+
+1166
+01:58:31,720 --> 01:58:40,080
+Life binds eternal love
+
+1167
+01:59:02,350 --> 01:59:07,630
+Never-ending blue sky expands above
+
+1168
+01:59:07,630 --> 01:59:17,840
+I expressed my feelings to the person forever in my heart
+
+1169
+01:59:17,840 --> 01:59:27,930
+With a smile on my face until the day we meet again
+
+1170
+01:59:27,940 --> 01:59:38,350
+Beautiful utopia, forever my home town
+
+1171
+01:59:38,350 --> 01:59:45,830
+I'll dream of the day
+
+1172
+01:59:45,830 --> 01:59:55,540
+When we cross the rainbow bridge after the rain of tears
+
+1173
+01:59:55,540 --> 02:00:06,010
+Let's walk together
+

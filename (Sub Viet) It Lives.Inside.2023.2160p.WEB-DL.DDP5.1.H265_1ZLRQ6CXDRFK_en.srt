@@ -1,0 +1,103 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayDepth: 0
+PlayResX: 1920
+PlayResY: 1080
+ScaledBorderAndShadow: yes
+
+[V4+ Styles]
+Format: Name,Fontname,Fontsize,PrimaryColour,SecondaryColour,OutlineColour,BackColour,Bold,Italic,Underline,StrikeOut,ScaleX,ScaleY,Spacing,Angle,BorderStyle,Outline,Shadow,Alignment,MarginL,MarginR,MarginV,Encoding
+Style: Default,Tahoma,50,&H00EEEEEE,&H000000FF,&H00000000,&H40000000,0,0,0,0,100,100,0,0,1,2,3,2,0,0,40,1
+
+[Events]
+Format: Layer,Start,End,Style,Name,MarginL,MarginR,MarginV,Effect,Text
+Dialogue: 0,0:03:51.27,0:03:54.06,Default,,0,0,0,,Samidha, I need you to help me\Nprepare the prasad tonight.
+Dialogue: 0,0:03:55.27,0:03:56.69,Default,,0,0,0,,Sure.
+Dialogue: 0,0:04:04.78,0:04:06.04,Default,,0,0,0,,Promise.
+Dialogue: 0,0:04:06.24,0:04:08.79,Default,,0,0,0,,You can't throw out "kasams"\Nafter everything you say.
+Dialogue: 0,0:04:12.12,0:04:14.75,Default,,0,0,0,,The point is hand-made prasad.
+Dialogue: 0,0:04:22.68,0:04:24.10,Default,,0,0,0,,You know, my sisters and I
+Dialogue: 0,0:04:24.30,0:04:27.02,Default,,0,0,0,,used to get new outfits\Nevery day of the puja.
+Dialogue: 0,0:04:27.22,0:04:29.43,Default,,0,0,0,,I used to cook with your Nani.
+Dialogue: 0,0:04:29.85,0:04:32.35,Default,,0,0,0,,Your Nani cooked with my Nani.
+Dialogue: 0,0:04:32.98,0:04:34.19,Default,,0,0,0,,And--
+Dialogue: 0,0:04:37.90,0:04:40.99,Default,,0,0,0,,The prasad needs to be ready\Nwhen the guests come.
+Dialogue: 0,0:04:41.40,0:04:42.61,Default,,0,0,0,,I'm not asking again.
+Dialogue: 0,0:04:47.78,0:04:49.20,Default,,0,0,0,,Here you go.
+Dialogue: 0,0:05:12.64,0:05:14.18,Default,,0,0,0,,She failed it again.
+Dialogue: 0,0:05:20.73,0:05:23.19,Default,,0,0,0,,This was the third time.
+Dialogue: 0,0:05:26.07,0:05:28.41,Default,,0,0,0,,Samidha, don't whistle.
+Dialogue: 0,0:05:29.20,0:05:30.62,Default,,0,0,0,,Evil spirits will hear you.
+Dialogue: 0,0:05:37.46,0:05:39.54,Default,,0,0,0,,When will this girl learn?
+Dialogue: 0,0:05:42.05,0:05:43.84,Default,,0,0,0,,Samidha! Your lunch!
+Dialogue: 0,0:25:31.40,0:25:33.49,Default,,0,0,0,,Today, our friend...
+Dialogue: 0,0:25:33.69,0:25:38.57,Default,,0,0,0,,Radha is praying for the safe\Nreturn of her daughter, Tamira.
+Dialogue: 0,0:25:39.12,0:25:42.41,Default,,0,0,0,,Let's all pray for\NTamira together.
+Dialogue: 0,0:25:52.30,0:25:57.05,Default,,0,0,0,,Please God, don't let them\Nend up like the Choudharys.
+Dialogue: 0,0:26:14.90,0:26:15.99,Default,,0,0,0,,What is it?
+Dialogue: 0,0:27:24.26,0:27:26.06,Default,,0,0,0,,What's going on, meri jaan?
+Dialogue: 0,0:27:40.24,0:27:41.03,Default,,0,0,0,,What are you doing here?
+Dialogue: 0,0:27:41.36,0:27:43.32,Default,,0,0,0,,You have to be out there,\Nwith the guests.
+Dialogue: 0,0:27:44.33,0:27:46.24,Default,,0,0,0,,Samidha, you can't just leave.
+Dialogue: 0,0:27:47.08,0:27:48.16,Default,,0,0,0,,This is our puja.
+Dialogue: 0,0:27:50.62,0:27:52.21,Default,,0,0,0,,She's trying to leave\Nin the middle of our puja.
+Dialogue: 0,0:27:57.55,0:27:58.51,Default,,0,0,0,,Let her go.
+Dialogue: 0,0:27:59.26,0:27:59.97,Default,,0,0,0,,What?
+Dialogue: 0,0:28:06.72,0:28:08.18,Default,,0,0,0,,Let's give her space.
+Dialogue: 0,0:28:10.10,0:28:11.06,Default,,0,0,0,,Come on.
+Dialogue: 0,0:40:39.77,0:40:42.02,Default,,0,0,0,,What happened to Tamira?
+Dialogue: 0,0:40:44.02,0:40:46.06,Default,,0,0,0,,What did you do, Samidha?
+Dialogue: 0,0:40:57.37,0:40:59.70,Default,,0,0,0,,Do you even know why\Nwe celebrate Durga Puja?
+Dialogue: 0,0:41:01.08,0:41:04.25,Default,,0,0,0,,We all prayed for\NTamira together.
+Dialogue: 0,0:41:05.13,0:41:07.54,Default,,0,0,0,,And that prasad that you hated\Nmaking so much...
+Dialogue: 0,0:41:08.34,0:41:10.63,Default,,0,0,0,,...that was our offering.
+Dialogue: 0,0:41:11.05,0:41:12.34,Default,,0,0,0,,For her safety.
+Dialogue: 0,0:41:12.55,0:41:14.05,Default,,0,0,0,,For her well-being.
+Dialogue: 0,0:41:19.64,0:41:21.68,Default,,0,0,0,,Why don't you bring your friends\Nhome anymore?
+Dialogue: 0,0:41:23.10,0:41:25.15,Default,,0,0,0,,And you don't speak\Nour language anymore.
+Dialogue: 0,0:41:25.94,0:41:27.11,Default,,0,0,0,,Do you even remember it?
+Dialogue: 0,0:41:28.61,0:41:30.11,Default,,0,0,0,,So then, why?
+Dialogue: 0,0:41:30.78,0:41:32.61,Default,,0,0,0,,Why do you want to be\None of them?
+Dialogue: 0,0:48:38.79,0:48:40.79,Default,,0,0,0,,I don't even know\Nwho she is anymore.
+Dialogue: 0,0:48:40.99,0:48:43.96,Default,,0,0,0,,This is our Samidha.\NShe's a good kid.
+Dialogue: 0,0:48:44.16,0:48:45.51,Default,,0,0,0,,What are you even saying?
+Dialogue: 0,0:48:45.71,0:48:48.34,Default,,0,0,0,,She won't even tell us\Nwhat happened.
+Dialogue: 0,0:50:56.09,0:50:57.43,Default,,0,0,0,,Oh, God...
+Dialogue: 0,0:50:58.89,0:51:00.81,Default,,0,0,0,,I don't know what we're\Neven doing here anymore.
+Dialogue: 0,0:51:01.01,0:51:01.97,Default,,0,0,0,,What? We're talking--
+Dialogue: 0,0:51:03.06,0:51:03.97,Default,,0,0,0,,I mean, here.
+Dialogue: 0,0:51:04.39,0:51:06.43,Default,,0,0,0,,We're at home.
+Dialogue: 0,0:51:06.77,0:51:07.73,Default,,0,0,0,,Home?
+Dialogue: 0,0:51:09.23,0:51:11.36,Default,,0,0,0,,Did you see how\Nthey looked at us?
+Dialogue: 0,0:51:17.40,0:51:20.03,Default,,0,0,0,,Where are you going?\NCome here.
+Dialogue: 0,0:51:51.10,0:51:52.27,Default,,0,0,0,,She won't tell us anything.
+Dialogue: 0,0:51:59.11,0:52:02.03,Default,,0,0,0,,You're right.\NWe don't.
+Dialogue: 0,0:52:12.58,0:52:13.75,Default,,0,0,0,,Don't bother, Inesh.
+Dialogue: 0,0:52:14.96,0:52:16.21,Default,,0,0,0,,She won't tell us anything.
+Dialogue: 0,0:52:17.34,0:52:20.80,Default,,0,0,0,,And why would she?\NWe're nothing to her.
+Dialogue: 0,0:53:53.56,0:53:54.85,Default,,0,0,0,,Shame.
+Dialogue: 0,0:53:58.86,0:54:00.15,Default,,0,0,0,,Shame.
+Dialogue: 0,0:54:16.33,0:54:17.63,Default,,0,0,0,,Shame.
+Dialogue: 0,1:02:39.25,1:02:40.42,Default,,0,0,0,,Then, tell me.
+Dialogue: 0,1:02:42.88,1:02:45.05,Default,,0,0,0,,Samidha, I'm trying.
+Dialogue: 0,1:04:02.79,1:04:04.50,Default,,0,0,0,,What's the word?
+Dialogue: 0,1:05:36.47,1:05:38.39,Default,,0,0,0,,She's been gone\Nsince Thursday, right?
+Dialogue: 0,1:06:02.25,1:06:09.50,Default,,0,0,0,,"If you face a Pishach alone,\Nyou won't come out alive."
+Dialogue: 0,1:06:46.42,1:06:50.25,Default,,0,0,0,,We don't have meat, but\Nwe'll offer what we can.
+Dialogue: 0,1:14:43.27,1:14:44.52,Default,,0,0,0,,Nothing.
+Dialogue: 0,1:14:45.23,1:14:46.81,Default,,0,0,0,,I was thinking...
+Dialogue: 0,1:14:47.73,1:14:49.52,Default,,0,0,0,,...maybe this was my fault.
+Dialogue: 0,1:14:50.61,1:14:52.03,Default,,0,0,0,,All of this.
+Dialogue: 0,1:15:01.91,1:15:03.62,Default,,0,0,0,,You know...
+Dialogue: 0,1:15:05.16,1:15:07.08,Default,,0,0,0,,...we tried our best.
+Dialogue: 0,1:15:07.96,1:15:10.67,Default,,0,0,0,,We did as much as we could.
+Dialogue: 0,1:15:10.87,1:15:12.00,Default,,0,0,0,,We sent money.
+Dialogue: 0,1:15:14.26,1:15:16.88,Default,,0,0,0,,Whenever they\Nneeded anything, we--
+Dialogue: 0,1:15:31.73,1:15:34.94,Default,,0,0,0,,So strange seeing\Nyou this way...
+Dialogue: 0,1:15:38.11,1:15:39.11,Default,,0,0,0,,...without your phone.
+Dialogue: 0,1:16:15.48,1:16:17.11,Default,,0,0,0,,Stay behind me.
+Dialogue: 0,1:16:52.06,1:16:53.86,Default,,0,0,0,,What are you doing home\Nso early?
+Dialogue: 0,1:17:04.99,1:17:06.37,Default,,0,0,0,,What's going on?
+Dialogue: 0,1:19:02.02,1:19:04.28,Default,,0,0,0,,Where a death has happened.
+Dialogue: 0,1:19:10.49,1:19:11.83,Default,,0,0,0,,Samidha, not alone!
