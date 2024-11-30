@@ -1,0 +1,21 @@
+
+# Media files
+*.mkv
+*.mp4
+*.avi
+*.srt
+*.ass
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IDE files
+.vscode/
+.idea/
+
+# Skip large files (>1MB)
+*.[!g][!i][!t]*
+!*.[!g][!i][!t]*/
+*.[!g][!i][!t]* binary size>1M
