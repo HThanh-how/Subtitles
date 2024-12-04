@@ -42,18 +42,18 @@ def auto_git_commit():
         print(f"Đang làm việc trong repository: {git_repo}")
 
         # Kiểm tra trạng thái git
-        status = subprocess.run(['git', 'status', '--porcelain'], capture_output=True, text=True)
-        if not status.stdout:
+        status = subprocess.run(['git', 'status'], capture_output=True, text=True)
+        if 'nothing to commit' in status.stdout:
             print("Không có thay đổi để commit")
             return False
 
         # Lấy danh sách file thay đổi
         changed_files = subprocess.run(['git', 'diff', '--name-only'], 
-                                       capture_output=True, text=True).stdout.splitlines()
-
+                                     capture_output=True, text=True).stdout.splitlines()
+        
         # Thêm các file chưa được track
         untracked = subprocess.run(['git', 'ls-files', '--others', '--exclude-standard'],
-                                    capture_output=True, text=True).stdout.splitlines()
+                                 capture_output=True, text=True).stdout.splitlines()
         changed_files.extend(untracked)
 
         # Kiểm tra và bỏ qua các file lớn
@@ -71,10 +71,10 @@ def auto_git_commit():
 
         # Add các file còn lại
         subprocess.run(['git', 'add', '.'])
-
+        
         # Kiểm tra lại xem còn gì để commit không
-        status = subprocess.run(['git', 'status', '--porcelain'], capture_output=True, text=True)
-        if not status.stdout:
+        status = subprocess.run(['git', 'status'], capture_output=True, text=True)
+        if 'nothing to commit' in status.stdout:
             print("Không có file phù hợp để commit")
             return False
         
@@ -96,4 +96,4 @@ def auto_git_commit():
         return False
 
 if __name__ == "__main__":
-    auto_git_commit()
+    auto_git_commit() 
