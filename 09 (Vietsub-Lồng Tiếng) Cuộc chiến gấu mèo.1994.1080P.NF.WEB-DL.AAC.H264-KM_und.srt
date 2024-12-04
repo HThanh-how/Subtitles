@@ -1,0 +1,6049 @@
+﻿1
+00:00:17,392 --> 00:00:20,937
+<i>Raccoon, Raccoon</i>
+<i>Come on out and play</i>
+
+2
+00:00:21,396 --> 00:00:24,441
+<i>I can't right now, I'm eating</i>
+
+3
+00:00:24,774 --> 00:00:26,443
+<i>What is it you're eating?</i>
+
+4
+00:00:26,901 --> 00:00:28,778
+<i>Pickled plums and radish</i>
+
+5
+00:00:28,862 --> 00:00:30,739
+<i>How about some for me?</i>
+
+6
+00:00:30,822 --> 00:00:33,908
+<i>Hey, don't be so greedy</i>
+
+7
+00:00:48,548 --> 00:00:51,468
+<i>We raccoons</i>
+<i>have always lived near humans.</i>
+
+8
+00:00:53,052 --> 00:00:55,972
+<i>Not to steal their food. Not at all.</i>
+
+9
+00:00:56,056 --> 00:00:58,058
+<i>Where there are paddies and fields,</i>
+
+10
+00:00:58,141 --> 00:01:02,187
+<i>there are frogs and grasshoppers,</i>
+<i>mice and moles.</i>
+
+11
+00:01:02,270 --> 00:01:04,439
+<i>There's fruit,</i>
+<i>like persimmons and mulberries.</i>
+
+12
+00:01:04,814 --> 00:01:08,068
+<i>There's much more food than in the woods.</i>
+
+13
+00:01:09,235 --> 00:01:13,531
+<i>Last spring, the old farmhouse</i>
+<i>was suddenly abandoned.</i>
+
+14
+00:01:13,948 --> 00:01:18,620
+<i>It looked like no one was coming back,</i>
+<i>so we all moved in.</i>
+
+15
+00:01:29,214 --> 00:01:33,384
+<i>We spent a really wonderful year there.</i>
+
+16
+00:01:33,468 --> 00:01:37,180
+<i>Living in a house</i>
+<i>with a garden was like a dream.</i>
+
+17
+00:01:37,347 --> 00:01:38,348
+<i>But then...</i>
+
+18
+00:01:53,321 --> 00:01:58,701
+<i>We raccoons usually don't make a fuss</i>
+<i>over territory, but this was different.</i>
+
+19
+00:01:59,160 --> 00:02:02,455
+<i>Wherever we went looking for food,</i>
+<i>we ran into other raccoons.</i>
+
+20
+00:02:02,831 --> 00:02:05,834
+<i>There were quarrels,</i>
+<i>and fights over burrows...</i>
+
+21
+00:02:05,917 --> 00:02:07,043
+<i>until one day...</i>
+
+22
+00:02:09,504 --> 00:02:11,506
+<i>Autumn, year 31 of the Pom Poko era.</i>
+
+23
+00:02:12,048 --> 00:02:15,510
+<i>On the newly logged border</i>
+<i>between Taka and Suzu Woods,</i>
+
+24
+00:02:15,718 --> 00:02:19,514
+<i>the raccoons of Tama Hills</i>
+<i>gathered for their final battle.</i>
+
+25
+00:02:50,545 --> 00:02:53,756
+<i>The red army was led by Gonta,</i>
+<i>a fearsome raccoon from Taka.</i>
+
+26
+00:02:54,841 --> 00:02:58,344
+<i>The blue army was led by Seizaemon,</i>
+<i>an elder from Suzu.</i>
+
+27
+00:03:02,640 --> 00:03:05,059
+<i>Now, it's a little-known fact,</i>
+
+28
+00:03:05,351 --> 00:03:08,396
+<i>but when humans aren't around,</i>
+
+29
+00:03:08,479 --> 00:03:13,026
+<i>raccoons walk on two legs,</i>
+<i>just as you see here.</i>
+
+30
+00:04:05,620 --> 00:04:09,457
+<i>The battle was hard-fought,</i>
+<i>but it did not last long.</i>
+
+31
+00:04:10,625 --> 00:04:16,381
+<i>Fight, fight! Taka!</i>
+<i>Fight, fight! Suzu!</i>
+
+32
+00:04:16,631 --> 00:04:19,884
+<i>Red wins, blue wins</i>
+<i>Both of you lose</i>
+
+33
+00:04:19,968 --> 00:04:22,387
+<i>Slaughter the losing raccoons</i>
+
+34
+00:04:22,637 --> 00:04:28,434
+<i>Taka loses today</i>
+<i>Suzu loses tomorrow</i>
+
+35
+00:04:28,559 --> 00:04:31,396
+<i>The raccoons have nowhere to go</i>
+
+36
+00:04:31,604 --> 00:04:34,399
+<i>Where can the raccoons go to?</i>
+
+37
+00:04:34,482 --> 00:04:37,443
+<i>There's nowhere for them to go</i>
+
+38
+00:04:37,527 --> 00:04:40,822
+<i>Whether red wins or blue wins</i>
+<i>Both sides lose</i>
+
+39
+00:04:40,905 --> 00:04:43,408
+<i>Kill the losing raccoons!</i>
+
+40
+00:04:43,491 --> 00:04:46,452
+<i>It's for the greater good</i>
+
+41
+00:04:46,828 --> 00:04:49,414
+<i>There are too many of them</i>
+
+42
+00:04:49,539 --> 00:04:52,000
+<i>Fewer raccoons is better for all</i>
+
+43
+00:04:52,083 --> 00:04:54,752
+<i>The rest of you, control yourselves</i>
+
+44
+00:04:55,003 --> 00:04:57,005
+<i>Stop having children</i>
+
+45
+00:04:57,088 --> 00:04:59,674
+<i>Have more children</i>
+<i>And you'll lose everything</i>
+
+46
+00:04:59,757 --> 00:05:02,010
+<i>Your homes are disappearing</i>
+<i>And that's a fact</i>
+
+47
+00:05:06,431 --> 00:05:08,599
+<i>Granny Oroku was right.</i>
+
+48
+00:05:08,766 --> 00:05:11,936
+<i>The raccoons were stunned</i>
+<i>by the desolation around them.</i>
+
+49
+00:05:12,437 --> 00:05:14,105
+<i>Their woods were disappearing.</i>
+
+50
+00:05:14,188 --> 00:05:16,733
+<i>A chilling panorama of denuded,</i>
+<i>flattened hills</i>
+
+51
+00:05:16,816 --> 00:05:19,277
+<i>stretched as far as the eye could see.</i>
+
+52
+00:05:19,944 --> 00:05:21,612
+This is madness!
+
+53
+00:05:21,946 --> 00:05:24,365
+It's no time for us to be fighting!
+
+54
+00:05:27,910 --> 00:05:31,205
+<i>In those days, Japan was entering</i>
+<i>a golden age of economic growth.</i>
+
+55
+00:05:31,581 --> 00:05:33,583
+<i>Demand for housing around Tokyo exploded.</i>
+
+56
+00:05:33,666 --> 00:05:37,170
+<i>Lots of farmland and forest disappeared</i>
+<i>in waves of uncontrolled development.</i>
+
+57
+00:05:37,545 --> 00:05:44,218
+<i>As Tokyo grew, it gnawed the land</i>
+<i>in random patterns like a huge insect.</i>
+
+58
+00:05:44,719 --> 00:05:46,846
+<i>Then in 1967, the city fathers</i>
+<i>hit on a better idea:</i>
+
+59
+00:05:46,971 --> 00:05:50,016
+<i>A plan for a new suburb of Tokyo</i>
+<i>called Tama New Town.</i>
+
+60
+00:05:50,433 --> 00:05:55,605
+<i>Over 300,000 people would populate</i>
+<i>an area of 3,000 hectares.</i>
+
+61
+00:05:56,105 --> 00:05:59,984
+<i>Forests would be cleared,</i>
+<i>hills flattened, valleys filled,</i>
+
+62
+00:06:00,068 --> 00:06:03,362
+<i>farms and fields obliterated,</i>
+<i>old farmhouses demolished.</i>
+
+63
+00:06:03,446 --> 00:06:08,701
+<i>Tama Hills would be transformed</i>
+<i>into an enormous construction site</i>
+
+64
+00:06:08,785 --> 00:06:13,206
+<i>to create a model bedroom town</i>
+<i>for Tokyo's workers.</i>
+
+65
+00:06:13,289 --> 00:06:16,375
+<i>It was the largest urban development</i>
+<i>project in history.</i>
+
+66
+00:06:19,337 --> 00:06:22,131
+You've got to hand it to these humans.
+They're really something.
+
+67
+00:06:22,799 --> 00:06:26,511
+We always thought
+they were animals just like us,
+
+68
+00:06:27,053 --> 00:06:28,554
+but now we know we were wrong.
+
+69
+00:06:28,805 --> 00:06:34,393
+They must be even more powerful
+than the gods.
+
+70
+00:06:39,273 --> 00:06:42,985
+<i>Raccoon clans from all over Tama Hills</i>
+
+71
+00:06:43,402 --> 00:06:47,573
+<i>gathered secretly late one night</i>
+<i>at the old abandoned Manpuku Temple,</i>
+
+72
+00:06:47,657 --> 00:06:49,992
+<i>deep in the forest.</i>
+
+73
+00:06:50,284 --> 00:06:52,745
+<i>By unanimous agreement of all present,</i>
+
+74
+00:06:52,829 --> 00:06:55,081
+<i>the meeting was chaired by Tsurukame Osho,</i>
+
+75
+00:06:55,206 --> 00:06:57,333
+<i>the temple's 105-year-old</i>
+<i>resident raccoon.</i>
+
+76
+00:06:58,000 --> 00:07:00,253
+...so in view of the current difficulties,
+
+77
+00:07:00,670 --> 00:07:05,007
+we must abandon our nocturnal habits
+
+78
+00:07:05,424 --> 00:07:09,846
+and be prepared to act
+at any time of the day or night.
+
+79
+00:07:09,971 --> 00:07:11,013
+<i>Amid some confusion,</i>
+
+80
+00:07:11,097 --> 00:07:14,434
+<i>the assembly agreed</i>
+<i>on a policy to stop the development.</i>
+
+81
+00:07:14,725 --> 00:07:18,646
+That makes it unanimous!
+
+82
+00:07:20,356 --> 00:07:22,358
+<i>The raccoons went home,</i>
+
+83
+00:07:22,859 --> 00:07:25,653
+<i>while the clan elders worked out</i>
+<i>a specific course of action.</i>
+
+84
+00:07:28,197 --> 00:07:32,160
+<i>The elders settled on a five-year plan</i>
+
+85
+00:07:32,493 --> 00:07:34,829
+<i>to revive the neglected art</i>
+<i>of shape-shifting</i>
+
+86
+00:07:34,954 --> 00:07:36,164
+<i>and study the ways of humans.</i>
+
+87
+00:07:36,873 --> 00:07:39,000
+<i>They invited</i>
+<i>renowned shape-shifting practitioners</i>
+
+88
+00:07:39,083 --> 00:07:40,668
+<i>from Sado and Shikoku islands,</i>
+
+89
+00:07:40,918 --> 00:07:43,796
+<i>where the art was most advanced,</i>
+<i>to teach the young raccoons.</i>
+
+90
+00:07:43,880 --> 00:07:44,839
+YASHIIMA - SABURŌ
+
+91
+00:07:44,922 --> 00:07:47,091
+<i>But in view of the difficulties</i>
+
+92
+00:07:49,218 --> 00:07:52,305
+<i>and danger posed by the long journeys</i>
+<i>to fetch these teachers,</i>
+
+93
+00:07:52,388 --> 00:07:55,141
+<i>no one wanted to go.</i>
+<i>So, they all pretended to fall asleep.</i>
+
+94
+00:07:55,850 --> 00:07:58,603
+I suppose we'll just have to wait
+for the youngsters
+
+95
+00:07:58,686 --> 00:08:00,062
+to acquire the skills on their own.
+
+96
+00:08:02,315 --> 00:08:03,858
+Agreed!
+
+97
+00:08:05,776 --> 00:08:08,863
+<i>The McDonald's hamburgers</i>
+<i>provided to fuel the discussion</i>
+
+98
+00:08:08,946 --> 00:08:12,366
+<i>were enthusiastically received.</i>
+
+99
+00:08:12,617 --> 00:08:15,411
+<i>And with that,</i>
+<i>the council of elders concluded.</i>
+
+100
+00:08:15,703 --> 00:08:17,580
+REVIVE SHAPE-SHIFTING
+STUDY HUMANS
+
+101
+00:08:27,340 --> 00:08:29,217
+NO DUMPING
+
+102
+00:08:29,300 --> 00:08:33,679
+<i>Keeping close track of human acitivity</i>
+<i>was of the utmost importance,</i>
+
+103
+00:08:33,846 --> 00:08:36,724
+<i>so the raccoons decided</i>
+<i>to set up a television set</i>
+
+104
+00:08:36,807 --> 00:08:40,353
+<i>in their headquarters,</i>
+<i>the main hall of Manpuku Temple.</i>
+
+105
+00:08:48,945 --> 00:08:51,405
+-<i>Good evening.</i>
+-Good evening!
+
+106
+00:08:51,697 --> 00:08:55,409
+<i>The arrival of the television</i>
+<i>provoked great interest.</i>
+
+107
+00:09:00,289 --> 00:09:03,417
+<i>The headquarters at Manpuku Temple</i>
+<i>were soon crowded with visitors</i>
+
+108
+00:09:03,709 --> 00:09:07,088
+<i>who were there just to spend the day</i>
+<i>watching television.</i>
+
+109
+00:09:09,298 --> 00:09:12,885
+Shape-shifting requires the highest
+degree of mental concentration.
+
+110
+00:09:12,969 --> 00:09:17,265
+It means changing
+one's very cells in an instant.
+
+111
+00:09:17,348 --> 00:09:20,059
+Truly, this is nature's greatest miracle.
+
+112
+00:09:20,476 --> 00:09:25,856
+Lesser forms of transformation can be
+achieved by such animals as chameleons.
+
+113
+00:09:25,940 --> 00:09:31,237
+But only raccoons, foxes and some
+old cats can practice real shape-shifting.
+
+114
+00:09:31,320 --> 00:09:32,572
+YIN YANG
+SHAPE-SHIFTING
+
+115
+00:09:33,406 --> 00:09:34,740
+Gonta!
+
+116
+00:09:35,700 --> 00:09:38,452
+That you can assume
+such an appearance, even for a moment,
+
+117
+00:09:38,536 --> 00:09:43,040
+proves you've taken the first steps on
+the path, whether you realise it or not.
+
+118
+00:09:43,541 --> 00:09:45,960
+If one studies hard and grasps the basics,
+
+119
+00:09:46,085 --> 00:09:50,047
+any raccoon can learn to shape-shift.
+At least in theory.
+
+120
+00:09:52,383 --> 00:09:55,386
+Allow me to demonstrate!
+
+121
+00:09:57,013 --> 00:09:59,098
+Aren't you going to put a leaf
+on your head?
+
+122
+00:09:59,223 --> 00:10:01,017
+That's for beginners!
+
+123
+00:10:09,609 --> 00:10:11,193
+It's been a long time!
+
+124
+00:10:11,611 --> 00:10:13,988
+And a one, and a two!
+
+125
+00:10:14,947 --> 00:10:17,450
+<i>With Granny Oroku as their instructor,</i>
+
+126
+00:10:17,533 --> 00:10:20,328
+<i>the raccoons made steady progress</i>
+<i>in the art of shape-shifting.</i>
+
+127
+00:10:21,370 --> 00:10:26,584
+<i>Young raccoons from every clan burned</i>
+<i>with desire to hone their skills.</i>
+
+128
+00:10:28,419 --> 00:10:29,920
+Bravo, Shokichi!
+
+129
+00:10:34,342 --> 00:10:37,762
+-Gotcha!
+-Gotcha!
+
+130
+00:10:38,179 --> 00:10:39,513
+Gotcha!
+
+131
+00:10:42,433 --> 00:10:45,811
+<i>I've been interested in humans</i>
+<i>and their ways ever since I was a child.</i>
+
+132
+00:10:46,646 --> 00:10:50,232
+<i>As a rule we weren't supposed</i>
+<i>to approach them,</i>
+
+133
+00:10:50,316 --> 00:10:53,903
+<i>but for my late father, I think that</i>
+<i>just sharpened his interest.</i>
+
+134
+00:10:54,737 --> 00:10:58,574
+<i>Careful observation of humans is</i>
+<i>a basic requirement for shape-shifting,</i>
+
+135
+00:10:58,658 --> 00:11:02,078
+<i>so I'm sure he thought getting close</i>
+<i>to them would prove useful.</i>
+
+136
+00:11:22,098 --> 00:11:25,768
+<i>It goes without saying that some</i>
+<i>of our raccoons were not good students.</i>
+
+137
+00:11:26,102 --> 00:11:29,647
+<i>In fact, many of them</i>
+<i>simply couldn't manage at all.</i>
+
+138
+00:11:34,402 --> 00:11:38,697
+<i>Shape-shifting requires rigorous</i>
+<i>physical and mental discipline.</i>
+
+139
+00:11:38,781 --> 00:11:42,159
+<i>Naturally this discouraged</i>
+<i>many of the raccoons,</i>
+
+140
+00:11:42,243 --> 00:11:45,287
+<i>who unlike foxes,</i>
+<i>are inclined to be rather lazy.</i>
+
+141
+00:11:48,457 --> 00:11:49,667
+Hey!
+
+142
+00:11:56,465 --> 00:11:57,383
+Ponkichi!
+
+143
+00:11:57,466 --> 00:12:00,719
+<i>All the arhats are here</i>
+<i>Turn them</i>
+
+144
+00:12:00,845 --> 00:12:02,805
+<i>Turn, turn, turn, turn</i>
+
+145
+00:12:02,930 --> 00:12:05,391
+<i>Back then all I thought about</i>
+<i>was shape-shifting.</i>
+
+146
+00:12:05,599 --> 00:12:07,643
+<i>I never dreamed my childhood pal Ponkichi</i>
+
+147
+00:12:07,726 --> 00:12:11,897
+<i>wanted nothing more than to live</i>
+<i>like a normal raccoon.</i>
+
+148
+00:12:14,358 --> 00:12:17,319
+...so when the traveler
+reached the mountain pass,
+
+149
+00:12:17,611 --> 00:12:20,322
+he saw the pine tree
+
+150
+00:12:20,739 --> 00:12:24,618
+seemed to have grown an extra branch.
+
+151
+00:12:25,536 --> 00:12:26,537
+Now, this was odd.
+
+152
+00:12:26,620 --> 00:12:30,499
+The traveler said to himself, "There was
+no branch on that side last time."
+
+153
+00:12:30,583 --> 00:12:35,379
+And lo and behold!
+The branch switched sides.
+
+154
+00:12:36,547 --> 00:12:39,633
+Seeing this, the traveler said aloud,
+
+155
+00:12:39,717 --> 00:12:42,761
+"That's not right either.
+There were branches on both sides."
+
+156
+00:12:42,845 --> 00:12:45,931
+And sure enough,
+branches sprouted on both sides.
+
+157
+00:12:46,432 --> 00:12:47,766
+The next instant, boom!
+
+158
+00:12:47,850 --> 00:12:52,062
+Something fell!
+What was it, do you suppose?
+
+159
+00:12:52,146 --> 00:12:53,355
+A raccoon!
+
+160
+00:12:53,856 --> 00:12:56,984
+Right! And why did he fall? Gonta?
+
+161
+00:12:57,651 --> 00:13:00,362
+He was a klutz. I'd never fall.
+
+162
+00:13:00,613 --> 00:13:06,202
+That's the spirit!
+Sasuke, why do you think he fell?
+
+163
+00:13:06,619 --> 00:13:09,205
+He had to let go of the tree
+to make two branches.
+
+164
+00:13:09,538 --> 00:13:14,210
+Very good! And what is the moral
+of this story? Shokichi?
+
+165
+00:13:14,627 --> 00:13:18,255
+It doesn't pay to take
+what humans say literally.
+
+166
+00:13:19,215 --> 00:13:22,718
+That's correct.
+We raccoons are naturally good-natured.
+
+167
+00:13:22,801 --> 00:13:25,679
+We get carried away!
+We try too hard to please!
+
+168
+00:13:26,013 --> 00:13:29,391
+This is where we go wrong. Do you see?
+
+169
+00:13:29,475 --> 00:13:30,976
+Yes, Tsurukame Osho!
+
+170
+00:13:31,477 --> 00:13:38,234
+So if I were to say: "Mr. Raccoon,
+Mr. Raccoon, come out and play"?
+
+171
+00:13:38,651 --> 00:13:42,363
+<i>We're in the middle of a lesson now!</i>
+
+172
+00:13:42,446 --> 00:13:47,368
+See? You're already getting carried away!
+This is what worries me!
+
+173
+00:14:02,383 --> 00:14:08,430
+<i>As the raccoons worked to understand</i>
+<i>humans and practice shape-shifting,</i>
+
+174
+00:14:08,514 --> 00:14:10,015
+<i>winter turned to spring.</i>
+
+175
+00:14:10,099 --> 00:14:12,935
+<i>The plum trees blossomed,</i>
+<i>and love was in the air.</i>
+
+176
+00:14:13,269 --> 00:14:17,648
+<i>But most raccoons heeded</i>
+<i>Granny Oroku's order to remain chaste</i>
+
+177
+00:14:17,731 --> 00:14:23,529
+<i>and to avoid having children</i>
+<i>until everyone's homes were safe again.</i>
+
+178
+00:14:24,196 --> 00:14:28,659
+<i>They suppressed their maternal instincts</i>
+
+179
+00:14:28,742 --> 00:14:32,997
+<i>and firmly rejected</i>
+<i>the males' clumsy efforts to woo them.</i>
+
+180
+00:14:38,460 --> 00:14:42,506
+<i>Meanwhile, the massive</i>
+<i>development project was picking up steam.</i>
+
+181
+00:14:42,590 --> 00:14:44,508
+<i>Woods were cleared, the earth was scoured,</i>
+
+182
+00:14:44,592 --> 00:14:46,343
+<i>and construction sites multiplied.</i>
+
+183
+00:14:46,719 --> 00:14:49,179
+<i>The raccoons,</i>
+<i>filled with anger and sadness,</i>
+
+184
+00:14:49,263 --> 00:14:51,974
+<i>called these sites "bald hills."</i>
+
+185
+00:14:53,726 --> 00:14:57,396
+<i>Mr. Postman, you dropped something</i>
+
+186
+00:14:57,479 --> 00:15:01,567
+<i>Freed from the work of child-rearing,</i>
+
+187
+00:15:02,067 --> 00:15:05,654
+<i>some of the females</i>
+<i>started to practice shape-shifting too.</i>
+
+188
+00:15:06,822 --> 00:15:09,700
+<i>When males tried to pass themselves</i>
+<i>off as women or children,</i>
+
+189
+00:15:09,783 --> 00:15:11,994
+<i>the overall effect was not quite right.</i>
+
+190
+00:15:12,077 --> 00:15:14,997
+<i>With the participation of the females,</i>
+<i>this problem was solved.</i>
+
+191
+00:15:16,040 --> 00:15:20,169
+<i>Naturally, some of the females wanted</i>
+<i>to try their hand at turning into males.</i>
+
+192
+00:15:23,172 --> 00:15:27,927
+Ah, I'd like the males
+to stay after class today.
+
+193
+00:15:28,802 --> 00:15:34,391
+<i>One day, Tsurukame Osho</i>
+<i>gave a special lecture for the males.</i>
+
+194
+00:15:35,559 --> 00:15:42,066
+Now then, what do you think
+the carpet you are all sitting on is?
+
+195
+00:15:42,608 --> 00:15:45,986
+I may as well tell you. It's my testicles!
+
+196
+00:15:46,695 --> 00:15:51,116
+It's exactly eight mats.
+And I'll prove it!
+
+197
+00:16:03,295 --> 00:16:07,549
+<i>The time finally came for the students</i>
+<i>to test their skills in the real world.</i>
+
+198
+00:16:09,385 --> 00:16:11,845
+<i>The exercise was conducted</i>
+<i>like a driving lesson.</i>
+
+199
+00:16:11,929 --> 00:16:15,432
+<i>Each student was accompanied</i>
+<i>by an advanced partner,</i>
+
+200
+00:16:15,516 --> 00:16:19,561
+<i>in case of unforeseen problems</i>
+<i>or someone seeing through their disguise.</i>
+
+201
+00:16:50,759 --> 00:16:54,596
+<i>Shape-shifting requires</i>
+<i>large amounts of energy,</i>
+
+202
+00:16:54,888 --> 00:16:57,307
+<i>especially when assuming human form.</i>
+
+203
+00:16:59,184 --> 00:17:01,645
+<i>The dark circles</i>
+<i>raccoons have around their eyes</i>
+
+204
+00:17:01,729 --> 00:17:06,233
+<i>are the result of sheer fatigue.</i>
+
+205
+00:17:06,316 --> 00:17:08,652
+<i>Even experienced shape-shifters</i>
+
+206
+00:17:08,736 --> 00:17:11,655
+<i>have to secretly carry special herbs</i>
+
+207
+00:17:11,739 --> 00:17:14,158
+<i>to replenish their strength</i>
+<i>at a moment's notice.</i>
+
+208
+00:17:14,241 --> 00:17:16,035
+<i>Otherwise, out pops the tail,</i>
+
+209
+00:17:16,118 --> 00:17:19,580
+<i>and the next thing you know,</i>
+<i>they're back to their original form.</i>
+
+210
+00:17:21,498 --> 00:17:23,250
+<i>Recently raccoons have discovered</i>
+
+211
+00:17:23,333 --> 00:17:28,380
+<i>that instant energy drinks widely sold</i>
+<i>in stores are a good pick-me-up.</i>
+
+212
+00:17:29,882 --> 00:17:32,593
+<i>To graduate</i>
+<i>from the shape-shifting course,</i>
+
+213
+00:17:32,926 --> 00:17:34,970
+<i>students had to pass one final test:</i>
+
+214
+00:17:35,054 --> 00:17:38,682
+<i>they had to go out and earn</i>
+<i>at least 1,000 yen through honest labor.</i>
+
+215
+00:17:39,600 --> 00:17:40,601
+Help!
+
+216
+00:17:41,435 --> 00:17:44,438
+<i>Some raccoons got together and took turns</i>
+<i>impersonating the same human.</i>
+
+217
+00:17:44,563 --> 00:17:45,689
+Are you all right?
+
+218
+00:17:45,856 --> 00:17:49,151
+<i>Others transformed themselves</i>
+<i>into monks with begging bowls.</i>
+
+219
+00:17:49,276 --> 00:17:54,198
+<i>Some females worked in clubs and raked in</i>
+<i>money drinking with customers.</i>
+
+220
+00:17:54,823 --> 00:17:58,160
+<i>Another raccoon won a fortune</i>
+<i>at the pachinko parlor.</i>
+
+221
+00:17:58,243 --> 00:17:59,078
+COLLECTION BOX
+
+222
+00:17:59,161 --> 00:18:01,997
+<i>One tricky raccoon</i>
+<i>burgled a temple donation box,</i>
+
+223
+00:18:02,081 --> 00:18:03,791
+<i>but all he got was small change.</i>
+
+224
+00:18:03,874 --> 00:18:08,045
+<i>So he transformed some leaves into bills,</i>
+<i>but Oroku saw right through him.</i>
+
+225
+00:18:10,005 --> 00:18:14,468
+I told you modern shape-shifting
+forbids turning leaves into money!
+
+226
+00:18:22,101 --> 00:18:25,270
+<i>One day, an urgent report interrupted</i>
+<i>Gonta's training at headquarters.</i>
+
+227
+00:18:25,354 --> 00:18:29,066
+<i>He hurried home</i>
+<i>to Taka Woods to face tragedy.</i>
+
+228
+00:18:29,441 --> 00:18:34,863
+<i>More than half his childhood home</i>
+<i>had already been ravaged by construction.</i>
+
+229
+00:18:37,491 --> 00:18:39,076
+<i>Gonta went mad with grief.</i>
+
+230
+00:18:39,201 --> 00:18:41,203
+<i>He raced back to headquarters</i>
+
+231
+00:18:41,286 --> 00:18:44,248
+<i>and forced Tsurukame Osho</i>
+<i>to call a meeting of the clan elders,</i>
+
+232
+00:18:44,373 --> 00:18:47,459
+<i>where he called for a strategy</i>
+<i>of violent attacks on the humans.</i>
+
+233
+00:18:48,377 --> 00:18:51,255
+-I'm completely against this.
+-Why?
+
+234
+00:18:51,630 --> 00:18:55,342
+The time is not ripe. We're still
+in the first year of the Five-Year Plan.
+
+235
+00:18:55,551 --> 00:18:59,596
+We've all completed our training.
+There's a lot we can do right now!
+
+236
+00:19:00,139 --> 00:19:05,853
+What do you think, Granny? Do you think
+these youngsters are up to it?
+
+237
+00:19:06,145 --> 00:19:09,523
+True, they've mastered the basics, but...
+
+238
+00:19:09,815 --> 00:19:11,108
+But?
+
+239
+00:19:11,191 --> 00:19:16,697
+They lack experience.
+One slip and they'll be exposed.
+
+240
+00:19:16,822 --> 00:19:18,448
+Gonta, I have to ask you this.
+
+241
+00:19:18,532 --> 00:19:21,451
+I think your anger at what happened
+to Taka Woods
+
+242
+00:19:21,535 --> 00:19:25,664
+is clouding your judgment.
+
+243
+00:19:25,789 --> 00:19:26,874
+Isn't that so?
+
+244
+00:19:28,125 --> 00:19:30,627
+I swear there is
+absolutely no truth to that.
+
+245
+00:19:31,128 --> 00:19:34,882
+I'm thinking of the welfare
+of all the raccoons of Tama.
+
+246
+00:19:35,174 --> 00:19:37,843
+What do you mean, everyone's welfare?
+
+247
+00:19:37,968 --> 00:19:42,848
+Don't forget, Gonta's the one
+who tried to take over Suzu Woods!
+
+248
+00:19:42,931 --> 00:19:43,932
+Shut up!
+
+249
+00:19:44,266 --> 00:19:47,936
+Even if no one's for it, we raccoons
+of Taka are going ahead anyway.
+
+250
+00:19:48,103 --> 00:19:51,106
+If Gonta's that determined,
+I'm going to help him!
+
+251
+00:19:51,190 --> 00:19:52,983
+You too, Shokichi?
+
+252
+00:19:53,317 --> 00:19:54,818
+Thank you!
+
+253
+00:19:55,777 --> 00:20:00,240
+It's too late to stop us now!
+
+254
+00:20:00,490 --> 00:20:02,326
+Not so fast!
+
+255
+00:20:02,659 --> 00:20:05,120
+Don't try to stop us, Granny!
+
+256
+00:20:05,537 --> 00:20:09,750
+Just this once,
+I'll teach you a special technique!
+
+257
+00:20:13,086 --> 00:20:15,631
+If you bungle this,
+
+258
+00:20:15,714 --> 00:20:19,134
+you won't return to your original form
+for five days.
+
+259
+00:20:20,427 --> 00:20:21,929
+So, what is it?
+
+260
+00:20:22,846 --> 00:20:25,182
+A dead fox!
+
+261
+00:20:25,432 --> 00:20:27,351
+<i>Summer, year 32 of the Pom Poko era.</i>
+
+262
+00:20:27,726 --> 00:20:31,605
+<i>Ten young volunteers</i>
+<i>led by Gonta of Taka Woods</i>
+
+263
+00:20:31,688 --> 00:20:34,191
+<i>set out to apply</i>
+<i>their new skills in shape-shifting</i>
+
+264
+00:20:34,524 --> 00:20:37,653
+<i>with a series of desperate</i>
+<i>surprise attacks on the humans.</i>
+
+265
+00:20:38,153 --> 00:20:40,781
+<i>The raccoons were fighting back at last.</i>
+
+266
+00:20:54,044 --> 00:20:55,712
+-Here they come!
+-They're coming!
+
+267
+00:21:00,342 --> 00:21:03,971
+Keep going! Keep going!
+
+268
+00:21:09,643 --> 00:21:11,186
+We did it!
+
+269
+00:21:57,107 --> 00:21:58,900
+<i>Multiple accidents at construction site.</i>
+
+270
+00:21:58,984 --> 00:22:02,571
+<i>Disaster struck Tama New Town</i>
+<i>development site at approximately 2:30 pm.</i>
+
+271
+00:22:02,654 --> 00:22:07,576
+<i>A series of landslides and accidents</i>
+<i>killed three workers, injured two,</i>
+
+272
+00:22:07,659 --> 00:22:11,997
+<i>and destroyed</i>
+<i>a residence under construction.</i>
+
+273
+00:22:12,080 --> 00:22:13,081
+LIVE
+
+274
+00:22:13,165 --> 00:22:17,669
+<i>Police suspect reduced visibility</i>
+<i>and unstable ground from heavy rains.</i>
+
+275
+00:22:17,753 --> 00:22:23,759
+<i>The widespread, simultaneous nature</i>
+<i>of the accidents is raising concern.</i>
+
+276
+00:22:23,842 --> 00:22:26,762
+<i>There may be fundamental flaws</i>
+<i>with the development plan.</i>
+
+277
+00:22:26,845 --> 00:22:32,809
+<i>Some local residents</i>
+<i>are calling for a review of the plan.</i>
+
+278
+00:22:35,979 --> 00:22:38,231
+Hold on, everyone!
+
+279
+00:22:38,356 --> 00:22:40,525
+I think we should take a moment
+
+280
+00:22:40,692 --> 00:22:44,404
+to remember the poor humans
+
+281
+00:22:44,488 --> 00:22:47,783
+who died in this operation.
+
+282
+00:22:48,075 --> 00:22:50,202
+Osho is right.
+
+283
+00:22:50,410 --> 00:22:56,291
+Let's observe a minute of silent prayer
+for the unfortunate victims.
+
+284
+00:22:56,500 --> 00:22:59,294
+Agreed! A minute of silence!
+
+285
+00:22:59,628 --> 00:23:00,921
+All pray!
+
+286
+00:23:04,674 --> 00:23:06,468
+Namo Amitabha, Namo Amitabha,
+
+287
+00:23:06,843 --> 00:23:08,929
+Namo Amitabha, Namo Amitabha...
+
+288
+00:23:20,357 --> 00:23:22,442
+What a success!
+
+289
+00:23:53,640 --> 00:23:55,225
+Look, it's Gonta!
+
+290
+00:23:57,519 --> 00:23:59,271
+The heroes have returned!
+
+291
+00:24:03,233 --> 00:24:05,235
+You really did it, Shokichi!
+
+292
+00:24:07,112 --> 00:24:12,868
+You youngsters have restored hope
+in this old heart of mine.
+
+293
+00:24:13,785 --> 00:24:16,621
+That was only the beginning!
+Today was just a practice run!
+
+294
+00:24:17,455 --> 00:24:20,292
+Raccoons, the war has started!
+
+295
+00:24:20,375 --> 00:24:25,589
+We must kill, crush,
+and mangle every human we can,
+
+296
+00:24:25,672 --> 00:24:28,091
+until they are driven from Tama Hills!
+
+297
+00:24:28,175 --> 00:24:30,594
+Shokichi, you should say something too!
+
+298
+00:24:31,052 --> 00:24:32,345
+And let's plant trees!
+
+299
+00:24:32,929 --> 00:24:36,641
+Lots and lots
+of our favorite persimmon trees!
+
+300
+00:24:38,643 --> 00:24:41,313
+<i>Little persimmon seeds</i>
+<i>Send out your shoots</i>
+
+301
+00:24:41,563 --> 00:24:45,108
+<i>We'll have all the persimmons we can eat</i>
+
+302
+00:24:45,525 --> 00:24:47,485
+Out with the humans!
+
+303
+00:24:47,777 --> 00:24:50,030
+Slaughter the humans!
+
+304
+00:24:50,113 --> 00:24:55,869
+Okay, okay, okay. But first,
+we must celebrate this auspicious victory.
+
+305
+00:24:56,369 --> 00:24:58,872
+You know, something worries me.
+
+306
+00:24:59,581 --> 00:25:00,832
+What?
+
+307
+00:25:01,750 --> 00:25:04,252
+Are we really going to drive out
+all the humans?
+
+308
+00:25:04,544 --> 00:25:05,879
+Of course!
+
+309
+00:25:05,962 --> 00:25:08,882
+Can't we let a few of them stay,
+the way it used to be?
+
+310
+00:25:09,257 --> 00:25:12,302
+No way!
+The two-legs are our sworn enemies.
+
+311
+00:25:12,385 --> 00:25:15,388
+They're vermin. We've got to get rid
+of them once and for all!
+
+312
+00:25:16,056 --> 00:25:20,685
+I see. I mean, look, I hate humans too.
+
+313
+00:25:21,144 --> 00:25:27,484
+Well, some of them are not so bad.
+I mean, I really do hate them. But...
+
+314
+00:25:27,984 --> 00:25:29,069
+But what?
+
+315
+00:25:29,486 --> 00:25:35,033
+But if we get rid of them all,
+we'll never eat tempura again!
+
+316
+00:25:36,660 --> 00:25:37,577
+Or sardines!
+
+317
+00:25:38,828 --> 00:25:39,704
+Or corn!
+
+318
+00:25:40,121 --> 00:25:46,378
+Hamburgers! Donuts! Fried chicken!
+Potato chips! Pizza!
+
+319
+00:25:47,337 --> 00:25:48,463
+I can taste it!
+
+320
+00:25:49,714 --> 00:25:53,969
+Well then, Gonta, shall we let
+a few of the humans stay?
+
+321
+00:25:55,345 --> 00:25:56,471
+I guess it can't be helped.
+
+322
+00:25:59,140 --> 00:26:01,351
+Hooray for Gon! Lift him up, fellows!
+
+323
+00:26:02,477 --> 00:26:07,357
+<i>The moon, moon, moon shines bright</i>
+
+324
+00:26:07,983 --> 00:26:13,822
+<i>Over Man-Man-Manpuku Temple</i>
+
+325
+00:26:13,905 --> 00:26:17,492
+<i>All our friends are here tonight</i>
+<i>Pun Poko pun pun, pun pun</i>
+
+326
+00:26:17,617 --> 00:26:20,161
+<i>We'll show the world</i>
+<i>What Tsurukame Osho can do</i>
+
+327
+00:26:20,245 --> 00:26:22,706
+<i>Come on, come on</i>
+<i>All our friends are here tonight</i>
+
+328
+00:26:23,248 --> 00:26:27,085
+<i>Come on, come on</i>
+<i>All our friends are here tonight</i>
+
+329
+00:26:27,168 --> 00:26:28,837
+<i>A government spokesman stressed</i>
+
+330
+00:26:28,920 --> 00:26:32,924
+<i>that the project is an urgent necessity</i>
+<i>for the people of Tokyo,</i>
+
+331
+00:26:33,049 --> 00:26:36,428
+<i>and that today's accidents will not affect</i>
+
+332
+00:26:36,553 --> 00:26:40,682
+<i>the government's determination</i>
+<i>to carry out the construction.</i>
+
+333
+00:26:41,182 --> 00:26:42,434
+What?
+
+334
+00:26:46,021 --> 00:26:47,605
+<i>It was a very unfortunate accident.</i>
+
+335
+00:26:47,689 --> 00:26:51,776
+<i>Poor Gonta,</i>
+<i>the driving force behind the attacks,</i>
+
+336
+00:26:51,901 --> 00:26:57,032
+<i>suffered fractures and internal injuries</i>
+<i>that would take a year to heal.</i>
+
+337
+00:26:57,365 --> 00:26:58,408
+Gonta!
+
+338
+00:27:00,952 --> 00:27:04,998
+<i>The news report plunged</i>
+<i>the raccoons into depression.</i>
+
+339
+00:27:05,332 --> 00:27:09,127
+<i>But when the news began to cover</i>
+<i>the locals' fears of divine retribution,</i>
+
+340
+00:27:09,210 --> 00:27:12,297
+<i>their spirits soared again.</i>
+
+341
+00:27:12,797 --> 00:27:17,469
+<i>Maybe it was a mistake,</i>
+<i>moving that Shinto shrine.</i>
+
+342
+00:27:17,969 --> 00:27:19,471
+<i>What do you mean?</i>
+
+343
+00:27:19,554 --> 00:27:24,184
+<i>Maybe all these incidents are revenge</i>
+<i>from the gods of the shrine.</i>
+
+344
+00:27:24,559 --> 00:27:28,355
+<i>It's true that a lot of Jizo statues</i>
+<i>and shrines have been moved.</i>
+
+345
+00:27:28,480 --> 00:27:30,982
+<i>Yes, that really worried me.</i>
+
+346
+00:27:31,066 --> 00:27:33,651
+<i>I asked the developers to observe</i>
+<i>the proper ceremonies</i>
+
+347
+00:27:33,735 --> 00:27:35,779
+<i>before moving them, but...</i>
+
+348
+00:27:35,862 --> 00:27:38,239
+<i>Professor Mizuki,</i>
+<i>what do you think about all this?</i>
+
+349
+00:27:39,407 --> 00:27:44,454
+<i>These spirits are usually associated</i>
+<i>with a given location.</i>
+
+350
+00:27:45,288 --> 00:27:50,126
+<i>If their abodes are moved,</i>
+<i>they'll try to return home.</i>
+
+351
+00:27:50,210 --> 00:27:54,422
+<i>If they do, and everything has changed,</i>
+<i>they naturally become upset.</i>
+
+352
+00:27:54,506 --> 00:27:58,468
+<i>I have a feeling</i>
+<i>there's a lot more trouble to come.</i>
+
+353
+00:28:00,512 --> 00:28:02,722
+Maybe I can save my woods after all.
+
+354
+00:28:06,684 --> 00:28:09,562
+<i>Shokichi and the others went into action.</i>
+
+355
+00:28:16,611 --> 00:28:19,280
+<i>The owner of Shokichi's woods</i>
+<i>came to inspect his property</i>
+
+356
+00:28:19,406 --> 00:28:22,200
+<i>with one of the developers</i>
+<i>before construction began.</i>
+
+357
+00:28:22,283 --> 00:28:25,245
+<i>To his surprise, he saw far more</i>
+<i>Jizo statues than he remembered.</i>
+
+358
+00:28:25,328 --> 00:28:29,249
+<i>"I'd better give this more thought,"</i>
+<i>he told the developer,</i>
+
+359
+00:28:29,332 --> 00:28:31,709
+<i>and he held off on signing</i>
+<i>the contract to sell his land.</i>
+
+360
+00:28:32,627 --> 00:28:35,964
+<i>During a ceremony at another shrine</i>
+<i>that was slated to be moved,</i>
+
+361
+00:28:36,464 --> 00:28:43,304
+<i>one of the raccoons suddenly appeared</i>
+<i>on the roof disguised as a fox,</i>
+
+362
+00:28:43,430 --> 00:28:45,807
+<i>the shrine's servant to the gods.</i>
+
+363
+00:28:47,976 --> 00:28:52,439
+<i>The fox's eerie cry brought the</i>
+<i>proceedings to an immediate halt.</i>
+
+364
+00:28:52,564 --> 00:28:55,942
+<i>The ceremony was cancelled,</i>
+<i>the shrine's relocation put on hold,</i>
+
+365
+00:28:56,025 --> 00:28:58,153
+<i>and residents petitioned the authorities</i>
+
+366
+00:28:58,236 --> 00:29:01,239
+<i>to change plans for a road</i>
+<i>through the area.</i>
+
+367
+00:29:02,699 --> 00:29:04,993
+<i>The raccoons were on a roll.</i>
+
+368
+00:29:14,711 --> 00:29:19,007
+<i>Each group tried to outdo the others</i>
+
+369
+00:29:19,090 --> 00:29:21,593
+<i>in a campaign of guerrilla operations.</i>
+
+370
+00:29:21,718 --> 00:29:24,220
+<i>Come this way!</i>
+
+371
+00:29:25,930 --> 00:29:29,392
+Go away!
+
+372
+00:29:32,103 --> 00:29:34,272
+Take it with you!
+
+373
+00:29:37,442 --> 00:29:39,652
+Let's take all the trash
+and leftovers with us.
+
+374
+00:29:39,861 --> 00:29:41,446
+The leftovers!
+
+375
+00:29:41,613 --> 00:29:44,115
+Leave them behind!
+
+376
+00:29:49,454 --> 00:29:51,289
+Is something wrong, miss?
+
+377
+00:29:56,753 --> 00:29:58,630
+What's the trouble?
+
+378
+00:30:09,891 --> 00:30:11,142
+I have no face!
+
+379
+00:30:13,645 --> 00:30:15,188
+A specter!
+
+380
+00:30:47,720 --> 00:30:51,057
+-J-j-just now, I... I saw--
+-A murder?
+
+381
+00:30:51,307 --> 00:30:53,059
+N-no, it was...
+
+382
+00:30:53,685 --> 00:30:55,770
+Not a murder? Too bad!
+
+383
+00:30:56,521 --> 00:30:59,607
+Th-th-there was a woman!
+
+384
+00:30:59,732 --> 00:31:04,153
+-Did she have a mouth like a shark?
+-No! No! She was... I mean...
+
+385
+00:31:04,279 --> 00:31:08,157
+Then, was she something like this?
+
+386
+00:31:09,450 --> 00:31:10,910
+It's her!
+
+387
+00:31:25,008 --> 00:31:31,598
+Was... she... something... like... this?
+
+388
+00:31:39,230 --> 00:31:43,943
+<i>The raccoons took endless delight</i>
+<i>in frightening the humans.</i>
+
+389
+00:31:44,819 --> 00:31:47,947
+<i>After every big success,</i>
+<i>they held a celebration.</i>
+
+390
+00:31:51,326 --> 00:31:55,204
+<i>But Gonta, the one who started it all,</i>
+
+391
+00:31:55,330 --> 00:31:58,416
+<i>showed no signs of recovering</i>
+<i>from his injuries.</i>
+
+392
+00:31:58,499 --> 00:32:00,960
+<i>His loving wife Otama</i>
+<i>cared for him tenderly,</i>
+
+393
+00:32:01,044 --> 00:32:04,422
+<i>but she could not soothe his frustration</i>
+<i>at being out of the fight.</i>
+
+394
+00:32:04,964 --> 00:32:08,259
+<i>Frankly, Gonta thought</i>
+<i>his raccoon friends were wimps.</i>
+
+395
+00:32:08,593 --> 00:32:11,262
+Yesterday's <i>News Train</i> was priceless.
+
+396
+00:32:11,346 --> 00:32:13,932
+You know that special
+about "Tama New Specter Town"?
+
+397
+00:32:14,015 --> 00:32:16,893
+They interviewed the cop we scared.
+
+398
+00:32:16,976 --> 00:32:22,774
+The other guests laughed in his face.
+He was so furious! I almost died!
+
+399
+00:32:22,899 --> 00:32:26,986
+Idiot! So what?
+Are they going to stop the project
+
+400
+00:32:27,111 --> 00:32:28,363
+just because of stuff like that?
+
+401
+00:32:28,488 --> 00:32:30,698
+If you're going to shape-shift,
+do it the way I did!
+
+402
+00:32:31,282 --> 00:32:34,744
+Cause accidents, and kill them!
+
+403
+00:32:34,827 --> 00:32:38,665
+-Oh, no!
+-Gonta!
+
+404
+00:32:39,123 --> 00:32:41,250
+<i>It was just as Gonta said.</i>
+
+405
+00:32:41,501 --> 00:32:43,211
+<i>The project didn't stop.</i>
+
+406
+00:32:43,628 --> 00:32:49,217
+<i>Rivers were encased in concrete,</i>
+<i>roads were laid out everywhere,</i>
+
+407
+00:32:49,300 --> 00:32:50,760
+<i>masses of building material flowed in,</i>
+
+408
+00:32:51,135 --> 00:32:53,930
+<i>and the construction of thousands of</i>
+<i>apartments finally got under way.</i>
+
+409
+00:32:54,430 --> 00:32:58,059
+<i>The strange happenings</i>
+<i>on the construction sites</i>
+
+410
+00:32:58,184 --> 00:32:59,268
+<i>and in the hills</i>
+
+411
+00:32:59,352 --> 00:33:04,565
+<i>received nationwide coverage.</i>
+
+412
+00:33:04,816 --> 00:33:07,777
+<i>The raccoons were gaining</i>
+<i>confidence in their ultimate victory.</i>
+
+413
+00:33:10,071 --> 00:33:12,782
+Rock, paper, scissors...
+
+414
+00:33:16,744 --> 00:33:18,788
+<i>Autumn, year 32 of the Pom Poko era.</i>
+
+415
+00:33:19,414 --> 00:33:22,583
+<i>It was time to choose messengers</i>
+<i>to travel to Sade and Shikoku islands</i>
+
+416
+00:33:22,709 --> 00:33:24,919
+<i>to seek help</i>
+<i>from famous shape-shifting masters.</i>
+
+417
+00:33:26,379 --> 00:33:29,799
+<i>Tamasaburo of Oni Woods</i>
+<i>was chosen to go to Shikoku.</i>
+
+418
+00:33:30,633 --> 00:33:33,845
+<i>Bunta of Mizunomi Marsh</i>
+<i>was chosen to travel to Sado.</i>
+
+419
+00:33:36,848 --> 00:33:39,684
+<i>So at the next full moon,</i>
+
+420
+00:33:39,767 --> 00:33:44,564
+<i>the two young raccoons</i>
+<i>said farewell to their comrades</i>
+
+421
+00:33:44,647 --> 00:33:47,859
+<i>and set out for their destinations</i>
+<i>in high spirits.</i>
+
+422
+00:34:01,748 --> 00:34:03,041
+What a smell!
+
+423
+00:34:04,959 --> 00:34:10,339
+<i>The raccoons continued</i>
+<i>haunting the construction sites.</i>
+
+424
+00:34:17,055 --> 00:34:20,224
+<i>They were having so much fun</i>
+<i>with their shape-shifting,</i>
+
+425
+00:34:20,349 --> 00:34:24,479
+<i>they almost didn't care</i>
+<i>whether it was effective or not.</i>
+
+426
+00:34:39,452 --> 00:34:41,120
+-Out with the demons!
+-Daddy!
+
+427
+00:35:06,437 --> 00:35:10,274
+Will this really drive out the humans?
+
+428
+00:35:11,901 --> 00:35:15,905
+Won't they see through us
+one of these days?
+
+429
+00:35:17,281 --> 00:35:20,743
+Maybe we should really go after them,
+like Gonta says.
+
+430
+00:35:22,078 --> 00:35:26,457
+What does it matter
+if one or two get killed?
+
+431
+00:35:28,167 --> 00:35:32,755
+"To be or not to be,
+that is the question."
+
+432
+00:35:43,474 --> 00:35:44,475
+Kiyo!
+
+433
+00:35:48,688 --> 00:35:50,481
+What are you doing up there?
+
+434
+00:35:55,153 --> 00:35:56,237
+Something wrong with your neck?
+
+435
+00:35:58,114 --> 00:36:02,118
+I was posing for you.
+I was hoping you'd say I was pretty.
+
+436
+00:36:02,702 --> 00:36:03,619
+Oh, sorry.
+
+437
+00:36:04,662 --> 00:36:06,622
+Now there really is something wrong
+with my neck.
+
+438
+00:36:07,290 --> 00:36:08,583
+You looked pretty.
+
+439
+00:36:09,000 --> 00:36:09,834
+It's too late.
+
+440
+00:36:10,459 --> 00:36:11,669
+I mean it.
+
+441
+00:36:14,964 --> 00:36:17,466
+It's okay. I just need more practice.
+
+442
+00:36:27,059 --> 00:36:30,188
+<i>One day a raccoon from Potamochi Mountain</i>
+
+443
+00:36:31,022 --> 00:36:34,442
+Everyone likes that song, don't they?
+I kind of like it myself.
+
+444
+00:36:35,234 --> 00:36:37,153
+Do you know the song,
+"Where Are You From?"
+
+445
+00:36:37,278 --> 00:36:39,530
+Yes, but I can't sing all the lyrics.
+
+446
+00:36:39,655 --> 00:36:40,740
+That song used to be--
+
+447
+00:36:40,907 --> 00:36:46,954
+<i>There was a raccoon from Senba</i>
+<i>Along came a hunter</i>
+
+448
+00:36:47,413 --> 00:36:49,582
+A hunter shot my grandpa.
+
+449
+00:36:51,500 --> 00:36:53,085
+I'm sorry. I didn't know.
+
+450
+00:36:53,794 --> 00:36:58,799
+That's okay.
+But Grandpa wasn't boiled or fried.
+
+451
+00:36:59,050 --> 00:37:02,803
+Someone paid a lot for his pelt.
+
+452
+00:37:03,721 --> 00:37:05,097
+I really like your fur too.
+
+453
+00:37:05,640 --> 00:37:08,476
+Why, that makes me happy.
+Coming from you, that is.
+
+454
+00:37:12,605 --> 00:37:14,523
+So, what were you going to say
+about that song?
+
+455
+00:37:15,024 --> 00:37:18,903
+My father used to sing it.
+
+456
+00:37:19,028 --> 00:37:20,529
+He was a good ball-bouncer too.
+
+457
+00:37:20,655 --> 00:37:23,366
+He must have been a character.
+
+458
+00:37:24,242 --> 00:37:29,455
+Whenever he got to the end of the song,
+he always warned us.
+
+459
+00:37:30,164 --> 00:37:31,332
+About what?
+
+460
+00:37:31,457 --> 00:37:34,126
+"You kids better remember:
+
+461
+00:37:34,627 --> 00:37:36,796
+"Even in a simple ball-bouncing song,
+
+462
+00:37:36,879 --> 00:37:39,215
+"you hear about the cruel nature
+of humans."
+
+463
+00:37:39,298 --> 00:37:44,136
+"How they hunt us raccoons, kill us
+and eat us. And don't you forget it!"
+
+464
+00:37:48,391 --> 00:37:50,309
+Say, shall we bounce balls?
+
+465
+00:37:50,768 --> 00:37:52,144
+Are you good at it?
+
+466
+00:37:52,228 --> 00:37:53,771
+Yes, I'm pretty good.
+
+467
+00:37:58,901 --> 00:38:00,695
+Then I better do my best too!
+
+468
+00:38:06,575 --> 00:38:10,997
+<i>Where are you from? Higo</i>
+<i>Where's Higo?</i>
+
+469
+00:38:11,163 --> 00:38:15,751
+<i>In Kumamoto</i>
+<i>Where's Kumamoto? In Semba</i>
+
+470
+00:38:15,876 --> 00:38:19,630
+<i>There was a raccoon from Semba</i>
+
+471
+00:38:19,755 --> 00:38:20,923
+<i>Along came--</i>
+
+472
+00:38:21,007 --> 00:38:24,927
+Shokichi, when are you going to do
+that "Operation Twin Star" you mentioned?
+
+473
+00:38:25,011 --> 00:38:27,596
+Oh, I don't really want to do it anymore.
+
+474
+00:38:27,722 --> 00:38:30,141
+But it was such a good plan.
+
+475
+00:38:31,809 --> 00:38:33,853
+Why don't we do it tonight?
+Just the two of us.
+
+476
+00:38:34,228 --> 00:38:35,604
+With you?
+
+477
+00:38:36,480 --> 00:38:37,982
+Are you afraid to do it with me?
+
+478
+00:38:38,274 --> 00:38:41,485
+No, it's not that. It's just...
+
+479
+00:38:42,028 --> 00:38:45,656
+Then let's try.
+I'm sure it will go over really well.
+
+480
+00:38:46,365 --> 00:38:50,286
+Okay, let's do it! With you as my partner,
+I bet things will go great.
+
+481
+00:38:51,370 --> 00:38:52,288
+I can't wait!
+
+482
+00:39:03,090 --> 00:39:05,926
+Well, well, what adorable little children!
+
+483
+00:39:06,886 --> 00:39:11,557
+We just got back from a trip
+to the stars, but our home is gone.
+
+484
+00:39:12,308 --> 00:39:13,559
+A trip to the stars?
+
+485
+00:39:13,976 --> 00:39:19,023
+From red-eyed Scorpio
+to the Eagle's wings...
+
+486
+00:39:19,190 --> 00:39:23,694
+From the coils of the Snake
+to the brow of the Bear Cub!
+
+487
+00:39:24,487 --> 00:39:29,241
+We sprinkle the dew and frost
+as we fly among the stars.
+
+488
+00:39:29,325 --> 00:39:31,786
+What is this?
+
+489
+00:39:34,789 --> 00:39:37,500
+Our home is gone! We're cold!
+
+490
+00:39:37,833 --> 00:39:40,586
+Mister, do you know where our home went?
+
+491
+00:39:41,670 --> 00:39:45,299
+Your home? I don't know what you mean.
+
+492
+00:39:46,092 --> 00:39:48,803
+Nobody knows! Run along now!
+
+493
+00:39:48,886 --> 00:39:51,347
+We should call the police.
+Someone get the police here!
+
+494
+00:39:56,936 --> 00:39:58,479
+Hey, what are you kids doing?
+
+495
+00:40:12,076 --> 00:40:14,161
+They're not kids, they're spirits!
+
+496
+00:40:14,286 --> 00:40:15,371
+Spirits?
+
+497
+00:40:15,704 --> 00:40:19,250
+Little spirits, please don't be angry!
+
+498
+00:40:40,604 --> 00:40:42,648
+Now, just hold on a minute.
+
+499
+00:40:42,731 --> 00:40:46,193
+I'll treat you right! You want a raise?
+Come on, give me a break!
+
+500
+00:40:46,444 --> 00:40:53,117
+No, I've had it. I'm going back home.
+I can't stay in these haunted hills.
+
+501
+00:40:53,325 --> 00:40:55,911
+Come on, Suzuki.
+
+502
+00:40:56,078 --> 00:41:01,208
+I heard Tokyo was a scary place,
+but this is too much for me.
+
+503
+00:41:01,292 --> 00:41:03,586
+You'd better stop the construction.
+
+504
+00:41:03,669 --> 00:41:05,379
+Whether it's gods or devils,
+
+505
+00:41:05,546 --> 00:41:07,965
+somebody or something
+is really upset about this project.
+
+506
+00:41:14,722 --> 00:41:17,391
+<i>The raccoons cheered.</i>
+
+507
+00:41:17,892 --> 00:41:21,020
+<i>That evening's celebrations</i>
+<i>were especially grand.</i>
+
+508
+00:41:21,395 --> 00:41:26,066
+<i>Naturally, the guests of honor</i>
+<i>were the two heroes, Kiyo and Shokichi.</i>
+
+509
+00:41:31,113 --> 00:41:36,202
+<i>Meanwhile, the workers' quarters</i>
+<i>were dark and silent.</i>
+
+510
+00:41:37,119 --> 00:41:38,954
+<i>But the next morning...</i>
+
+511
+00:41:41,332 --> 00:41:43,751
+<i>It seemed there was</i>
+<i>an endless supply of humans.</i>
+
+512
+00:41:44,251 --> 00:41:46,587
+<i>No matter how many</i>
+<i>the raccoons scared away,</i>
+
+513
+00:41:46,670 --> 00:41:49,882
+<i>there were always others</i>
+<i>to take their place.</i>
+
+514
+00:41:51,592 --> 00:41:53,385
+It's rumored among local residents
+
+515
+00:41:53,511 --> 00:41:56,430
+that this may be
+the work of foxes and raccoons.
+
+516
+00:41:58,015 --> 00:41:59,975
+That would make things simple enough.
+
+517
+00:42:00,059 --> 00:42:04,188
+All we'd have to do is
+exterminate all the offending animals.
+
+518
+00:42:04,563 --> 00:42:07,191
+<i>The raccoons who were watching</i>
+<i>were shocked.</i>
+
+519
+00:42:07,733 --> 00:42:12,571
+<i>But these incidents</i>
+<i>are right out of old folk tales.</i>
+
+520
+00:42:12,905 --> 00:42:15,574
+<i>It's not surprising people think</i>
+<i>foxes and raccoons are behind it.</i>
+
+521
+00:42:15,658 --> 00:42:20,204
+<i>But that is precisely the proof</i>
+<i>that this is all just malicious rumors.</i>
+
+522
+00:42:20,287 --> 00:42:23,207
+<i>What do you mean, rumors?</i>
+<i>I saw it with my own eyes!</i>
+
+523
+00:42:23,499 --> 00:42:24,708
+<i>Oh, all right.</i>
+
+524
+00:42:25,709 --> 00:42:30,214
+<i>In that case, we'll issue</i>
+<i>an extermination order for these pests.</i>
+
+525
+00:42:30,798 --> 00:42:33,551
+<i>As soon as you find</i>
+<i>any more raccoons playing more tricks,</i>
+
+526
+00:42:33,676 --> 00:42:35,094
+<i>let us know immediately.</i>
+
+527
+00:42:35,719 --> 00:42:38,430
+<i>That is, if you can prove it!</i>
+
+528
+00:42:41,225 --> 00:42:44,061
+<i>Shokichi was not the only one</i>
+<i>who wondered</i>
+
+529
+00:42:44,144 --> 00:42:46,689
+<i>whether shape-shifting was enough</i>
+<i>to drive out the humans.</i>
+
+530
+00:42:46,814 --> 00:42:50,568
+As you all know, the Edo period
+was a golden age for raccoons.
+
+531
+00:42:50,859 --> 00:42:54,446
+Raccoon shape-shifting was
+
+532
+00:42:54,530 --> 00:42:58,909
+a frequent
+subject for painters and writers.
+
+533
+00:42:59,368 --> 00:43:02,663
+But unfortunately,
+we raccoons were too conspicuous.
+
+534
+00:43:02,746 --> 00:43:04,915
+We aroused the resentment of humans.
+
+535
+00:43:05,499 --> 00:43:10,879
+In the modern era,
+we've been hunted for our pelts,
+
+536
+00:43:10,963 --> 00:43:14,216
+and our fur has been used
+for paintbrushes and toothbrushes.
+
+537
+00:43:14,508 --> 00:43:17,928
+That's how the humans
+took revenge for our excesses.
+
+538
+00:43:18,887 --> 00:43:20,347
+Don't any of you ever forget:
+
+539
+00:43:20,431 --> 00:43:23,475
+the past few decades
+have been peaceful for us raccoons
+
+540
+00:43:23,559 --> 00:43:26,103
+only because we've exercised restraint
+
+541
+00:43:26,687 --> 00:43:32,860
+and not used shape-shifting too often.
+
+542
+00:43:33,819 --> 00:43:36,280
+Our talents are a two-edged sword.
+
+543
+00:43:36,447 --> 00:43:39,575
+I want all of you to use this technique
+with discretion.
+
+544
+00:43:39,700 --> 00:43:45,372
+Otherwise, we'll invite
+further retribution from the humans.
+
+545
+00:43:48,751 --> 00:43:53,464
+<i>Oroku's speech dashed cold water</i>
+<i>on the spirits of the young raccoons.</i>
+
+546
+00:43:54,048 --> 00:43:57,509
+<i>And now autumn was upon them,</i>
+
+547
+00:43:57,635 --> 00:44:00,721
+<i>the time of year when raccoons</i>
+<i>need enough food to store ample fat</i>
+
+548
+00:44:00,846 --> 00:44:05,225
+<i>and grow the long, fluffy coats</i>
+<i>needed for the coming winter.</i>
+
+549
+00:44:20,783 --> 00:44:24,953
+<i>The young raccoons focused their</i>
+<i>attention and shape-shifting skills</i>
+
+550
+00:44:25,037 --> 00:44:27,665
+<i>on getting food for the winter.</i>
+
+551
+00:44:30,209 --> 00:44:36,131
+<i>One day, an exhausted raccoon</i>
+<i>arrived in Tama Hills.</i>
+
+552
+00:44:53,816 --> 00:44:55,734
+Don't worry, we're raccoons too!
+
+553
+00:45:00,364 --> 00:45:01,740
+Thank you very much.
+
+554
+00:45:03,283 --> 00:45:08,330
+You seem completely worn out.
+Where did you come from?
+
+555
+00:45:08,414 --> 00:45:09,915
+From Fujino Woods.
+
+556
+00:45:10,040 --> 00:45:11,750
+Is that on Shikoku island? Sado island?
+
+557
+00:45:12,126 --> 00:45:15,754
+Why, no.
+It's just over the mountains from here.
+
+558
+00:45:16,130 --> 00:45:20,634
+Just over the mountains?
+So you're not from Shikoku after all.
+
+559
+00:45:21,885 --> 00:45:26,098
+Oh, my, I'm sorry.
+I'm afraid I've disappointed you.
+
+560
+00:45:26,223 --> 00:45:29,309
+No, it's just that we've been waiting
+for someone from there.
+
+561
+00:45:29,518 --> 00:45:33,647
+So, what brought you here?
+
+562
+00:45:34,064 --> 00:45:38,277
+Now I finally know
+where all that dirt is coming from,
+
+563
+00:45:38,360 --> 00:45:39,903
+the dirt that's ruining our woods!
+
+564
+00:45:41,655 --> 00:45:43,991
+<i>According to this raccoon named Hayashi,</i>
+
+565
+00:45:44,074 --> 00:45:49,538
+<i>a huge amount of excavated dirt was</i>
+<i>being illegally dumped in Fujino Woods.</i>
+
+566
+00:45:49,997 --> 00:45:53,041
+<i>The streams were polluted,</i>
+<i>there were frequent landslides,</i>
+
+567
+00:45:53,125 --> 00:45:57,546
+<i>and the raccoons and other animals</i>
+<i>of the woods were in dire straits.</i>
+
+568
+00:45:58,922 --> 00:46:02,676
+<i>To find out where all this</i>
+<i>discarded earth was coming from,</i>
+
+569
+00:46:02,759 --> 00:46:07,723
+<i>Hayashi assumed human form and caught</i>
+<i>a ride on one of the dump trucks.</i>
+
+570
+00:46:16,273 --> 00:46:17,232
+<i>Unfortunately,</i>
+
+571
+00:46:17,524 --> 00:46:20,360
+<i>shape-shifting</i>
+<i>was not one of his strong points.</i>
+
+572
+00:46:20,444 --> 00:46:24,198
+<i>The swaying of the truck and the stress</i>
+<i>of the journey made him fall asleep,</i>
+
+573
+00:46:24,281 --> 00:46:26,533
+<i>and he changed back into a raccoon.</i>
+
+574
+00:46:26,992 --> 00:46:30,245
+It's not just Fujino Woods.
+Other woods are being ruined too.
+
+575
+00:46:30,329 --> 00:46:34,166
+And now there are garbage dumps
+and golf courses all over the place.
+
+576
+00:46:34,917 --> 00:46:38,045
+Our Tama Hills are levelled,
+and we suffer.
+
+577
+00:46:38,629 --> 00:46:43,258
+Then the dirt is dumped in Fujino Woods,
+and you suffer.
+
+578
+00:46:43,675 --> 00:46:45,802
+When will this insanity end?
+
+579
+00:46:47,763 --> 00:46:51,058
+And I was so astonished
+at what I found here!
+
+580
+00:46:51,141 --> 00:46:55,812
+I thought the trucks came
+from some site in the middle of Tokyo.
+
+581
+00:46:56,271 --> 00:46:58,357
+But we're in the hills here!
+
+582
+00:46:58,440 --> 00:47:00,943
+They dig up one hill
+and dump it on another!
+
+583
+00:47:01,026 --> 00:47:04,947
+I just can't understand
+why the humans are doing this.
+
+584
+00:47:05,948 --> 00:47:09,451
+So if we stop the construction,
+
+585
+00:47:09,535 --> 00:47:12,829
+it will help the raccoons
+in Fujino Woods too, right?
+
+586
+00:47:14,039 --> 00:47:16,917
+What stirring words!
+
+587
+00:47:17,292 --> 00:47:19,711
+I beg you all to use
+your skills in shape-shifting
+
+588
+00:47:20,546 --> 00:47:25,592
+to save our woods too!
+
+589
+00:47:25,717 --> 00:47:31,139
+Well, you see,
+it's not really that simple, even for us.
+
+590
+00:47:35,477 --> 00:47:39,314
+Where could Bunta and Tamasaburo be?
+
+591
+00:47:39,398 --> 00:47:42,734
+They were supposed to go
+and fetch the masters to help us.
+
+592
+00:47:46,071 --> 00:47:50,826
+<i>There was no word from Shikoku or Sade.</i>
+
+593
+00:47:50,909 --> 00:47:53,161
+<i>And so winter came to Tama Hills.</i>
+
+594
+00:47:54,329 --> 00:47:56,832
+<i>With the raccoons down for the winter,</i>
+
+595
+00:47:56,915 --> 00:47:59,835
+<i>the haunting of Tama New Town</i>
+<i>was forgotten,</i>
+
+596
+00:48:00,085 --> 00:48:02,671
+<i>and media attention evaporated.</i>
+
+597
+00:48:02,879 --> 00:48:05,674
+<i>The papers were filled with stories</i>
+<i>about celebrity scandals</i>
+
+598
+00:48:05,799 --> 00:48:08,635
+<i>and sordid political goings-on.</i>
+
+599
+00:48:14,057 --> 00:48:17,394
+<i>Sleet covers the garden of Manpuku Temple</i>
+
+600
+00:48:17,519 --> 00:48:21,315
+<i>The sleet's like ice cream</i>
+
+601
+00:48:21,398 --> 00:48:25,944
+<i>All our friends are here</i>
+<i>Pom Poko pun pun, pun pun</i>
+
+602
+00:48:26,862 --> 00:48:29,072
+<i>New Year's Day,</i>
+<i>year 33 of the Pom Poko era.</i>
+
+603
+00:48:29,698 --> 00:48:33,660
+<i>Tama Hills greeted the new year</i>
+<i>under a rare blanket of snow.</i>
+
+604
+00:48:35,412 --> 00:48:39,791
+<i>Most of the construction workers</i>
+<i>had already returned to their hometowns</i>
+
+605
+00:48:39,875 --> 00:48:45,088
+<i>and were enjoying the holidays</i>
+<i>surrounded by their families.</i>
+
+606
+00:48:45,255 --> 00:48:50,510
+Push! Push! Push!
+
+607
+00:49:00,604 --> 00:49:02,606
+<i>Our golden balls swing and swing</i>
+
+608
+00:49:02,731 --> 00:49:06,526
+<i>Though there's not a breath of wind</i>
+
+609
+00:49:06,818 --> 00:49:10,822
+<i>The baby raccoon sees our balls</i>
+
+610
+00:49:10,906 --> 00:49:14,534
+<i>And swings his--</i>
+
+611
+00:49:14,868 --> 00:49:16,662
+We saw it! It really happened!
+
+612
+00:49:16,828 --> 00:49:19,373
+<i>A bunch of raccoons pushed</i>
+<i>that bulldozer over the cliff!</i>
+
+613
+00:49:19,456 --> 00:49:20,540
+We're not lying!
+
+614
+00:49:21,124 --> 00:49:24,628
+<i>Police suspect the workers, who stayed</i>
+<i>behind over the new year holidays,</i>
+
+615
+00:49:24,711 --> 00:49:29,800
+<i>were inspired by the numerous pranks</i>
+<i>that finally stopped last autumn.</i>
+
+616
+00:49:29,966 --> 00:49:31,551
+<i>However, snow</i>
+<i>around the crime scene has melted,</i>
+
+617
+00:49:32,052 --> 00:49:34,429
+<i>and it may be difficult</i>
+<i>to gather evidence.</i>
+
+618
+00:49:34,513 --> 00:49:36,556
+I hope you know what you're doing,
+Shokichi.
+
+619
+00:49:37,015 --> 00:49:39,226
+Oh, I think we'll be all right.
+
+620
+00:49:39,309 --> 00:49:41,395
+What a stupid prank.
+
+621
+00:49:41,520 --> 00:49:42,354
+Not at all.
+
+622
+00:49:42,729 --> 00:49:46,233
+Shokichi was trying to encourage
+the raccoons who can't shape-shift
+
+623
+00:49:46,358 --> 00:49:47,526
+by giving them a way to help.
+
+624
+00:49:47,609 --> 00:49:49,528
+What do you think, Osho?
+
+625
+00:49:49,611 --> 00:49:53,323
+Hmm, I don't see any great harm done.
+
+626
+00:49:53,657 --> 00:49:55,826
+<i>It was just as Osho predicted.</i>
+
+627
+00:49:56,326 --> 00:49:59,788
+The three workers were released
+for lack of evidence.
+
+628
+00:49:59,871 --> 00:50:02,958
+<i>Naturally, no one believed the raccoons</i>
+<i>were responsible.</i>
+
+629
+00:50:03,041 --> 00:50:04,835
+<i>The case remained unsolved.</i>
+
+630
+00:50:14,886 --> 00:50:16,638
+<i>And so spring came.</i>
+
+631
+00:50:19,933 --> 00:50:21,893
+<i>The season of love had arrived once again</i>
+
+632
+00:50:22,853 --> 00:50:25,689
+<i>The raccoons had been chaste</i>
+<i>for more than a year,</i>
+
+633
+00:50:25,772 --> 00:50:27,566
+<i>and couldn't control themselves</i>
+<i>any longer.</i>
+
+634
+00:50:28,734 --> 00:50:33,155
+<i>The air was filled with sweet nothings,</i>
+<i>and the raccoons pursued</i>
+
+635
+00:50:33,363 --> 00:50:36,199
+<i>and wooed each other</i>
+<i>until the very skies turned rosy.</i>
+
+636
+00:50:41,037 --> 00:50:42,289
+Hanako! Wait!
+
+637
+00:50:49,504 --> 00:50:50,464
+Hanako!
+
+638
+00:50:51,006 --> 00:50:53,383
+You're walking much better!
+
+639
+00:50:55,594 --> 00:50:58,138
+Hanako! Wait just a minute!
+
+640
+00:50:58,722 --> 00:51:00,724
+Can't you catch me?
+
+641
+00:51:03,685 --> 00:51:05,604
+Everyone has spring fever.
+
+642
+00:51:06,062 --> 00:51:08,648
+I guess we're all
+like the flowers and the trees.
+
+643
+00:51:09,441 --> 00:51:12,068
+When winter ends
+and the sun shines down on us,
+
+644
+00:51:12,152 --> 00:51:13,945
+we can't help sending out shoots.
+
+645
+00:51:14,488 --> 00:51:17,949
+Then at last we blossom and bear fruit.
+
+646
+00:51:20,118 --> 00:51:23,663
+But we have to keep our promise to Granny.
+
+647
+00:51:24,664 --> 00:51:28,001
+Let's stay chaste
+until we've finally won this war.
+
+648
+00:51:28,585 --> 00:51:33,173
+Shokichi, you're so wonderful.
+
+649
+00:51:33,673 --> 00:51:35,675
+I'm so happy!
+
+650
+00:51:38,136 --> 00:51:40,472
+Our love will last forever!
+
+651
+00:51:42,891 --> 00:51:43,725
+Shokichi!
+
+652
+00:51:51,733 --> 00:51:53,109
+<i>That was a mistake.</i>
+
+653
+00:51:53,693 --> 00:51:55,362
+<i>Their love grew passionate,</i>
+
+654
+00:51:55,821 --> 00:51:57,697
+<i>and later that year,</i>
+
+655
+00:51:57,781 --> 00:52:03,703
+<i>four charming young raccoons</i>
+<i>were born to Kiyo and Shokichi.</i>
+
+656
+00:53:02,387 --> 00:53:04,222
+KINCHO DAIMYO SHRINE
+
+657
+00:53:04,347 --> 00:53:05,891
+<i>Now, the previous autumn,</i>
+
+658
+00:53:06,391 --> 00:53:09,144
+<i>Tamasaburo had managed to reach</i>
+<i>the island of Shikoku</i>
+
+659
+00:53:09,603 --> 00:53:13,106
+<i>after many trials and hardships.</i>
+
+660
+00:53:13,189 --> 00:53:17,152
+<i>He presented his request for help</i>
+<i>to the shape-shifting master Kincho VI,</i>
+
+661
+00:53:17,235 --> 00:53:19,905
+<i>but then he collapsed</i>
+<i>and was very ill for many weeks.</i>
+
+662
+00:53:19,988 --> 00:53:23,825
+<i>Luckily, Kincho had a daughter, Koharu,</i>
+<i>who stayed by Tamasaburo's bedside</i>
+
+663
+00:53:23,909 --> 00:53:25,785
+<i>and miraculously</i>
+<i>nursed him back to health.</i>
+
+664
+00:53:25,869 --> 00:53:28,163
+<i>With the coming of spring,</i>
+<i>their bond deepened,</i>
+
+665
+00:53:28,496 --> 00:53:31,333
+<i>and Koharu bore Tamasaburo three cubs.</i>
+
+666
+00:53:36,004 --> 00:53:41,927
+<i>The island's elders held a council</i>
+<i>in the inner chambers of the shrine.</i>
+
+667
+00:53:42,594 --> 00:53:45,430
+<i>They all agreed that stopping</i>
+<i>Tama New Town's development</i>
+
+668
+00:53:45,513 --> 00:53:51,061
+<i>would send a message</i>
+<i>to similar development projects</i>
+
+669
+00:53:51,144 --> 00:53:53,730
+<i>all over Japan.</i>
+
+670
+00:53:54,189 --> 00:53:56,691
+<i>But the elders were divided</i>
+<i>as to who to send,</i>
+
+671
+00:53:56,775 --> 00:53:58,693
+<i>how affairs in Shikoku would be handled,</i>
+
+672
+00:53:59,277 --> 00:54:01,655
+<i>and how to avoid any succession disputes</i>
+<i>that might arise</i>
+
+673
+00:54:01,738 --> 00:54:04,699
+<i>in case something should happen</i>
+<i>to one of the participants.</i>
+
+674
+00:54:04,783 --> 00:54:08,203
+<i>Hundreds of questions were raised,</i>
+<i>but no conclusions were reached.</i>
+
+675
+00:54:09,120 --> 00:54:15,001
+It's such beautiful weather. But Father
+and the others just talk, talk, talk.
+
+676
+00:54:15,710 --> 00:54:19,089
+They've been debating for six months now.
+
+677
+00:54:19,673 --> 00:54:22,634
+When will they ever reach a decision?
+
+678
+00:54:24,135 --> 00:54:27,097
+Oh, I hope they never reach a decision!
+
+679
+00:54:31,643 --> 00:54:34,771
+Tamasaburo, just the thought
+that you might someday return
+
+680
+00:54:34,854 --> 00:54:41,820
+to far-off Tama Hills
+makes my heart ache with sadness.
+
+681
+00:54:45,824 --> 00:54:52,122
+Koharu... I too dream
+that our happiness never ends.
+
+682
+00:54:52,789 --> 00:54:54,791
+Why must it be just a dream?
+
+683
+00:54:57,127 --> 00:55:01,006
+I'll ask Father.
+
+684
+00:55:01,089 --> 00:55:05,510
+I'll ask him to let you stay here
+and be his successor.
+
+685
+00:55:18,898 --> 00:55:22,902
+<i>While Tamasaburo was struggling</i>
+<i>to make a decision,</i>
+
+686
+00:55:23,069 --> 00:55:28,408
+<i>Bunta of Mizunomi Marsh roamed</i>
+<i>the fields and mountains of Sade island,</i>
+
+687
+00:55:28,616 --> 00:55:30,452
+<i>searching for Danzaburo,</i>
+
+688
+00:55:30,535 --> 00:55:32,746
+<i>a shape-shifting master.</i>
+
+689
+00:55:33,038 --> 00:55:39,836
+<i>But he couldn't find anyone who knew</i>
+<i>anything about the master's whereabouts.</i>
+
+690
+00:55:46,718 --> 00:55:48,511
+<i>During the summer and autumn of that year,</i>
+
+691
+00:55:48,595 --> 00:55:51,514
+<i>the raccoons of Tama Hills</i>
+<i>were beset by a series of misfortunes.</i>
+
+692
+00:55:51,931 --> 00:55:55,393
+<i>Their woods continued to shrink</i>
+<i>before the onslaught of development.</i>
+
+693
+00:55:55,477 --> 00:55:59,731
+<i>And just when the baby boom of spring</i>
+<i>had brought many new mouths to feed,</i>
+
+694
+00:56:00,106 --> 00:56:04,986
+<i>poor summer weather</i>
+<i>created a serious food shortage.</i>
+
+695
+00:56:05,070 --> 00:56:09,324
+<i>There were not nearly enough chestnuts</i>
+<i>and persimmons to eat that autumn.</i>
+
+696
+00:56:09,532 --> 00:56:11,451
+<i>Those with shape-shifting skills</i>
+<i>tried to help</i>
+
+697
+00:56:11,534 --> 00:56:14,204
+<i>by gathering food meant for humans,</i>
+
+698
+00:56:14,287 --> 00:56:17,499
+<i>but it was still not nearly enough</i>
+<i>to feed the growing cubs.</i>
+
+699
+00:56:30,095 --> 00:56:32,263
+<i>Finally, even raccoons</i>
+<i>who could not shape-shift</i>
+
+700
+00:56:32,388 --> 00:56:35,642
+<i>were forced to come out of the woods</i>
+<i>and scavenge around human homes,</i>
+
+701
+00:56:35,725 --> 00:56:38,394
+<i>looking for anything</i>
+<i>to feed their children.</i>
+
+702
+00:56:38,645 --> 00:56:42,398
+<i>Inevitably, some of them</i>
+<i>began to lose their lives</i>
+
+703
+00:56:42,482 --> 00:56:47,362
+<i>on the roads and in traps.</i>
+
+704
+00:57:24,190 --> 00:57:25,316
+I can't take any more!
+
+705
+00:57:25,859 --> 00:57:29,779
+The time has come for each of us
+to take at least one human life,
+
+706
+00:57:29,863 --> 00:57:31,030
+even if we lose our own.
+
+707
+00:57:31,114 --> 00:57:34,075
+Are you sure you're all right now, Gonta?
+
+708
+00:57:34,159 --> 00:57:37,203
+Of course! See? I'm in the pink!
+
+709
+00:57:46,087 --> 00:57:50,175
+This is wonderful.
+When should we celebrate your recovery?
+
+710
+00:57:51,342 --> 00:57:54,888
+This isn't the time for parties, Granny.
+
+711
+00:57:55,722 --> 00:57:59,017
+I think we should wait for the masters
+of shape-shifting to get here
+
+712
+00:57:59,100 --> 00:58:01,311
+before we decide our strategy.
+
+713
+00:58:01,394 --> 00:58:05,148
+You too, Shokichi?
+You're too young to be such a coward.
+
+714
+00:58:05,440 --> 00:58:07,901
+You're wrong.
+We can't underestimate the humans.
+
+715
+00:58:08,234 --> 00:58:11,196
+If we attack them head on,
+they'll destroy us.
+
+716
+00:58:12,155 --> 00:58:14,115
+We've waited long enough!
+
+717
+00:58:14,199 --> 00:58:17,619
+Be patient. Let's hear Shokichi out.
+
+718
+00:58:18,578 --> 00:58:22,248
+I propose we adopt three policies
+until the masters arrive.
+
+719
+00:58:22,332 --> 00:58:26,878
+One: establish a system to hand out
+food to raccoons who can't shape-shift.
+
+720
+00:58:27,128 --> 00:58:29,130
+In other words, a rationing system.
+
+721
+00:58:30,632 --> 00:58:33,676
+Two: thorough training in traffic safety.
+
+722
+00:58:35,011 --> 00:58:39,641
+Three: the creation of rescue squads
+for raccoons caught in traps.
+
+723
+00:58:39,807 --> 00:58:41,017
+That's my proposal.
+
+724
+00:58:42,685 --> 00:58:46,856
+Shokichi, you're practically
+like one of the humans.
+
+725
+00:58:47,398 --> 00:58:50,109
+No! I'm a raccoon, born and bred.
+
+726
+00:58:51,694 --> 00:58:57,242
+Well then, leaving the particulars
+to later. All in favor?
+
+727
+00:58:58,159 --> 00:58:59,452
+Hands up!
+
+728
+00:58:59,911 --> 00:59:01,079
+In favor!
+
+729
+00:59:03,289 --> 00:59:05,041
+What is this nonsense, Gonta?
+
+730
+00:59:05,124 --> 00:59:07,085
+It's not nonsense! It's a coup d'état!
+
+731
+00:59:07,835 --> 00:59:11,839
+Anyone who opposes me from now on
+will be killed by my private guard!
+
+732
+00:59:11,923 --> 00:59:14,175
+-Got it?
+-Yeah!
+
+733
+00:59:14,801 --> 00:59:17,428
+Those are dangerous words, Gonta.
+
+734
+00:59:17,512 --> 00:59:20,098
+That's "Sir Gon."
+
+735
+00:59:20,890 --> 00:59:24,227
+Raccoons!
+We all know the humans are dangerous.
+
+736
+00:59:24,310 --> 00:59:27,355
+If we attack without concern
+for our own safety, victory will be ours.
+
+737
+00:59:27,605 --> 00:59:32,652
+They can be killed. As the saying goes,
+"a trapped mouse will beat the cat."
+
+738
+00:59:33,319 --> 00:59:35,655
+What's that supposed to mean?
+
+739
+00:59:35,738 --> 00:59:37,240
+He doesn't look like a mouse.
+
+740
+00:59:37,323 --> 00:59:39,659
+He means we can win if we're desperate.
+
+741
+00:59:39,742 --> 00:59:44,664
+Exactly. If a mouse is cornered,
+it'll find the strength to beat the cat.
+
+742
+00:59:45,415 --> 00:59:47,292
+We're not mice, Gonta.
+
+743
+00:59:47,375 --> 00:59:49,419
+What's the point in beating a cat?
+
+744
+00:59:49,919 --> 00:59:54,924
+Come to think of it, it's been a while
+since I had a nice mouse.
+
+745
+00:59:55,008 --> 00:59:56,801
+Mouse tempura can't be beat.
+
+746
+00:59:57,260 --> 00:59:59,887
+No, deep fried is the tastiest!
+
+747
+01:00:00,763 --> 01:00:03,808
+Are you sure? I think the tempura batter
+really makes it work.
+
+748
+01:00:04,309 --> 01:00:07,145
+That crispy deep-fried tail!
+
+749
+01:00:09,522 --> 01:00:12,692
+What the hell are you talking about!?
+
+750
+01:00:12,900 --> 01:00:18,489
+What's important is
+I love mouse tempura! Yes, I do!
+
+751
+01:00:18,990 --> 01:00:22,243
+See Gonta? All we can think about is food.
+
+752
+01:00:23,578 --> 01:00:27,123
+I think we'd better wait for the masters
+to get here.
+
+753
+01:00:29,167 --> 01:00:30,627
+My apologies.
+
+754
+01:00:30,835 --> 01:00:33,379
+I suppose it was too much
+
+755
+01:00:34,380 --> 01:00:38,259
+to expect the young raccoons
+to stay chaste and not have babies.
+
+756
+01:00:38,676 --> 01:00:39,677
+No!
+
+757
+01:00:40,345 --> 01:00:44,098
+Instead of fewer raccoons,
+we need fewer humans!
+
+758
+01:00:44,682 --> 01:00:48,811
+The places they've infested
+used to be our homes!
+
+759
+01:00:49,228 --> 01:00:53,024
+The humans are the intruders!
+Drive them out!
+
+760
+01:00:53,358 --> 01:00:54,609
+Kill them!
+
+761
+01:00:55,151 --> 01:00:59,155
+Drive them out! Kill them!
+
+762
+01:01:00,073 --> 01:01:01,366
+<i>But at that very moment...</i>
+
+763
+01:01:16,881 --> 01:01:18,383
+Hey, taxi!
+
+764
+01:01:50,415 --> 01:01:52,291
+I'll tell everyone you're here!
+
+765
+01:02:03,886 --> 01:02:05,346
+Tamasaburo!
+
+766
+01:02:06,013 --> 01:02:07,849
+I've brought the masters from Shikoku!
+
+767
+01:02:11,644 --> 01:02:13,354
+Tamasaburo! You did it!
+
+768
+01:02:22,947 --> 01:02:28,494
+Friends, on our way here,
+we saw your devastated woods.
+
+769
+01:02:28,953 --> 01:02:30,580
+You have our deepest sympathy.
+
+770
+01:02:31,122 --> 01:02:36,085
+We'd like to address all raccoons
+tonight. There's no time to lose.
+
+771
+01:02:36,753 --> 01:02:39,130
+<i>Year 33 of the Pom Poko era, autumn.</i>
+
+772
+01:02:39,213 --> 01:02:43,426
+<i>All the raccoons assembled to welcome</i>
+<i>the three masters from Shikoku.</i>
+
+773
+01:02:45,720 --> 01:02:49,640
+There's a good moon out tonight.
+
+774
+01:02:50,183 --> 01:02:55,229
+Fellow raccoons,
+I am Tazaburo Hage of Yashima.
+
+775
+01:02:55,897 --> 01:03:00,485
+I am 999 years old.
+
+776
+01:03:01,861 --> 01:03:08,701
+Why is Honshu ravaged by development,
+while Shikoku is almost untouched?
+
+777
+01:03:09,035 --> 01:03:13,998
+The reason is, we raccoons
+protect our woods vigilantly.
+
+778
+01:03:14,791 --> 01:03:18,002
+The humans of Shikoku know
+
+779
+01:03:18,085 --> 01:03:23,925
+that disaster will befall them
+if they anger us.
+
+780
+01:03:24,425 --> 01:03:28,054
+In fact, all three of us are worshipped
+
+781
+01:03:28,137 --> 01:03:33,601
+at every shrine and temple in Shikoku.
+
+782
+01:03:33,893 --> 01:03:36,521
+The humans revere us.
+
+783
+01:03:37,814 --> 01:03:39,482
+But I have not introduced myself.
+
+784
+01:03:39,565 --> 01:03:42,735
+I am lnugami Gyobu,
+
+785
+01:03:42,819 --> 01:03:46,864
+supreme leader
+of the raccoons of Matsuyama.
+
+786
+01:03:49,951 --> 01:03:54,705
+I am Kincho VI, direct descendent
+of Kincho Shrine's first raccoon master.
+
+787
+01:03:55,498 --> 01:03:59,001
+To frighten the humans of Tokyo
+and drive them out,
+
+788
+01:03:59,085 --> 01:04:03,005
+we have resolved to carry out
+Operation Specter.
+
+789
+01:04:03,840 --> 01:04:06,133
+This operation will require
+
+790
+01:04:06,592 --> 01:04:10,429
+unprecedented powers
+of mental concentration,
+
+791
+01:04:10,513 --> 01:04:15,017
+concentration so great
+that the three of us may lose our lives.
+
+792
+01:04:16,602 --> 01:04:21,399
+But if you successfully
+carry out this plan,
+
+793
+01:04:21,858 --> 01:04:25,278
+you will regain the humans' fear
+
+794
+01:04:25,361 --> 01:04:30,157
+and respect without fail.
+
+795
+01:04:32,159 --> 01:04:37,331
+And then, you can use
+the humans' fear of raccoons
+
+796
+01:04:37,415 --> 01:04:42,461
+to put an end to this infernal development
+once and for all!
+
+797
+01:04:43,129 --> 01:04:45,590
+We have a full array of potent tricks.
+
+798
+01:04:45,673 --> 01:04:49,468
+We have brought you a boat, O raccoons,
+
+799
+01:04:49,552 --> 01:04:53,180
+that will ferry all of you
+back to a lost era of greatness!
+
+800
+01:04:53,431 --> 01:04:58,394
+We promise you: all who come aboard
+will reach those blessed shores!
+
+801
+01:05:10,698 --> 01:05:16,787
+Hooray! Hooray!
+
+802
+01:05:17,496 --> 01:05:20,249
+What a beautiful moon.
+
+803
+01:05:21,250 --> 01:05:24,045
+We raccoons love moonlit nights.
+
+804
+01:05:24,587 --> 01:05:30,593
+Let us pray to the moon
+for the success of our enterprise.
+
+805
+01:05:30,801 --> 01:05:33,387
+Right, everybody?
+
+806
+01:05:46,025 --> 01:05:50,988
+<i>The raccoons immediately embarked</i>
+<i>on a special regimen of training.</i>
+
+807
+01:06:06,295 --> 01:06:12,885
+Congratulations on your
+nine hundred and ninety-ninth birthday!
+
+808
+01:06:15,054 --> 01:06:19,350
+Thank you everyone! Thank you!
+
+809
+01:06:20,601 --> 01:06:23,020
+Master, please re-enact
+the story of Yoichi the Archer,
+
+810
+01:06:23,104 --> 01:06:24,647
+as you witnessed it in your younger days!
+
+811
+01:06:25,690 --> 01:06:27,566
+So I shall!
+
+812
+01:07:13,779 --> 01:07:16,323
+The time is ripe!
+
+813
+01:07:23,706 --> 01:07:26,208
+Cock-a-doodle-doo!
+
+814
+01:07:30,880 --> 01:07:32,798
+<i>Year 33 of the Pom Poko era, December.</i>
+
+815
+01:07:33,132 --> 01:07:36,302
+<i>The day for Operation Specter</i>
+<i>arrived at last.</i>
+
+816
+01:07:37,219 --> 01:07:41,432
+<i>Slightly cloudy, no wind.</i>
+<i>Thirteen degrees centigrade, humidity 65%.</i>
+
+817
+01:07:41,557 --> 01:07:43,768
+<i>Perfect conditions for specters.</i>
+
+818
+01:08:19,804 --> 01:08:25,184
+<i>Transformation into monsters and specters</i>
+<i>has always been a raccoon strong point.</i>
+
+819
+01:08:25,351 --> 01:08:29,438
+<i>But now, they needed to draw</i>
+<i>not only on their own latent energy,</i>
+
+820
+01:08:29,855 --> 01:08:32,316
+<i>but also the hidden energy of the cosmos:</i>
+
+821
+01:08:32,399 --> 01:08:37,905
+<i>Fire, earth, water and air.</i>
+
+822
+01:08:37,988 --> 01:08:41,992
+<i>The intensity of the training</i>
+<i>undertaken by the raccoons</i>
+
+823
+01:08:43,244 --> 01:08:47,665
+<i>under the tutelage</i>
+<i>of the three elders of Shikoku</i>
+
+824
+01:08:48,624 --> 01:08:51,085
+<i>is almost beyond description.</i>
+
+825
+01:08:51,585 --> 01:08:55,089
+<i>All the raccoons,</i>
+<i>even those who could not shape-shift,</i>
+
+826
+01:08:55,172 --> 01:08:58,509
+<i>worked together</i>
+<i>to focus their combined powers.</i>
+
+827
+01:09:01,595 --> 01:09:04,765
+<i>That night, the fighting spirit</i>
+<i>of the raccoons merged</i>
+
+828
+01:09:04,890 --> 01:09:06,433
+<i>into one consuming flame.</i>
+
+829
+01:09:06,517 --> 01:09:10,146
+<i>Their enthusiasm was so boundless,</i>
+<i>they transformed themselves into specters</i>
+
+830
+01:09:10,229 --> 01:09:13,566
+<i>long before they even reached</i>
+<i>the dwellings of the humans.</i>
+
+831
+01:09:17,987 --> 01:09:19,530
+Hey, look at that!
+
+832
+01:09:24,660 --> 01:09:25,870
+What is it?
+
+833
+01:09:30,499 --> 01:09:35,212
+Let the trees burst into full flower!
+
+834
+01:09:41,343 --> 01:09:46,307
+Let the trees burst into full flower!
+
+835
+01:12:09,700 --> 01:12:12,453
+Wow... it's a big parade of specters!
+
+836
+01:12:12,870 --> 01:12:16,874
+I used to see stuff like that too,
+way back when.
+
+837
+01:12:16,999 --> 01:12:20,461
+You know, foxes with lanterns,
+that kind of thing.
+
+838
+01:12:21,253 --> 01:12:24,340
+You can really see them.
+
+839
+01:12:25,132 --> 01:12:27,217
+You can see the lanterns.
+
+840
+01:12:27,760 --> 01:12:29,678
+With little lights in them.
+
+841
+01:12:29,970 --> 01:12:34,600
+You can see them marching along.
+
+842
+01:12:40,272 --> 01:12:43,442
+I wonder why I could see them?
+
+843
+01:12:44,068 --> 01:12:46,987
+Maybe foxes can really do that.
+
+844
+01:12:47,112 --> 01:12:49,698
+I wonder.
+
+845
+01:12:53,452 --> 01:12:56,121
+You can really see them.
+
+846
+01:12:56,330 --> 01:13:00,918
+It must be your brain
+playing tricks on you.
+
+847
+01:13:01,210 --> 01:13:07,424
+A fox wedding. Foxes with lanterns.
+It's already in your head.
+
+848
+01:13:07,508 --> 01:13:09,927
+So, it's like...
+
+849
+01:13:10,969 --> 01:13:13,931
+Your brain plays tricks on you.
+
+850
+01:13:14,014 --> 01:13:18,435
+You can see them walking.
+It's all in your head.
+
+851
+01:13:21,313 --> 01:13:26,735
+Yeah, you're right.
+There's no way it's real.
+
+852
+01:13:27,277 --> 01:13:30,781
+People's brains are scary.
+
+853
+01:13:31,824 --> 01:13:34,576
+You think things, and then you see them.
+
+854
+01:13:35,285 --> 01:13:38,163
+There's no way they could be real, though.
+
+855
+01:13:41,166 --> 01:13:43,377
+They really are real!
+
+856
+01:13:45,254 --> 01:13:48,382
+It's just your brain
+playing tricks on you.
+
+857
+01:13:53,220 --> 01:13:54,346
+Welcome home.
+
+858
+01:13:56,974 --> 01:13:58,225
+Sachiko!
+
+859
+01:14:12,739 --> 01:14:15,117
+WAYS OF A PERVERT
+
+860
+01:14:17,494 --> 01:14:20,038
+PUBLIC RESTROOM
+
+861
+01:14:45,981 --> 01:14:48,400
+Matter is void!
+
+862
+01:14:56,950 --> 01:14:59,578
+Form is emptiness!
+
+863
+01:15:34,154 --> 01:15:34,988
+Here they come again!
+
+864
+01:16:14,736 --> 01:16:15,904
+Master Gyobu!
+
+865
+01:16:17,030 --> 01:16:18,907
+-Master Gyobu!
+-Master Gyobu!
+
+866
+01:16:26,915 --> 01:16:28,292
+That was amazing!
+
+867
+01:16:28,417 --> 01:16:30,127
+That was scary, wasn't it?
+
+868
+01:16:32,254 --> 01:16:35,173
+Aw, is that the end?
+
+869
+01:16:35,799 --> 01:16:38,552
+-That was really cool!
+-Yes.
+
+870
+01:16:38,802 --> 01:16:41,221
+Come on, time for bed.
+
+871
+01:16:41,888 --> 01:16:43,015
+Oh, okay...
+
+872
+01:16:45,892 --> 01:16:48,437
+Don't forget to brush your teeth!
+
+873
+01:16:52,024 --> 01:16:54,443
+I feel like I just woke up from a dream.
+
+874
+01:16:54,901 --> 01:16:57,946
+Me too. What was all that about, I wonder?
+
+875
+01:16:59,072 --> 01:17:02,034
+After that, flying saucers
+would seem pretty tame.
+
+876
+01:17:02,618 --> 01:17:04,745
+There are some things
+you just can't explain.
+
+877
+01:17:09,875 --> 01:17:12,544
+Long ago, when the Matsuyama
+clan was at war,
+
+878
+01:17:12,628 --> 01:17:15,672
+Gyobu went over to the enemy,
+causing the downfall of his clan.
+
+879
+01:17:15,797 --> 01:17:19,468
+He regretted this so deeply
+
+880
+01:17:19,843 --> 01:17:26,558
+that he made a solemn vow to devote
+his life to fighting for justice.
+
+881
+01:17:26,933 --> 01:17:30,604
+We must ensure his sacrifice
+was not in vain,
+
+882
+01:17:30,687 --> 01:17:37,235
+emulate his noble spirit, and vow
+not to rest until the day of our victory!
+
+883
+01:17:37,319 --> 01:17:41,573
+<i>Gyahte gyahte hara gyahte</i>
+
+884
+01:17:41,657 --> 01:17:47,537
+<i>A raccoon of Potamochi Mountain</i>
+
+885
+01:17:47,621 --> 01:17:51,124
+<i>Got drunk and transformed himself</i>
+
+886
+01:17:51,458 --> 01:17:54,586
+<i>Great success to Operation Specter</i>
+
+887
+01:17:54,711 --> 01:17:57,756
+<i>The raccoons were so convinced</i>
+<i>they had won</i>
+
+888
+01:17:58,006 --> 01:18:00,884
+<i>that no one bothered</i>
+<i>to watch the news on TV.</i>
+
+889
+01:18:01,551 --> 01:18:03,679
+<i>Police and the media</i>
+<i>are searching for anyone</i>
+
+890
+01:18:03,762 --> 01:18:06,848
+<i>who might have videotaped</i>
+<i>tonight's mysterious parade.</i>
+
+891
+01:18:06,932 --> 01:18:09,351
+<i>But so far no one has come forward,</i>
+
+892
+01:18:09,434 --> 01:18:12,312
+<i>complicating efforts</i>
+<i>to determine what really happened.</i>
+
+893
+01:18:12,896 --> 01:18:17,067
+<i>I'm sure I was taping the whole thing,</i>
+<i>but there's nothing on the tape.</i>
+
+894
+01:18:17,609 --> 01:18:19,736
+<i>It doesn't make any sense.</i>
+
+895
+01:18:19,820 --> 01:18:23,532
+<i>The specter slipped in</i>
+<i>right through this opening.</i>
+
+896
+01:18:23,699 --> 01:18:28,662
+<i>It was terrifying!</i>
+<i>Nobody could have staged that.</i>
+
+897
+01:18:29,621 --> 01:18:32,874
+<i>There really is something strange</i>
+<i>about New Town after all.</i>
+
+898
+01:18:33,375 --> 01:18:35,961
+<i>I'd like to move out, but it's not easy.</i>
+
+899
+01:18:36,628 --> 01:18:38,880
+<i>There will be a special program</i>
+<i>at 12:20 am.</i>
+
+900
+01:18:38,964 --> 01:18:43,176
+<i>With in-depth coverage</i>
+<i>of this evening's strange events.</i>
+
+901
+01:18:53,937 --> 01:18:56,898
+The more people investigate this,
+
+902
+01:18:57,399 --> 01:19:02,112
+the more they will be convinced
+it was no hallucination,
+
+903
+01:19:02,195 --> 01:19:05,741
+that it all really happened!
+
+904
+01:19:06,158 --> 01:19:10,412
+Then, when they realise
+their science and logic are powerless
+
+905
+01:19:10,495 --> 01:19:14,291
+to unlock the riddle of what happened...
+
+906
+01:19:14,374 --> 01:19:19,629
+They'll be dumbfounded
+by the awesome mystery of the cosmos,
+
+907
+01:19:20,213 --> 01:19:25,635
+and realise how insignificant
+human existence really is.
+
+908
+01:19:26,052 --> 01:19:30,474
+Listen, everyone: Our good fortune
+awaits, but let's not wait for it!
+
+909
+01:19:30,724 --> 01:19:32,934
+Come then!
+
+910
+01:19:33,059 --> 01:19:38,690
+Drink! Sing! Dance!
+
+911
+01:19:38,774 --> 01:19:43,153
+Let's hear it for Master Hage!
+
+912
+01:19:44,362 --> 01:19:50,118
+<i>But the next day,</i>
+<i>events took a totally unexpected turn.</i>
+
+913
+01:19:50,827 --> 01:19:53,413
+<i>It appears that the massive parade</i>
+<i>staged yesterday</i>
+
+914
+01:19:53,580 --> 01:19:55,582
+<i>in a residential complex of Tama New Town</i>
+
+915
+01:19:55,665 --> 01:19:57,959
+<i>may have been</i>
+<i>a publicity stunt for Wonderland,</i>
+
+916
+01:19:58,043 --> 01:20:00,003
+<i>a theme park</i>
+<i>now under construction in the area.</i>
+
+917
+01:20:00,086 --> 01:20:03,632
+<i>Police have summoned PR executives</i>
+<i>of Wonderland for questioning,</i>
+
+918
+01:20:03,715 --> 01:20:06,218
+<i>on suspicion of having staged</i>
+<i>a parade without a permit.</i>
+
+919
+01:20:06,468 --> 01:20:07,552
+You gotta be kidding!
+
+920
+01:20:07,636 --> 01:20:10,180
+<i>However, residents of the complex</i>
+<i>and the surrounding area</i>
+
+921
+01:20:10,764 --> 01:20:12,516
+<i>remain convinced</i>
+<i>that what they saw yesterday</i>
+
+922
+01:20:12,641 --> 01:20:14,184
+<i>could not have been a publicity stunt.</i>
+
+923
+01:20:14,559 --> 01:20:16,269
+You can say that again!
+
+924
+01:20:16,686 --> 01:20:19,981
+<i>The president of the company responsible</i>
+<i>for Wonderland has admitted</i>
+
+925
+01:20:20,065 --> 01:20:21,983
+<i>that the parade was a promotional event.</i>
+
+926
+01:20:22,400 --> 01:20:23,485
+What?
+
+927
+01:20:24,152 --> 01:20:25,946
+PRESIDENT OF WONDERLAND
+AT EMERGENCY PRESS CONFERENCE
+
+928
+01:20:26,029 --> 01:20:32,828
+<i>I deeply apologise for any inconvenience</i>
+<i>caused by our parade yesterday.</i>
+
+929
+01:20:33,286 --> 01:20:34,496
+Who the hell is he?
+
+930
+01:20:34,579 --> 01:20:40,168
+<i>We just wanted the world</i>
+<i>to know how wonderful, ah,</i>
+
+931
+01:20:41,253 --> 01:20:45,590
+<i>Wonderland will be.</i>
+
+932
+01:20:45,674 --> 01:20:49,344
+<i>So we decided the best way was to go out</i>
+<i>and give the public a free taste of the...</i>
+
+933
+01:20:49,427 --> 01:20:52,848
+<i>hmm, wonders they will soon be able</i>
+<i>to experience in Wonderland.</i>
+
+934
+01:20:52,931 --> 01:20:57,143
+<i>As president of Wonderland,</i>
+
+935
+01:20:57,227 --> 01:21:01,648
+<i>I take full responsibility for the staging</i>
+<i>of this unauthorized event.</i>
+
+936
+01:21:02,274 --> 01:21:03,942
+-What a liar!
+-That's ridiculous!
+
+937
+01:21:04,067 --> 01:21:05,110
+<i>Fortunately,</i>
+
+938
+01:21:05,235 --> 01:21:09,698
+<i>we received</i>
+<i>an overwhelmingly positive response</i>
+
+939
+01:21:09,865 --> 01:21:14,077
+<i>to our parade.</i>
+
+940
+01:21:14,578 --> 01:21:20,125
+<i>Frankly, we were astonished</i>
+<i>at the enthusiasm we encountered.</i>
+
+941
+01:21:20,292 --> 01:21:24,129
+<i>If this humble servant of the theme park</i>
+<i>going public has to go to jail,</i>
+
+942
+01:21:24,754 --> 01:21:30,051
+<i>the positive reaction we received</i>
+<i>will make it all worthwhile.</i>
+
+943
+01:21:31,720 --> 01:21:34,723
+-What in the world?
+-ls this for real?
+
+944
+01:21:34,890 --> 01:21:37,058
+There's got to be some mistake here!
+
+945
+01:21:37,267 --> 01:21:41,229
+<i>If this humble servant of the theme park</i>
+<i>going public has to go to jail...</i>
+
+946
+01:21:41,396 --> 01:21:42,939
+What an asshole!
+
+947
+01:21:45,525 --> 01:21:48,695
+<i>This new development plunged</i>
+<i>the raccoons into a state of panic.</i>
+
+948
+01:21:49,362 --> 01:21:52,157
+<i>Meanwhile, Wonderland</i>
+<i>was desperately searching for the people</i>
+
+949
+01:21:52,282 --> 01:21:54,451
+<i>who staged the parade.</i>
+
+950
+01:21:54,576 --> 01:21:56,453
+It's too late!
+
+951
+01:21:56,578 --> 01:21:59,497
+Beat the bushes if you have to!
+
+952
+01:21:59,623 --> 01:22:02,167
+Just find out who did it
+and hire them all!
+
+953
+01:22:02,292 --> 01:22:06,087
+Throw money at them!
+I'll pay whatever they want!
+
+954
+01:22:06,212 --> 01:22:07,797
+It was the work of raccoons.
+
+955
+01:22:07,964 --> 01:22:09,299
+What's that? Raccoons?
+
+956
+01:22:09,424 --> 01:22:15,096
+I don't care if it was penguins! I want
+them all working exclusively for me!
+
+957
+01:22:16,765 --> 01:22:20,435
+Raccoons? Wait a minute!
+What's that supposed to mean?
+
+958
+01:22:20,560 --> 01:22:22,646
+Oh, just a little joke.
+
+959
+01:22:23,063 --> 01:22:26,942
+Who are you? How did you get in here?
+
+960
+01:22:27,025 --> 01:22:29,110
+Your assistant let me in.
+
+961
+01:22:29,945 --> 01:22:32,614
+I am Ryutaro.
+We spoke on the phone earlier.
+
+962
+01:22:34,699 --> 01:22:36,618
+This affair is a bit delicate.
+
+963
+01:22:36,701 --> 01:22:39,746
+If you want to work
+with the people who did this,
+
+964
+01:22:39,829 --> 01:22:43,083
+I'm probably the only one
+who can deliver them to you.
+
+965
+01:22:44,709 --> 01:22:46,836
+Fine! I'll pay you 100 million yen.
+
+966
+01:22:50,548 --> 01:22:54,469
+<i>The raccoons were dumbfounded.</i>
+
+967
+01:22:54,886 --> 01:22:57,681
+<i>This bizarre human</i>
+<i>had completely stolen their thunder.</i>
+
+968
+01:22:58,390 --> 01:23:00,684
+<i>At first, they railed</i>
+<i>against the unfairness of it all.</i>
+
+969
+01:23:00,767 --> 01:23:03,603
+<i>But soon, the sheer hopelessness</i>
+<i>of their situation</i>
+
+970
+01:23:03,687 --> 01:23:06,398
+<i>began to sap their will to fight.</i>
+
+971
+01:23:08,024 --> 01:23:11,236
+<i>Meanwhile,</i>
+<i>with no footage of Operation Specter,</i>
+
+972
+01:23:11,319 --> 01:23:13,029
+<i>media coverage petered out</i>
+
+973
+01:23:13,530 --> 01:23:16,992
+<i>and the public</i>
+<i>rapidly lost interest in the whole affair.</i>
+
+974
+01:23:31,548 --> 01:23:33,633
+You're a fox!
+
+975
+01:23:36,261 --> 01:23:38,179
+Truly, you have a discerning eye.
+
+976
+01:23:38,763 --> 01:23:43,018
+I am Ryutaro, the shape-shifting fox,
+at your service.
+
+977
+01:23:45,186 --> 01:23:50,191
+I am honored to meet you, master Kincho.
+I have heard much about you.
+
+978
+01:23:50,567 --> 01:23:53,486
+I'm nothing more than the sixth
+in a long line.
+
+979
+01:23:54,237 --> 01:23:57,032
+And what business brings you here?
+
+980
+01:23:57,407 --> 01:24:00,285
+I was amazed by your fabulous parade.
+
+981
+01:24:00,827 --> 01:24:02,912
+At last, someone who understands!
+
+982
+01:24:03,329 --> 01:24:04,164
+How could I not?
+
+983
+01:24:04,706 --> 01:24:08,293
+And you have my deepest sympathies
+for everything you've had to bear.
+
+984
+01:24:09,544 --> 01:24:15,675
+I see... At least someone understands
+what we're going through.
+
+985
+01:24:16,551 --> 01:24:19,929
+And I was hardly surprised
+by what happened after the parade.
+
+986
+01:24:21,222 --> 01:24:22,182
+What's that you say?
+
+987
+01:24:22,766 --> 01:24:25,685
+<i>Ryutaro the shape-shifting fox</i>
+<i>could charm the birds from the trees.</i>
+
+988
+01:24:25,769 --> 01:24:28,229
+<i>He convinced Kincho to come to Ginza.</i>
+
+989
+01:24:28,313 --> 01:24:31,357
+<i>He showed the raccoon into a private room</i>
+<i>in one of Tokyo's swankiest clubs.</i>
+
+990
+01:24:31,483 --> 01:24:32,734
+Step right this way.
+
+991
+01:24:35,070 --> 01:24:38,156
+Not to worry! All my girls are foxes.
+
+992
+01:24:42,243 --> 01:24:44,204
+Do you like them this way?
+
+993
+01:24:44,287 --> 01:24:45,246
+Would foxes suit you better?
+
+994
+01:24:45,663 --> 01:24:48,500
+Or they can be raccoons, if you prefer.
+
+995
+01:24:51,002 --> 01:24:52,962
+I'll get right to the point.
+
+996
+01:24:53,463 --> 01:24:55,590
+There's no future
+for the raccoons of Tama.
+
+997
+01:24:55,965 --> 01:24:58,218
+They'll die out, just like the foxes.
+
+998
+01:24:59,385 --> 01:25:01,679
+So that's what happened
+to the foxes of Tama.
+
+999
+01:25:01,763 --> 01:25:03,473
+Yes, I'm afraid so.
+
+1000
+01:25:04,182 --> 01:25:10,146
+The few of us who could shape-shift
+have to live like this now.
+
+1001
+01:25:10,563 --> 01:25:11,648
+Among the humans?
+
+1002
+01:25:12,065 --> 01:25:15,193
+That's the only way to survive
+in the big city.
+
+1003
+01:25:15,568 --> 01:25:18,029
+And that's why I invited you here,
+
+1004
+01:25:18,113 --> 01:25:20,990
+to recommend
+that you raccoons do the same.
+
+1005
+01:25:21,074 --> 01:25:22,951
+Now hold on a minute!
+
+1006
+01:25:23,034 --> 01:25:26,287
+I know this must come as a shock,
+but allow me to complete the picture.
+
+1007
+01:25:27,372 --> 01:25:29,749
+It's not enough
+to start over in the human world.
+
+1008
+01:25:29,833 --> 01:25:33,002
+If you must swallow poison,
+drink the whole cup.
+
+1009
+01:25:33,086 --> 01:25:36,673
+The best move would be for you all
+to go to work for Wonderland,
+
+1010
+01:25:36,756 --> 01:25:38,675
+and solve your problem at once.
+
+1011
+01:25:39,092 --> 01:25:43,680
+You can't be serious! Work for the people
+who made monkeys of us?
+
+1012
+01:25:44,264 --> 01:25:46,015
+Let's think about this calmly.
+
+1013
+01:25:46,099 --> 01:25:48,852
+It's time for you raccoons
+to start living as humans.
+
+1014
+01:25:49,102 --> 01:25:50,937
+That's a foregone conclusion.
+
+1015
+01:25:51,396 --> 01:25:53,940
+<i>It takes big money to live like a human!</i>
+
+1016
+01:25:54,023 --> 01:25:56,693
+<i>And how do you make the money you need?</i>
+
+1017
+01:25:56,776 --> 01:25:59,112
+<i>You use the skills you have!</i>
+
+1018
+01:26:00,446 --> 01:26:03,533
+And who's going to pay the highest salary?
+
+1019
+01:26:04,409 --> 01:26:07,537
+I'm afraid that would be your enemy,
+Wonderland.
+
+1020
+01:26:08,037 --> 01:26:10,331
+They tell me
+they'll pay generous benefits too.
+
+1021
+01:26:11,833 --> 01:26:15,920
+Here's the salary,
+and these are the benefits.
+
+1022
+01:26:17,088 --> 01:26:20,967
+Naturally, I'll be the only one
+who knows you're raccoons.
+
+1023
+01:26:25,555 --> 01:26:26,806
+Please enjoy.
+
+1024
+01:26:28,516 --> 01:26:31,352
+Now then,
+let's take our time and think this over.
+
+1025
+01:26:31,436 --> 01:26:34,731
+Master Kincho,
+you must be used to eating better food
+
+1026
+01:26:34,814 --> 01:26:36,482
+than the scraps you get in Tama.
+
+1027
+01:26:36,566 --> 01:26:38,776
+I'm sure it's hard for you.
+
+1028
+01:26:38,902 --> 01:26:40,069
+That's not important.
+
+1029
+01:26:41,362 --> 01:26:43,031
+What I want to know is...
+
+1030
+01:26:44,073 --> 01:26:47,118
+The raccoons
+who can shape-shift live as humans,
+
+1031
+01:26:47,410 --> 01:26:50,079
+but what about the ones who can't?
+
+1032
+01:26:50,163 --> 01:26:51,998
+They'll have to fend for themselves.
+
+1033
+01:26:52,790 --> 01:26:57,212
+The strongest genes must prevail
+if the species is going to survive.
+
+1034
+01:26:58,046 --> 01:27:01,758
+We foxes had to abandon the others,
+but we had no choice.
+
+1035
+01:27:01,925 --> 01:27:04,469
+And so... they died out.
+
+1036
+01:27:04,844 --> 01:27:07,847
+Yes, they did.
+It was the choice we had to make.
+
+1037
+01:27:11,935 --> 01:27:13,186
+Ah, this is a tragedy!
+
+1038
+01:27:14,687 --> 01:27:19,609
+Well, you know, you raccoons
+are omnivorous. Not like us foxes.
+
+1039
+01:27:19,734 --> 01:27:23,196
+Those who can't shape-shift
+might not do so badly after all.
+
+1040
+01:27:23,863 --> 01:27:25,990
+<i>Meanwhile, the raccoons met once again,</i>
+
+1041
+01:27:26,282 --> 01:27:31,454
+<i>to consider what might be done</i>
+<i>to improve their depressing situation.</i>
+
+1042
+01:27:32,038 --> 01:27:34,290
+<i>Only the core group came.</i>
+
+1043
+01:27:35,625 --> 01:27:38,711
+"We have a full array of potent tricks."
+A load of hot air!
+
+1044
+01:27:40,004 --> 01:27:43,216
+We were idiots to think
+those old dudes could help us.
+
+1045
+01:27:44,509 --> 01:27:46,469
+Reminds me of the saying,
+
+1046
+01:27:46,594 --> 01:27:49,097
+"Don't sell the pelt
+till you catch the raccoon."
+
+1047
+01:27:49,555 --> 01:27:54,560
+No, I don't think even Buddha
+could have seen how this would turn out.
+
+1048
+01:27:54,644 --> 01:27:57,563
+You shouldn't blame the masters.
+
+1049
+01:27:57,647 --> 01:28:01,776
+The humans say people like the president
+of Wonderland are "sly as a raccoon."
+
+1050
+01:28:01,943 --> 01:28:04,153
+Humans are so weird.
+
+1051
+01:28:04,487 --> 01:28:07,782
+Speak for yourself, Shokichi.
+
+1052
+01:28:08,241 --> 01:28:11,619
+I just mean we need to do
+a lot more research on the humans.
+
+1053
+01:28:11,703 --> 01:28:15,748
+Shut up! It's time to challenge them
+to a fight to the death!
+
+1054
+01:28:15,832 --> 01:28:17,834
+Control yourself, Gonta.
+
+1055
+01:28:18,084 --> 01:28:21,879
+It seems to me
+our only choice is to reveal
+
+1056
+01:28:21,963 --> 01:28:28,344
+that Operation Specter
+was really staged by us raccoons.
+
+1057
+01:28:28,761 --> 01:28:30,680
+Have you lost your mind, Osho?
+
+1058
+01:28:30,763 --> 01:28:34,225
+We can't reveal ourselves to the humans.
+It's an ironclad rule.
+
+1059
+01:28:34,600 --> 01:28:40,356
+She's right. If the humans knew
+we did it, they'd hunt us all down.
+
+1060
+01:28:40,898 --> 01:28:43,484
+But it's so frustrating!
+
+1061
+01:28:43,776 --> 01:28:47,864
+Someone else
+got the credit for all our work.
+
+1062
+01:28:48,323 --> 01:28:51,868
+I just can't accept it.
+I want to tell the world!
+
+1063
+01:28:52,035 --> 01:28:56,205
+I want to shout it out! "We did that!"
+
+1064
+01:28:58,082 --> 01:29:02,295
+Master Osho, what could we do
+to convince them it was us?
+
+1065
+01:29:03,004 --> 01:29:06,132
+All we have to do
+is take public credit for it.
+
+1066
+01:29:06,382 --> 01:29:09,635
+Call the TV stations. Send out letters.
+
+1067
+01:29:11,137 --> 01:29:14,640
+They'd just think
+it was somebody's idea of a joke.
+
+1068
+01:29:15,141 --> 01:29:18,644
+Then one of us should go on TV
+and demonstrate for them.
+
+1069
+01:29:18,770 --> 01:29:20,355
+Nonsense.
+
+1070
+01:29:20,688 --> 01:29:24,650
+The humans would just think it was staged,
+and we'd be humiliated again.
+
+1071
+01:29:25,026 --> 01:29:27,028
+You see? Talk is useless!
+
+1072
+01:29:27,111 --> 01:29:32,909
+<i>The debate dragged on through the night</i>
+<i>and into the next morning.</i>
+
+1073
+01:29:35,286 --> 01:29:38,081
+You see? Talk is useless!
+
+1074
+01:29:38,164 --> 01:29:42,126
+But if we become terrorists,
+
+1075
+01:29:42,460 --> 01:29:44,754
+that will just incite
+the humans to wipe us out!
+
+1076
+01:29:44,837 --> 01:29:48,174
+I keep telling you! We do it
+without them knowing it was us!
+
+1077
+01:29:48,257 --> 01:29:50,718
+This means we can't do anything
+that's really effective.
+
+1078
+01:29:55,264 --> 01:29:59,352
+Instead of going off half-cocked
+in different directions,
+
+1079
+01:29:59,560 --> 01:30:04,732
+I think we should join forces for another,
+even bigger Operation Specter.
+
+1080
+01:30:06,359 --> 01:30:10,571
+Where's the guarantee
+we'll have a different outcome?
+
+1081
+01:30:11,030 --> 01:30:14,826
+All we have to do
+is to get together like we did before.
+
+1082
+01:30:15,243 --> 01:30:18,830
+Ha! You're just playing around
+in the sandbox.
+
+1083
+01:30:19,205 --> 01:30:23,000
+You're like a stinking girl!
+
+1084
+01:30:23,209 --> 01:30:25,419
+Watch your tongue, Gonta.
+
+1085
+01:30:25,503 --> 01:30:27,046
+That's no way to talk about women.
+
+1086
+01:30:27,130 --> 01:30:31,134
+Okay, but if he was a stinking girl,
+that's what he'd be like!
+
+1087
+01:30:31,217 --> 01:30:34,637
+Anyway, I'm going to start getting ready
+for Operation Specter part two.
+
+1088
+01:30:35,179 --> 01:30:37,140
+Yeah? You and who else?
+
+1089
+01:30:38,182 --> 01:30:39,892
+Do you think anyone'll follow you?
+
+1090
+01:30:40,601 --> 01:30:41,602
+What was that?!
+
+1091
+01:30:41,853 --> 01:30:43,688
+Moron!
+
+1092
+01:30:44,605 --> 01:30:46,190
+Knock it off!
+
+1093
+01:30:48,901 --> 01:30:49,944
+Listen everyone!
+
+1094
+01:30:52,029 --> 01:30:53,447
+There's only one way out of this.
+
+1095
+01:30:53,573 --> 01:30:56,325
+We have to use our shape-shifting skills
+
+1096
+01:30:56,742 --> 01:31:00,830
+like we did for Operation Specter!
+
+1097
+01:31:02,331 --> 01:31:06,544
+You know what kind of impact
+Operation Specter had on the humans.
+
+1098
+01:31:07,253 --> 01:31:12,800
+But everyone thinks that idiot president
+of Wonderland was responsible.
+
+1099
+01:31:13,509 --> 01:31:15,845
+So what can we do?
+
+1100
+01:31:20,099 --> 01:31:21,851
+How would you get
+this egg to stand on end?
+
+1101
+01:31:24,228 --> 01:31:27,440
+This is how Columbus did it.
+
+1102
+01:31:30,735 --> 01:31:32,361
+Very impressive!
+
+1103
+01:31:34,280 --> 01:31:35,865
+You must have a really brilliant solution.
+
+1104
+01:31:38,367 --> 01:31:43,206
+It's time for us
+to begin living as humans!
+
+1105
+01:31:44,832 --> 01:31:46,459
+No way!
+
+1106
+01:31:47,084 --> 01:31:49,795
+No, I'm absolutely serious.
+This is not a joke.
+
+1107
+01:31:49,921 --> 01:31:52,506
+But what about the ones
+who can't shape-shift?
+
+1108
+01:31:53,674 --> 01:31:55,051
+Where's Osho?
+
+1109
+01:31:55,343 --> 01:31:58,221
+APPEAL FROM 808 RACCOONS
+
+1110
+01:32:01,057 --> 01:32:03,559
+<i>With Osho gone,</i>
+
+1111
+01:32:03,684 --> 01:32:07,688
+<i>the raccoons could not agree</i>
+<i>whether or not to follow Kinchi's plan.</i>
+
+1112
+01:32:08,105 --> 01:32:10,399
+<i>Their unity began to unravel.</i>
+
+1113
+01:32:12,109 --> 01:32:16,781
+<i>Operation Specter took precedence over</i>
+<i>important matters like food gathering.</i>
+
+1114
+01:32:16,864 --> 01:32:21,619
+<i>Most of the raccoons turned to survival,</i>
+<i>but Gonta began gathering followers.</i>
+
+1115
+01:32:21,911 --> 01:32:25,081
+<i>Meanwhile, age seemed to have addled</i>
+<i>Master Hage's brain.</i>
+
+1116
+01:32:25,164 --> 01:32:27,708
+<i>He took in the raccoons</i>
+<i>who could not shape-shift,</i>
+
+1117
+01:32:27,792 --> 01:32:30,002
+<i>and initiated them</i>
+<i>into a Buddhist dancing cult.</i>
+
+1118
+01:32:31,003 --> 01:32:34,048
+<i>This world is an abyss, a mud boat</i>
+
+1119
+01:32:34,131 --> 01:32:37,176
+<i>Invoke the name of Amida and dance</i>
+
+1120
+01:32:37,260 --> 01:32:40,263
+<i>Namu Amida Butsu, this is the end for us</i>
+
+1121
+01:32:40,429 --> 01:32:42,556
+<i>Paradise will be our boat</i>
+
+1122
+01:32:42,682 --> 01:32:46,269
+Master Hage was always so hale and lucid.
+
+1123
+01:32:46,811 --> 01:32:49,146
+What an awful place Tokyo is!
+
+1124
+01:32:49,647 --> 01:32:51,440
+If Operation Specter
+had taken place in Shikoku,
+
+1125
+01:32:51,524 --> 01:32:54,610
+the humans would have known
+it was us raccoons.
+
+1126
+01:32:54,777 --> 01:33:00,950
+Offerings to us at shrines and temples
+would have increased tenfold.
+
+1127
+01:33:01,826 --> 01:33:02,827
+Master Kincho!
+
+1128
+01:33:03,995 --> 01:33:07,623
+Master Kincho, my fervent desire
+is to accompany you back to Matsushima
+
+1129
+01:33:07,707 --> 01:33:09,834
+and devote myself to training.
+
+1130
+01:33:11,502 --> 01:33:13,838
+Is that so, Tamasaburo?
+
+1131
+01:33:13,921 --> 01:33:15,214
+Yes.
+
+1132
+01:33:15,756 --> 01:33:18,718
+You're prepared to become my successor?
+
+1133
+01:33:18,801 --> 01:33:20,511
+Yes, Master Kincho.
+
+1134
+01:33:20,928 --> 01:33:22,680
+I've been waiting for those words!
+
+1135
+01:33:23,264 --> 01:33:28,227
+But you're not selfishly abandoning
+your fellows
+
+1136
+01:33:28,936 --> 01:33:33,858
+to get back to Koharu, are you?
+
+1137
+01:33:33,941 --> 01:33:36,736
+Of course not, Master Kincho. Only...
+
+1138
+01:33:37,069 --> 01:33:38,904
+Only what?
+
+1139
+01:33:40,489 --> 01:33:43,284
+Even Master Kincho has lost the support
+of the other raccoons.
+
+1140
+01:33:43,909 --> 01:33:46,162
+What purpose would it even serve
+to stay here?
+
+1141
+01:33:46,620 --> 01:33:49,165
+I think there's something
+we can do about that.
+
+1142
+01:33:56,464 --> 01:33:59,383
+Wow, this is quite an amazing restaurant!
+
+1143
+01:33:59,800 --> 01:34:04,472
+The owner has spared no expense
+to make your visit a pleasant one.
+
+1144
+01:34:09,977 --> 01:34:12,521
+This place is really something!
+
+1145
+01:34:12,605 --> 01:34:16,525
+Good grief, it's better than Disneyland!
+
+1146
+01:34:18,611 --> 01:34:21,072
+A HUNDRED MILLION GOOD FORTUNES
+
+1147
+01:34:37,755 --> 01:34:42,343
+<i>And so Master Kincho</i>
+<i>not only got his revenge on Wonderland,</i>
+
+1148
+01:34:42,468 --> 01:34:46,555
+<i>he obtained a massive war chest</i>
+<i>for the raccoons.</i>
+
+1149
+01:34:47,932 --> 01:34:51,268
+<i>The president of Wonderland</i>
+<i>rushed to the police</i>
+
+1150
+01:34:51,352 --> 01:34:53,979
+<i>to report the theft of 100 million yen</i>
+<i>by a pack of raccoons.</i>
+
+1151
+01:34:54,105 --> 01:34:55,689
+<i>But no one would listen to him.</i>
+
+1152
+01:34:58,692 --> 01:35:02,196
+<i>Meanwhile, Gonta and his crew</i>
+<i>of hardliners were taking steps</i>
+
+1153
+01:35:02,279 --> 01:35:05,491
+<i>to stop humans</i>
+<i>from further clearing the forest.</i>
+
+1154
+01:35:23,759 --> 01:35:25,719
+<i>Attention, environmentalists!</i>
+
+1155
+01:35:26,303 --> 01:35:31,225
+<i>Stop interfering with our snake</i>
+<i>extermination and leave immediately!</i>
+
+1156
+01:35:32,184 --> 01:35:37,273
+<i>You will be subject to prosecution!</i>
+
+1157
+01:35:37,356 --> 01:35:39,775
+<i>If you do not immediately</i>
+<i>heed this warning and leave,</i>
+
+1158
+01:35:41,277 --> 01:35:47,867
+<i>we will use force to remove you!</i>
+
+1159
+01:35:59,795 --> 01:36:04,008
+<i>But Gonta and his army</i>
+<i>ignored the warning.</i>
+
+1160
+01:36:04,091 --> 01:36:06,635
+<i>They pinned the police,</i>
+<i>hunters and workers to the road</i>
+
+1161
+01:36:06,719 --> 01:36:09,430
+<i>and kept them from advancing an inch.</i>
+
+1162
+01:36:09,513 --> 01:36:12,892
+<i>And so both sides</i>
+<i>continued the face-off as night fell.</i>
+
+1163
+01:36:20,065 --> 01:36:25,362
+What? If Gonta insists on doing this,
+we ought to be standing with him!
+
+1164
+01:36:28,365 --> 01:36:34,413
+Can't you hear? The riot police
+are already here. It's too late.
+
+1165
+01:36:39,793 --> 01:36:41,670
+I'm going to take a look!
+
+1166
+01:36:41,754 --> 01:36:45,007
+-Shokichi! They'll get you too!
+-I'm going with him!
+
+1167
+01:36:57,228 --> 01:36:59,563
+-Ready, guys?
+-Right!
+
+1168
+01:36:59,647 --> 01:37:04,485
+Even if we should fall
+in the heat of battle,
+
+1169
+01:37:04,985 --> 01:37:08,989
+our deaths are certain to redouble
+our brothers' resolve to carry on,
+
+1170
+01:37:09,073 --> 01:37:15,120
+till the day of victory dawns!
+
+1171
+01:37:16,121 --> 01:37:21,043
+<i>Our raccoon balls swing in the wind</i>
+
+1172
+01:37:21,126 --> 01:37:25,798
+<i>Back and forth, back and forth</i>
+
+1173
+01:37:26,131 --> 01:37:30,094
+<i>Amen</i>
+
+1174
+01:37:30,177 --> 01:37:31,262
+Special ops! Move aside!
+
+1175
+01:37:31,345 --> 01:37:33,097
+Gonta, wait!
+
+1176
+01:37:33,597 --> 01:37:34,515
+Move out!
+
+1177
+01:37:51,949 --> 01:37:53,033
+Gonta.
+
+1178
+01:38:34,950 --> 01:38:38,829
+<i>The raccoons used their family jewels</i>
+<i>as weapons in a desperate kamikaze attack.</i>
+
+1179
+01:38:39,830 --> 01:38:42,583
+Mr. Raccoon, Mr. Raccoon.
+
+1180
+01:38:44,585 --> 01:38:47,379
+<i>Meanwhile,</i>
+<i>in another part of Tama Hills,</i>
+
+1181
+01:38:47,463 --> 01:38:50,049
+<i>a reporter was trying</i>
+<i>to interview the raccoons.</i>
+
+1182
+01:38:50,132 --> 01:38:53,385
+Mr. Raccoon, please come out.
+
+1183
+01:38:53,469 --> 01:38:56,555
+Any form you want to take is fine.
+
+1184
+01:38:58,057 --> 01:39:02,978
+The crew from <i>World TeleReporter</i>
+is on your side!
+
+1185
+01:39:07,107 --> 01:39:09,526
+It looks like
+they're not so eager to come out.
+
+1186
+01:39:12,279 --> 01:39:17,076
+<i>Mr. Raccoon, Mr. Raccoon</i>
+<i>Why don't we talk?</i>
+
+1187
+01:39:17,159 --> 01:39:20,788
+<i>We've got nothing to eat</i>
+
+1188
+01:39:20,871 --> 01:39:24,249
+They answered! It's true after all!
+
+1189
+01:39:26,043 --> 01:39:28,545
+We'd like to hear
+more about this from you.
+
+1190
+01:39:28,629 --> 01:39:30,756
+Won't you please come out?
+
+1191
+01:39:30,839 --> 01:39:35,260
+Oh! There they are!
+It's the raccoons! It's them!
+
+1192
+01:39:35,344 --> 01:39:38,639
+Are you raccoons
+really responsible for the specter parade?
+
+1193
+01:39:38,722 --> 01:39:40,683
+That's right!
+
+1194
+01:39:42,309 --> 01:39:45,479
+Please change into something
+for our viewers.
+
+1195
+01:39:45,562 --> 01:39:50,567
+Otherwise no one will believe us.
+
+1196
+01:39:51,151 --> 01:39:54,988
+Some of us can't shape-shift.
+
+1197
+01:39:55,155 --> 01:40:00,285
+So if the woods are all gone,
+we'll have nowhere to live!
+
+1198
+01:40:07,418 --> 01:40:09,586
+Raccoons, please listen!
+
+1199
+01:40:10,379 --> 01:40:14,675
+If you don't come out, this will make
+our report look like fake news!
+
+1200
+01:40:15,592 --> 01:40:18,887
+If you want people to believe you,
+
+1201
+01:40:19,179 --> 01:40:22,307
+you'll have to show yourselves.
+
+1202
+01:40:23,100 --> 01:40:24,101
+Osho!
+
+1203
+01:40:25,644 --> 01:40:29,523
+Please go tell the humans everything!
+
+1204
+01:40:37,364 --> 01:40:39,032
+He came out! He came out!
+
+1205
+01:40:39,116 --> 01:40:41,744
+A ceramic raccoon is walking toward me!
+
+1206
+01:40:48,834 --> 01:40:50,836
+ACCOUNTING LEDGER
+
+1207
+01:40:52,337 --> 01:40:54,965
+Mr. Raccoon, a word for our viewers!
+
+1208
+01:40:56,258 --> 01:41:00,471
+We...we...
+
+1209
+01:41:01,305 --> 01:41:02,347
+Yes?
+
+1210
+01:41:05,934 --> 01:41:06,935
+Go ahead!
+
+1211
+01:41:07,603 --> 01:41:08,812
+Granny Oroku!
+
+1212
+01:41:14,193 --> 01:41:16,570
+It was us! We did that parade!
+
+1213
+01:41:16,695 --> 01:41:18,906
+These woods are our home!
+
+1214
+01:41:19,364 --> 01:41:21,492
+Please don't destroy them!
+
+1215
+01:41:22,075 --> 01:41:24,745
+We speak for every animal in the forest!
+
+1216
+01:42:07,996 --> 01:42:12,000
+<i>The person I saw yesterday is gone today</i>
+
+1217
+01:42:12,084 --> 01:42:15,629
+<i>The person I see today</i>
+<i>Will be gone tomorrow</i>
+
+1218
+01:42:16,380 --> 01:42:20,592
+<i>Who knows what will happen to us tomorrow?</i>
+
+1219
+01:42:20,676 --> 01:42:23,720
+<i>Today everyone is sad</i>
+
+1220
+01:42:23,804 --> 01:42:28,141
+<i>Master Hage, last surviving witness</i>
+<i>of the battle of Yashima,</i>
+
+1221
+01:42:28,350 --> 01:42:33,814
+<i>was 999 years old.</i>
+
+1222
+01:42:34,189 --> 01:42:37,776
+<i>But he had seen enough, and he</i>
+<i>decided to bid the world farewell.</i>
+
+1223
+01:42:38,652 --> 01:42:43,156
+<i>With a song of triumph, the raccoons</i>
+<i>stretched his vast testicles</i>
+
+1224
+01:42:43,282 --> 01:42:46,535
+<i>into a fabulous treasure ship,</i>
+<i>with fittings of lacquer and gold.</i>
+
+1225
+01:42:46,618 --> 01:42:47,870
+TREASURE
+
+1226
+01:42:50,163 --> 01:42:54,543
+<i>Singing and dancing,</i>
+<i>they boarded the ship,</i>
+
+1227
+01:42:54,668 --> 01:42:59,089
+<i>as they left behind a world</i>
+<i>of suffering for the shores of bliss.</i>
+
+1228
+01:43:00,090 --> 01:43:04,553
+<i>The ordinary raccoons imagined paradise</i>
+
+1229
+01:43:04,761 --> 01:43:09,433
+<i>and boarded</i>
+<i>as if they were going on an outing.</i>
+
+1230
+01:43:12,436 --> 01:43:19,151
+<i>The treasure ship set off down</i>
+<i>the Tama River, swaying in the moonlight.</i>
+
+1231
+01:43:19,234 --> 01:43:24,031
+<i>The current bore the ship downstream,</i>
+<i>the sail stood proudly in the breeze.</i>
+
+1232
+01:43:24,323 --> 01:43:26,992
+<i>The boat was full,</i>
+
+1233
+01:43:27,534 --> 01:43:30,245
+<i>the sail was flying high.</i>
+
+1234
+01:43:30,329 --> 01:43:35,208
+<i>Now the tide helped them forward</i>
+<i>as the moon glinted off the water.</i>
+
+1235
+01:43:38,545 --> 01:43:40,839
+<i>The raccoons drummed on their bellies</i>
+<i>as the ship sailed away,</i>
+
+1236
+01:43:40,923 --> 01:43:43,592
+<i>drumming and drumming</i>
+<i>on this dreamy night.</i>
+
+1237
+01:43:43,717 --> 01:43:46,970
+<i>They celebrated with bells,</i>
+<i>shamisen, flutes, and drums.</i>
+
+1238
+01:43:47,054 --> 01:43:53,644
+<i>The ship was laden with gold,</i>
+<i>silver and precious coral.</i>
+
+1239
+01:43:54,227 --> 01:43:55,854
+<i>With tears in their eyes,</i>
+
+1240
+01:43:55,938 --> 01:43:59,650
+<i>the raccoons watching from the shore</i>
+<i>prayed this would be no mud boat.</i>
+
+1241
+01:44:01,526 --> 01:44:06,281
+<i>As in a dream, the ship sailed on</i>
+<i>past mist-shrouded woods and fields.</i>
+
+1242
+01:44:06,365 --> 01:44:11,745
+<i>The raccoons strained to catch a glimpse</i>
+<i>of Amida beckoning from paradise.</i>
+
+1243
+01:44:12,079 --> 01:44:15,248
+<i>The treasure ship</i>
+<i>crossed over to the next world.</i>
+
+1244
+01:44:15,332 --> 01:44:18,377
+<i>Singing and dancing, the raccoons</i>
+<i>crossed over to the next world.</i>
+
+1245
+01:44:18,460 --> 01:44:21,505
+<i>With bells and flutes,</i>
+<i>they crossed over to the next world.</i>
+
+1246
+01:44:21,713 --> 01:44:25,509
+<i>With samisen and drums,</i>
+<i>they crossed over to the next world.</i>
+
+1247
+01:44:25,592 --> 01:44:30,764
+<i>They crossed over to the next world,</i>
+<i>and they never returned.</i>
+
+1248
+01:44:34,643 --> 01:44:38,730
+You can't beat the humans after all
+
+1249
+01:44:59,835 --> 01:45:02,421
+Bunta, it's you!
+
+1250
+01:45:03,588 --> 01:45:05,674
+Bunta! Bunta!
+
+1251
+01:45:06,174 --> 01:45:08,093
+-Tamasaburo!
+-Bunta!
+
+1252
+01:45:11,221 --> 01:45:13,348
+You've finally returned!
+
+1253
+01:45:13,640 --> 01:45:14,975
+Sasuke! Shokichi!
+
+1254
+01:45:15,600 --> 01:45:20,605
+Did you find Master Danzaburo?
+Did you reach Sado and see the master?
+
+1255
+01:45:21,565 --> 01:45:25,819
+I learned at last
+that he was shot by a hunter years ago,
+
+1256
+01:45:26,445 --> 01:45:30,782
+after the war, when food was scarce.
+
+1257
+01:45:31,700 --> 01:45:35,412
+How sad.
+I was looking forward to meeting him.
+
+1258
+01:45:35,996 --> 01:45:38,957
+You did well, Bunta.
+
+1259
+01:45:44,504 --> 01:45:49,593
+What happened here in only three years?
+I feel like Urashima Taro.
+
+1260
+01:45:50,635 --> 01:45:52,929
+We did everything we could to stop it.
+
+1261
+01:45:53,013 --> 01:45:54,890
+But everything has changed beyond belief!
+
+1262
+01:45:55,182 --> 01:45:56,975
+The land has shape-shifted,
+not us raccoons.
+
+1263
+01:45:57,059 --> 01:46:00,979
+-We understand how you must feel.
+-Did the humans really do all this?
+
+1264
+01:46:01,563 --> 01:46:04,232
+Yes, they did. They did it all.
+
+1265
+01:46:04,608 --> 01:46:08,111
+No, it can't be! Only raccoons
+can change things like this.
+
+1266
+01:46:08,528 --> 01:46:10,238
+We're the only ones!
+
+1267
+01:46:11,364 --> 01:46:13,784
+The humans were really raccoons after all!
+
+1268
+01:46:13,909 --> 01:46:17,829
+Old, stinking raccoons!
+
+1269
+01:46:19,664 --> 01:46:26,254
+Give us back our woods! Give us back
+our fields! Give us back our homes!
+
+1270
+01:46:40,435 --> 01:46:42,020
+Shall we give it one more try?
+
+1271
+01:46:43,021 --> 01:46:47,192
+Let's use the power we have left
+to put everything back the way it was.
+
+1272
+01:46:48,860 --> 01:46:52,239
+We'll see who's better at shape-shifting.
+
+1273
+01:46:52,364 --> 01:46:53,865
+The raccoons or the humans.
+
+1274
+01:46:55,242 --> 01:47:01,164
+Sounds like fun! I can remember
+every detail of the way things used to be.
+
+1275
+01:47:01,289 --> 01:47:04,584
+All right, then.
+One last guerrilla attack!
+
+1276
+01:47:05,043 --> 01:47:08,588
+But what's the point?
+It's already too late.
+
+1277
+01:47:09,214 --> 01:47:12,050
+Oh, it'll cheer us up.
+That's all that matters.
+
+1278
+01:47:13,301 --> 01:47:17,681
+It's this playful spirit
+that makes us raccoons, after all.
+
+1279
+01:47:18,473 --> 01:47:20,976
+Master Kincho, will you help us?
+
+1280
+01:47:21,351 --> 01:47:25,480
+Of course, though it may turn out
+a bit like Shikoku.
+
+1281
+01:47:26,398 --> 01:47:27,482
+Ponkichi!
+
+1282
+01:47:27,566 --> 01:47:30,569
+Here I am! Shall I round up the others?
+
+1283
+01:47:30,652 --> 01:47:32,529
+Will you lend us your energy
+one more time?
+
+1284
+01:47:32,612 --> 01:47:33,989
+You can rely on me!
+
+1285
+01:49:29,187 --> 01:49:31,564
+Wait up for me!
+
+1286
+01:49:45,078 --> 01:49:47,622
+Why, that's Mother!
+
+1287
+01:49:50,250 --> 01:49:52,294
+And Yotchan! It's Yotchan!
+
+1288
+01:49:53,420 --> 01:49:55,505
+Yotchan!
+
+1289
+01:50:21,823 --> 01:50:24,743
+That's us!
+That's us when we were children!
+
+1290
+01:50:32,459 --> 01:50:34,127
+Look, raccoons!
+
+1291
+01:50:34,336 --> 01:50:36,838
+Wow! They're cute!
+
+1292
+01:50:38,548 --> 01:50:40,216
+Those are raccoons, right?
+
+1293
+01:50:40,383 --> 01:50:44,804
+I'm surprised to see them here,
+so close to the city.
+
+1294
+01:50:48,975 --> 01:50:51,311
+Hey, raccoons! Don't go!
+
+1295
+01:50:55,440 --> 01:50:57,317
+Aw, they're gone.
+
+1296
+01:50:58,318 --> 01:51:01,071
+It would've been fun to feed them.
+
+1297
+01:51:01,154 --> 01:51:04,324
+I wonder if they can really shape-shift
+like in the stories?
+
+1298
+01:51:08,536 --> 01:51:10,789
+<i>So in the end, we were defeated after all.</i>
+
+1299
+01:51:11,414 --> 01:51:15,960
+<i>Tama New Town kept growing</i>
+<i>without the slightest hindrance from us.</i>
+
+1300
+01:51:18,296 --> 01:51:21,549
+<i>As the years passed, the city settled in</i>
+
+1301
+01:51:21,800 --> 01:51:25,011
+<i>and became a pretty nice place</i>
+<i>for people to live.</i>
+
+1302
+01:51:26,763 --> 01:51:31,768
+<i>The hill where Manpuku Temple stood</i>
+<i>is a trendy residential district.</i>
+
+1303
+01:51:32,185 --> 01:51:36,022
+<i>And I think our shape-shifting</i>
+
+1304
+01:51:36,398 --> 01:51:40,235
+<i>did have a good influence on the humans.</i>
+
+1305
+01:51:41,069 --> 01:51:46,157
+<i>As it said in the papers,</i>
+<i>they're concerned about preserving nature,</i>
+
+1306
+01:51:46,408 --> 01:51:49,285
+<i>and they're setting aside</i>
+<i>little bits of the woods for parks,</i>
+
+1307
+01:51:49,369 --> 01:51:54,249
+<i>"to live in harmony with the raccoons."</i>
+
+1308
+01:51:55,458 --> 01:51:58,711
+<i>But the parks were too late for us.</i>
+
+1309
+01:51:59,003 --> 01:52:00,839
+<i>They're too small for raccoons, anyway.</i>
+
+1310
+01:52:01,589 --> 01:52:07,720
+<i>Some of us moved further from the city,</i>
+<i>where there were still woods and fields.</i>
+
+1311
+01:52:08,346 --> 01:52:10,473
+<i>But of course</i>
+<i>there were raccoons there already,</i>
+
+1312
+01:52:10,849 --> 01:52:14,227
+<i>and with construction and the cars</i>
+<i>that took one of us from time to time,</i>
+
+1313
+01:52:14,352 --> 01:52:16,438
+<i>life was hard.</i>
+
+1314
+01:52:19,732 --> 01:52:23,987
+<i>So we took the final step.</i>
+
+1315
+01:52:37,667 --> 01:52:38,793
+<i>That's right,</i>
+
+1316
+01:52:39,252 --> 01:52:43,131
+<i>those of us who could shape-shift</i>
+<i>took a page from the foxes' book,</i>
+
+1317
+01:52:43,214 --> 01:52:45,550
+<i>and started living like humans.</i>
+
+1318
+01:52:46,342 --> 01:52:49,804
+<i>Nowadays I have a desk job</i>
+<i>and my wife, Kiyo, works at a bar.</i>
+
+1319
+01:52:50,763 --> 01:52:52,307
+<i>A few raccoons got into real estate</i>
+<i>and got rich</i>
+
+1320
+01:52:52,682 --> 01:52:56,311
+<i>selling forests to developers.</i>
+<i>They're no different from the humans.</i>
+
+1321
+01:52:56,686 --> 01:52:59,230
+<i>Most of us are just worn out</i>
+<i>from the stress of living in the city,</i>
+
+1322
+01:52:59,314 --> 01:53:01,691
+<i>and wish we could go back to the woods.</i>
+
+1323
+01:53:03,443 --> 01:53:07,739
+<i>I'm impressed by the humans.</i>
+<i>It takes stamina to live the way they do.</i>
+
+1324
+01:53:08,615 --> 01:53:10,783
+<i>Some of us dropped out of the rat race</i>
+
+1325
+01:53:10,867 --> 01:53:16,664
+<i>and are scrounging out a living</i>
+<i>on the streets.</i>
+
+1326
+01:53:24,255 --> 01:53:27,467
+<i>Oh, and what about Ponkichi</i>
+<i>and the others who couldn't shape-shift?</i>
+
+1327
+01:53:54,494 --> 01:53:58,331
+<i>"Living for the moment"</i>
+<i>is an expression made for raccoons.</i>
+
+1328
+01:53:58,414 --> 01:54:01,918
+<i>We never let property development</i>
+<i>or accidents on the road get us down.</i>
+
+1329
+01:54:02,168 --> 01:54:05,338
+<i>We live as we please, relaxed</i>
+<i>and joyous, in the present.</i>
+
+1330
+01:54:05,421 --> 01:54:09,175
+<i>We have children,</i>
+<i>and we die, all too quickly.</i>
+
+1331
+01:54:37,036 --> 01:54:38,746
+Here I go!
+
+1332
+01:54:42,375 --> 01:54:43,293
+Woo-hoo!
+
+1333
+01:54:58,850 --> 01:55:00,476
+Ponkichi!
+
+1334
+01:55:01,686 --> 01:55:03,062
+Ponkichi!
+
+1335
+01:55:03,146 --> 01:55:05,064
+Shokichi!
+
+1336
+01:55:08,234 --> 01:55:09,736
+You came!
+
+1337
+01:55:09,861 --> 01:55:10,904
+How long has it been?
+
+1338
+01:55:34,177 --> 01:55:36,054
+You often hear on the news
+
+1339
+01:55:36,137 --> 01:55:39,807
+how foxes and raccoons are disappearing
+because of urban development, right?
+
+1340
+01:55:39,891 --> 01:55:41,893
+I wish you humans would stop saying that.
+
+1341
+01:55:42,435 --> 01:55:46,898
+Sure, some foxes and raccoons
+can shape-shift.
+
+1342
+01:55:47,398 --> 01:55:50,777
+But unfortunately,
+most of us can't just disappear.
+
+1343
+01:55:51,569 --> 01:55:53,613
+What about the rest of the animals?
+

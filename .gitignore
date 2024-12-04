@@ -13,7 +13,4 @@ __pycache__/
 .vscode/
 .idea/
 
-# Skip large files (>1MB)
-*.[!g][!i][!t]*
-!*.[!g][!i][!t]*/
-*.[!g][!i][!t]* binary size>1M
+

@@ -1,0 +1,5450 @@
+﻿1
+00:00:04,665 --> 00:00:07,473
+{\an8}<font color="#ffff00"><i>Kẻ nắm giữ hương dược</i></font>
+
+2
+00:00:07,573 --> 00:00:12,123
+{\an8}<font color="#ffff00"><i>Kẻ nắm giữ hương dược
+là kẻ nắm giữ thế giới.</i></font>
+
+3
+00:00:13,180 --> 00:00:18,180
+Phụ đề tiếng Việt được thực hiện bởi:
+<font color="#00ffff">mochioka - MCUDISVN - MP12365</font>
+<font color="#ffff00">FB.com/groups/mcudisvn</font>
+
+4
+00:00:18,280 --> 00:00:28,234
+<font color="#f2698b">♥ Yêu súp ngon, chuẩn, mượt ♥ Yêu BimBip Subteam ♥</font>
+<font color="#f2698b">♥ Fanpage: Nấu Súp Cùng Bìm Bịp ♥</font>
+
+5
+00:00:53,135 --> 00:00:57,675
+<i>Nhật ký Đế chế, năm 10191,
+ghi chép thứ ba.</i>
+
+6
+00:01:00,815 --> 00:01:04,455
+<i>Trận chiến ở Arrakis
+gây chấn động thế giới.</i>
+
+7
+00:01:05,585 --> 00:01:06,685
+<i>Không có nhân chứng.</i>
+
+8
+00:01:08,725 --> 00:01:11,755
+<i>Nhà Harkonnen hành động trong đêm.</i>
+
+9
+00:01:11,855 --> 00:01:15,725
+<i>Không cảnh báo.
+Không tuyên chiến.</i>
+
+10
+00:01:17,895 --> 00:01:20,435
+<i>Đến sáng, nhà Atreides bị xóa sổ.</i>
+
+11
+00:01:22,155 --> 00:01:23,335
+<i>Tất cả đều chết trong bóng tối.</i>
+
+12
+00:01:32,345 --> 00:01:33,815
+<i>Và Hoàng đế đáp lại bằng...</i>
+
+13
+00:01:37,385 --> 00:01:38,255
+<i>Im lặng.</i>
+
+14
+00:01:40,825 --> 00:01:43,325
+<i>Cha tôi thay đổi kể từ đêm đó.</i>
+
+15
+00:01:44,625 --> 00:01:45,525
+<i>Tôi cũng vậy.</i>
+
+16
+00:01:47,425 --> 00:01:50,765
+<i>Tôi không chấp nhận
+việc ông cứ thờ ơ.</i>
+
+17
+00:01:50,865 --> 00:01:53,765
+<i>Vì tôi biết ông yêu thương
+Công tước Leto Atreides như con trai.</i>
+
+18
+00:02:00,275 --> 00:02:03,845
+<i>Nhưng cha tôi luôn mắc kẹt
+trong toan tính quyền lực.</i>
+
+19
+00:02:06,375 --> 00:02:09,455
+<i>Đây không phải lần đầu nhà
+Harkonnen nhúng chàm thay cha.</i>
+
+20
+00:02:17,935 --> 00:02:20,475
+Bóng tối của Arrakis
+ẩn giấu nhiều bí mật.
+
+21
+00:02:23,015 --> 00:02:25,415
+<i>Nhưng điều đen tối nhất có lẽ là...</i>
+
+22
+00:02:27,035 --> 00:02:28,765
+<i>Sự kết thúc của gia tộc Atreides.</i>
+
+23
+00:02:35,105 --> 00:02:40,935
+XỨ CÁT II
+
+24
+00:02:44,685 --> 00:02:47,885
+<i>Em gái, cha mất rồi.</i>
+
+25
+00:02:49,525 --> 00:02:51,325
+<i>Em có nên quay về với các vì sao?</i>
+
+26
+00:02:52,325 --> 00:02:53,195
+<i>Để ở bên cha?</i>
+
+27
+00:02:55,765 --> 00:02:58,935
+<i>Anh sợ không có đủ thời gian
+để thay đổi mọi thứ trước khi em ra đời.</i>
+
+28
+00:03:01,505 --> 00:03:03,735
+<i>Thế giới này quá tàn khốc.</i>
+
+29
+00:03:40,675 --> 00:03:42,425
+{\an8}<font color="#ffff00">Kẻ địch.</font>
+
+30
+00:04:10,575 --> 00:04:11,745
+Ở yên đây.
+
+31
+00:04:39,665 --> 00:04:41,205
+{\an8}<font color="#ffff00">Dưới. Bên phải.</font>
+
+32
+00:05:35,885 --> 00:05:38,725
+{\an8}<font color="#ffff00">Chúng ở gần.</font>
+
+33
+00:06:06,335 --> 00:06:07,415
+{\an8}<font color="#ffff00">Nghe thấy không?</font>
+
+34
+00:06:10,085 --> 00:06:12,255
+{\an8}<font color="#ffff00">Lũ chuột đang gọi sâu cát.</font>
+
+35
+00:06:19,015 --> 00:06:20,605
+{\an8}<font color="#ffff00">Sâu cát!</font>
+
+36
+00:06:20,805 --> 00:06:23,395
+{\an8}<font color="#ffff00">Tất cả leo lên. Nhanh!</font>
+
+37
+00:07:15,355 --> 00:07:17,695
+{\an8}<font color="#ffff00">Tìm vết sâu.</font>
+
+38
+00:07:30,625 --> 00:07:32,715
+{\an8}<font color="#ffff00">Ổn rồi.</font>
+
+39
+00:07:40,095 --> 00:07:40,955
+{\an8}<font color="#ffff00">Khiên!</font>
+
+40
+00:07:41,055 --> 00:07:41,805
+{\an8}<font color="#ffff00">Không có!</font>
+
+41
+00:08:43,535 --> 00:08:44,905
+{\an8}<font color="#ffff00">Chết mày rồi, chuột.</font>
+
+42
+00:09:01,435 --> 00:09:04,565
+Phải luôn luôn giữ vững cảnh giác.
+
+43
+00:09:04,665 --> 00:09:06,295
+Mẹ phải dặn bao nhiêu lần đây?
+
+44
+00:09:07,245 --> 00:09:08,365
+Mẹ ổn chứ?
+
+45
+00:09:08,735 --> 00:09:10,975
+- Ừ.
+- Còn em?
+
+46
+00:09:13,035 --> 00:09:14,005
+Không sao hết.
+
+47
+00:09:20,455 --> 00:09:24,715
+Chúng thường không tiến sâu đến thế.
+
+48
+00:09:24,815 --> 00:09:26,655
+Chúng muốn tận diệt Atreides.
+
+49
+00:09:26,935 --> 00:09:29,055
+Đừng quá tự cao.
+
+50
+00:09:29,155 --> 00:09:31,825
+Đây là khu vực cát thẳm.
+
+51
+00:09:31,925 --> 00:09:34,695
+Không ai sống được trừ người Fremen.
+
+52
+00:09:34,795 --> 00:09:37,535
+Chúng đến tìm chúng tôi,
+không phải cậu.
+
+53
+00:09:38,905 --> 00:09:39,885
+Đừng lo.
+
+54
+00:09:40,355 --> 00:09:43,425
+Tôi dẫn hai người đến nơi
+chúng không thể tìm ra.
+
+55
+00:10:00,695 --> 00:10:02,585
+Nước bẩn.
+
+56
+00:10:02,685 --> 00:10:06,755
+Chứa đầy hóa chất.
+Nhưng đủ tốt cho hệ thống làm mát.
+
+57
+00:10:10,725 --> 00:10:11,695
+Đừng nôn ra.
+
+58
+00:10:14,065 --> 00:10:14,985
+Mẹ ổn chứ?
+
+59
+00:10:16,325 --> 00:10:17,495
+Đừng nôn.
+
+60
+00:10:18,375 --> 00:10:19,775
+Đừng nôn!
+
+61
+00:10:24,075 --> 00:10:25,445
+- Mẹ ổn.
+- Thật chứ?
+
+62
+00:10:30,815 --> 00:10:31,955
+Anh chiến đấu tốt...
+
+63
+00:10:33,015 --> 00:10:34,185
+lúc anh tỉnh táo.
+
+64
+00:10:35,625 --> 00:10:36,525
+Tôi đâu có ngủ.
+
+65
+00:11:07,955 --> 00:11:09,955
+Không, không. Tôi làm cho.
+
+66
+00:12:00,505 --> 00:12:05,285
+ARRAKEEN
+Thủ phủ của miền Bắc Arrakis
+
+67
+00:12:14,025 --> 00:12:15,555
+Thưa ngài Rabban.
+
+68
+00:12:16,695 --> 00:12:18,795
+Vì cánh đồng hương dược đã an toàn,
+
+69
+00:12:18,955 --> 00:12:22,195
+tôi đề nghị rút toàn bộ quân
+ra khỏi lãnh thổ Fremen.
+
+70
+00:12:22,545 --> 00:12:24,035
+Sa mạc đã cướp đi quá nhiều.
+
+71
+00:12:24,135 --> 00:12:25,435
+Lũ chuột.
+
+72
+00:12:27,205 --> 00:12:30,175
+- Sao ạ?
+- Ta mất người vì lũ chuột.
+
+73
+00:12:33,205 --> 00:12:37,145
+Là Fremen! Chưa thể xác nhận, thưa ngài.
+Liên lạc ở sa mạc rất lộn xộn.
+
+74
+00:12:37,245 --> 00:12:40,115
+Ngươi được lệnh
+kiểm soát cả hành tinh.
+
+75
+00:12:42,205 --> 00:12:44,585
+- Xong rồi mà.
+- Ta chỉ thấy một nửa.
+
+76
+00:12:44,995 --> 00:12:49,065
+Hẳn là ngài nhớ, miền Nam
+là vùng không sống được.
+
+77
+00:12:51,975 --> 00:12:53,255
+Tôi đề nghị ngài nghỉ ngơi nhé?
+
+78
+00:12:53,355 --> 00:12:58,534
+Chuột! Lũ chuột lông lá!
+Giết chúng! Giết hết!
+
+79
+00:12:58,728 --> 00:13:00,815
+Giết hết bọn chúng!
+
+80
+00:13:01,045 --> 00:13:02,005
+<i>Lũ chuột!</i>
+
+81
+00:13:49,385 --> 00:13:50,615
+Anh ta hỏi vì sao ta đến muộn.
+
+82
+00:13:51,005 --> 00:13:53,385
+- Harkonnen...
+- Không.
+
+83
+00:13:56,455 --> 00:13:57,745
+Anh ta nghĩ anh là gián điệp.
+
+84
+00:13:57,845 --> 00:13:59,735
+{\an8}<font color="#ffff00">Anh không được chào đón ở đây.</font>
+
+85
+00:14:00,255 --> 00:14:01,615
+- Anh ta nói...
+- Tôi hiểu được.
+
+86
+00:14:02,655 --> 00:14:04,975
+- Cảm ơn.
+- Theo sát tôi.
+
+87
+00:14:26,315 --> 00:14:27,385
+Đây là sietch (khu dân cư) Tabr.
+
+88
+00:15:21,585 --> 00:15:23,585
+{\an8}<font color="#ffff00">Jamis! Jamis!</font>
+
+89
+00:15:24,335 --> 00:15:25,935
+{\an8}<font color="#ffff00">Các người đã giết Jamis!</font>
+
+90
+00:15:26,085 --> 00:15:27,255
+{\an8}<font color="#ffff00">Gián điệp!</font>
+
+91
+00:15:27,485 --> 00:15:28,915
+{\an8}<font color="#ffff00">Phù thủy!</font>
+
+92
+00:15:44,725 --> 00:15:46,475
+{\an8}<font color="#ffff00">Dừng lại! Dừng lại!</font>
+
+93
+00:15:48,065 --> 00:15:50,735
+{\an8}<font color="#ffff00">Họ không biết họ đang nói gì đâu.</font>
+
+94
+00:16:01,485 --> 00:16:02,585
+Lisan al-Gaib! Lisan al-Gaib!
+
+95
+00:16:02,685 --> 00:16:03,935
+Mahdi!
+
+96
+00:16:06,035 --> 00:16:09,235
+{\an8}<font color="#ffff00">Tôi cần chỉ dẫn của các vị
+với hai người ngoài.</font>
+
+97
+00:16:10,505 --> 00:16:12,565
+{\an8}<font color="#ffff00">Trả họ về lại sa mạc.</font>
+
+98
+00:16:14,545 --> 00:16:16,555
+{\an8}<font color="#ffff00">Tôi đã thấy những dấu hiệu.</font>
+
+99
+00:16:16,785 --> 00:16:18,335
+{\an8}<font color="#ffff00">Lại thế nữa.</font>
+
+100
+00:16:20,635 --> 00:16:23,685
+{\an8}<font color="#ffff00">Stilgar, đức tin của anh
+đã khiến anh mù quáng.</font>
+
+101
+00:16:23,895 --> 00:16:27,245
+{\an8}<font color="#ffff00">Lisan al-Gaib vẫn chưa ra đời!</font>
+
+102
+00:16:31,755 --> 00:16:34,885
+{\an8}<font color="#ffff00">Cậu ấy giết Jamis
+trong trận đấu công bằng.</font>
+
+103
+00:16:35,865 --> 00:16:39,075
+{\an8}<font color="#ffff00">Cậu ấy nói ngôn ngữ của chúng ta.</font>
+
+104
+00:16:39,365 --> 00:16:41,745
+{\an8}<font color="#ffff00">Cậu ấy sẽ nhanh chóng
+học được tập tục.</font>
+
+105
+00:16:43,245 --> 00:16:47,565
+{\an8}<font color="#ffff00">Tôi đã sẵn sàng
+dâng đời mình cho cậu ấy.</font>
+
+106
+00:16:48,835 --> 00:16:52,235
+{\an8}<font color="#ffff00">Sa mạc sẽ quyết định
+số phận của cậu ta.</font>
+
+107
+00:16:55,425 --> 00:16:58,115
+{\an8}<font color="#ffff00">Người phụ nữ thì sao?</font>
+
+108
+00:17:02,605 --> 00:17:05,215
+Xem lời tuyên truyền Bene Gesserit
+của mẹ bám rễ thế nào kìa.
+
+109
+00:17:08,245 --> 00:17:10,185
+Có người đã nghĩ
+con là đấng cứu thế rồi.
+
+110
+00:17:12,025 --> 00:17:13,095
+Những người khác...
+
+111
+00:17:14,825 --> 00:17:15,795
+nghĩ con là nhà tiên tri giả.
+
+112
+00:17:17,395 --> 00:17:19,605
+Con phải thuyết phục được họ.
+
+113
+00:17:20,425 --> 00:17:22,905
+Nếu họ theo con, ta có thể
+ngăn cản khai thác hương dược.
+
+114
+00:17:23,465 --> 00:17:25,295
+Đó là cách duy nhất
+để con tiếp cận Hoàng đế.
+
+115
+00:17:27,045 --> 00:17:28,645
+Cha con không tin vào báo thù.
+
+116
+00:17:29,685 --> 00:17:30,725
+Con thì có.
+
+117
+00:18:04,305 --> 00:18:05,235
+Con sao thế?
+
+118
+00:18:07,065 --> 00:18:09,485
+Người ngoài thấy quá ngon à?
+
+119
+00:18:11,455 --> 00:18:12,725
+Trời ạ.
+
+120
+00:18:14,315 --> 00:18:15,235
+Gì thế?
+
+121
+00:18:15,615 --> 00:18:17,055
+Trong thức ăn có hương dược.
+
+122
+00:18:17,905 --> 00:18:20,135
+{\an8}<font color="#ffff00">Anh ta có mắt xanh dương
+thì sẽ đẹp lắm.</font>
+
+123
+00:18:20,315 --> 00:18:22,255
+{\an8}<font color="#ffff00">Đừng chế nhạo anh ta.</font>
+
+124
+00:18:23,595 --> 00:18:26,385
+{\an8}<font color="#ffff00">Anh ta đáng được tôn trọng.
+Anh ta chiến đấu giỏi.</font>
+
+125
+00:18:28,365 --> 00:18:29,835
+Cô kia.
+
+126
+00:18:31,295 --> 00:18:32,405
+Theo tôi.
+
+127
+00:18:34,515 --> 00:18:37,335
+{\an8}<font color="#ffff00">Chúng ta trả lại nước cho giếng.</font>
+
+128
+00:18:37,845 --> 00:18:40,755
+{\an8}<font color="#ffff00">Chúc lành cho người anh em Jamis.</font>
+
+129
+00:19:42,995 --> 00:19:45,355
+38 triệu decalit.
+
+130
+00:19:46,205 --> 00:19:47,772
+Không ai trong chúng tôi,
+
+131
+00:19:48,425 --> 00:19:51,715
+sẽ uống chỗ nước này,
+dù là sắp chết khát.
+
+132
+00:19:51,865 --> 00:19:52,895
+Đây là...
+
+133
+00:19:54,345 --> 00:19:55,475
+nước thiêng.
+
+134
+00:19:59,685 --> 00:20:00,785
+Nước của Jamis.
+
+135
+00:20:02,445 --> 00:20:05,645
+Chúng tôi có một ngàn nơi
+như thế này.
+
+136
+00:20:06,775 --> 00:20:09,015
+Khi chúng tôi có đủ nước,
+
+137
+00:20:10,195 --> 00:20:14,605
+<i>Lisan al-Gaib</i>
+sẽ thay đổi bộ mặt của Arrakis.
+
+138
+00:20:14,705 --> 00:20:17,335
+Ngài sẽ khôi phục cây cối.
+Ngài sẽ khôi phục...
+
+139
+00:20:19,335 --> 00:20:20,545
+Thiên đường Xanh.
+
+140
+00:20:23,675 --> 00:20:25,375
+Thật nhiều linh hồn.
+
+141
+00:20:35,835 --> 00:20:38,715
+Không cho ai nước, kể cả người chết.
+
+142
+00:20:42,235 --> 00:20:43,635
+Vì sao anh cho tôi xem?
+
+143
+00:20:43,815 --> 00:20:47,895
+Vì cô là Bene Gesserit.
+Vì cô hiểu những lời tiên tri.
+
+144
+00:20:49,435 --> 00:20:52,735
+Mẹ của <i>Lisan al-Gaib</i>
+sẽ là mẹ Chí tôn.
+
+145
+00:20:54,125 --> 00:20:56,665
+Mẹ Chí tôn của chúng tôi sắp chết.
+
+146
+00:20:58,385 --> 00:21:00,215
+Anh muốn tôi thế chỗ bà ấy à?
+
+147
+00:21:00,895 --> 00:21:03,505
+Phải, tôi muốn thế.
+
+148
+00:21:06,095 --> 00:21:07,535
+Anh tin Paul ư?
+
+149
+00:21:10,335 --> 00:21:14,515
+Có những dấu hiệu, phải.
+
+150
+00:21:16,565 --> 00:21:17,915
+Nếu tôi từ chối?
+
+151
+00:21:18,735 --> 00:21:20,765
+Thì cậu ấy không phải là
+<i>Lisan al-Gaib</i>.
+
+152
+00:21:21,215 --> 00:21:23,105
+Và cô không có gì để phụng sự.
+
+153
+00:21:23,285 --> 00:21:27,255
+Lúc đó còn làm được gì
+ngoài trả nước của cô về cho giếng?
+
+154
+00:21:32,415 --> 00:21:33,585
+Đó là một vinh dự, nhỉ?
+
+155
+00:21:35,445 --> 00:21:36,785
+Con nghĩ mẹ nên thấy vinh dự.
+
+156
+00:21:36,885 --> 00:21:38,855
+Phải chọn giữa việc này và chết,
+
+157
+00:21:38,955 --> 00:21:40,785
+nên thứ lỗi nếu mẹ không vui.
+
+158
+00:21:42,955 --> 00:21:44,655
+Thành Mẹ Chí tôn như thế nào?
+
+159
+00:21:45,015 --> 00:21:48,915
+Mỗi nền văn hóa lại khác nhau.
+Ở Arrakis này, mẹ không biết.
+
+160
+00:21:52,935 --> 00:21:53,985
+Mẹ đang sợ.
+
+161
+00:21:55,295 --> 00:21:56,975
+Các Mẹ Chí tôn phải nắm giữ ký ức
+
+162
+00:21:57,075 --> 00:21:58,835
+của mọi Mẹ Chí tôn trước mình,
+
+163
+00:21:58,935 --> 00:22:02,105
+nên mẹ sắp được nhận
+nhiều thế kỷ đau đớn và sầu khổ.
+
+164
+00:22:03,035 --> 00:22:03,905
+Có nguy hiểm không?
+
+165
+00:22:04,905 --> 00:22:06,265
+Với đàn ông thì chết chắc.
+
+166
+00:22:07,195 --> 00:22:08,415
+Đó là điều chắc chắn.
+
+167
+00:23:17,215 --> 00:23:18,605
+Mọi người cười gì thế?
+
+168
+00:23:19,185 --> 00:23:20,415
+Đừng bận tâm.
+
+169
+00:23:25,595 --> 00:23:26,725
+Các cô không tin việc này à?
+
+170
+00:23:26,825 --> 00:23:28,395
+Chúng tôi không tin.
+
+171
+00:23:28,495 --> 00:23:31,745
+- Đó là tín ngưỡng miền Nam.
+- Tín ngưỡng miền Nam?
+
+172
+00:23:32,085 --> 00:23:35,395
+Các bộ lạc miền Nam tin là
+đấng cứu thế sẽ đến giải cứu khỏi ác quỷ.
+
+173
+00:23:35,965 --> 00:23:37,835
+Các cô không tin vào
+<i>Lisan al-Gaib</i> à?
+
+174
+00:23:37,935 --> 00:23:39,965
+Chúng tôi tin vào người Fremen.
+
+175
+00:23:40,065 --> 00:23:40,825
+<i>- Bi-lal kaifa.</i>
+<i>- Bi-lal kaifa.</i>
+
+176
+00:23:42,645 --> 00:23:45,745
+Anh muốn kiểm soát người ta
+thì bảo là đấng cứu thế sẽ đến.
+
+177
+00:23:46,425 --> 00:23:48,835
+Họ sẽ ngồi chờ hàng thế kỷ.
+
+178
+00:23:52,515 --> 00:23:55,335
+Giờ chúng ta phải cầu nguyện.
+
+179
+00:24:03,225 --> 00:24:05,325
+- Ông ấy thì sao?
+- Stilgar?
+
+180
+00:24:05,615 --> 00:24:08,715
+Ông ấy từ miền Nam.
+Anh không để ý giọng ông ấy à?
+
+181
+00:24:18,185 --> 00:24:19,275
+Mẹ tôi sẽ thế nào?
+
+182
+00:24:20,055 --> 00:24:22,135
+{\an8}<font color="#ffff00">Bà ấy sẽ uống nước tiểu sâu.</font>
+
+183
+00:24:22,335 --> 00:24:23,555
+{\an8}<font color="#ffff00">Không vui đâu.</font>
+
+184
+00:24:23,705 --> 00:24:25,225
+{\an8}<font color="#ffff00">Anh ta sắp mất mẹ.</font>
+
+185
+00:24:25,415 --> 00:24:28,185
+{\an8}<font color="#ffff00">Nếu bà ấy ngu đến mức
+uống thuốc độc.</font>
+
+186
+00:24:29,585 --> 00:24:31,315
+{\an8}<font color="#ffff00">Im đi!</font>
+
+187
+00:24:31,415 --> 00:24:33,895
+{\an8}<font color="#ffff00">Chúng tôi đang cầu nguyện.</font>
+
+188
+00:24:41,735 --> 00:24:44,505
+Ta không được sợ hãi.
+Sợ hãi giết chết tâm trí.
+
+189
+00:24:44,605 --> 00:24:47,505
+Sợ hãi là cái chết nhỏ
+mang đến sự phá hủy hoàn toàn.
+
+190
+00:24:47,605 --> 00:24:49,675
+Ta sẽ đối mặt nỗi sợ. Ta sẽ...
+
+191
+00:24:55,445 --> 00:24:58,755
+{\an8}<font color="#ffff00">Đây là Nước Sự Sống.</font>
+
+192
+00:24:59,175 --> 00:25:01,665
+{\an8}<font color="#ffff00">Nó giải phóng linh hồn.</font>
+
+193
+00:25:01,955 --> 00:25:04,045
+{\an8}<font color="#ffff00">Nếu cô uống.</font>
+
+194
+00:25:04,295 --> 00:25:06,425
+{\an8}<font color="#ffff00">Cô sẽ chết.</font>
+
+195
+00:25:10,045 --> 00:25:11,895
+{\an8}<font color="#ffff00">Nếu cô uống.</font>
+
+196
+00:25:13,295 --> 00:25:15,055
+{\an8}<font color="#ffff00">Cô có thể thấy.</font>
+
+197
+00:25:15,155 --> 00:25:16,185
+{\an8}<font color="#ffff00">Uống đi!</font>
+
+198
+00:25:16,305 --> 00:25:18,175
+- Nó là gì?
+- Uống!
+
+199
+00:26:40,725 --> 00:26:42,775
+{\an8}<font color="#ffff00">Chúng ta làm gì vậy.</font>
+
+200
+00:26:43,845 --> 00:26:45,365
+{\an8}<font color="#ffff00">Cô ấy đang có thai.</font>
+
+201
+00:26:59,615 --> 00:27:00,875
+{\an8}<font color="#ffff00">Đâu phải phép màu!</font>
+
+202
+00:27:01,055 --> 00:27:02,825
+{\an8}<font color="#ffff00">Mọi người đã thấy tận mắt!</font>
+
+203
+00:27:04,575 --> 00:27:07,155
+{\an8}<font color="#ffff00">Mẹ của Lisan al-Gaib</font>
+
+204
+00:27:07,355 --> 00:27:09,125
+{\an8}<font color="#ffff00">sẽ sống sót qua Chất Độc Thiêng.</font>
+
+205
+00:27:09,285 --> 00:27:10,585
+{\an8}<font color="#ffff00">Và cô ấy đã sống.</font>
+
+206
+00:27:10,915 --> 00:27:12,415
+{\an8}<font color="#ffff00">Như đã được viết!</font>
+
+207
+00:27:14,245 --> 00:27:16,325
+{\an8}<font color="#ffff00">Người của bà ta viết điều đó!</font>
+
+208
+00:27:16,465 --> 00:27:18,165
+{\an8}<font color="#ffff00">Báng bổ.</font>
+
+209
+00:27:18,365 --> 00:27:19,945
+{\an8}<font color="#ffff00">Lời tiên tri đã hoàn thành.</font>
+
+210
+00:27:20,675 --> 00:27:22,755
+{\an8}<font color="#ffff00">Mahdi phải là người Fremen!</font>
+
+211
+00:27:26,695 --> 00:27:29,175
+{\an8}<font color="#ffff00">Arrakis phải được giải phóng
+bởi chính người của mình!</font>
+
+212
+00:27:29,275 --> 00:27:31,235
+Cô ấy nói đúng. Cô ấy nói đúng!
+
+213
+00:27:33,455 --> 00:27:34,495
+Không phải phép màu.
+
+214
+00:27:36,045 --> 00:27:37,585
+Mẹ tôi được rèn luyện để làm thế.
+
+215
+00:27:38,945 --> 00:27:41,845
+Chuyển hóa chất độc là việc mà
+Bene Gesserit cao cấp làm được.
+
+216
+00:27:45,315 --> 00:27:46,455
+Tôi không phải <i>Mahdi.</i>
+
+217
+00:27:50,125 --> 00:27:51,325
+Tôi không phải đến để dẫn dắt.
+
+218
+00:27:54,315 --> 00:27:56,765
+{\an8}<font color="#ffff00">Tôi đến để học hỏi các bạn.</font>
+
+219
+00:27:57,535 --> 00:28:00,935
+Hãy cho tôi cùng chiến đấu.
+Tôi chỉ yêu cầu thế.
+
+220
+00:28:09,155 --> 00:28:13,825
+{\an8}<font color="#ffff00">Mahdi quá khiêm tốn
+nên không nhận Ngài là Mahdi.</font>
+
+221
+00:28:14,555 --> 00:28:17,085
+{\an8}<font color="#ffff00">Thêm lý do để biết đó đúng là Ngài!</font>
+
+222
+00:28:17,515 --> 00:28:20,895
+{\an8}<font color="#ffff00">Như đã được viết!</font>
+
+223
+00:28:24,225 --> 00:28:25,155
+Mẹ thế nào?
+
+224
+00:28:26,195 --> 00:28:27,195
+Khỏe hơn rồi.
+
+225
+00:28:28,295 --> 00:28:29,295
+Em thế nào?
+
+226
+00:28:30,935 --> 00:28:32,435
+Em con sợ hãi, nhưng nó...
+
+227
+00:28:34,105 --> 00:28:35,105
+nó ổn.
+
+228
+00:28:41,305 --> 00:28:42,205
+Paul.
+
+229
+00:28:45,445 --> 00:28:47,145
+Con bé nói chuyện với mẹ.
+
+230
+00:28:50,355 --> 00:28:52,185
+Nó tin con.
+
+231
+00:28:55,585 --> 00:28:56,855
+Nó nói...
+
+232
+00:28:59,745 --> 00:29:02,935
+{\an8}<font color="#ffff00">Kwisatz Haderach
+chỉ lối cho chúng ta.</font>
+
+233
+00:29:04,235 --> 00:29:05,985
+Con đang rất gần rồi.
+
+234
+00:29:06,255 --> 00:29:10,265
+Chỉ còn một bước nữa là con sẽ
+trở thành <i>Kwisatz Haderach.</i>
+
+235
+00:29:11,795 --> 00:29:13,565
+Chỉ còn lại một bước.
+
+236
+00:29:14,245 --> 00:29:15,875
+Con phải làm như mẹ đã làm.
+
+237
+00:29:16,105 --> 00:29:18,265
+Con phải uống Nước Sự sống.
+
+238
+00:29:19,245 --> 00:29:22,915
+Thả lỏng tâm trí, nó sẽ...
+nó sẽ mở ra và con sẽ thấy.
+
+239
+00:29:24,455 --> 00:29:26,165
+{\an8}<font color="#ffff00">Con sẽ thấy!</font>
+
+240
+00:29:26,395 --> 00:29:29,505
+{\an8}<font color="#ffff00">Vẻ đẹp và sự kinh hoàng!</font>
+
+241
+00:29:33,965 --> 00:29:37,795
+Nếu muốn chiến đấu cạnh chúng tôi,
+điều đầu tiên cậu phải học
+
+242
+00:29:38,745 --> 00:29:40,675
+là trở thành một thể với sa mạc.
+
+243
+00:29:42,155 --> 00:29:45,405
+Đây là một cái lều và đủ thức ăn.
+
+244
+00:29:45,775 --> 00:29:50,345
+Tôi muốn cậu vượt qua
+biển cát nhỏ đó và quay lại.
+
+245
+00:29:51,145 --> 00:29:52,235
+Đi ban đêm.
+
+246
+00:29:52,975 --> 00:29:55,445
+- Cậu biết dùng cận là bàn chứ?
+- Vâng.
+
+247
+00:29:58,675 --> 00:29:59,745
+Còn gì tôi cần biết nữa?
+
+248
+00:30:00,115 --> 00:30:02,815
+Ngoài sâu cát và bọn Harkonnen,
+
+249
+00:30:02,915 --> 00:30:05,285
+hãy cẩn thận nhện cửa sập.
+
+250
+00:30:06,325 --> 00:30:09,895
+Lũ rết rất gớm ghiếc.
+Không phải những con to.
+
+251
+00:30:10,145 --> 00:30:11,105
+Chúng vô hại.
+
+252
+00:30:11,595 --> 00:30:15,545
+Cậu phải bận tâm
+đến lũ rết nhỏ, và...
+
+253
+00:30:17,975 --> 00:30:21,335
+Đừng bao giờ nghe theo jinn.
+
+254
+00:30:23,805 --> 00:30:25,475
+- Jinn ư?
+- Jinn.
+
+255
+00:30:25,725 --> 00:30:27,395
+Các linh hồn sa mạc.
+
+256
+00:30:28,485 --> 00:30:31,155
+Ban đêm chúng thì thầm.
+
+257
+00:30:36,235 --> 00:30:38,125
+Chúng có thể đoạt thân xác cậu.
+
+258
+00:30:38,595 --> 00:30:42,195
+Phải thật cẩn thận.
+Chúng là quỷ dữ.
+
+259
+00:30:45,445 --> 00:30:47,315
+Nhưng sự thật là thế.
+Đừng nghe chúng.
+
+260
+00:30:51,395 --> 00:30:53,525
+{\an8}<font color="#ffff00">Anh ta không biết cách băng qua.</font>
+
+261
+00:30:53,785 --> 00:30:56,305
+{\an8}<font color="#ffff00">Stilgar sẽ hại chết anh ta mất.</font>
+
+262
+00:30:56,765 --> 00:30:58,685
+{\an8}<font color="#ffff00">Anh ta đang cố chứng tỏ gì?</font>
+
+263
+00:30:58,895 --> 00:31:01,015
+{\an8}<font color="#ffff00">Em nghĩ sao?</font>
+
+264
+00:31:01,735 --> 00:31:05,025
+{\an8}<font color="#ffff00">"Nhà Tiên tri sẽ biết
+cung cách của sa mạc"</font>
+
+265
+00:31:12,155 --> 00:31:14,325
+{\an8}<font color="#ffff00">Chị nghĩ thế là tốt nhất.</font>
+
+266
+00:31:16,565 --> 00:31:17,635
+{\an8}<font color="#ffff00">Gì đây?</font>
+
+267
+00:31:18,655 --> 00:31:21,075
+{\an8}<font color="#ffff00">Giờ em lo cho anh ta à?</font>
+
+268
+00:31:21,665 --> 00:31:24,295
+{\an8}<font color="#ffff00">Anh ta không giống đám người lạ.</font>
+
+269
+00:31:24,795 --> 00:31:26,875
+{\an8}<font color="#ffff00">Anh ta chân thành.</font>
+
+270
+00:32:12,655 --> 00:32:14,185
+Jamis.
+
+271
+00:32:16,815 --> 00:32:19,245
+Sa bộ của anh
+như thằn lằn say rượu.
+
+272
+00:32:22,265 --> 00:32:23,765
+Ừ, đến giờ tôi vẫn làm tốt.
+
+273
+00:32:23,965 --> 00:32:26,145
+Anh còn chưa vào đến
+lãnh địa sâu cát.
+
+274
+00:32:45,385 --> 00:32:47,085
+Anh phải phá nhịp điệu.
+
+275
+00:32:51,195 --> 00:32:52,235
+Như thế này.
+
+276
+00:32:53,455 --> 00:32:56,125
+Thú vị đấy, vì trong
+các sách phim tôi học,
+
+277
+00:32:56,415 --> 00:32:59,685
+các nhà nhân chủng học nói,
+để đi sa bộ đúng thì ta phải...
+
+278
+00:33:03,435 --> 00:33:05,525
+Thôi bỏ đi. Mời cô tiếp tục.
+
+279
+00:33:34,055 --> 00:33:37,365
+Chỉ có tôi tin rằng
+anh sẽ sống được đến mùa hè.
+
+280
+00:33:37,465 --> 00:33:39,225
+Tất cả nghĩ anh
+không trụ nổi hai tuần.
+
+281
+00:33:40,825 --> 00:33:43,545
+Nếu muốn theo chúng tôi vào sa mạc,
+anh phải biết về bẫy gió.
+
+282
+00:33:43,825 --> 00:33:44,925
+Hãy nghe kĩ tôi.
+
+283
+00:33:45,185 --> 00:33:47,455
+Chúng đơn giản,
+nhưng cần liên tục chú ý.
+
+284
+00:33:47,715 --> 00:33:51,115
+Cái này, nó thu hơi ẩm
+
+285
+00:33:51,215 --> 00:33:52,655
+rồi đưa vào bình ngưng kia.
+
+286
+00:33:53,755 --> 00:33:58,525
+Đây là các bộ lọc,
+cần thay mỗi ba ngày.
+
+287
+00:34:00,425 --> 00:34:01,295
+Sao?
+
+288
+00:34:06,135 --> 00:34:07,635
+Đừng nhìn tôi kiểu đó nữa.
+
+289
+00:34:13,175 --> 00:34:16,715
+Anh tập luyện với người Fremen.
+Anh sẽ sớm về. Đừng lo.
+
+290
+00:34:20,265 --> 00:34:23,125
+Con nói đúng.
+Nếu muốn bảo vệ anh của con,
+
+291
+00:34:23,785 --> 00:34:26,885
+ta cần tất cả người Fremen
+tin vào lời tiên tri.
+
+292
+00:34:31,455 --> 00:34:35,725
+<i>Ta phải chuyển hóa những người
+không tin, từng người một.</i>
+
+293
+00:34:37,865 --> 00:34:40,395
+<i>Ta cần bắt đầu
+với những người yếu hơn.</i>
+
+294
+00:34:41,565 --> 00:34:43,305
+<i>Những người dễ bị lay động.</i>
+
+295
+00:34:44,865 --> 00:34:47,395
+<i>Những người sợ chúng ta.</i>
+
+296
+00:35:10,495 --> 00:35:12,895
+<i>Này, đi khỏi đó. Đi đi.</i>
+
+297
+00:36:55,605 --> 00:36:57,335
+<i>- Cô ổn chứ?
+- Ừ.</i>
+
+298
+00:37:34,775 --> 00:37:35,905
+<i>Đi thôi! Đi!</i>
+
+299
+00:37:53,455 --> 00:37:54,695
+<i>Nạp đạn!</i>
+
+300
+00:38:14,715 --> 00:38:15,915
+<i>Chani!</i>
+
+301
+00:38:20,955 --> 00:38:21,825
+<i>Nạp đạn!</i>
+
+302
+00:38:36,605 --> 00:38:38,035
+<i>Nạp đạn!</i>
+
+303
+00:38:38,135 --> 00:38:39,405
+<i>Coi chừng!</i>
+
+304
+00:38:55,955 --> 00:38:58,055
+<i>Tấm chắn của nó
+chỉ tạm tắt khi nó bắn.</i>
+
+305
+00:38:58,155 --> 00:38:59,765
+<i>Tôi biết. Anh nghĩ tôi đang làm gì?</i>
+
+306
+00:38:59,865 --> 00:39:02,865
+<i>Tôi sẽ làm nó tạm tắt.
+Theo tín hiệu của tôi. Chuẩn bị đi.</i>
+
+307
+00:39:25,655 --> 00:39:26,955
+<i>Đi!</i>
+
+308
+00:39:28,725 --> 00:39:30,625
+<i>Chết tiệt</i>
+
+309
+00:39:33,095 --> 00:39:34,965
+<i>Nào, nào!</i>
+
+310
+00:40:18,805 --> 00:40:21,165
+{\an8}<font color="#ffff00">Mọi người đã thấy cậu ấy làm.</font>
+
+311
+00:40:21,615 --> 00:40:23,295
+{\an8}<font color="#ffff00">Cậu ấy thấy trước.</font>
+
+312
+00:40:23,825 --> 00:40:25,535
+{\an8}<font color="#ffff00">Và đã cứu mạng cô ấy.</font>
+
+313
+00:40:26,295 --> 00:40:28,005
+{\an8}<font color="#ffff00">Cậu ấy thấy được.</font>
+
+314
+00:40:28,745 --> 00:40:29,945
+{\an8}<font color="#ffff00">Cậu ấy có thể thấy trước.</font>
+
+315
+00:40:32,965 --> 00:40:34,405
+{\an8}<font color="#ffff00">Muad'Dib thích mùi của anh ấy.</font>
+
+316
+00:40:40,995 --> 00:40:42,335
+Ai dạy anh chiến đấu như thế?
+
+317
+00:40:42,865 --> 00:40:44,205
+Các thầy cũ của tôi.
+
+318
+00:40:44,775 --> 00:40:46,045
+Và họ là bạn thân của tôi.
+
+319
+00:40:49,035 --> 00:40:52,175
+Họ đã bị tàn sát. Cùng với cha tôi.
+
+320
+00:40:57,745 --> 00:40:59,925
+Các bạn đấu với nhà Harkonnen
+vài chục năm.
+
+321
+00:41:00,945 --> 00:41:03,195
+Gia tộc tôi thì đấu với chúng
+nhiều thế kỷ.
+
+322
+00:41:03,554 --> 00:41:05,808
+Tôi biết mọi thứ về chúng.
+Thói quen của chúng,
+
+323
+00:41:06,174 --> 00:41:07,401
+cách tư duy của chúng.
+
+324
+00:41:08,505 --> 00:41:09,735
+Các bạn biết mọi thứ về sa mạc.
+
+325
+00:41:10,015 --> 00:41:11,865
+Các bạn khai thác sức mạnh của nó.
+
+326
+00:41:13,565 --> 00:41:17,595
+Cùng nhau, ta có thể ngăn cản chúng.
+Chôn vùi chúng trong cát.
+
+327
+00:41:18,335 --> 00:41:20,805
+Để hành tinh này
+một lần nữa thuộc về các bạn.
+
+328
+00:41:21,345 --> 00:41:23,095
+Cậu sẽ bảo chúng tôi làm gì?
+
+329
+00:41:24,635 --> 00:41:26,185
+Ông sẽ làm gì, Stilgar?
+
+330
+00:41:26,315 --> 00:41:30,635
+Tôi à? Tôi sẽ...
+tấn công xa hơn về phía bắc.
+
+331
+00:41:30,735 --> 00:41:32,255
+Vậy tôi sẽ tiến xa hơn về phía bắc.
+
+332
+00:41:32,575 --> 00:41:34,995
+Và anh càng đi xa về phía bắc
+thì càng dễ chết.
+
+333
+00:41:35,725 --> 00:41:37,185
+{\an8}<font color="#ffff00">Vậy tôi sẽ chết.</font>
+
+334
+00:41:37,555 --> 00:41:38,855
+{\an8}<font color="#ffff00">Có lẽ cô cũng sẽ chết.</font>
+
+335
+00:41:40,195 --> 00:41:42,865
+{\an8}<font color="#ffff00">Nhưng người khác sẽ đi tiếp.</font>
+
+336
+00:41:43,935 --> 00:41:46,825
+{\an8}<font color="#ffff00">Và họ sẽ không dừng lại
+đến khi người Fremen tự do.</font>
+
+337
+00:41:50,995 --> 00:41:52,725
+{\an8}<font color="#ffff00">Anh ấy xứng đáng là Fedaykin.</font>
+
+338
+00:41:54,295 --> 00:41:56,295
+{\an8}<font color="#ffff00">Cậu ấy cần tên, Stilgar.</font>
+
+339
+00:41:56,595 --> 00:41:57,675
+{\an8}<font color="#ffff00">Đúng thế!</font>
+
+340
+00:41:59,135 --> 00:42:02,245
+Tôi thấy sức mạnh trong cậu.
+
+341
+00:42:02,955 --> 00:42:04,455
+{\an8}<font color="#ffff00">Như Usul.</font>
+
+342
+00:42:04,735 --> 00:42:07,105
+{\an8}<font color="#ffff00">Phần bệ của cột trụ.</font>
+
+343
+00:42:07,825 --> 00:42:09,215
+Đến đây. Đến đây.
+
+344
+00:42:19,225 --> 00:42:24,865
+Chúng tôi sẽ gọi cậu
+bằng cái tên <i>Usul.</i>
+
+345
+00:42:24,965 --> 00:42:27,135
+<i>- Usul.
+- Usul.</i>
+
+346
+00:42:27,505 --> 00:42:30,735
+Và Fedaykin là một chiến binh,
+
+347
+00:42:30,835 --> 00:42:32,035
+cần một cái tên cho chiến trận.
+
+348
+00:42:33,005 --> 00:42:34,305
+Cậu phải chọn.
+
+349
+00:42:39,175 --> 00:42:40,645
+Các bạn gọi là gì...
+
+350
+00:42:42,085 --> 00:42:43,815
+Con chuột sa mạc nhỏ ấy?
+
+351
+00:42:45,255 --> 00:42:46,885
+<i>- Muad'Dib.
+- Muad'Dib.</i>
+
+352
+00:42:46,985 --> 00:42:49,555
+Không, không, không.
+
+353
+00:42:49,655 --> 00:42:53,325
+<i>Muad'Dib</i> thấu hiểu
+những cung cách của sa mạc.
+
+354
+00:42:53,655 --> 00:42:54,735
+<i>Muad'Dib</i>
+
+355
+00:42:55,795 --> 00:42:58,005
+tự tạo ra nước cho mình.
+
+356
+00:42:58,525 --> 00:43:01,635
+Chòm sao chỉ về sao Bắc Cực
+được chúng tôi gọi là <i>Muad'Dib,</i>
+
+357
+00:43:02,165 --> 00:43:03,975
+"Người Chỉ Đường".
+
+358
+00:43:05,835 --> 00:43:07,075
+Đó là một cái tên mạnh mẽ.
+
+359
+00:43:12,015 --> 00:43:15,745
+Giờ cậu là anh em của chúng tôi.
+
+360
+00:43:16,115 --> 00:43:19,255
+Paul <i>Muad'Dib Usul.</i>
+
+361
+00:43:25,795 --> 00:43:26,895
+<i>Muad'Dib Usul.</i>
+
+362
+00:43:27,725 --> 00:43:28,795
+Paul <i>Muad'Dib Usul.</i>
+
+363
+00:43:30,795 --> 00:43:32,065
+<i>Muad'Dib Usul.</i>
+
+364
+00:43:34,365 --> 00:43:36,875
+<i>Muad'Dib.</i>
+
+365
+00:43:37,805 --> 00:43:39,255
+<i>Muad'Dib.</i>
+
+366
+00:43:42,246 --> 00:43:43,181
+<i>Usul.</i>
+
+367
+00:44:00,465 --> 00:44:03,065
+Này! Stilgar!
+
+368
+00:44:17,945 --> 00:44:19,345
+Cha, con đã tìm ra đường của mình.
+
+369
+00:44:36,695 --> 00:44:37,855
+Đẹp đến ngạt thở.
+
+370
+00:44:49,715 --> 00:44:52,825
+Nhìn kìa. Ngay đó. Hương dược.
+
+371
+00:44:53,415 --> 00:44:56,245
+Arrakis thật đẹp
+khi mặt trời xuống thấp.
+
+372
+00:45:03,925 --> 00:45:08,255
+Ở quê anh, nước rơi
+từ trên trời xuống thật à?
+
+373
+00:45:08,655 --> 00:45:09,765
+Phải.
+
+374
+00:45:10,795 --> 00:45:13,145
+Đôi khi ở Caladan
+mưa nhiều tuần liền.
+
+375
+00:45:14,005 --> 00:45:16,265
+Chỗ em thấy cát ở đây,
+hình dung nó là nước đi.
+
+376
+00:45:19,435 --> 00:45:22,605
+Lâu đài của bọn anh
+nằm ở vách đá cao trên mặt biển.
+
+377
+00:45:23,755 --> 00:45:26,025
+Nếu lao xuống,
+không thể đến được đáy.
+
+378
+00:45:26,645 --> 00:45:29,775
+- Lao xuống à?
+- Phải, đó gọi là bơi.
+
+379
+00:45:30,775 --> 00:45:32,845
+Em không tin anh, <i>Usul.</i>
+
+380
+00:45:33,725 --> 00:45:34,455
+<i>Usul.</i>
+
+381
+00:45:37,285 --> 00:45:38,525
+Mật danh của em là gì?
+
+382
+00:45:40,825 --> 00:45:43,865
+<i>- Sihaya.
+- Sihaya.</i>
+
+383
+00:45:45,505 --> 00:45:46,595
+Có nghĩa là gì?
+
+384
+00:45:47,235 --> 00:45:48,515
+Nghĩa là "Mùa Xuân Sa mạc".
+
+385
+00:45:48,995 --> 00:45:50,065
+"Mùa Xuân Sa mạc".
+
+386
+00:45:51,975 --> 00:45:53,435
+- Anh thích nó.
+- Em thì ghét.
+
+387
+00:45:54,735 --> 00:45:56,375
+Nó đến từ một lời tiên tri ngu ngốc.
+
+388
+00:45:57,615 --> 00:45:58,645
+Em thích tên Chani hơn.
+
+389
+00:45:59,755 --> 00:46:01,285
+Vậy anh cũng thích Chani hơn.
+
+390
+00:46:08,375 --> 00:46:09,775
+Em nghĩ Stilgar sẽ dạy anh chứ?
+
+391
+00:46:10,295 --> 00:46:11,475
+- Cưỡi sâu hả?
+- Ừ.
+
+392
+00:46:11,955 --> 00:46:15,115
+Không. Chỉ người Fremen
+được cưỡi sâu.
+
+393
+00:46:15,225 --> 00:46:16,935
+Anh tưởng anh đã là người Fremen.
+
+394
+00:46:17,035 --> 00:46:18,895
+Anh chỉ có tên, không có dòng máu.
+
+395
+00:46:21,235 --> 00:46:25,765
+Dòng máu của anh thuộc về
+các Công tước và các Đại Gia tộc.
+
+396
+00:46:27,975 --> 00:46:29,445
+Ở đây không có các thứ đó.
+
+397
+00:46:30,315 --> 00:46:34,075
+Ở đây, mọi người bình đẳng,
+nam nữ như nhau.
+
+398
+00:46:34,345 --> 00:46:36,385
+Bọn em làm gì
+cũng vì lợi ích chung.
+
+399
+00:46:36,745 --> 00:46:38,705
+Anh rất muốn bình đẳng với em.
+
+400
+00:46:45,155 --> 00:46:48,395
+Paul <i>Muad'Dib Usul,</i>
+
+401
+00:46:50,295 --> 00:46:52,285
+anh có thể là người Fremen đấy.
+
+402
+00:46:55,775 --> 00:46:57,185
+Có lẽ em sẽ chỉ cách cho anh.
+
+403
+00:48:26,125 --> 00:48:27,095
+Rabban.
+
+404
+00:48:38,305 --> 00:48:42,605
+Bọn Fremen tấn công
+lúc cháu nắm quyền.
+
+405
+00:48:42,705 --> 00:48:47,955
+Ta đã lệnh cho cháu khôi phục
+đầy đủ sản lượng hương dược.
+
+406
+00:48:48,755 --> 00:48:51,195
+Cháu biết nếu thất bại
+thì thế nào chứ?
+
+407
+00:48:52,845 --> 00:48:56,505
+Hoàng đế sẽ không cho chúng ta
+kiểm soát hương dược.
+
+408
+00:48:57,775 --> 00:48:59,305
+Siết chặt lại đi, Rabban.
+
+409
+00:48:59,995 --> 00:49:01,205
+Thưa bác.
+
+410
+00:49:01,395 --> 00:49:03,695
+Không thì tay ta sẽ siết cổ cháu.
+
+411
+00:49:19,415 --> 00:49:21,495
+<i>Usul. Usul.</i>
+
+412
+00:49:21,755 --> 00:49:24,555
+Ổn mà. Không sao.
+
+413
+00:49:27,685 --> 00:49:28,555
+Này.
+
+414
+00:49:31,495 --> 00:49:33,355
+Em đây, em đây.
+
+415
+00:49:34,755 --> 00:49:37,675
+Lâu rồi anh mới có
+những cơn ác mộng đó.
+
+416
+00:49:42,565 --> 00:49:44,705
+Nói em nghe, anh mơ thấy gì?
+
+417
+00:49:50,955 --> 00:49:53,955
+<i>Không có gì rõ ràng.
+Chỉ là những mảnh rời rạc.</i>
+
+418
+00:49:56,115 --> 00:50:00,005
+<i>Anh ở miền Nam.
+Và anh đang đi theo ai đó.</i>
+
+419
+00:50:01,425 --> 00:50:03,165
+<i>Việc đó gây ra
+một cuộc thánh chiến.</i>
+
+420
+00:50:07,015 --> 00:50:10,535
+<i>Hàng triệu triệu người chết đói</i>
+
+421
+00:50:12,025 --> 00:50:13,395
+<i>vì anh.</i>
+
+422
+00:50:19,135 --> 00:50:21,595
+Anh đã tiếp xúc với hương dược
+một thời gian dài.
+
+423
+00:50:22,305 --> 00:50:24,375
+Nó có thể tạo ra
+những giấc mơ kỳ quái.
+
+424
+00:50:31,415 --> 00:50:32,285
+Nay là ngày trọng đại.
+
+425
+00:50:34,455 --> 00:50:36,025
+Ta có thể nói chú Stilgar hủy bỏ.
+
+426
+00:50:36,125 --> 00:50:38,595
+Không. Anh ổn mà.
+
+427
+00:50:54,725 --> 00:50:55,535
+<i>Usul.</i>
+
+428
+00:50:58,415 --> 00:51:00,345
+Tôi đã tự tay chỉnh nó.
+
+429
+00:51:02,485 --> 00:51:03,715
+- Đây.
+- Cảm ơn.
+
+430
+00:51:06,515 --> 00:51:10,355
+Đừng cố gây ấn tượng với ai.
+Cậu can đảm. Chúng ta đều biết.
+
+431
+00:51:12,225 --> 00:51:13,695
+Hãy đơn giản.
+
+432
+00:51:13,905 --> 00:51:17,065
+Hãy trực tiếp. Không màu mè.
+
+433
+00:51:17,165 --> 00:51:19,225
+- Không màu mè.
+- Này, tôi nói nghiêm túc.
+
+434
+00:51:19,325 --> 00:51:21,625
+Đừng màu mè, nếu không
+sẽ làm nhục sự dạy dỗ của tôi.
+
+435
+00:51:21,725 --> 00:51:24,115
+Tôi sẽ không
+làm ông hổ thẹn. Tôi hiểu.
+
+436
+00:51:25,905 --> 00:51:28,718
+<i>Shai-Hulud</i> sẽ quyết định hôm nay
+cậu thành người Fremen...
+
+437
+00:51:29,256 --> 00:51:30,331
+hay phải chết.
+
+438
+00:51:38,585 --> 00:51:39,685
+Này, <i>Muad'Dib...</i>
+
+439
+00:51:40,075 --> 00:51:41,815
+{\an8}<font color="#ffff00">Đừng làm xấu mặt chúng tôi!</font>
+
+440
+00:51:42,005 --> 00:51:43,585
+{\an8}<font color="#ffff00">Gọi một con thật to vào!</font>
+
+441
+00:51:47,885 --> 00:51:49,095
+{\an8}<font color="#ffff00">Đừng lo.</font>
+
+442
+00:51:49,425 --> 00:51:51,165
+{\an8}<font color="#ffff00">Stilgar đã dạy anh ấy rất tốt.</font>
+
+443
+00:51:55,435 --> 00:51:57,455
+{\an8}<font color="#ffff00">Đùa giỡn đủ rồi.</font>
+
+444
+00:51:57,605 --> 00:51:59,105
+{\an8}<font color="#ffff00">Đây là thử thách cuối cùng.</font>
+
+445
+00:52:21,525 --> 00:52:22,525
+Thấp hơn nữa.
+
+446
+00:52:46,855 --> 00:52:49,255
+<i>Được rồi. Được rồi.</i>
+
+447
+00:53:50,735 --> 00:53:52,955
+{\an8}<font color="#ffff00">Trời ạ! Đừng to thế chứ.</font>
+
+448
+00:54:02,525 --> 00:54:05,435
+<i>Được rồi, được rồi.</i>
+
+449
+00:54:53,045 --> 00:54:54,085
+<i>Được rồi.</i>
+
+450
+00:55:11,695 --> 00:55:13,035
+<i>Được rồi, rồi!</i>
+
+451
+00:55:37,925 --> 00:55:38,955
+<i>Nào!</i>
+
+452
+00:56:54,235 --> 00:56:55,435
+Tiến lên, <i>Muad'Dib!</i>
+
+453
+00:56:55,535 --> 00:56:57,535
+<i>Muad'Dib!</i>
+
+454
+00:57:17,855 --> 00:57:19,615
+{\an8}<font color="#ffff00">Như đã được viết.</font>
+
+455
+00:57:59,845 --> 00:58:01,775
+{\an8}<font color="#ffff00">Mẹ Chí tôn!</font>
+
+456
+00:58:05,475 --> 00:58:09,145
+{\an8}<font color="#ffff00">Muad'Dib đã hòa thuận
+với Shai-Hulud.</font>
+
+457
+00:58:11,915 --> 00:58:13,645
+{\an8}<font color="#ffff00">Ngài gọi lên một con sâu cát ông.</font>
+
+458
+00:58:13,985 --> 00:58:17,275
+{\an8}<font color="#ffff00">Con lớn nhất từng thấy.</font>
+
+459
+00:58:17,845 --> 00:58:19,385
+{\an8}<font color="#ffff00">Như đã được viết!</font>
+
+460
+00:58:19,515 --> 00:58:22,995
+{\an8}<font color="#ffff00">Shai-Hulud sẽ cúi đầu trước
+Cậu bé Từ Thế giới Bên Ngoài.</font>
+
+461
+00:58:23,165 --> 00:58:25,435
+{\an8}<font color="#ffff00">Ca ngợi Ngài Tạo
+và công đức của Ngài.</font>
+
+462
+00:58:26,205 --> 00:58:30,315
+{\an8}<font color="#ffff00">Shai-Hulud sẽ không biết Mahdi
+khi Ngài đến sao?</font>
+
+463
+00:58:34,965 --> 00:58:36,925
+{\an8}<font color="#ffff00">Vậy hãy truyền Lời đi.</font>
+
+464
+00:58:52,715 --> 00:58:54,135
+Tôi biết họ sẽ làm.
+
+465
+00:58:56,591 --> 00:58:59,140
+<i>Việc của chúng tôi
+ở miền Bắc đã gần xong.</i>
+
+466
+00:58:59,323 --> 00:59:00,631
+<i>Họ tin tưởng Paul.</i>
+
+467
+00:59:01,825 --> 00:59:03,635
+<i>Giờ chúng tôi đi về miền Nam.</i>
+
+468
+00:59:04,095 --> 00:59:06,835
+<i>Ở đó có hàng triệu người
+theo chủ nghĩa chính thống.</i>
+
+469
+00:59:07,925 --> 00:59:10,255
+<i>Họ sẽ bảo vệ thằng bé khi nó đến.</i>
+
+470
+00:59:12,805 --> 00:59:16,805
+Kwisatz Haderach <i>sẽ ra đời ở miền Nam.</i>
+
+471
+00:59:26,345 --> 00:59:28,765
+{\an8}<font color="#ffff00">Anh sẽ mãi ở bên em chứ?</font>
+
+472
+00:59:31,085 --> 00:59:32,845
+Chừng nào anh còn thở.
+
+473
+00:59:37,195 --> 00:59:38,165
+Sao thế?
+
+474
+00:59:44,235 --> 00:59:45,205
+Chani.
+
+475
+00:59:45,385 --> 00:59:46,495
+Sẽ có rắc rối.
+
+476
+00:59:49,085 --> 00:59:50,275
+Em đang nói gì vậy?
+
+477
+00:59:54,085 --> 00:59:55,615
+Chani, ý em là sao?
+
+478
+00:59:55,715 --> 00:59:57,055
+Cách mà họ nhìn anh.
+
+479
+00:59:58,545 --> 01:00:00,015
+Giờ họ tôn thờ anh.
+
+480
+01:00:02,785 --> 01:00:05,075
+Quân Fedaykin,
+họ đếm thắng lợi của anh.
+
+481
+01:00:05,505 --> 01:00:07,395
+Họ nói anh thấy được tương lai.
+
+482
+01:00:07,925 --> 01:00:09,695
+Họ thì thầm <i>Lisan al-Gaib.</i>
+
+483
+01:00:11,075 --> 01:00:12,535
+Anh không phải là đấng cứu thế.
+
+484
+01:00:15,065 --> 01:00:17,575
+Anh là một chiến binh Fedaykin
+của Sietch Tabr.
+
+485
+01:00:18,275 --> 01:00:20,545
+Nhưng giữa chúng ta
+có một Bene Gesserit
+
+486
+01:00:21,005 --> 01:00:23,915
+truyền bá huyền thoại về anh,
+nói anh chính là Người.
+
+487
+01:00:47,025 --> 01:00:48,765
+{\an8}<font color="#ffff00">Mẹ Chí tôn!</font>
+
+488
+01:00:49,135 --> 01:00:51,265
+{\an8}<font color="#ffff00">Kiệu của ngài đã sẵn sàng!</font>
+
+489
+01:00:51,505 --> 01:00:53,165
+Em gái con nói con nên đi cùng.
+
+490
+01:00:54,075 --> 01:00:55,135
+Mẹ biết con không thể mà.
+
+491
+01:00:56,005 --> 01:00:57,375
+Con bé hỏi lý do.
+
+492
+01:00:57,475 --> 01:00:59,375
+Vì con phải tiếp tục
+chiến đấu ở miền Bắc,
+
+493
+01:00:59,475 --> 01:01:01,685
+để bảo vệ mẹ và em ở miền Nam.
+
+494
+01:01:03,445 --> 01:01:07,025
+Con bé nói nó biết
+khi nào con nói dối.
+
+495
+01:01:07,125 --> 01:01:10,658
+Bảo nó là vì mẹ của bọn con
+cứ lan truyền những câu chuyện nguy hiểm.
+
+496
+01:01:18,035 --> 01:01:19,765
+Giờ nó đang nói gì?
+
+497
+01:01:19,865 --> 01:01:22,205
+Con bé bảo con bị tình yêu che mắt.
+
+498
+01:01:22,305 --> 01:01:26,335
+Và nó nhắc con phải chừa lại một tay
+cho đồng minh chiến lược nhất.
+
+499
+01:01:29,655 --> 01:01:32,185
+Con bé cũng thắc mắc
+sao con không tin thân phận mình.
+
+500
+01:01:32,285 --> 01:01:33,655
+Con có tin.
+
+501
+01:01:33,785 --> 01:01:35,715
+Con tin con quan trọng
+với những người này.
+
+502
+01:01:37,315 --> 01:01:39,315
+Con tin con đang tạo khác biệt
+trong cuộc chiến này.
+
+503
+01:01:41,355 --> 01:01:43,025
+Ta gần đánh đến cổng thành rồi.
+
+504
+01:01:43,125 --> 01:01:45,925
+- Ý em con không phải thế.
+- Con biết ý của em.
+
+505
+01:01:46,025 --> 01:01:48,295
+Con không nghĩ mẹ cũng mang
+gánh nặng của lời tiên tri ư?
+
+506
+01:01:48,395 --> 01:01:50,295
+Đó không phải tiên tri.
+
+507
+01:01:50,395 --> 01:01:54,165
+Đó là câu chuyện mà mẹ cứ kể mãi,
+nhưng không phải của họ, mà của mẹ.
+
+508
+01:01:54,565 --> 01:01:56,835
+Họ xứng đáng được dẫn dắt
+bởi một người của họ.
+
+509
+01:01:57,695 --> 01:01:59,995
+Việc người của mẹ làm với
+thế giới này thật đau lòng.
+
+510
+01:02:00,095 --> 01:02:01,775
+Chúng ta cho họ điều để hy vọng.
+
+511
+01:02:01,875 --> 01:02:03,375
+Đó không phải hy vọng!
+
+512
+01:02:09,755 --> 01:02:12,245
+{\an8}<font color="#ffff00">Mẹ Chí tôn, chúng ta phải đi!</font>
+
+513
+01:02:17,555 --> 01:02:19,055
+Mẹ sẽ đợi con.
+
+514
+01:02:20,495 --> 01:02:22,065
+Tất cả đều đợi.
+
+515
+01:03:05,305 --> 01:03:07,945
+Mấy cơn bão này có vẻ tệ.
+
+516
+01:03:08,655 --> 01:03:10,735
+Chúng là Hộ vệ Của Miền Nam.
+
+517
+01:03:11,025 --> 01:03:12,735
+Khó mà vượt qua được chúng.
+
+518
+01:03:12,985 --> 01:03:14,955
+Nhưng Shai-Hulud rất mạnh.
+
+519
+01:03:33,805 --> 01:03:38,435
+KHO HƯƠNG DƯỢC
+Arrakeen
+
+520
+01:03:55,025 --> 01:03:58,475
+- Bao nhiêu?
+- Ta mất 80% vụ thu hoạch trước.
+
+521
+01:03:59,395 --> 01:04:03,195
+Chúa công Rabban,
+ngài không nên rời chu vi an ninh.
+
+522
+01:04:03,295 --> 01:04:05,835
+Chu vi an ninh à?
+Lũ chuột đã ở bên trong rồi!
+
+523
+01:04:05,935 --> 01:04:09,235
+- Có thể Con Quỷ Fremen đi cùng chúng.
+- Ta mong vậy.
+
+524
+01:04:09,335 --> 01:04:10,315
+Ta đang theo dõi chúng, thưa ngài.
+
+525
+01:04:11,175 --> 01:04:13,975
+Hôm nay là ngày chết của <i>Muad'Dib!</i>
+
+526
+01:04:19,515 --> 01:04:21,555
+{\an8}<font color="#ffff00">Lũ chuột đang di chuyển nhanh.</font>
+
+527
+01:04:22,575 --> 01:04:24,585
+{\an8}<font color="#ffff00">Nhanh lên!</font>
+
+528
+01:04:55,545 --> 01:04:57,155
+Hắn đâu?
+
+529
+01:04:57,255 --> 01:04:58,615
+Vẫn chưa biết, thưa ngài.
+
+530
+01:04:58,715 --> 01:05:00,285
+Sao việc gì
+cũng phải tự ta làm thế?
+
+531
+01:05:03,425 --> 01:05:04,425
+Mở rộng tầm dò!
+
+532
+01:05:04,525 --> 01:05:06,025
+Đã mở rộng.
+
+533
+01:05:14,005 --> 01:05:15,535
+Sự sống. Có vị trí rồi.
+
+534
+01:05:36,795 --> 01:05:38,055
+Tôi mất dấu chúng.
+
+535
+01:05:43,465 --> 01:05:45,295
+- Tấn công!
+<i>- Vâng, thưa ngài.</i>
+
+536
+01:06:51,865 --> 01:06:53,485
+<i>Muad'Dib!</i>
+
+537
+01:06:54,775 --> 01:06:56,365
+Xuất hiện đi!
+
+538
+01:07:27,465 --> 01:07:31,535
+<i>Muad'Dib! Muad'Dib! Muad'Dib!</i>
+
+539
+01:08:24,595 --> 01:08:26,725
+<i>Vì</i> Muad'Dib!
+
+540
+01:08:39,375 --> 01:08:40,405
+<i>Muad'Dib.</i>
+
+541
+01:08:42,775 --> 01:08:44,995
+Một nhà tiên tri Fremen mới.
+
+542
+01:08:46,875 --> 01:08:49,035
+Không phải lần đầu
+ta va chạm với dân Fremen.
+
+543
+01:08:49,915 --> 01:08:51,715
+Không lớn đến cỡ này.
+
+544
+01:08:55,755 --> 01:08:57,355
+Con gái yêu quý của cha,
+
+545
+01:08:58,625 --> 01:09:00,825
+con sẽ giải quyết
+nhà tiên tri này thế nào?
+
+546
+01:09:07,205 --> 01:09:10,065
+Nếu <i>Muad'Dib</i> này
+là một nhân vật tôn giáo,
+
+547
+01:09:11,635 --> 01:09:13,405
+không thể dùng vũ lực trực tiếp.
+
+548
+01:09:15,035 --> 01:09:17,605
+Đàn áp chỉ khiến cho
+tôn giáo thịnh vượng.
+
+549
+01:09:18,285 --> 01:09:20,355
+Cuối cùng chúng ta
+chỉ mất mặt thôi.
+
+550
+01:09:20,585 --> 01:09:22,145
+Con xem thường
+quân Sardaukar của cha.
+
+551
+01:09:22,245 --> 01:09:24,915
+Cha xem thường
+sức mạnh của đức tin.
+
+552
+01:09:29,175 --> 01:09:32,395
+Công chúa một lần nữa chứng minh
+cô ấy là học trò sắc sảo nhất của tôi.
+
+553
+01:09:34,665 --> 01:09:36,935
+- Con đã phái sát thủ à?
+- Không.
+
+554
+01:09:37,565 --> 01:09:39,335
+Các nhà tiên tri
+chết đi thì lại mạnh hơn.
+
+555
+01:09:41,005 --> 01:09:43,435
+Cứ để xung đột Arrakis
+biến thành chiến tranh.
+
+556
+01:09:43,685 --> 01:09:46,855
+Rồi cha đem hòa bình đến.
+Như vị cứu tinh.
+
+557
+01:09:49,345 --> 01:09:51,275
+Con sẽ là một nữ đế xuất sắc.
+
+558
+01:09:55,615 --> 01:09:58,025
+<i>Muad'Dib.</i> Nhà tiên tri.
+
+559
+01:09:58,785 --> 01:10:00,375
+Người chỉ đường.
+
+560
+01:10:01,115 --> 01:10:03,285
+Đó là các mô thức tôn giáo
+của chúng ta, đúng không?
+
+561
+01:10:03,655 --> 01:10:04,925
+Đây là cách làm của chúng ta.
+
+562
+01:10:08,385 --> 01:10:10,865
+<i>Muad'Dib</i> nghĩa là chuột nhảy.
+
+563
+01:10:11,510 --> 01:10:13,418
+Cái tên chiến tranh lạ thường
+so với kiểu Fremen.
+
+564
+01:10:15,605 --> 01:10:18,205
+- Nếu Paul Atreides còn sống thì sao?
+- Đủ rồi!
+
+565
+01:10:18,835 --> 01:10:22,775
+Việc này không được lộ ra.
+Kể cả với cha của con. Hiểu chưa?
+
+566
+01:10:23,815 --> 01:10:25,125
+Vâng, Mẹ Chí tôn.
+
+567
+01:10:26,785 --> 01:10:29,475
+Nếu Paul còn sống,
+có thể nó biết sự thật.
+
+568
+01:10:30,055 --> 01:10:31,915
+Và nếu các Đại Gia tộc biết
+
+569
+01:10:32,015 --> 01:10:35,355
+cha của con đứng sau việc
+thanh trừ nhà Atreides,
+
+570
+01:10:35,735 --> 01:10:38,725
+cha con sẽ đối mặt chiến tranh
+và mất ngai vàng.
+
+571
+01:10:40,695 --> 01:10:42,025
+Vậy thì có hy vọng nào?
+
+572
+01:10:43,565 --> 01:10:44,435
+Hy vọng ư?
+
+573
+01:10:45,895 --> 01:10:50,035
+Chúng ta là Bene Gesserit.
+Chúng ta không hy vọng, mà lập kế hoạch.
+
+574
+01:10:51,405 --> 01:10:53,655
+Paul không phải
+lời tiên tri duy nhất.
+
+575
+01:10:55,392 --> 01:10:57,177
+Đứa cháu trai nhỏ nhất
+của Nam tước,
+
+576
+01:10:57,277 --> 01:11:00,402
+Feyd-Rautha Harkonnen
+sẽ thừa kế Arrakis.
+
+577
+01:11:02,085 --> 01:11:03,415
+Nó có thể là đáp án.
+
+578
+01:11:03,515 --> 01:11:06,165
+Feyd-Rautha ư? Hắn là tên điên.
+
+579
+01:11:06,265 --> 01:11:07,525
+Chẳng sao cả.
+
+580
+01:11:08,275 --> 01:11:11,665
+Câu hỏi là chúng ta
+có khống chế được hắn không?
+
+581
+01:11:12,425 --> 01:11:13,765
+Và ta có ý định tìm hiểu.
+
+582
+01:11:37,325 --> 01:11:39,555
+Muốn thịt tươi không, các bé cưng?
+
+583
+01:11:40,755 --> 01:11:43,265
+Phổi? Hay là gan?
+
+584
+01:11:43,985 --> 01:11:46,755
+Các ngươi thích gì?
+Nghe nói hôm nay to lắm.
+
+585
+01:11:47,095 --> 01:11:51,155
+Những con dao mới của ngài
+cho ngày rất đặc biệt này.
+
+586
+01:11:51,535 --> 01:11:54,215
+Chuẩn Nam tước Feyd-Rautha.
+
+587
+01:12:22,765 --> 01:12:24,025
+Hơi lệch một chút.
+
+588
+01:12:24,505 --> 01:12:25,235
+Phần mũi dao.
+
+589
+01:12:26,545 --> 01:12:27,755
+Nên sắc bén hơn.
+
+590
+01:12:42,215 --> 01:12:43,245
+Ra đây.
+
+591
+01:12:43,855 --> 01:12:45,815
+Ta sẽ không chết như kẻ đần.
+
+592
+01:12:45,915 --> 01:12:46,985
+Giết ta ngay đi.
+
+593
+01:12:47,085 --> 01:12:49,855
+Hôm nay ngươi không bị
+tiêm thuốc, tên Atreides kia.
+
+594
+01:12:54,025 --> 01:12:56,845
+{\an8}<font color="#ffff00">Dưới mặt trời đen vinh quang.</font>
+
+595
+01:12:57,035 --> 01:12:59,785
+{\an8}<font color="#ffff00">Chúng ta chào đón
+những ngày lễ hội đặc biệt này.</font>
+
+596
+01:13:01,155 --> 01:13:05,055
+{\an8}<font color="#ffff00">Lãnh đạo yêu quý của chúng ta,
+Nam tước Vladimir Harkonnen.</font>
+
+597
+01:13:15,575 --> 01:13:18,095
+{\an8}<font color="#ffff00">Sự hiện diện của ngài
+hôm nay, chứng kiến</font>
+
+598
+01:13:18,195 --> 01:13:21,195
+{\an8}<font color="#ffff00">quang cảnh của máu và vinh quang.</font>
+
+599
+01:13:21,845 --> 01:13:24,375
+{\an8}<font color="#ffff00">Đánh dấu Sinh nhật Thiêng</font>
+
+600
+01:13:24,475 --> 01:13:28,685
+{\an8}<font color="#ffff00">của ngài Chuẩn Nam tước
+yêu quý, Feyd-Rautha.</font>
+
+601
+01:14:05,195 --> 01:14:07,165
+Chào mừng đến Giedi Prime,
+các chị em.
+
+602
+01:14:07,265 --> 01:14:09,465
+Mong là hành trình
+của các chị em dễ chịu.
+
+603
+01:14:09,565 --> 01:14:11,735
+Đi thật xa chỉ để xem
+triển vọng của chúng ta liều mạng...
+
+604
+01:14:11,835 --> 01:14:13,705
+Phu nhân Fenring.
+
+605
+01:14:13,805 --> 01:14:15,005
+Không cần sợ.
+
+606
+01:14:15,905 --> 01:14:17,605
+Các trận đấu này đều là biểu diễn.
+
+607
+01:14:19,045 --> 01:14:21,355
+Nhưng chúng ta sẽ chú ý kỹ cậu ta.
+
+608
+01:14:43,705 --> 01:14:47,605
+Feyd-Rautha!
+
+609
+01:15:19,105 --> 01:15:22,685
+{\an8}<font color="#ffff00">Để chúc mừng
+Chuẩn Nam tước Feyd-Rautha.</font>
+
+610
+01:15:23,215 --> 01:15:25,515
+{\an8}<font color="#ffff00">Chúng tôi giới thiệu
+tiết mục đặc biệt.</font>
+
+611
+01:15:32,355 --> 01:15:36,465
+{\an8}<font color="#ffff00">Ba người cuối cùng
+của Gia tộc Atreides.</font>
+
+612
+01:16:01,985 --> 01:16:02,945
+Tên nô lệ đó không tiêm thuốc.
+
+613
+01:16:04,055 --> 01:16:05,785
+Con bọ đó đang đi thẳng.
+
+614
+01:16:07,075 --> 01:16:08,225
+Ta nên huỷ trận đấu.
+
+615
+01:16:08,325 --> 01:16:10,725
+Đừng làm hỏng sinh nhật cháu ta.
+
+616
+01:16:58,775 --> 01:17:01,675
+Chúc mừng sinh nhật,
+cháu trai yêu quý.
+
+617
+01:17:18,095 --> 01:17:19,815
+Sao họ không dừng trận đấu?
+
+618
+01:17:20,095 --> 01:17:21,965
+Kế hoạch nằm trong kế hoạch.
+
+619
+01:17:26,765 --> 01:17:28,165
+Cho ta thấy khả năng của cháu đi.
+
+620
+01:17:45,155 --> 01:17:46,715
+Giỏi lắm.
+
+621
+01:18:31,295 --> 01:18:33,095
+Lùi lại! Lùi lại!
+
+622
+01:18:50,955 --> 01:18:52,185
+Lùi lại!
+
+623
+01:19:05,955 --> 01:19:08,205
+Người đánh tốt lắm, tên Atreides.
+
+624
+01:19:19,975 --> 01:19:24,315
+Feyd-Rautha! Feyd-Rautha! Feyd-Rautha!
+
+625
+01:19:29,955 --> 01:19:31,255
+Cậu ta cũng giỏi đấy.
+
+626
+01:19:31,355 --> 01:19:35,225
+Feyd-Rautha! Feyd-Rautha! Feyd-Rautha!
+
+627
+01:19:43,205 --> 01:19:44,835
+Tên nô lệ không bị tiêm thuốc.
+
+628
+01:19:47,205 --> 01:19:49,205
+Bác tính giết cháu sao?
+
+629
+01:19:49,875 --> 01:19:53,695
+Sáng nay cháu còn là tay chơi,
+bị người ta sợ và ghen tỵ,
+
+630
+01:19:54,285 --> 01:19:57,285
+nhưng tối nay,
+cháu đã thành anh hùng.
+
+631
+01:19:57,725 --> 01:19:59,145
+Quà của ta cho cháu đấy.
+
+632
+01:19:59,355 --> 01:20:01,235
+Cháu phải dìm chết bác
+trong cái bồn đó.
+
+633
+01:20:02,805 --> 01:20:04,415
+Đừng vội vã thế.
+
+634
+01:20:05,125 --> 01:20:08,785
+Ta có món quà khác cho cháu.
+Món quà này to hơn.
+
+635
+01:20:10,465 --> 01:20:11,785
+Arrakis.
+
+636
+01:20:16,005 --> 01:20:17,085
+Rabban thì sao?
+
+637
+01:20:17,235 --> 01:20:19,775
+Nó đã không bảo vệ được
+sản lượng hương dược.
+
+638
+01:20:20,585 --> 01:20:22,535
+Rabban sẽ bị điều đi nơi khác.
+
+639
+01:20:26,345 --> 01:20:27,975
+Thuần hoá Arrakis đi, Feyd.
+
+640
+01:20:29,285 --> 01:20:31,825
+Lấy được hương dược.
+Ta sẽ biến cháu thành Hoàng đế.
+
+641
+01:20:45,015 --> 01:20:46,095
+Hoàng đế ư?
+
+642
+01:20:49,235 --> 01:20:50,075
+Bằng cách nào?
+
+643
+01:20:52,365 --> 01:20:55,305
+Hoàng đế đã giúp ta
+tiêu diệt nhà Atreides.
+
+644
+01:20:56,765 --> 01:20:59,025
+Ông ta cho mượn quân lính riêng.
+
+645
+01:20:59,415 --> 01:21:00,695
+Đó là tội nặng.
+
+646
+01:21:01,845 --> 01:21:06,045
+Nếu việc đó lộ ra,
+các Đại Gia tộc sẽ chống lại.
+
+647
+01:21:07,085 --> 01:21:08,295
+Khi đó,
+
+648
+01:21:09,485 --> 01:21:11,425
+ai sẽ ngồi lên ngai vàng?
+
+649
+01:21:12,865 --> 01:21:16,095
+Feyd-Rautha Harkonnen.
+
+650
+01:21:56,165 --> 01:21:57,305
+Cô bám theo tôi.
+
+651
+01:21:58,925 --> 01:21:59,705
+Vậy sao?
+
+652
+01:22:01,765 --> 01:22:03,295
+Có lẽ tôi đi lạc.
+
+653
+01:22:05,375 --> 01:22:07,741
+Ngài sẽ chỉ tôi
+đường ra khỏi mê cung này chứ,
+
+654
+01:22:08,420 --> 01:22:09,888
+ngài Chuẩn Nam tước?
+
+655
+01:22:17,455 --> 01:22:19,625
+Chúng ta từng gặp nhau à?
+
+656
+01:22:22,895 --> 01:22:24,195
+Tôi nghĩ là không.
+
+657
+01:22:25,035 --> 01:22:26,655
+Tôi là Phu nhân Margot Fenring.
+
+658
+01:22:27,565 --> 01:22:29,725
+Tôi ở đây để chúc mừng
+ngài trưởng thành.
+
+659
+01:22:29,945 --> 01:22:31,715
+Cô đâu được phép vào khu vực này.
+
+660
+01:22:32,795 --> 01:22:34,285
+Làm sao cô qua được cảnh vệ?
+
+661
+01:22:34,555 --> 01:22:35,545
+Cảnh vệ ư?
+
+662
+01:22:38,515 --> 01:22:40,415
+Cho tôi hỏi,
+ngài đang làm gì ở đây?
+
+663
+01:22:42,685 --> 01:22:46,115
+Ngài không tham dự
+lễ mừng của mình sao?
+
+664
+01:22:56,955 --> 01:22:58,665
+Cô là Bene Gesserit.
+
+665
+01:22:59,425 --> 01:23:01,475
+<i>Tại sao ngài cho là thế?</i>
+
+666
+01:23:02,235 --> 01:23:03,705
+Tôi nhớ ra rồi.
+
+667
+01:23:04,945 --> 01:23:06,925
+Tối qua tôi đã mơ thấy cô.
+
+668
+01:23:07,565 --> 01:23:09,105
+<i>Hy vọng là giấc mơ dễ chịu.</i>
+
+669
+01:23:09,205 --> 01:23:10,645
+Đừng chế nhạo tôi, ả kia.
+
+670
+01:23:10,745 --> 01:23:12,075
+<i>Tôi đâu dám.</i>
+
+671
+01:23:14,415 --> 01:23:17,355
+Tôi biết các mánh khoé
+của Bene Gesserit các người.
+
+672
+01:23:17,455 --> 01:23:19,725
+<i>Và ngài biết gì về Bene Gesserit?</i>
+
+673
+01:23:23,625 --> 01:23:24,495
+<i>Nói tôi nghe xem.</i>
+
+674
+01:23:28,725 --> 01:23:30,265
+Có chuyện gì à?
+
+675
+01:23:30,365 --> 01:23:31,665
+Tôi không nhận ra nơi này.
+
+676
+01:23:32,865 --> 01:23:34,535
+Đây là khu dành cho khách.
+
+677
+01:23:37,405 --> 01:23:38,505
+Cô đang đi đâu?
+
+678
+01:23:40,405 --> 01:23:41,375
+Về phòng tôi.
+
+679
+01:24:09,165 --> 01:24:14,285
+Đến. Chỗ. Tôi.
+
+680
+01:24:17,375 --> 01:24:18,475
+Quỳ.
+
+681
+01:24:32,935 --> 01:24:35,385
+Đặt bàn tay phải vào hộp.
+
+682
+01:24:50,715 --> 01:24:53,775
+Một kẻ chống đối xã hội.
+Có trí tuệ cao.
+
+683
+01:24:54,295 --> 01:24:55,995
+Nghị lực. Tàn nhẫn.
+
+684
+01:24:56,455 --> 01:24:58,525
+Nhưng được thúc đẩy mạnh mẽ
+bởi danh dự.
+
+685
+01:24:59,415 --> 01:25:00,955
+Cậu ta khao khát bị tổn thương.
+
+686
+01:25:01,625 --> 01:25:02,775
+Cậu ta yêu sự đau đớn.
+
+687
+01:25:03,555 --> 01:25:04,955
+Có thể cứu vớt được không?
+
+688
+01:25:05,085 --> 01:25:06,555
+Có thể khống chế cậu ta được.
+
+689
+01:25:06,995 --> 01:25:08,485
+Cậu ta dễ bị tình dục quyến rũ.
+
+690
+01:25:10,685 --> 01:25:11,545
+Và?
+
+691
+01:25:13,145 --> 01:25:14,515
+Dòng dõi đã đảm bảo.
+
+692
+01:25:16,405 --> 01:25:18,945
+Nữ, như Mẹ yêu cầu.
+
+693
+01:25:20,275 --> 01:25:21,765
+Con làm tốt lắm, Margot.
+
+694
+01:25:22,725 --> 01:25:25,595
+Nhưng sao Mẹ
+không tự kiểm tra cậu ta?
+
+695
+01:25:27,315 --> 01:25:29,105
+Ta là một hình mẫu người mẹ.
+
+696
+01:25:29,785 --> 01:25:33,135
+Và theo những gì đã xảy ra
+giữa cậu ta và mẹ cậu ta,
+
+697
+01:25:33,415 --> 01:25:35,475
+ta nghĩ sẽ không hiệu quả.
+
+698
+01:25:36,115 --> 01:25:37,725
+Có chuyện gì giữa cậu ta và mẹ?
+
+699
+01:25:38,395 --> 01:25:39,255
+Cậu ta đã giết mẹ.
+
+700
+01:25:40,795 --> 01:25:43,525
+Khao khát và sự nhục nhã.
+
+701
+01:25:44,985 --> 01:25:46,755
+Đó là những đòn bẩy của cậu ta.
+
+702
+01:25:47,565 --> 01:25:49,935
+Nếu Feyd-Rautha
+thắng lợi ở Arrakis,
+
+703
+01:25:50,425 --> 01:25:52,675
+chúng ta sẽ biết cách
+khống chế cậu ta.
+
+704
+01:26:06,315 --> 01:26:08,945
+{\an8}<font color="#ffff00">Tất cả chào Chuẩn Nam tước
+Feyd-Rautha!</font>
+
+705
+01:26:09,265 --> 01:26:11,465
+{\an8}<font color="#ffff00">Thống đốc Hành tinh mới của Arrakis.</font>
+
+706
+01:26:13,655 --> 01:26:15,955
+Hãy diệt Con Quỷ
+Fremen này cho ta.
+
+707
+01:26:30,915 --> 01:26:34,445
+Feyd-Rautha! Feyd-Rautha! Feyd-Rautha!
+
+708
+01:26:34,545 --> 01:26:40,555
+Feyd-Rautha! Feyd-Rautha! Feyd-Rautha!
+
+709
+01:27:01,345 --> 01:27:05,445
+<i>♪ Mau đuổi cái lũ đần độn này đi ♪</i>
+
+710
+01:27:06,665 --> 01:27:10,505
+<i>♪ Bộ sa phục đầy nước tiểu ♪</i>
+
+711
+01:27:11,655 --> 01:27:15,785
+<i>♪ Tay tôi như bị nước trong cát ♪</i>
+
+712
+01:27:17,695 --> 01:27:19,895
+<i>♪ Cứu tôi khỏi đám ngốc vô cùng này ♪</i>
+
+713
+01:27:19,995 --> 01:27:23,765
+<i>♪ Thế giới khác, vùng đất khác ♪</i>
+
+714
+01:27:23,865 --> 01:27:24,765
+Ta vào rồi.
+
+715
+01:27:28,415 --> 01:27:29,555
+Nhiều không?
+
+716
+01:27:29,905 --> 01:27:31,735
+Nhiều lắm.
+
+717
+01:27:34,375 --> 01:27:35,975
+Rất vui được biết anh.
+
+718
+01:27:36,075 --> 01:27:37,575
+<i>Thế hả?</i>
+
+719
+01:27:37,735 --> 01:27:39,465
+<i>Ra-đa không có gì. Ta an toàn.</i>
+
+720
+01:27:40,855 --> 01:27:42,355
+<i>Đến giờ làm việc.</i>
+
+721
+01:28:02,065 --> 01:28:03,555
+<i>Nhiều lắm.</i>
+
+722
+01:28:03,875 --> 01:28:05,775
+<i>Tôi có số đo khoảng cách...</i>
+
+723
+01:28:05,875 --> 01:28:07,805
+<i>Rồi, mọi người, lũ sâu đang đến.</i>
+
+724
+01:28:07,905 --> 01:28:08,905
+<i>- Coi chừng các chỗ mòn.
+- Chuẩn bị đỗ tàu.</i>
+
+725
+01:28:09,005 --> 01:28:10,375
+<i>Bắt đầu căng đấy.</i>
+
+726
+01:28:10,885 --> 01:28:12,655
+<i>Được rồi, làm đi!</i>
+
+727
+01:28:14,515 --> 01:28:16,345
+<i>- Khởi động!
+- Cho đứng lên!</i>
+
+728
+01:28:16,445 --> 01:28:18,445
+<i>Ừ, tôi đang làm đây.</i>
+
+729
+01:28:45,175 --> 01:28:46,115
+<i>Dừng!</i>
+
+730
+01:29:00,665 --> 01:29:01,965
+<i>Mìn! Mìn!</i>
+
+731
+01:29:02,065 --> 01:29:03,665
+<i>Tránh đi!</i>
+
+732
+01:29:03,765 --> 01:29:05,685
+<i>Chạy nhanh!</i>
+
+733
+01:29:07,835 --> 01:29:10,075
+Phía đông! Phía đông!
+
+734
+01:29:14,795 --> 01:29:16,225
+<i>Tránh đi!</i>
+
+735
+01:29:16,835 --> 01:29:18,245
+<i>Đi khỏi đây thôi.</i>
+
+736
+01:29:18,755 --> 01:29:19,925
+<i>Đạn đến!</i>
+
+737
+01:29:23,485 --> 01:29:25,115
+<i>Đừng chạy, đánh đi!</i>
+
+738
+01:29:26,925 --> 01:29:28,885
+<i>Ta bị Fremen tấn công mạnh rồi.</i>
+
+739
+01:29:30,955 --> 01:29:32,455
+<i>Đức Mẹ ơi.</i>
+
+740
+01:29:43,635 --> 01:29:44,775
+<i>- Đi, đi ngay!
+- Khốn kiếp!</i>
+
+741
+01:29:45,675 --> 01:29:46,775
+<i>Ra ngoài!</i>
+
+742
+01:29:47,765 --> 01:29:49,255
+<i>Ta phải chạy thôi!</i>
+
+743
+01:29:49,475 --> 01:29:51,045
+<i>Quỷ thật, đi thôi!</i>
+
+744
+01:30:01,755 --> 01:30:03,565
+<i>Tôi đã nhận ra bước chân của ông,</i>
+
+745
+01:30:04,605 --> 01:30:06,175
+<i>ông già ạ.</i>
+
+746
+01:30:31,375 --> 01:30:32,595
+Chó con.
+
+747
+01:30:33,555 --> 01:30:34,785
+Chó con.
+
+748
+01:30:42,265 --> 01:30:44,855
+Sau trận chiến Arrakeen,
+
+749
+01:30:45,175 --> 01:30:48,465
+tôi thương lượng được
+một chuyến trở về cho người sống sót.
+
+750
+01:30:49,595 --> 01:30:51,025
+Nhờ những người này.
+
+751
+01:30:51,855 --> 01:30:53,055
+Tại sao ông ở lại?
+
+752
+01:30:54,195 --> 01:30:55,665
+Tôi muốn máu.
+
+753
+01:30:57,675 --> 01:30:58,775
+Lấy đầu Rabban hả?
+
+754
+01:31:02,595 --> 01:31:04,955
+Từ khi Muad'Dib
+làm cho Rabban phát điên,
+
+755
+01:31:05,055 --> 01:31:09,415
+việc buôn lậu đạt lợi nhuận cao lắm.
+
+756
+01:31:09,955 --> 01:31:11,755
+Tên buôn lậu Gurney Halleck.
+
+757
+01:31:13,925 --> 01:31:15,365
+Paul Muad'Dib.
+
+758
+01:31:16,425 --> 01:31:18,765
+Tôi đã nghe nhiều
+câu chuyện về Muad'Dib.
+
+759
+01:31:20,115 --> 01:31:21,675
+Chẳng có chuyện nào hay.
+
+760
+01:31:23,095 --> 01:31:24,395
+Cậu thấy sự sợ hãi chứ?
+
+761
+01:31:26,105 --> 01:31:27,945
+Khi nguồn lực của chúng tôi có hạn,
+
+762
+01:31:30,575 --> 01:31:32,075
+chúng tôi chỉ có nỗi sợ thôi.
+
+763
+01:31:49,865 --> 01:31:51,085
+Cậu có bao nhiêu người?
+
+764
+01:31:51,495 --> 01:31:53,335
+- 200.
+- 200 ư?
+
+765
+01:31:58,205 --> 01:32:01,145
+Cậu nhận ra mình làm được gì
+với 200 người này không?
+
+766
+01:32:02,495 --> 01:32:04,005
+Những chiến binh phi phàm.
+
+767
+01:32:04,145 --> 01:32:05,515
+Duncan nói họ có hàng triệu người.
+
+768
+01:32:05,725 --> 01:32:07,245
+Phải, ở Nam Cát Thẳm.
+
+769
+01:32:07,345 --> 01:32:09,105
+Cậu còn chờ gì nữa?
+
+770
+01:32:09,765 --> 01:32:12,965
+Có vài ngàn người thế này,
+cậu có thể kiểm soát cả hành tinh.
+
+771
+01:32:13,075 --> 01:32:15,025
+Đó là giấc mơ của cha cậu.
+Cậu sợ điều gì?
+
+772
+01:32:15,125 --> 01:32:16,125
+Này.
+
+773
+01:32:18,225 --> 01:32:19,925
+Tôn thờ, Gurney.
+
+774
+01:32:21,225 --> 01:32:22,565
+Họ từng là bạn tôi.
+
+775
+01:32:24,195 --> 01:32:25,475
+Giờ họ là tín đồ của tôi.
+
+776
+01:32:25,665 --> 01:32:27,585
+Muad'Dib, Nhà Tiên tri.
+
+777
+01:32:27,765 --> 01:32:29,635
+Việc đó có gì xấu? Tận dụng nó đi.
+
+778
+01:32:29,735 --> 01:32:30,605
+Đâu đơn giản thế.
+
+779
+01:32:30,705 --> 01:32:33,545
+Cậu có sức mạnh báo thù cho cha,
+và cậu sợ dùng nó sao?
+
+780
+01:32:34,745 --> 01:32:36,745
+Hương dược đã mở mang
+trí óc tôi, Gurney.
+
+781
+01:32:37,715 --> 01:32:39,045
+Tôi có thể thấy trước nhiều thứ.
+
+782
+01:32:41,150 --> 01:32:42,237
+Nếu tôi đi miền Nam,
+
+783
+01:32:42,337 --> 01:32:44,865
+mọi hình ảnh tôi thấy
+đều dẫn đến kinh hoàng.
+
+784
+01:32:45,085 --> 01:32:48,325
+Hàng tỷ xác người
+rải khắp thiên hà.
+
+785
+01:32:48,445 --> 01:32:49,945
+Tất cả vì tôi mà chết.
+
+786
+01:32:50,895 --> 01:32:52,235
+Vì cậu mất kiểm soát à?
+
+787
+01:32:54,095 --> 01:32:55,165
+Vì tôi giành được kiểm soát.
+
+788
+01:33:14,045 --> 01:33:15,215
+Sẽ được nhiều nước đấy.
+
+789
+01:33:17,985 --> 01:33:18,655
+Chani.
+
+790
+01:33:18,925 --> 01:33:21,105
+Sao? Nhìn ông ta đi,
+không cứu nổi đâu.
+
+791
+01:33:21,925 --> 01:33:22,855
+Ông ấy là người nhà.
+
+792
+01:33:26,525 --> 01:33:27,325
+Thật sao?
+
+793
+01:33:38,525 --> 01:33:41,235
+{\an8}<font color="#ffff00">Chị nghĩ gì về người ngoài đó?</font>
+
+794
+01:33:42,625 --> 01:33:45,005
+{\an8}<font color="#ffff00">Chị nghĩ ông ta là rắc rối.</font>
+
+795
+01:33:47,025 --> 01:33:49,495
+{\an8}<font color="#ffff00">Không, em tin Usul.</font>
+
+796
+01:33:55,435 --> 01:33:57,945
+Đâu cần là nhà tiên tri
+mới thấy thứ phía trước.
+
+797
+01:34:00,825 --> 01:34:02,165
+Con đường của cậu
+dẫn đến chiến tranh.
+
+798
+01:34:03,935 --> 01:34:04,995
+Cậu biết thế mà.
+
+799
+01:34:07,405 --> 01:34:08,975
+Chiến tranh sẽ đến.
+
+800
+01:34:09,805 --> 01:34:13,375
+Cậu sẽ làm gì khi cảm thấy
+hơi thở của nó phả vào gáy?
+
+801
+01:34:17,115 --> 01:34:19,375
+Nếu cậu không muốn
+gây dựng quân đội ở miền Nam,
+
+802
+01:34:19,555 --> 01:34:21,185
+có lẽ cậu còn một lựa chọn.
+
+803
+01:34:24,435 --> 01:34:25,465
+Hoả lực
+
+804
+01:34:27,155 --> 01:34:28,825
+là thứ cậu không có.
+
+805
+01:34:30,925 --> 01:34:31,885
+Còn tôi đây.
+
+806
+01:34:36,495 --> 01:34:39,035
+Tôi biết chỗ cha cậu
+giấu vũ khí nguyên tử của gia tộc.
+
+807
+01:34:44,375 --> 01:34:47,175
+Mỗi gia tộc đều có
+một kho vũ khí nguyên tử.
+
+808
+01:34:48,545 --> 01:34:50,475
+Anh tưởng kho
+của nhà anh không còn.
+
+809
+01:34:52,875 --> 01:34:55,245
+Nó lớn lắm, Chani.
+Nó có thể thay đổi tất cả.
+
+810
+01:35:00,715 --> 01:35:03,885
+Anh có thể ném bom vào các
+cánh đồng hương dược chính.
+
+811
+01:35:05,925 --> 01:35:09,125
+Kẻ nào có thể huỷ diệt một vật
+thì mới thực sự làm chủ nó.
+
+812
+01:35:10,755 --> 01:35:12,535
+Anh có thể kiểm soát nó
+mà không phải bọn em?
+
+813
+01:35:14,675 --> 01:35:16,475
+Anh đã hứa với em
+là không muốn quyền lực.
+
+814
+01:35:18,275 --> 01:35:20,375
+Bất kể anh làm gì
+em cũng không tin anh.
+
+815
+01:35:20,515 --> 01:35:23,285
+Vì anh là người ngoài. Như bạn anh.
+
+816
+01:35:25,415 --> 01:35:27,015
+Anh không phải người ngoài.
+
+817
+01:35:34,825 --> 01:35:36,085
+Đó là với em.
+
+818
+01:35:36,355 --> 01:35:38,025
+Còn với sa mạc, anh là người ngoài.
+
+819
+01:35:38,805 --> 01:35:40,805
+Lòng trung thành của anh
+dành cho em.
+
+820
+01:35:41,695 --> 01:35:42,625
+Cho dân Fremen.
+
+821
+01:35:42,945 --> 01:35:44,745
+Anh làm việc này
+vì tất cả chúng ta.
+
+822
+01:35:46,265 --> 01:35:47,135
+Em tin anh chứ?
+
+823
+01:35:55,815 --> 01:35:56,885
+Em sẽ nói với Stilgar.
+
+824
+01:36:05,055 --> 01:36:06,055
+Ở đó.
+
+825
+01:36:10,295 --> 01:36:13,495
+Nó ở ngay dưới mũi mọi người.
+
+826
+01:36:14,965 --> 01:36:16,085
+Không khôn ngoan.
+
+827
+01:36:16,265 --> 01:36:17,815
+Mục đích chính là thế.
+
+828
+01:36:17,935 --> 01:36:20,135
+Sẽ không ai nhìn vào đó
+vì nó quá rõ ràng.
+
+829
+01:36:22,935 --> 01:36:23,985
+Không khôn ngoan.
+
+830
+01:36:24,935 --> 01:36:26,155
+Anh đã tìm ra nó à?
+
+831
+01:36:26,435 --> 01:36:28,235
+Tôi đâu có tìm nó.
+
+832
+01:36:28,775 --> 01:36:30,065
+Chính xác có bao nhiêu bom?
+
+833
+01:36:31,895 --> 01:36:33,835
+Đủ để làm nổ tung cả hành tinh.
+
+834
+01:36:36,985 --> 01:36:38,535
+Đó là cách nói thôi.
+
+835
+01:36:40,255 --> 01:36:41,285
+Mọi người hiểu ý tôi mà.
+
+836
+01:37:03,985 --> 01:37:05,915
+Chỉ bằng di sản gen của cậu.
+
+837
+01:37:45,655 --> 01:37:48,605
+Di sản của ông cố của cậu.
+
+838
+01:37:49,385 --> 01:37:53,095
+92 đầu đạn nguyên tử ban đầu
+của gia tộc Atreides.
+
+839
+01:37:55,935 --> 01:37:59,105
+Và đó, đó chính là sức mạnh.
+
+840
+01:38:06,075 --> 01:38:10,275
+Nhật ký Đế quốc, năm 10191.
+
+841
+01:38:10,505 --> 01:38:11,935
+Ghi chép thứ tám.
+
+842
+01:38:12,685 --> 01:38:15,645
+Hiếm khi có các báo cáo
+từ phía Nam của Arrakis.
+
+843
+01:38:16,615 --> 01:38:20,155
+<i>Đây là vùng đất cằn cỗi, cháy khô,
+bị che giấu bởi những cơn bão cát</i>
+
+844
+01:38:20,255 --> 01:38:22,525
+<i>kéo dài cả ngàn dặm qua xích đạo.</i>
+
+845
+01:38:24,525 --> 01:38:27,315
+<i>Không gì sống được ở đó
+nếu thiếu đức tin.</i>
+
+846
+01:38:28,545 --> 01:38:32,615
+<i>Thế nên các Bene Gesserit truyền giáo
+hoạt động rất hiệu quả tại đó.</i>
+
+847
+01:38:36,105 --> 01:38:39,685
+<i>Thông qua họ, chúng ta có báo cáo
+về một nhân vật bí ẩn</i>
+
+848
+01:38:39,785 --> 01:38:40,977
+<i>đang dần kiểm soát trí tưởng tượng</i>
+
+849
+01:38:41,077 --> 01:38:43,422
+<i>của các bộ lạc
+theo chính thống miền Nam.</i>
+
+850
+01:38:44,415 --> 01:38:47,125
+<i>Một Mẹ Chí tôn mới từ miền Bắc</i>
+
+851
+01:38:48,085 --> 01:38:50,084
+<i>lan truyền tin tức
+về sự xuất hiện sắp tới</i>
+
+852
+01:38:50,184 --> 01:38:51,615
+<i>của Lisan al-Gaib,</i>
+
+853
+01:38:52,215 --> 01:38:54,245
+<i>Giọng Nói Từ Thế giới Bên Ngoài.</i>
+
+854
+01:38:55,325 --> 01:38:58,165
+<i>Với sự nhiệt thành tín ngưỡng
+đang lên ở miền Nam</i>
+
+855
+01:38:58,625 --> 01:39:01,815
+<i>và Muad'Dib bóp nghẹt
+sản lượng hương dược ở miền Bắc,</i>
+
+856
+01:39:02,575 --> 01:39:05,405
+mọi thứ đang cho thấy
+sự leo thang đến chiến tranh.
+
+857
+01:39:13,775 --> 01:39:16,145
+{\an8}<font color="#ffff00">Mỗi lần chỉ một con.</font>
+
+858
+01:39:16,815 --> 01:39:19,965
+{\an8}<font color="#ffff00">Nếu không chúng sẽ
+đánh nhau đến chết.</font>
+
+859
+01:39:21,585 --> 01:39:23,225
+{\an8}<font color="#ffff00">Bao lớn?</font>
+
+860
+01:39:23,555 --> 01:39:24,645
+{\an8}<font color="#ffff00">Còn rất nhỏ.</font>
+
+861
+01:39:28,935 --> 01:39:31,355
+{\an8}<font color="#ffff00">Con gái tôi hỏi,
+nó được tạo ra thế nào?</font>
+
+862
+01:39:36,365 --> 01:39:37,105
+Yên lặng.
+
+863
+01:41:20,645 --> 01:41:23,635
+{\an8}<font color="#ffff00">Nước Sự sống.</font>
+
+864
+01:41:26,275 --> 01:41:27,645
+Hãy nghe thật kỹ.
+
+865
+01:41:27,905 --> 01:41:31,715
+Một người nam sẽ sớm đến đền của cô
+và có thể muốn cô thực hiện nghi thức.
+
+866
+01:41:32,415 --> 01:41:35,095
+Mẹ Chí tôn, việc đó bị cấm.
+
+867
+01:41:36,335 --> 01:41:37,995
+{\an8}<font color="#ffff00">Hoài nghi lời tiên tri ư?</font>
+
+868
+01:41:38,165 --> 01:41:40,375
+{\an8}<font color="#ffff00">Nam giới sẽ không sống qua nổi.</font>
+
+869
+01:41:40,685 --> 01:41:42,525
+Để anh ta thử.
+
+870
+01:42:26,635 --> 01:42:27,805
+Cái khỉ gì thế?
+
+871
+01:42:31,405 --> 01:42:32,635
+Chani!
+
+872
+01:42:38,615 --> 01:42:39,915
+Chani!
+
+873
+01:42:43,985 --> 01:42:45,255
+Chani.
+
+874
+01:42:54,925 --> 01:42:56,485
+Là ở Sietch Tabr.
+
+875
+01:43:20,925 --> 01:43:22,625
+Dội pháo kiểu truyền thống.
+
+876
+01:43:23,755 --> 01:43:25,145
+Thiên tài.
+
+877
+01:43:25,475 --> 01:43:28,315
+Chúng ta đang nung chảy đá
+trên đầu chúng.
+
+878
+01:43:28,595 --> 01:43:31,565
+Cháu muốn xuống mặt đất.
+Cho quân chuẩn bị.
+
+879
+01:43:31,665 --> 01:43:34,765
+Tôi đề nghị ngài ở trong tàu. Có...
+
+880
+01:43:34,865 --> 01:43:36,805
+Đem xác hắn đến phòng ta.
+
+881
+01:43:37,975 --> 01:43:40,235
+Các bé cưng của ta đang đói.
+
+882
+01:43:40,335 --> 01:43:42,005
+Trong chuyến bay chúng không có đồ ăn.
+
+883
+01:43:43,705 --> 01:43:45,425
+Em làm gì ở đây?
+
+884
+01:43:46,075 --> 01:43:49,015
+Đang sáng sớm mà.
+Anh làm gì ở đây?
+
+885
+01:43:49,435 --> 01:43:51,125
+Hôn chân tôi đi, anh trai.
+
+886
+01:43:51,265 --> 01:43:52,525
+Tao sẽ moi ruột mày...
+
+887
+01:43:58,265 --> 01:44:00,935
+Anh làm mất mặt gia tộc chúng ta.
+
+888
+01:44:02,045 --> 01:44:03,815
+Anh làm mất mặt tôi.
+
+889
+01:44:04,695 --> 01:44:05,695
+Hôn đi
+
+890
+01:44:06,915 --> 01:44:07,755
+hoặc chết.
+
+891
+01:44:18,325 --> 01:44:19,425
+Giờ chúng ta hoà nhau.
+
+892
+01:44:25,655 --> 01:44:28,285
+Làm mất mặt gia tộc lần nữa
+
+893
+01:44:29,555 --> 01:44:30,725
+thì sẽ là lần cuối.
+
+894
+01:45:01,335 --> 01:45:03,555
+{\an8}<font color="#ffff00">Họ chết cả rồi!</font>
+
+895
+01:45:04,245 --> 01:45:05,605
+{\an8}<font color="#ffff00">Tôi đã mất họ trong lửa.</font>
+
+896
+01:45:06,215 --> 01:45:08,065
+Chúng còn chẳng giao chiến mặt đất
+
+897
+01:45:08,165 --> 01:45:10,535
+như những chiến sĩ đáng kính.
+
+898
+01:45:12,135 --> 01:45:14,595
+{\an8}<font color="#ffff00">Toàn bộ miền Bắc đã bị tấn công.</font>
+
+899
+01:45:19,635 --> 01:45:22,605
+{\an8}<font color="#ffff00">Có lời kêu gọi thành lập
+hội đồng chiến tranh ở miền Nam.</font>
+
+900
+01:45:22,705 --> 01:45:25,145
+{\an8}<font color="#ffff00">Mọi thủ lĩnh phải tham dự.</font>
+
+901
+01:45:27,225 --> 01:45:29,275
+{\an8}<font color="#ffff00">Muad'Dib, họ đang chờ anh.</font>
+
+902
+01:45:42,865 --> 01:45:45,195
+<i>Usul,</i> ở miền Nam,
+
+903
+01:45:46,035 --> 01:45:48,435
+chỉ có các thủ lĩnh được lên tiếng.
+
+904
+01:45:49,805 --> 01:45:52,535
+- Cậu phải thay vị trí tôi.
+- Tôi không thể làm thế.
+
+905
+01:45:52,635 --> 01:45:55,545
+Đây là lúc tốt để giao đấu với tôi.
+
+906
+01:45:55,705 --> 01:45:58,985
+Tôi đang yếu.
+Tôi dễ bị giết, Muad'Dib.
+
+907
+01:45:59,085 --> 01:46:00,345
+Tôi thà chặt tay mình.
+
+908
+01:46:00,445 --> 01:46:03,695
+Chúng tôi cần cậu,
+cần Lisan al-Gaib dẫn dắt.
+
+909
+01:46:03,795 --> 01:46:05,455
+Ông biết tôi nghĩ gì mà.
+
+910
+01:46:05,555 --> 01:46:08,085
+Tôi không quan tâm
+cậu tin gì. Tôi tin.
+
+911
+01:46:22,635 --> 01:46:23,905
+Tôi không ngờ việc này.
+
+912
+01:46:25,805 --> 01:46:27,545
+Nhà Harkonnen chưa làm xong đâu.
+
+913
+01:46:28,645 --> 01:46:30,425
+Chúng quay về nạp đạn thôi.
+
+914
+01:46:30,815 --> 01:46:33,985
+Chúng ta sẽ đặt dùi gọi.
+Ta đưa mọi người về miền Nam.
+
+915
+01:46:34,085 --> 01:46:35,915
+Anh sẽ ở lại,
+yểm trợ cho mọi người rút.
+
+916
+01:46:36,015 --> 01:46:38,195
+- Anh nói gì vậy?
+- Chani, anh không thể đi với em.
+
+917
+01:46:39,115 --> 01:46:40,195
+Em biết vì sao mà.
+
+918
+01:46:40,408 --> 01:46:42,638
+- Tôi cũng ở lại.
+- Không ai ở lại, trừ tôi.
+
+919
+01:46:42,738 --> 01:46:44,430
+- Paul.
+- Đây là lệnh, Gurney Halleck.
+
+920
+01:46:44,530 --> 01:46:45,370
+Nam tiến đi!
+
+921
+01:46:45,575 --> 01:46:46,945
+Bảo vệ mẹ tôi.
+
+922
+01:46:49,065 --> 01:46:50,195
+- Chúa công.
+- Muad'Dib.
+
+923
+01:46:50,775 --> 01:46:52,965
+{\an8}<font color="#ffff00">Những người này
+sẽ không đi nếu thiếu anh.</font>
+
+924
+01:46:53,225 --> 01:46:55,945
+{\an8}<font color="#ffff00">Tôi không thể đi miền Nam.</font>
+
+925
+01:47:00,245 --> 01:47:02,075
+Anh ấy lo ngại
+những người chính thống.
+
+926
+01:47:03,615 --> 01:47:04,615
+Và anh ấy nên thế.
+
+927
+01:47:18,055 --> 01:47:19,455
+<i>Đừng kháng cự.</i>
+
+928
+01:47:26,705 --> 01:47:28,165
+Nói với tôi đi, Jamis.
+
+929
+01:47:35,105 --> 01:47:37,165
+Kwisatz Haderach.
+
+930
+01:47:39,045 --> 01:47:42,815
+<i>Con chỉ thấy những mảnh vụn.</i>
+
+931
+01:47:43,245 --> 01:47:47,185
+<i>Con không thể thấy tương lai
+khi không nhìn quá khứ.</i>
+
+932
+01:47:49,555 --> 01:47:53,635
+<i>Để mở khoá tâm trí,
+con cần uống Nước Sự sống</i>
+
+933
+01:47:54,025 --> 01:47:56,965
+<i>và con sẽ thấy mọi thứ.</i>
+
+934
+01:48:00,665 --> 01:48:04,075
+<i>Một thợ săn giỏi luôn leo lên
+đụn cát cao nhất trước khi đi săn.</i>
+
+935
+01:48:05,675 --> 01:48:06,845
+<i>Anh ta cần thấy được</i>
+
+936
+01:48:08,805 --> 01:48:10,275
+<i>xa nhất có thể.</i>
+
+937
+01:48:15,595 --> 01:48:16,725
+Anh cần phải thấy.
+
+938
+01:48:19,685 --> 01:48:21,725
+<i>Con phải uống Nước Sự sống.</i>
+
+939
+01:48:23,025 --> 01:48:24,725
+<i>Trí óc con sẽ mở ra</i>
+
+940
+01:48:26,965 --> 01:48:28,665
+<i>và con sẽ thấy.</i>
+
+941
+01:48:47,235 --> 01:48:49,175
+Thế giới đã tạo ra lựa chọn cho ta.
+
+942
+01:48:54,255 --> 01:48:55,955
+Nếu đi miền Nam, anh có thể mất em.
+
+943
+01:48:56,055 --> 01:48:57,825
+Anh sẽ không bao giờ mất em,
+
+944
+01:48:58,955 --> 01:49:00,125
+Paul Atreides.
+
+945
+01:49:02,205 --> 01:49:04,515
+Chừng nào anh vẫn là chính mình.
+
+946
+01:49:11,935 --> 01:49:15,245
+Anh sẽ vượt qua những cơn bão
+cùng em. Đi về miền Nam.
+
+947
+01:49:16,705 --> 01:49:18,175
+Đưa dân em đến nơi an toàn.
+
+948
+01:49:24,405 --> 01:49:26,285
+Rồi anh sẽ làm việc anh phải làm.
+
+949
+01:49:51,115 --> 01:49:52,275
+Ở đâu?
+
+950
+01:49:52,545 --> 01:49:54,555
+Gián điệp. Bị bỏ lại.
+
+951
+01:49:54,915 --> 01:49:56,465
+Không có dấu vết những kẻ khác.
+
+952
+01:49:56,675 --> 01:49:59,135
+Chúng đi về miền Nam
+để trốn trong các cơn bão.
+
+953
+01:50:04,295 --> 01:50:05,895
+Gửi tin này cho Nam tước.
+
+954
+01:50:06,105 --> 01:50:08,225
+Miền Bắc đã được
+giải phóng và an toàn.
+
+955
+01:50:08,425 --> 01:50:10,305
+Thu hoạch hương dược thoải mái đi.
+
+956
+01:50:10,985 --> 01:50:12,315
+Vâng, Chuẩn Nam tước.
+
+957
+01:50:26,915 --> 01:50:30,535
+Ngươi đã giết chín người của ta
+chỉ bằng một thanh kiếm.
+
+958
+01:50:31,855 --> 01:50:32,965
+Ả sẽ không nói gì.
+
+959
+01:50:33,725 --> 01:50:34,985
+Bảo ả rằng không sao.
+
+960
+01:50:35,775 --> 01:50:38,005
+Ta đã biết mọi thứ ta cần biết.
+
+961
+01:50:45,965 --> 01:50:47,805
+Chỉ còn lại khoái cảm.
+
+962
+01:51:56,745 --> 01:51:59,415
+{\an8}<font color="#ffff00">Anh không được vào đây, người lạ.</font>
+
+963
+01:51:59,625 --> 01:52:01,745
+{\an8}<font color="#ffff00">Rời đi hoặc chết.</font>
+
+964
+01:52:03,085 --> 01:52:05,875
+{\an8}<font color="#ffff00">Tôi nên được chào đón chứ?</font>
+
+965
+01:52:09,715 --> 01:52:13,805
+{\an8}<font color="#ffff00">Nếu anh uống, anh sẽ chết.</font>
+
+966
+01:52:14,515 --> 01:52:18,665
+{\an8}<font color="#ffff00">Nếu anh uống, anh có thể thấy.</font>
+
+967
+01:52:53,155 --> 01:52:56,965
+<i>Giờ anh có thể thấy
+quá khứ của chúng tôi...</i>
+
+968
+01:52:57,065 --> 01:53:00,375
+<i>Thấy quá khứ của chúng tôi</i>
+
+969
+01:53:00,475 --> 01:53:03,735
+<i>là có thể thấy tương lai của anh.</i>
+
+970
+01:53:03,835 --> 01:53:06,395
+<i>Thấy tương lai của anh.</i>
+
+971
+01:53:24,425 --> 01:53:28,225
+<i>Anh trai, anh trai
+yêu quý nhất của em,</i>
+
+972
+01:53:28,325 --> 01:53:31,135
+<i>anh còn chưa sẵn sàng
+cho điều sắp đến.</i>
+
+973
+01:53:32,965 --> 01:53:36,005
+<i>Giờ anh sẽ biết sự thật
+về gia tộc chúng ta.</i>
+
+974
+01:53:36,605 --> 01:53:39,935
+<i>Và nó sẽ làm tổn thương anh
+đến tận tâm can.</i>
+
+975
+01:53:41,515 --> 01:53:42,705
+Paul...
+
+976
+01:53:43,515 --> 01:53:46,495
+<i>Đừng lo lắng. Em ở bên anh.</i>
+
+977
+01:53:48,015 --> 01:53:49,205
+Em yêu quý anh.
+
+978
+01:53:53,695 --> 01:53:55,415
+{\an8}<font color="#ffff00">Ai biết việc này?</font>
+
+979
+01:53:55,515 --> 01:53:56,865
+{\an8}<font color="#ffff00">Chỉ có ngài, thưa Mẹ Chí tôn.</font>
+
+980
+01:53:56,985 --> 01:53:57,985
+{\an8}<font color="#ffff00">Tốt.</font>
+
+981
+01:53:58,445 --> 01:53:59,715
+{\an8}<font color="#ffff00">Những người khác đâu?</font>
+
+982
+01:53:59,925 --> 01:54:01,825
+{\an8}<font color="#ffff00">Họ vừa từ miền Bắc đến.</font>
+
+983
+01:54:02,375 --> 01:54:03,525
+Tìm họ.
+
+984
+01:54:33,305 --> 01:54:35,875
+Paul? Paul.
+
+985
+01:54:38,395 --> 01:54:39,865
+Em đây, em đây.
+
+986
+01:54:44,455 --> 01:54:45,725
+Xảy ra chuyện gì?
+
+987
+01:54:47,245 --> 01:54:48,545
+Xảy ra chuyện gì?
+
+988
+01:54:59,185 --> 01:55:00,035
+Cậu ấy đã chết.
+
+989
+01:55:00,385 --> 01:55:04,625
+Sinh hiệu của nó quá thấp,
+không phát hiện được. Nhưng nó còn sống.
+
+990
+01:55:05,025 --> 01:55:06,525
+Bà đã làm gì anh ấy?
+
+991
+01:55:07,995 --> 01:55:09,995
+Không phải. Tại sao anh ấy làm vậy?
+
+992
+01:55:10,125 --> 01:55:11,195
+Tại sao anh làm vậy?
+
+993
+01:55:12,065 --> 01:55:14,165
+{\an8}<font color="#ffff00">Vì cậu ấy là Người.</font>
+
+994
+01:55:14,395 --> 01:55:16,835
+{\an8}<font color="#ffff00">Lisan al-Gaib
+sẽ tìm được đường của mình.</font>
+
+995
+01:55:16,985 --> 01:55:19,095
+{\an8}<font color="#ffff00">Đến nơi chưa từng có ai đến.</font>
+
+996
+01:55:19,295 --> 01:55:20,175
+{\an8}<font color="#ffff00">Chú điên rồi!</font>
+
+997
+01:55:20,275 --> 01:55:23,675
+Chani, cơ thể nó đang chống lại
+chất độc và nó cần cô giúp.
+
+998
+01:55:23,805 --> 01:55:25,205
+Bà đã làm.
+
+999
+01:55:26,415 --> 01:55:27,605
+Bà làm thế này với anh ấy.
+
+1000
+01:55:27,705 --> 01:55:30,185
+Bà làm thế với con trai mình. Là bà.
+
+1001
+01:55:30,325 --> 01:55:31,205
+Tự bà xử lý đi.
+
+1002
+01:55:31,305 --> 01:55:35,395
+Chani, cô có thể không tin lời tiên tri,
+nhưng cô là một phần trong đó.
+
+1003
+01:55:35,725 --> 01:55:36,665
+Bà là chất độc.
+
+1004
+01:55:37,545 --> 01:55:40,025
+Bà và những lời dối trá của bà.
+Sao anh lại làm vậy?
+
+1005
+01:55:40,125 --> 01:55:41,295
+Làm đi.
+
+1006
+01:55:52,255 --> 01:55:55,855
+{\an8}<font color="#ffff00">Ngài sẽ trở lại từ cõi chết.</font>
+
+1007
+01:55:56,195 --> 01:55:58,695
+{\an8}<font color="#ffff00">Cùng nước mắt Mùa Xuân Sa Mạc.</font>
+
+1008
+01:56:01,325 --> 01:56:03,845
+{\an8}<font color="#ffff00">Đem cho tôi một Giọt nước Sự sống.</font>
+
+1009
+01:56:03,945 --> 01:56:05,495
+{\an8}<font color="#ffff00">Như đã được viết.</font>
+
+1010
+01:56:05,885 --> 01:56:07,325
+Nước mắt Mùa Xuân Sa mạc.
+
+1011
+01:56:31,545 --> 01:56:34,715
+Kwisatz Haderach,
+
+1012
+01:56:34,815 --> 01:56:38,755
+<i>Trèo lên.</i> <i>Vươn dậy.</i>
+
+1013
+01:56:48,425 --> 01:56:50,225
+Usul, em đây. Em đây.
+
+1014
+01:56:59,765 --> 01:57:00,885
+Anh ổn chứ?
+
+1015
+01:57:01,305 --> 01:57:02,305
+Ừ.
+
+1016
+01:57:11,745 --> 01:57:12,885
+Chắc chắn chứ?
+
+1017
+01:57:16,765 --> 01:57:17,765
+Nhờ có em.
+
+1018
+01:58:03,565 --> 01:58:05,025
+Mẹ xin lỗi về Chani.
+
+1019
+01:58:07,115 --> 01:58:10,715
+Cô ấy sẽ hiểu thôi.
+Con đã thấy cảnh đó rồi.
+
+1020
+01:58:12,565 --> 01:58:13,845
+Con thấy được à?
+
+1021
+01:58:14,795 --> 01:58:17,065
+Giờ các hình ảnh đã rõ ràng.
+
+1022
+01:58:19,195 --> 01:58:22,875
+Con thấy các tương lai khả dĩ.
+Tất cả cùng một lúc.
+
+1023
+01:58:23,945 --> 01:58:26,125
+Kẻ địch vây quanh chúng ta.
+
+1024
+01:58:27,455 --> 01:58:29,785
+Và trong rất nhiều tương lai,
+chúng thắng.
+
+1025
+01:58:30,855 --> 01:58:32,395
+Nhưng con thấy một con đường.
+
+1026
+01:58:34,005 --> 01:58:36,135
+Có một con đường hẹp.
+
+1027
+01:58:46,545 --> 01:58:48,155
+Con thấy dòng dõi chúng ta, mẹ ạ.
+
+1028
+01:58:49,585 --> 01:58:51,125
+Được ghi chép xuyên thời gian.
+
+1029
+01:59:03,595 --> 01:59:06,395
+Mẹ là con gái của Nam tước
+Vladimir Harkonnen.
+
+1030
+01:59:09,305 --> 01:59:10,705
+Cha con có biết không?
+
+1031
+01:59:16,745 --> 01:59:19,915
+Chính mẹ cũng không biết,
+cho đến khi mẹ uống chất độc sâu cát.
+
+1032
+01:59:27,785 --> 01:59:29,425
+Chúng ta thuộc nhà Harkonnen.
+
+1033
+01:59:33,585 --> 01:59:35,655
+Đây là cách chúng ta sẽ sống sót.
+
+1034
+01:59:37,325 --> 01:59:38,765
+Làm người nhà Harkonnen.
+
+1035
+02:01:15,795 --> 02:01:16,835
+Ta phải nói chuyện.
+
+1036
+02:01:18,865 --> 02:01:21,705
+Stilgar, chú có thể ngăn việc này.
+
+1037
+02:01:21,805 --> 02:01:23,435
+Chú nghe cháu không?
+Chú có sức ngăn việc này.
+
+1038
+02:01:23,535 --> 02:01:26,565
+Phụ nữ miền Bắc!
+Cô không được phép nói trong vòng tròn.
+
+1039
+02:01:26,945 --> 02:01:28,545
+Nếu muốn nói, cô biết phải làm gì.
+
+1040
+02:01:28,645 --> 02:01:31,845
+Stilgar, làm ơn mà.
+Vì lợi ích của Arrakis.
+
+1041
+02:01:44,555 --> 02:01:47,356
+Lời tiên tri này
+là cách chúng nô dịch ta!
+
+1042
+02:01:47,486 --> 02:01:49,061
+Cách chúng thống trị...
+
+1043
+02:01:49,665 --> 02:01:51,395
+Cô sẽ chuốc lấy rắc rối.
+
+1044
+02:01:51,495 --> 02:01:52,865
+Không phải việc của ông.
+
+1045
+02:01:52,965 --> 02:01:57,085
+Rabban Harkonnen đã giết gia đình tôi.
+Hắn để lại vết sẹo này để tôi nhớ hắn.
+
+1046
+02:01:57,255 --> 02:01:59,055
+Việc này cũng là của tôi.
+
+1047
+02:02:46,205 --> 02:02:48,085
+Chỉ các thủ lĩnh bộ lạc được nói.
+
+1048
+02:02:48,185 --> 02:02:50,425
+Nếu cậu muốn lên tiếng,
+
+1049
+02:02:50,525 --> 02:02:53,395
+cậu phải giành vị trí của anh ấy,
+bằng cách đánh bại anh ấy
+
+1050
+02:02:53,495 --> 02:02:55,575
+và trả nước của anh ấy về giếng.
+
+1051
+02:02:55,925 --> 02:02:59,495
+Ông nghĩ tôi ngu đến mức tự loại bỏ
+người giỏi nhất của chúng tôi à?
+
+1052
+02:03:00,655 --> 02:03:03,635
+{\an8}<font color="#ffff00">Ông có đập gãy kiếm
+trước khi ra trận không?</font>
+
+1053
+02:03:03,735 --> 02:03:05,445
+Lấy mạng tôi đi, Usul.
+
+1054
+02:03:06,475 --> 02:03:07,705
+Chỉ có cách đó thôi.
+
+1055
+02:03:08,345 --> 02:03:09,975
+Tôi sẽ chỉ đường!
+
+1056
+02:03:12,115 --> 02:03:13,645
+Từ từ thôi.
+
+1057
+02:03:13,755 --> 02:03:16,885
+{\an8}<font color="#ffff00">Không có ai trong phòng này</font>
+
+1058
+02:03:17,255 --> 02:03:20,535
+{\an8}<font color="#ffff00">có thể chống lại tôi.</font>
+
+1059
+02:03:32,535 --> 02:03:36,375
+{\an8}<font color="#ffff00">Mẹ tôi đã cảnh báo
+cho các bạn là tôi sẽ đến.</font>
+
+1060
+02:03:37,655 --> 02:03:39,825
+{\an8}<font color="#ffff00">Hãy sợ thời khắc đó.</font>
+
+1061
+02:03:49,215 --> 02:03:51,455
+Nhưng các bạn nghĩ mình
+có thể có cơ hội.
+
+1062
+02:03:54,265 --> 02:03:57,215
+{\an8}<font color="#ffff00">Nhưng các bạn lo sợ.</font>
+
+1063
+02:03:57,625 --> 02:04:00,095
+{\an8}<font color="#ffff00">Lỡ tôi là Người thì sao?</font>
+
+1064
+02:04:01,045 --> 02:04:05,305
+{\an8}<font color="#ffff00">Đây có thể là thời khắc
+các bạn vẫn cầu nguyện, cả đời.</font>
+
+1065
+02:04:07,945 --> 02:04:10,255
+{\an8}<font color="#ffff00">Anh đang cầu nguyện</font>
+
+1066
+02:04:10,355 --> 02:04:12,055
+{\an8}<font color="#ffff00">với bà của mình.</font>
+
+1067
+02:04:12,365 --> 02:04:16,235
+{\an8}<font color="#ffff00">Bà ấy đã chết chín mùa trăng trước.</font>
+
+1068
+02:04:18,605 --> 02:04:20,315
+{\an8}<font color="#ffff00">Bà ấy mất một mắt.</font>
+
+1069
+02:04:20,575 --> 02:04:24,445
+{\an8}<font color="#ffff00">Một viên đá đập vào mặt bà ấy
+lúc vượt qua Vành đai.</font>
+
+1070
+02:04:25,205 --> 02:04:27,955
+{\an8}<font color="#ffff00">Bà ấy 12 tuổi lúc chuyện đó xảy ra.</font>
+
+1071
+02:04:28,295 --> 02:04:33,085
+{\an8}<font color="#ffff00">Lúc đó, thế giới này
+mang một cái tên Fremen,</font>
+
+1072
+02:04:35,325 --> 02:04:36,225
+Dune.
+
+1073
+02:04:37,275 --> 02:04:38,345
+Lisan al-Gaib!
+
+1074
+02:04:38,665 --> 02:04:40,835
+Lisan al-Gaib! Lisan al-Gaib!
+
+1075
+02:04:40,935 --> 02:04:42,235
+Mahdi.
+
+1076
+02:04:42,540 --> 02:04:43,975
+<i>Lisan al-Gaib!</i>
+
+1077
+02:04:48,135 --> 02:04:50,345
+{\an8}<font color="#ffff00">Trong ác mộng của ông.</font>
+
+1078
+02:04:50,645 --> 02:04:52,645
+{\an8}<font color="#ffff00">Ông đưa nước cho người chết.</font>
+
+1079
+02:04:52,935 --> 02:04:55,685
+{\an8}<font color="#ffff00">Và việc đó làm lòng ông vui vẻ.</font>
+
+1080
+02:04:56,254 --> 02:04:58,122
+<i>Muad'Dib.</i>
+
+1081
+02:05:03,905 --> 02:05:06,495
+{\an8}<font color="#ffff00">Mahdi, ngài thấy trước điều gì
+cho chúng tôi?</font>
+
+1082
+02:05:08,115 --> 02:05:10,495
+{\an8}<font color="#ffff00">Thiên Đường xanh.</font>
+
+1083
+02:05:11,825 --> 02:05:13,665
+{\an8}<font color="#ffff00">Lisan al-Gaib.</font>
+
+1084
+02:05:13,835 --> 02:05:16,415
+{\an8}<font color="#ffff00">Hãy chỉ Đường cho chúng tôi!</font>
+
+1085
+02:05:22,265 --> 02:05:24,335
+Đây là nhẫn ấn công tước
+của cha tôi.
+
+1086
+02:05:34,625 --> 02:05:39,095
+Tôi là Paul Muad'Dib Atreides,
+Công tước của Arrakis.
+
+1087
+02:05:40,485 --> 02:05:42,775
+{\an8}<font color="#ffff00">Bàn Tay Thượng đế
+là nhân chứng của tôi.</font>
+
+1088
+02:05:43,195 --> 02:05:45,735
+{\an8}<font color="#ffff00">Tôi là Giọng Nói
+từ Thế Giới Bên Ngoài.</font>
+
+1089
+02:05:45,985 --> 02:05:47,285
+{\an8}<font color="#ffff00">Tôi sẽ dẫn dắt các bạn.</font>
+
+1090
+02:05:47,485 --> 02:05:48,385
+{\an8}<font color="#ffff00">Đến THIÊN ĐƯỜNG!</font>
+
+1091
+02:05:49,095 --> 02:05:50,035
+<i>Lisan al-Gaib!</i>
+
+1092
+02:05:50,135 --> 02:05:56,605
+<i>Lisan al-Gaib!</i> <i>Lisan al-Gaib!</i>
+
+1093
+02:05:56,948 --> 02:05:59,650
+<i>Lisan al-Gaib!</i> <i>Lisan al-Gaib!</i>
+
+1094
+02:05:59,684 --> 02:06:02,653
+<i>Lisan al-Gaib!</i> <i>Lisan al-Gaib!</i>
+
+1095
+02:06:02,687 --> 02:06:05,957
+<i>Lisan al-Gaib!</i> <i>Lisan al-Gaib!</i>
+
+1096
+02:06:05,990 --> 02:06:09,160
+<i>Lisan al-Gaib!</i> <i>Lisan al-Gaib!</i>
+
+1097
+02:06:09,193 --> 02:06:10,628
+<i>Lisan al-Gaib!</i> <i>Lisan al-Gaib!</i>
+
+1098
+02:06:47,865 --> 02:06:50,135
+Paul Atreides còn sống.
+
+1099
+02:06:51,895 --> 02:06:53,395
+Anh ta thách thức cha con.
+
+1100
+02:06:54,865 --> 02:06:56,635
+Con chưa từng đến Arrakis.
+
+1101
+02:06:58,105 --> 02:06:59,985
+Nó khá ấn tượng đấy. Con sẽ thấy.
+
+1102
+02:07:00,145 --> 02:07:01,585
+Việc này do ngài khuyên à?
+
+1103
+02:07:01,685 --> 02:07:02,645
+Sao?
+
+1104
+02:07:03,835 --> 02:07:06,815
+Ngài đã cố vấn cho cha con
+diệt trừ nhà Atreides à?
+
+1105
+02:07:06,915 --> 02:07:10,255
+Dĩ nhiên là ta. Nếu không vì sao
+xảy ra việc đó chứ?
+
+1106
+02:07:10,405 --> 02:07:12,655
+Ngài đã hy sinh cả một dòng dõi.
+
+1107
+02:07:12,755 --> 02:07:14,415
+Và ta đã đúng khi làm thế.
+
+1108
+02:07:15,085 --> 02:07:20,035
+Kwisatz Haderach là một dạng sức mạnh
+mà thế giới chúng ta chưa từng thấy.
+
+1109
+02:07:20,725 --> 02:07:22,465
+Sức mạnh cao nhất.
+
+1110
+02:07:23,315 --> 02:07:26,535
+Chúng ta đã giám sát
+nhà Atreides qua 90 thế hệ.
+
+1111
+02:07:26,865 --> 02:07:29,865
+Họ có triển vọng, nhưng trở nên
+bướng bỉnh đầy nguy hiểm.
+
+1112
+02:07:29,975 --> 02:07:32,455
+Phải diệt trừ dòng dõi của họ.
+
+1113
+02:07:33,615 --> 02:07:35,805
+Đó là lý do chúng ta tiến hành
+với nhiều dòng dõi.
+
+1114
+02:07:35,945 --> 02:07:36,975
+Nhiều triển vọng.
+
+1115
+02:07:37,275 --> 02:07:38,445
+Nhưng đã phản tác dụng.
+
+1116
+02:07:38,675 --> 02:07:40,005
+Paul còn sống.
+
+1117
+02:07:40,215 --> 02:07:42,085
+Và nếu anh ta thắng
+Feyd-Rautha, cha của con...
+
+1118
+02:07:42,185 --> 02:07:45,125
+Cha con sẽ mất ngai vàng,
+bất kể ai thắng.
+
+1119
+02:07:46,675 --> 02:07:49,425
+Nhưng có một cách để gia tộc con
+tiếp tục nắm quyền,
+
+1120
+02:07:49,605 --> 02:07:52,805
+và, thông qua con,
+chúng ta tiếp tục là người quản lý.
+
+1121
+02:07:53,995 --> 02:07:55,745
+Một. Cách.
+
+1122
+02:07:56,465 --> 02:07:57,645
+Con chuẩn bị chưa?
+
+1123
+02:07:58,995 --> 02:08:01,705
+Ngài đã chuẩn bị cho con cả đời,
+thưa Mẹ Chí tôn.
+
+1124
+02:08:04,115 --> 02:08:05,865
+Cháu sẽ Bắc tiến
+với những người khác à?
+
+1125
+02:08:06,335 --> 02:08:07,635
+Tôi là lính Fedaykin.
+
+1126
+02:08:08,305 --> 02:08:10,775
+Tôi theo chỉ huy.
+Nếu đánh ở miền Bắc, tôi đến đó.
+
+1127
+02:08:11,405 --> 02:08:12,345
+Paul không có lựa chọn, Chani.
+
+1128
+02:08:12,445 --> 02:08:14,135
+Tôi không chiến đấu vì anh ấy.
+
+1129
+02:08:15,115 --> 02:08:16,415
+Tôi chiến đấu cho dân tôi.
+
+1130
+02:08:20,355 --> 02:08:22,195
+Ta đến chúc cháu may mắn.
+
+1131
+02:08:23,525 --> 02:08:24,885
+Tôi tính chúc bà tương tự...
+
+1132
+02:08:26,925 --> 02:08:28,495
+nhưng có vẻ
+bà đã thắng trận của bà.
+
+1133
+02:08:51,865 --> 02:08:53,165
+Ông ta đã cắn câu.
+
+1134
+02:08:59,855 --> 02:09:01,795
+Hoàng đế rất sốt sắng.
+
+1135
+02:09:02,945 --> 02:09:04,395
+Ông ta đến đúng lúc lắm.
+
+1136
+02:09:05,605 --> 02:09:07,465
+{\an8}<font color="#ffff00">Như cậu đã thấy trước, Muad'Dib.</font>
+
+1137
+02:09:09,815 --> 02:09:11,615
+{\an8}<font color="#ffff00">Một cơn bão cỡ bà cố.</font>
+
+1138
+02:09:37,915 --> 02:09:39,795
+Ông ta làm gì ở đây?
+
+1139
+02:09:39,895 --> 02:09:42,005
+Cháu đã kiểm soát được
+sản lượng hương dược.
+
+1140
+02:09:45,325 --> 02:09:46,485
+Ta làm gì đây?
+
+1141
+02:09:47,905 --> 02:09:50,095
+Gửi tin cho các Đại Gia tộc.
+
+1142
+02:09:50,845 --> 02:09:53,855
+Bảo họ là Arrakis
+bị quân Sardaukar tấn công.
+
+1143
+02:09:55,105 --> 02:09:57,585
+Bảo họ, tương lai của họ
+đang bấp bênh.
+
+1144
+02:10:22,135 --> 02:10:24,375
+{\an8}<font color="#ffff00">Ông ta đem hết quân đến.</font>
+
+1145
+02:10:24,945 --> 02:10:26,705
+Khi cơn bão đến ngọn núi này,
+
+1146
+02:10:27,485 --> 02:10:29,405
+Gurney sẽ mở đường cho ông, Stilgar,
+
+1147
+02:10:29,985 --> 02:10:32,125
+để ông vào bồn địa từ phía tây
+
+1148
+02:10:32,575 --> 02:10:34,625
+và thu hút quân phòng thủ của chúng.
+
+1149
+02:10:35,185 --> 02:10:38,515
+Chani, anh muốn em và quân Fedaykin
+sau đó đánh từ phía đông
+
+1150
+02:10:38,955 --> 02:10:40,505
+tiến vào bồn địa.
+
+1151
+02:10:41,025 --> 02:10:42,985
+Tôi sẽ đánh từ phía bắc, trực diện
+
+1152
+02:10:43,465 --> 02:10:44,945
+cùng quân của phe Chính thống.
+
+1153
+02:10:45,415 --> 02:10:47,615
+Và tôi tấn công Arrakeen
+làm món tráng miệng.
+
+1154
+02:10:48,135 --> 02:10:50,305
+Nhớ, tôi muốn Hoàng đế còn sống.
+
+1155
+02:10:51,875 --> 02:10:54,425
+{\an8}<font color="#ffff00">Các chiến sĩ muôn năm!</font>
+
+1156
+02:11:59,705 --> 02:12:01,365
+Nam tước,
+
+1157
+02:12:02,245 --> 02:12:05,975
+ông có biết cái tên
+Muad'Dib này là ai không?
+
+1158
+02:12:07,115 --> 02:12:10,015
+Kẻ điên loạn nào đó, thưa Bệ hạ.
+Chúng thần chỉ biết thế.
+
+1159
+02:12:10,115 --> 02:12:12,055
+Thêm nữa. Cho ta biết thêm.
+
+1160
+02:12:12,155 --> 02:12:13,255
+Hắn là kẻ điên.
+
+1161
+02:12:13,615 --> 02:12:15,615
+- Điên à?
+- Dân Fremen đều điên.
+
+1162
+02:12:17,955 --> 02:12:19,625
+Ông chỉ biết có vậy ư?
+
+1163
+02:12:19,725 --> 02:12:20,725
+Thật sao?
+
+1164
+02:12:21,905 --> 02:12:23,385
+Muad'Dib đã chết.
+
+1165
+02:12:25,905 --> 02:12:28,851
+Hoặc hắn trốn trong
+các cơn bão phía nam,
+
+1166
+02:12:28,951 --> 02:12:30,075
+cũng giống như chết thôi.
+
+1167
+02:12:30,325 --> 02:12:31,375
+{\an8}<font color="#ffff00">Họ nói sự thật.</font>
+
+1168
+02:12:31,475 --> 02:12:32,575
+Thưa Bệ hạ,
+
+1169
+02:12:33,035 --> 02:12:36,095
+cơn bão cát đang đến gần,
+đe doạ sự nguyên vẹn của các tấm chắn.
+
+1170
+02:12:37,035 --> 02:12:38,945
+Chúng thần đề nghị trở lại quỹ đạo.
+
+1171
+02:12:39,045 --> 02:12:41,015
+Dãy núi sẽ bảo vệ ta khỏi cơn bão,
+
+1172
+02:12:42,045 --> 02:12:43,245
+thưa Bệ hạ.
+
+1173
+02:12:45,055 --> 02:12:48,395
+Nam tước, ông đã bao giờ điều tra
+
+1174
+02:12:49,225 --> 02:12:51,645
+các khu vực phía nam của Arrakis chưa?
+
+1175
+02:12:52,725 --> 02:12:56,935
+Toàn bộ vùng đó không thể ở được.
+Ai cũng biết thế, thưa Bệ hạ.
+
+1176
+02:12:58,065 --> 02:13:00,905
+Miền Nam không ở được của ông
+
+1177
+02:13:02,345 --> 02:13:04,815
+có những chứng cứ
+về hoạt động của con người.
+
+1178
+02:13:05,355 --> 02:13:06,705
+Thần không biết việc đó.
+
+1179
+02:13:07,645 --> 02:13:10,175
+Thần thề với ngài,
+thần không biết việc này.
+
+1180
+02:13:15,185 --> 02:13:16,615
+Muad'Dib còn sống.
+
+1181
+02:13:17,945 --> 02:13:19,145
+Ta phải tìm ra hắn.
+
+1182
+02:14:35,055 --> 02:14:36,495
+{\an8}<font color="#ffff00">Các chiến sĩ muôn năm!</font>
+
+1183
+02:14:39,735 --> 02:14:41,235
+Bắn!
+
+1184
+02:15:20,905 --> 02:15:23,375
+Quân Sardaukar! Cảnh giác!
+
+1185
+02:19:37,365 --> 02:19:38,365
+Sardaukar!
+
+1186
+02:20:43,645 --> 02:20:44,995
+Ông ngoại.
+
+1187
+02:21:07,125 --> 02:21:08,725
+Ông chết như một con vật.
+
+1188
+02:21:39,955 --> 02:21:40,905
+Muad'Dib.
+
+1189
+02:21:42,525 --> 02:21:44,865
+{\an8}<font color="#ffff00">Đưa tù binh đến Thái ấp.</font>
+
+1190
+02:21:45,695 --> 02:21:47,895
+{\an8}<font color="#ffff00">Giết quân Sardaukar.</font>
+
+1191
+02:21:50,425 --> 02:21:52,955
+{\an8}<font color="#ffff00">Quăng xác Nam tước vào sa mạc.</font>
+
+1192
+02:22:02,175 --> 02:22:03,365
+Muad'Dib!
+
+1193
+02:22:03,465 --> 02:22:08,115
+Muad'Dib! Muad'Dib! Muad'Dib!
+
+1194
+02:23:10,675 --> 02:23:11,775
+Rabban!
+
+1195
+02:23:22,885 --> 02:23:24,655
+Xem ai về từ cõi chết kìa.
+
+1196
+02:23:38,955 --> 02:23:42,295
+Vì Công tước của ta, và bạn bè ta.
+
+1197
+02:24:47,925 --> 02:24:48,955
+Tàu chiến.
+
+1198
+02:24:51,345 --> 02:24:52,445
+Các Đại Gia tộc.
+
+1199
+02:24:54,015 --> 02:24:56,415
+Gurney, đến lúc rồi. Đưa tù binh ra.
+
+1200
+02:24:56,515 --> 02:24:57,555
+Chúa công.
+
+1201
+02:25:23,905 --> 02:25:25,075
+Chuyện này chưa xong đâu.
+
+1202
+02:25:31,155 --> 02:25:32,385
+Anh muốn em biết là...
+
+1203
+02:25:35,325 --> 02:25:37,325
+anh sẽ yêu em đến khi nào còn thở.
+
+1204
+02:25:49,535 --> 02:25:52,005
+Cả một hạm đội khổng lồ
+trên quỹ đạo.
+
+1205
+02:25:55,405 --> 02:25:58,135
+Các ngươi đang đối mặt
+xâm lăng toàn diện, dân Fremen à.
+
+1206
+02:25:59,215 --> 02:26:02,315
+Sao ông có thể chắc chắn
+các Đại Gia tộc đến vì tôi?
+
+1207
+02:26:08,275 --> 02:26:11,725
+Có thể họ tò mò muốn nghe
+câu chuyện từ phía tôi chăng?
+
+1208
+02:26:12,695 --> 02:26:17,265
+Tôi là Paul Atreides, con trai
+của Leto Atreides, Công tước Arrakis.
+
+1209
+02:26:18,965 --> 02:26:20,435
+- Gurney.
+- Chúa công.
+
+1210
+02:26:20,545 --> 02:26:22,435
+Gửi lời cảnh báo cho tất cả tàu.
+
+1211
+02:26:22,715 --> 02:26:23,930
+Các Đại Gia tộc mà tấn công,
+
+1212
+02:26:24,227 --> 02:26:27,088
+bom nguyên tử của ta
+sẽ huỷ sạch các bãi hương dược.
+
+1213
+02:26:28,595 --> 02:26:31,015
+- Ngươi mất trí rồi.
+- Hắn lừa bịp thôi.
+
+1214
+02:26:31,115 --> 02:26:33,015
+Hãy cân nhắc việc ngươi sắp làm,
+Paul Atreides.
+
+1215
+02:26:33,115 --> 02:26:34,665
+Câm miệng!
+
+1216
+02:26:38,035 --> 02:26:39,535
+Thứ kinh tởm.
+
+1217
+02:26:43,325 --> 02:26:44,895
+Đã gửi tin, Chúa công.
+
+1218
+02:26:46,925 --> 02:26:50,585
+Là bầy tôi của Đế quốc,
+ngươi sẽ quỳ dưới chân ta.
+
+1219
+02:26:50,685 --> 02:26:54,195
+Chân ông à?
+Ông còn giữ được đầu là may rồi.
+
+1220
+02:26:57,445 --> 02:26:59,075
+Tôi sẽ kết hôn với con gái ông.
+
+1221
+02:27:01,555 --> 02:27:03,055
+Cô ấy sẽ an toàn.
+
+1222
+02:27:03,685 --> 02:27:06,225
+Và chúng tôi sẽ cùng cai trị đế quốc.
+
+1223
+02:27:15,865 --> 02:27:16,855
+Nhưng ông...
+
+1224
+02:27:20,025 --> 02:27:21,595
+Ông sẽ phải trả lời với cha tôi.
+
+1225
+02:27:29,265 --> 02:27:33,005
+Ngươi biết vì sao
+ta giết cha ngươi không?
+
+1226
+02:27:34,275 --> 02:27:38,245
+Vì ông ta là kẻ tin vào
+những phép tắc của trái tim.
+
+1227
+02:27:39,665 --> 02:27:41,565
+Nhưng cai trị
+thì không cần trái tim.
+
+1228
+02:27:43,115 --> 02:27:44,155
+Nói cách khác,
+
+1229
+02:27:46,605 --> 02:27:50,275
+cha ngươi là một kẻ yếu đuối.
+
+1230
+02:27:59,295 --> 02:28:02,335
+Đứng ra hoặc chọn
+đấu sĩ của mình đi.
+
+1231
+02:28:05,125 --> 02:28:06,555
+Ta ở đây, Atreides.
+
+1232
+02:28:09,175 --> 02:28:10,415
+Tôi cần một thanh kiếm.
+
+1233
+02:28:10,815 --> 02:28:12,445
+Hãy dùng của ta.
+
+1234
+02:28:24,095 --> 02:28:26,655
+Đừng làm bẩn tay ngài
+vì con vật này.
+
+1235
+02:28:27,055 --> 02:28:28,395
+Cứ để tôi xử lý hắn.
+
+1236
+02:28:28,495 --> 02:28:30,225
+Đây là trách nhiệm của tôi, Gurney.
+
+1237
+02:28:48,745 --> 02:28:50,725
+Tại sao ngài ấy
+chấp nhận rủi ro như vậy?
+
+1238
+02:28:51,285 --> 02:28:53,585
+Muad'Dib dẫn đường.
+
+1239
+02:29:17,445 --> 02:29:20,905
+Ta vui khi cuối cùng cũng
+gặp ngươi, ông anh họ.
+
+1240
+02:29:22,185 --> 02:29:25,015
+Anh họ à? Có phải thế không?
+
+1241
+02:29:27,285 --> 02:29:32,195
+Chà, ngươi sẽ không phải
+thân thích đầu tiên mà ta giết.
+
+1242
+02:29:34,795 --> 02:29:37,635
+Cầu cho con dao của ngươi
+sứt mẻ và vỡ tan.
+
+1243
+02:30:36,015 --> 02:30:37,625
+Cô ta là thú cưng của ngươi à?
+
+1244
+02:30:53,845 --> 02:30:57,205
+Có sự chú ý đặc biệt nào
+cho thú cưng chứ?
+
+1245
+02:32:23,935 --> 02:32:25,835
+Ngươi đánh tốt lắm, tên Atreides.
+
+1246
+02:32:33,575 --> 02:32:35,175
+- Lisan al-Gaib.
+- Lisan al-Gaib.
+
+1247
+02:32:35,275 --> 02:32:41,845
+Lisan al-Gaib! Lisan al-Gaib!
+
+1248
+02:33:30,035 --> 02:33:31,555
+<i>Lẽ ra bà nên tin.</i>
+
+1249
+02:33:32,765 --> 02:33:34,405
+<i>Bà đã chọn sai phe.</i>
+
+1250
+02:33:35,595 --> 02:33:36,445
+<i>Phe à?</i>
+
+1251
+02:33:37,405 --> 02:33:39,425
+<i>Con, hơn ai hết, nên biết chứ.</i>
+
+1252
+02:33:40,505 --> 02:33:44,675
+<i>Không có phe nào cả,</i> <i>Mẹ Chí tôn ạ.</i>
+
+1253
+02:34:04,065 --> 02:34:05,895
+Món nợ sự sống đã được trả.
+
+1254
+02:34:05,995 --> 02:34:07,915
+Hãy tha cho cha tôi
+và tôi sẽ là cô dâu của ngài.
+
+1255
+02:34:08,015 --> 02:34:09,555
+Ngai vàng sẽ là của ngài.
+
+1256
+02:35:41,965 --> 02:35:45,115
+Chúa công,
+các Đại Gia tộc đã trả lời.
+
+1257
+02:35:45,565 --> 02:35:47,465
+Họ không chịu
+sự nắm quyền của ngài.
+
+1258
+02:35:48,965 --> 02:35:52,105
+Chúng tôi chờ lệnh ngài,
+Lisan al-Gaib.
+
+1259
+02:36:01,185 --> 02:36:04,655
+- Dẫn họ đến Thiên đường.
+- Lisan al-Gaib!
+
+1260
+02:36:04,755 --> 02:36:11,255
+Lisan al-Gaib!
+Lisan al-Gaib! Lisan al-Gaib!
+
+1261
+02:36:21,965 --> 02:36:25,635
+Lisan al-Gaib!
+Lisan al-Gaib! Lisan al-Gaib!
+
+1262
+02:36:34,445 --> 02:36:36,095
+<i>Chuyện gì vậy, mẹ ơi?</i>
+
+1263
+02:36:38,045 --> 02:36:40,405
+Anh của con tấn công các Đại Gia tộc.
+
+1264
+02:36:44,095 --> 02:36:46,545
+Thánh Chiến bắt đầu.
+
+1265
+02:36:47,325 --> 02:36:58,245
+<font color="#f2698b">♥ Yêu súp ngon, chuẩn, mượt ♥ Yêu BimBip Subteam ♥</font>
+<font color="#f2698b">♥ Fanpage: Nấu Súp Cùng Bìm Bịp ♥</font>
+
+1266
+02:37:08,076 --> 02:37:23,256
+Phụ đề tiếng Việt được thực hiện bởi:
+<font color="#00ffff">mochioka - MCUDISVN - MP12365</font>
+<font color="#ffff00">FB.com/groups/mcudisvn</font>
+
