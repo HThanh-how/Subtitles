@@ -1,7 +1,5 @@
 
 # Media files
-*.srt
-*.ass
 
 # Python cache
 __pycache__/
