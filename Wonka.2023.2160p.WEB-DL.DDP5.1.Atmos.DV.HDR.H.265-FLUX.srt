@@ -1,0 +1,10099 @@
+1
+00:00:02,117 --> 00:00:15,753
+Phụ đề tiếng Việt được thực hiện bởi:
+<font color="#00ffff">MP12365 - MCUDISVN</font>
+<font color="#ffff00">FB.com/groups/mcudisvn</font>
+
+2
+00:01:23,110 --> 00:01:28,160
+<i><font color="#00ffff">♪ After seven years of life upon the ocean ♪</font>
+Bảy năm sống cùng đại dương đã trôi qua </i>
+
+3
+00:01:28,290 --> 00:01:32,460
+<i><font color="#00ffff">♪ It is time to bid the Seven Seas farewell ♪</font>
+Đã đến lúc nói lời tạm biệt đến bảy đại dương rồi</i>
+
+4
+00:01:33,540 --> 00:01:35,590
+<i><font color="#00ffff">♪ And the city I've pinned ♪</font>
+<i>Và thành phố nơi tôi gửi gắm</i></i>
+
+5
+00:01:35,615 --> 00:01:38,225
+<i><font color="#00ffff">♪ seven years of hopes on ♪</font>
+<i>hy vọng suốt bảy năm qua</i></i>
+
+6
+00:01:38,618 --> 00:01:41,316
+<i><font color="#00ffff">♪ Lies just over the horizon ♪</font>
+Đã ngay đây nơi phía đường chân trời</i>
+
+7
+00:01:41,586 --> 00:01:43,970
+<i><font color="#00ffff">♪ I can hear the harbor bell ♪</font>
+Tôi có thể nghe thấy tiếng chuông nơi bến cảng</i>
+
+8
+00:01:45,659 --> 00:01:47,849
+<i><font color="#00ffff">♪ Land, ahoy ♪</font>
+<i>Vào bờ thôi nào!</i></i>
+
+9
+00:01:53,869 --> 00:01:55,889
+<i><font color="#00ffff">♪ Got a tattered overcoat ♪</font>
+<i>Mặc một chiếc áo khoác rách</i></i>
+
+10
+00:01:55,914 --> 00:01:58,130
+<i><font color="#00ffff">♪ and battered suitcase ♪</font>
+<i>và xách một cái vali cũ nát </i></i>
+
+11
+00:01:57,735 --> 00:01:58,670
+{\an8}Chào tạm biệt nhé cậu đầu bếp.
+
+12
+00:01:58,695 --> 00:02:02,720
+<i><font color="#00ffff">♪ Got a pair of leaky boots upon my feet ♪</font>
+Mang trên chân một đôi ủng bị thủng</i>
+
+13
+00:02:02,280 --> 00:02:03,320
+{\an8}Xin lỗi nhé, cậu đầu bếp!
+
+14
+00:02:03,450 --> 00:02:05,282
+<i><font color="#00ffff">♪ Gotta drag myself up ♪</font>
+Phải tự nỗ lực hơn nữa</i>
+
+15
+00:02:05,307 --> 00:02:07,637
+<i><font color="#00ffff">♪ by my one good bootlace ♪</font>
+Dù rằng chỉ còn một sợi dây giày</i>
+
+16
+00:02:07,950 --> 00:02:10,410
+<i><font color="#00ffff">♪ Gotta work my rotten socks off ♪</font>
+Phải làm việc thật chăm chỉ đến thối cả vớ</i>
+
+17
+00:02:10,435 --> 00:02:12,805
+<i><font color="#00ffff">♪ If I want to make ends meet ♪</font>
+Nếu tôi muốn có một cuộc sống tốt đẹp</i>
+
+18
+00:02:13,082 --> 00:02:14,552
+<i><font color="#00ffff">♪ I've poured еverything ♪</font>
+<i>Tôi đã dồn tất cả</i></i>
+
+19
+00:02:14,577 --> 00:02:16,977
+<i><font color="#00ffff">♪ I've got into my chocolate ♪</font>
+<i> tâm huyết vào sô-cô-la của mình</i></i>
+
+20
+00:02:17,619 --> 00:02:21,313
+<i><font color="#00ffff">♪ Now it's timе to show the world my recipes ♪</font>
+Giờ là lúc để thế giới thấy thành quả của tôi</i>
+
+21
+00:02:21,460 --> 00:02:22,579
+Chúc may mắn nhé, Willy!
+
+22
+00:02:22,604 --> 00:02:26,744
+<i><font color="#00ffff">♪ I've got twelve silver sovereigns in my pocket ♪</font>
+Tôi đã có 12 đồng trong túi của mình</i>
+
+23
+00:02:26,769 --> 00:02:27,510
+Tạm biệt nhé, cậu đầu bếp!
+
+24
+00:02:27,550 --> 00:02:31,430
+<i><font color="#00ffff">♪ And a hatful of dreams ♪</font>
+Và một giấc mơ ấp ủ trong tôi</i>
+
+25
+00:02:39,570 --> 00:02:41,520
+<i><font color="#00ffff">♪ There's a famous restaurant ♪</font>
+<i>Những nhà hàng nổi tiếng</i></i>
+
+26
+00:02:41,540 --> 00:02:43,900
+<i><font color="#00ffff">♪ on every street here ♪</font>
+<i>trên mỗi con đường nơi đây</i></i>
+
+27
+00:02:44,030 --> 00:02:47,590
+<i><font color="#00ffff">♪ There's Brandino's and the Bar Parisian ♪</font>
+Đây là tiệm Brandino và quán bar Parisienne</i>
+
+28
+00:02:47,610 --> 00:02:49,055
+- Bản đồ nhà hàng nhé, thưa ngài?
+- Cám ơn anh.
+
+29
+00:02:49,140 --> 00:02:51,510
+<i><font color="#00ffff">♪ Got a little map to tell me ♪</font>
+<i>Một bản đồ nhỏ chỉ cho tôi biết</i></i>
+
+30
+00:02:51,530 --> 00:02:53,340
+<i><font color="#00ffff">♪ where to eat here ♪</font>
+<i>ta sẽ ăn ở nơi nào</i></i>
+
+31
+00:02:53,790 --> 00:02:55,985
+<i><font color="#00ffff">♪ Had a dozen silver sovereigns ♪</font>
+Từ 12 đồng</i>
+
+32
+00:02:56,040 --> 00:02:58,250
+<i><font color="#00ffff">♪ Now I'm somehow down to ten ♪</font>
+Nhưng giờ chỉ còn lại 10 đồng</i>
+
+33
+00:02:58,746 --> 00:03:00,540
+<i><font color="#00ffff">♪ Want the finest produce? ♪</font>
+<i>Muốn những trái tươi ngon nhất ư?</i></i>
+
+34
+00:03:00,571 --> 00:03:02,280
+<i><font color="#00ffff">♪ This is where they stock it ♪</font>
+<i> Ở đây họ có đủ cả</i></i>
+
+35
+00:03:02,360 --> 00:03:03,630
+Trái đó 3 đồng, anh bạn.
+
+36
+00:03:03,660 --> 00:03:06,990
+<i><font color="#00ffff">♪Though the prices are suspiciously extreme ♪</font>
+<i>Dù vậy thì giá của chúng rất là cao đấy</i></i>
+
+37
+00:03:07,010 --> 00:03:08,410
+Cậu làm bể bí ngô,
+thì phải trả tiền thôi.
+
+38
+00:03:08,450 --> 00:03:10,040
+<i><font color="#00ffff">♪ I've got... five, six, seven? ♪</font>
+<i>Tôi chỉ còn... 5, 6, 7...</i></i>
+
+39
+00:03:12,196 --> 00:03:16,149
+<i><font color="#00ffff">♪ Six silver sovereigns in my pocket ♪</font>
+<i>6 đồng trong túi</i></i>
+
+40
+00:03:16,790 --> 00:03:20,649
+<i><font color="#00ffff">♪ And a hatful of dreams ♪</font>
+<i>Và một giấc mơ ấp ủ trong tôi</i></i>
+
+41
+00:03:20,884 --> 00:03:22,572
+- Chải áo khoác nhé, thưa ngài?
+- Không, cảm ơn.
+
+42
+00:03:22,597 --> 00:03:24,283
+- Nước hoa nhé?
+- Không. Để tôi yên.
+
+43
+00:03:26,305 --> 00:03:27,700
+<i><font color="#00ffff">♪ At last, ♪</font>
+<i>Cuối cùng cũng đã đến...</i></i>
+
+44
+00:03:27,780 --> 00:03:29,990
+<i><font color="#00ffff">♪ the Gallery Gourmet ♪</font>
+<i>Thiên Đường Thượng Lưu</i></i>
+
+45
+00:03:30,177 --> 00:03:31,716
+{\an8}SLUGWORTH
+Sô-cô-la đặc biệt
+
+46
+00:03:31,345 --> 00:03:35,020
+<i><font color="#00ffff">♪ I knew that we'd see it one day ♪</font>
+<i>Tôi biết rằng một ngày nào đó ta sẽ thấy nó</i></i>
+
+47
+00:03:34,134 --> 00:03:36,048
+{\an8}Sô-cô-la tốt nhất
+Fickelgruber
+
+48
+00:03:36,219 --> 00:03:38,141
+Tất cả giống như
+những gì mẹ đã nói, mẹ ạ.
+
+49
+00:03:38,530 --> 00:03:41,000
+<i><font color="#00ffff">♪ And, oh, so much more ♪</font>
+<i>Và còn nhiều hơn thế nữa</i></i>
+
+50
+00:03:41,207 --> 00:03:42,574
+<i><font color="#00ffff">♪ Each way that you turn ♪</font> </i>
+<i>Mỗi ngã rẽ bạn đi qua</i>
+
+51
+00:03:42,599 --> 00:03:45,371
+<i><font color="#00ffff">♪ Another famous chocolate store ♪</font>
+là thêm một cửa hàng sô-cô-la nổi tiếng khác</i>
+
+52
+00:03:45,396 --> 00:03:46,910
+<i><font color="#00ffff">♪ Here's my destiny ♪</font>
+<i>Đây chính là định mệnh của tôi</i></i>
+
+53
+00:03:46,935 --> 00:03:49,220
+<i><font color="#00ffff">♪ I just need to unlock it ♪</font>
+<i>Tôi chỉ cần mở nó ra mà thôi</i></i>
+
+54
+00:03:50,066 --> 00:03:51,986
+<i><font color="#00ffff">♪ Will I crash and burn ♪</font>
+<i>Liệu rằng tôi sẽ vỡ vụn và bùng cháy</i></i>
+
+55
+00:03:52,011 --> 00:03:54,808
+<i><font color="#00ffff">♪ Or go up like a rocket? ♪</font>
+<i>Hay là bay vút lên cao như một quả tên lửa?</i></i>
+
+56
+00:03:54,833 --> 00:03:57,527
+<i><font color="#00ffff">♪ I got nothing to offer ♪</font>
+<i>Tôi chẳng có gì để tặng bạn...</i></i>
+
+57
+00:03:57,552 --> 00:03:59,290
+<i><font color="#00ffff">♪ but my chocolate ♪</font>
+<i>ngoài sô-cô-la của tôi</i></i>
+
+58
+00:03:59,980 --> 00:04:06,360
+<i><font color="#00ffff">♪ And a hatful of dreams ♪</font>
+Và một giấc mơ được ấp ủ</i>
+
+59
+00:04:11,713 --> 00:04:13,948
+TƯNG BỪNG KHAI TRƯƠNG
+WONKA
+
+60
+00:04:18,244 --> 00:04:21,336
+{\an8}CHO THUÊ
+ĐỪNG CÓ MƠ MỘNG - PHẠT 3 ĐỒNG
+
+61
+00:04:18,700 --> 00:04:19,690
+Không có mơ mộng.
+
+62
+00:04:27,340 --> 00:04:31,680
+<i><font color="#00ffff">♪ In this city, anyone can be successful ♪</font>
+Ở thành phố này, ai cũng có thể thành công</i>
+
+63
+00:04:32,430 --> 00:04:34,890
+<i><font color="#00ffff">♪ If they've talent and work hard ♪</font>
+Chỉ cần có tài năng và chăm chỉ</i>
+
+64
+00:04:34,927 --> 00:04:36,527
+<i><font color="#00ffff">♪ Or so they say ♪</font>
+Hoặc đó chỉ là họ nói thế</i>
+
+65
+00:04:37,610 --> 00:04:39,510
+<i><font color="#00ffff">♪ But they didn't mention ♪</font>
+Nhưng họ đã không nói rằng</i>
+
+66
+00:04:39,530 --> 00:04:42,020
+<i><font color="#00ffff">♪ It would be so stressful
+Chuyện này thật sự rất khó khăn</font></i>
+
+67
+00:04:42,720 --> 00:04:45,500
+<i><font color="#00ffff">♪Just to make a dozen silver sovereigns ♪</font>
+Làm sao chỉ với 12 đồng</i>
+
+68
+00:04:45,930 --> 00:04:47,980
+<i><font color="#00ffff">♪ Last more than a day ♪</font>
+Có thể sống được cả ngày dài</i>
+
+69
+00:04:50,140 --> 00:04:53,020
+Anh có thể giúp tôi 1 đồng
+để có thể tìm một chỗ ngủ không?
+
+70
+00:04:53,360 --> 00:04:54,070
+Tất nhiên rồi.
+
+71
+00:04:54,750 --> 00:04:56,670
+Đây. Cô cần bao nhiêu cứ lấy.
+
+72
+00:04:57,532 --> 00:04:58,330
+Cảm ơn anh.
+
+73
+00:04:59,020 --> 00:05:03,830
+<i><font color="#00ffff">♪ I've got one silver sovereign in my pocket ♪</font>
+Tôi còn 1 đồng ở trong ví của mình</i>
+
+74
+00:05:13,839 --> 00:05:19,999
+<i><font color="#00ffff">♪ And a hatful of dreams ♪</font>
+Và một giấc mơ ấp ủ trong tôi</i>
+
+75
+00:05:41,746 --> 00:05:42,646
+Được rồi.
+
+76
+00:05:43,460 --> 00:05:45,510
+Đến lúc làm 1 ly
+trước khi đi ngủ thôi nào.
+
+77
+00:05:57,150 --> 00:05:57,870
+Chào nhóc.
+
+78
+00:05:59,090 --> 00:06:01,420
+Này. Dừng lại.
+Thôi đi nào.
+
+79
+00:06:01,710 --> 00:06:03,110
+Dừng lại, đi chỗ khác đi!
+
+80
+00:06:03,280 --> 00:06:04,370
+Đi đi!
+
+81
+00:06:04,985 --> 00:06:05,415
+Dừng lại!
+
+82
+00:06:05,950 --> 00:06:06,580
+Ngồi xuống.
+
+83
+00:06:08,120 --> 00:06:09,540
+Cho tôi xin lỗi vì con Tiddles nhé.
+
+84
+00:06:10,000 --> 00:06:13,060
+Có vẻ như chân của cậu
+có một mùi gì đó hấp dẫn nó.
+
+85
+00:06:13,440 --> 00:06:14,620
+Chắc là mùi từ chiếc quần này.
+
+86
+00:06:14,880 --> 00:06:16,480
+Tôi lấy chúng từ
+một người đưa thư ở Minsk.
+
+87
+00:06:17,370 --> 00:06:18,180
+Chắc chắn là nó rồi.
+
+88
+00:06:18,480 --> 00:06:22,590
+Tiddles có thể dành cả ngày
+để đuổi theo những nhân viên bưu điện.
+
+89
+00:06:23,010 --> 00:06:24,530
+Đúng không hả, nhóc?
+
+90
+00:06:26,560 --> 00:06:29,070
+Cậu không định nằm ngủ ở đó
+đúng không, con trai?
+
+91
+00:06:29,350 --> 00:06:30,370
+Chỉ một đêm thôi.
+
+92
+00:06:30,977 --> 00:06:33,097
+Thời điểm này vào ngày mai
+tôi dự định sẽ kiếm được khá nhiều tiền.
+
+93
+00:06:33,580 --> 00:06:36,560
+Giờ này vào ngày mai
+thì cậu sẽ là cục nước đá rồi.
+
+94
+00:06:36,904 --> 00:06:38,594
+Buồn cười đấy.
+
+95
+00:06:42,010 --> 00:06:43,800
+Mà có lẽ đúng là
+trời hơi lạnh để cắm trại thật.
+
+96
+00:06:44,445 --> 00:06:46,765
+Nhưng tiếc là tình cảnh của tôi
+hiện không thuê nổi phòng.
+
+97
+00:06:47,495 --> 00:06:50,215
+Rất tiếc khi phải nghe điều đó.
+
+98
+00:06:50,663 --> 00:06:52,103
+Nhưng thật may mắn thay...
+
+99
+00:06:52,655 --> 00:06:55,165
+Tôi biết một người
+có thể giúp cậu chuyện này đấy.
+
+100
+00:06:56,172 --> 00:06:56,822
+Thật chứ?
+
+101
+00:06:57,955 --> 00:07:00,675
+Đến nơi rồi đây, cậu Wonka.
+Ngôi nhà yêu dấu.
+
+102
+00:07:02,780 --> 00:07:05,780
+Bỏ cái chân dơ bẩn của mày
+ra khỏi cửa nhà tao ngay, con chó này.
+
+103
+00:07:06,590 --> 00:07:08,740
+Bleacher, nếu là anh,
+khôn hồn có mang rượu gin cho tôi đấy.
+
+104
+00:07:08,928 --> 00:07:11,628
+Tôi có một thứ còn ngon hơn cả rượu gin,
+bà Scrubitt à.
+
+105
+00:07:13,214 --> 00:07:14,444
+Một vị khách.
+
+106
+00:07:16,932 --> 00:07:19,392
+Chà, sao không nói sớm chứ?
+
+107
+00:07:21,151 --> 00:07:21,781
+Mời cậu vào.
+
+108
+00:07:22,524 --> 00:07:25,602
+Chào mừng cậu đến Scrubitt và Bleacher,
+Nhà khách và Tiệm giặt ủi.
+
+109
+00:07:25,649 --> 00:07:28,836
+Cứ thoải mái như ở nhà,
+và sưởi ấm ở đây nhé.
+
+110
+00:07:29,096 --> 00:07:29,596
+Uống rượu gin nhé?
+
+111
+00:07:30,169 --> 00:07:30,829
+Noodle!
+
+112
+00:07:31,024 --> 00:07:32,407
+Vâng, thưa bà Scrubitt?
+
+113
+00:07:32,446 --> 00:07:34,470
+Bỏ sách xuống và lấy cho vị khách
+của chúng ta 1 ly gin ngay.
+
+114
+00:07:34,930 --> 00:07:36,360
+Vị khách tội nghiệp
+sắp bị đóng băng chết mất.
+
+115
+00:07:36,625 --> 00:07:39,420
+Cám ơn, bà Scrubitt.
+Bà và chồng của bà đã rất tử tế với tôi.
+
+116
+00:07:39,878 --> 00:07:40,728
+Chồng à?
+
+117
+00:07:40,874 --> 00:07:41,614
+Hắn sao?
+
+118
+00:07:42,063 --> 00:07:43,013
+Chồng á.
+
+119
+00:07:43,370 --> 00:07:44,630
+Anh thích lắm, đúng không?
+
+120
+00:07:45,086 --> 00:07:45,615
+Không.
+
+121
+00:07:45,788 --> 00:07:49,658
+Tôi đang chờ đợi một người kiệt xuất hơn
+tên lười biếng nghèo khổ này.
+
+122
+00:07:50,704 --> 00:07:51,544
+Cạn ly nào.
+
+123
+00:07:54,649 --> 00:07:56,782
+Ly này thật sự rất mạnh đấy.
+
+124
+00:07:56,859 --> 00:07:58,094
+Phải, người ta dùng nó
+chạy xe thay xăng đấy.
+
+125
+00:07:58,392 --> 00:08:00,872
+Tôi có thể giúp gì được cho cậu nào?
+Một căn phòng, đúng không?
+
+126
+00:08:01,178 --> 00:08:02,838
+À, đúng vậy, nhưng mà...
+
+127
+00:08:03,440 --> 00:08:07,050
+Cậu Wonka tạm thời
+không có tiền.
+
+128
+00:08:07,868 --> 00:08:09,318
+Ôi trời. Bất ngờ thật đấy.
+
+129
+00:08:09,800 --> 00:08:10,970
+Tôi e rằng đó là sự thật, bà Scrubitt ạ.
+
+130
+00:08:11,390 --> 00:08:13,380
+Nhưng... tất cả những chuyện đó
+sắp thay đổi rồi.
+
+131
+00:08:13,804 --> 00:08:15,084
+- Thế à?
+- Bà có thể thấy...
+
+132
+00:08:15,130 --> 00:08:16,470
+tôi là một ảo thuật gia...
+
+133
+00:08:16,570 --> 00:08:18,310
+nhà phát minh
+và là người làm sô-cô-la.
+
+134
+00:08:18,727 --> 00:08:21,770
+Và sáng mai tại Thiên Đường
+Thượng Lưu, tôi dự định tiết lộ...
+
+135
+00:08:21,790 --> 00:08:23,660
+sáng tạo đáng kinh ngạc nhất của tôi.
+
+136
+00:08:24,890 --> 00:08:27,370
+Hãy sẵn sàng trước sự kinh ngạc
+mà tôi sắp giới thiệu...
+
+137
+00:08:29,789 --> 00:08:30,599
+Một ấm trà?
+
+138
+00:08:30,905 --> 00:08:32,195
+Không, cái này để pha trà.
+
+139
+00:08:32,640 --> 00:08:33,320
+Chờ một chút.
+
+140
+00:08:36,040 --> 00:08:37,530
+Cái này dành cho món canh hầm.
+
+141
+00:08:38,790 --> 00:08:39,850
+Nó ở đâu đó trong này thôi.
+
+142
+00:08:39,990 --> 00:08:42,810
+Đừng lo lắng, cậu Wonka.
+Tôi có thể thấy cậu là người thật thà.
+
+143
+00:08:43,120 --> 00:08:44,780
+Và chúng tôi có
+một thứ dành riêng cho cậu đây.
+
+144
+00:08:44,852 --> 00:08:46,450
+Gói doanh nhân.
+
+145
+00:08:46,770 --> 00:08:48,150
+Giá phòng sẽ là 1 đồng
+cho 1 đêm...
+
+146
+00:08:48,180 --> 00:08:50,050
+nhưng cậu sẽ không phải trả
+cho đến 6 giờ ngày mai.
+
+147
+00:08:50,070 --> 00:08:52,160
+Vậy đã đủ thời gian
+để cậu kiếm được vài xu lẻ rồi chứ?
+
+148
+00:08:52,517 --> 00:08:54,057
+Hơn cả đủ, thưa bà Scrubitt.
+
+149
+00:08:54,360 --> 00:08:54,880
+Cám ơn bà.
+
+150
+00:08:54,979 --> 00:08:58,139
+Đó là điều tối thiểu tôi có thể làm
+cho một người lạ mặt cần giúp đỡ.
+
+151
+00:08:58,193 --> 00:09:00,363
+Giờ thì, ký vào đây
+vậy là xong.
+
+152
+00:09:01,980 --> 00:09:03,050
+Được thôi.
+
+153
+00:09:06,082 --> 00:09:07,472
+Đọc phần ghi chú nhỏ.
+
+154
+00:09:08,280 --> 00:09:09,000
+Sao cơ?
+
+155
+00:09:09,370 --> 00:09:11,630
+Cám ơn nhé, Noodle.
+Hết việc rồi.
+
+156
+00:09:12,730 --> 00:09:13,510
+Cô bé nói gì vậy?
+
+157
+00:09:13,540 --> 00:09:14,820
+- Ai cơ?
+- Bé gái đó.
+
+158
+00:09:15,190 --> 00:09:16,800
+- Bé gái nào?
+- Bé gái đó. Nghe giống như...
+
+159
+00:09:16,845 --> 00:09:18,825
+"Đọc phần ghi chú nhỏ."
+Và dường như đó là...
+
+160
+00:09:18,971 --> 00:09:20,701
+Thỏa thuận
+Điều khoản & Điều kiện
+
+161
+00:09:27,520 --> 00:09:28,800
+Vẫn còn tiếp này.
+
+162
+00:09:29,010 --> 00:09:31,690
+Đừng có nghe con bé Noodle nói.
+Nó bị tổn thương đó mà.
+
+163
+00:09:32,259 --> 00:09:33,009
+Tổn thương?
+
+164
+00:09:33,140 --> 00:09:34,410
+Hội chứng Trẻ mồ côi.
+
+165
+00:09:34,537 --> 00:09:35,557
+Hội chứng Trẻ mồ côi?
+
+166
+00:09:35,659 --> 00:09:36,979
+Hội chứng Trẻ mồ côi.
+
+167
+00:09:37,060 --> 00:09:38,220
+Hội chứng Trẻ mồ côi.
+
+168
+00:09:38,400 --> 00:09:39,550
+Con bé bị bỏ ở chỗ để đồ giặt...
+
+169
+00:09:39,600 --> 00:09:42,500
+khi chỉ là 1 đứa bé, và tôi đã nuôi nấng
+nó vì lòng tốt của tôi...
+
+170
+00:09:42,563 --> 00:09:44,803
+và tôi đã làm hết sức mình, cậu Wonka,
+thật lòng mà nói là thế...
+
+171
+00:09:44,870 --> 00:09:47,120
+nhưng bản chất của con bé
+là luôn nghi ngờ mọi thứ.
+
+172
+00:09:47,370 --> 00:09:49,190
+Ở đâu nó cũng nhìn thấy âm mưu.
+
+173
+00:09:49,600 --> 00:09:50,440
+Tội nghiệp con bé.
+
+174
+00:09:50,500 --> 00:09:51,760
+Tôi hiểu mà.
+
+175
+00:09:51,975 --> 00:09:54,145
+Đây chỉ là những điều khoản tiêu chuẩn...
+
+176
+00:09:54,170 --> 00:09:55,900
+nhưng anh cứ thoải mái xem
+nếu như anh muốn.
+
+177
+00:09:57,590 --> 00:09:58,620
+Tôi sẽ xem nó thật nhanh.
+
+178
+00:10:07,550 --> 00:10:08,960
+Vâng, có vẻ như tất cả đều ổn.
+
+179
+00:10:09,732 --> 00:10:10,372
+Thật sao?
+
+180
+00:10:11,230 --> 00:10:11,910
+Xin chào.
+
+181
+00:10:12,040 --> 00:10:14,690
+Chào mừng cậu đến với Scrubitt.
+
+182
+00:10:16,501 --> 00:10:19,536
+{\an8}<i>ĐẾN NGHỈ MỘT ĐÊM
+Ở LẠI MÃI MÃI</i>
+
+183
+00:10:17,060 --> 00:10:18,530
+Đến rồi đây, cậu Wonka.
+
+184
+00:10:18,550 --> 00:10:20,100
+Phòng dành cho doanh nhân.
+
+185
+00:10:20,240 --> 00:10:22,790
+Đây là giường bốn cột,
+và bồn rửa kèm với xà phòng...
+
+186
+00:10:22,850 --> 00:10:24,180
+và một ít bạc hà ở trên gối nằm.
+
+187
+00:10:24,210 --> 00:10:25,140
+Tuyệt vời.
+
+188
+00:10:25,755 --> 00:10:27,045
+Thật là những người tốt bụng.
+
+189
+00:10:35,690 --> 00:10:36,850
+Noodle!
+
+190
+00:10:38,270 --> 00:10:40,110
+Noodle à!
+
+191
+00:10:40,300 --> 00:10:41,420
+Vâng, thưa bà Scrubitt?
+
+192
+00:10:41,530 --> 00:10:42,830
+Ta đang kiếm ngươi đây.
+
+193
+00:10:42,900 --> 00:10:43,680
+Bà muốn gì ạ?
+
+194
+00:10:43,710 --> 00:10:45,890
+Ta muốn dạy cho ngươi một bài học,
+con mọt sách nhỏ khốn khổ này.
+
+195
+00:10:45,910 --> 00:10:48,420
+- Con làm gì sai chứ?
+- Ngươi biết những gì ngươi đã làm.
+
+196
+00:10:48,540 --> 00:10:50,010
+- Bớt lắm chuyện đi!
+- Không? Đừng mà.
+
+197
+00:10:51,490 --> 00:10:53,870
+Ngươi mà còn xía vào
+chuyện làm ăn của ta lần nữa...
+
+198
+00:10:53,890 --> 00:10:56,320
+thì ngươi sẽ bị nhốt trong chuồng này
+cả tuần. Rõ chưa?
+
+199
+00:10:56,560 --> 00:10:59,060
+Vâng, thưa bà Scrubitt.
+Xin lỗi bà Scrubitt.
+
+200
+00:10:59,340 --> 00:11:01,140
+Hiểu chuyện vậy là tốt.
+
+201
+00:11:30,777 --> 00:11:32,117
+Cùng làm nhé, mẹ.
+
+202
+00:11:39,714 --> 00:11:42,684
+Kính thưa quý vị
+tại Thiên Đường Thượng Lưu...
+
+203
+00:11:42,964 --> 00:11:44,714
+Tên của tôi là Willy Wonka...
+
+204
+00:11:45,102 --> 00:11:47,290
+và tôi đến đây để cho bạn thấy
+một sự kỳ diệu bé nhỏ...
+
+205
+00:11:47,696 --> 00:11:49,440
+một món ăn đáng kinh ngạc...
+
+206
+00:11:49,664 --> 00:11:51,940
+một món ăn bất khả chiến bại...
+
+207
+00:11:51,970 --> 00:11:54,210
+thứ mà thế giới này
+chưa bao giờ được chứng kiến.
+
+208
+00:11:54,300 --> 00:11:56,340
+Vậy nên, hãy im lặng và lắng nghe.
+
+209
+00:11:57,008 --> 00:11:58,940
+Không phải, bỏ qua cái đó,
+đảo ngược lại nhé.
+
+210
+00:11:59,106 --> 00:12:01,844
+Tôi mang đến cho các bạn...
+sô-cô-la Bay lượn.
+
+211
+00:12:07,760 --> 00:12:11,570
+<i><font color="#00ffff">♪ In a jungle near Mumbai ♪</font>
+Trong một khu rừng gần Mumbai</i>
+
+212
+00:12:11,640 --> 00:12:13,711
+<i><font color="#00ffff">♪ There's a little hoverfly ♪</font>
+Có một chú ruồi ong nhỏ</i>
+
+213
+00:12:13,890 --> 00:12:16,110
+<i><font color="#00ffff">♪ Whose wings go at a thousand flaps a second ♪</font>
+Có đôi cánh đang vỗ liên hồi </i>
+
+214
+00:12:16,130 --> 00:12:17,570
+<i><font color="#00ffff">♪ That's no lie ♪</font>
+Và đó không phải là lời nói dối</i>
+
+215
+00:12:17,630 --> 00:12:19,510
+<i><font color="#00ffff">♪ These microscopic fleas ♪</font>
+Những chú ruồi ông siêu nhỏ này</i>
+
+216
+00:12:19,598 --> 00:12:21,438
+<i><font color="#00ffff">♪ Like chocolate more than leaves ♪</font>
+Giống như sô-cô-la hơn là những chiếc lá</i>
+
+217
+00:12:21,772 --> 00:12:24,020
+<i><font color="#00ffff">♪ And when asked nicely, lay precisely ♪</font>
+Và nhẹ nhàng hỏi, thứ gì đang chờ</i>
+
+218
+00:12:24,045 --> 00:12:26,150
+<i><font color="#00ffff">♪ One little egg in each of these  ♪</font>
+Một quả trứng nhỏ trong mỗi lọ này</i>
+
+219
+00:12:26,970 --> 00:12:29,330
+<i><font color="#00ffff">♪ When it hatches from its shell ♪</font>
+Khi nó nở ra khỏi vỏ </i>
+
+220
+00:12:27,794 --> 00:12:29,730
+{\an8}PRODNOSE
+SÔ-CÔ-LA CHẤT LƯỢNG
+
+221
+00:12:29,650 --> 00:12:31,850
+<i><font color="#00ffff">♪ It gives a happy yell ♪</font>
+Điều đó mang đến một tiếng thét hạnh phúc</i>
+
+222
+00:12:29,758 --> 00:12:31,611
+{\an8}Fickelgruber
+Sô-cô-la tốt nhất
+
+223
+00:12:31,870 --> 00:12:33,020
+<i><font color="#00ffff">♪ How thrilling ♪</font>
+Thật là thú vị khi</i>
+
+224
+00:12:33,040 --> 00:12:35,570
+<i><font color="#00ffff">♪ To be living in a chocolate hotel ♪</font>
+Được sống trong một khách sạn sô-cô-la</i>
+
+225
+00:12:35,600 --> 00:12:37,400
+<i><font color="#00ffff">♪ It beats its wings with glee ♪</font>
+Nó đập cánh với niềm vui sướng</i>
+
+226
+00:12:37,420 --> 00:12:39,210
+<i><font color="#00ffff">♪ And then as you will see ♪</font>
+Và sau đó, bạn sẽ thấy</i>
+
+227
+00:12:39,460 --> 00:12:41,360
+<i><font color="#00ffff">♪ The chocolate will levitate ♪</font>
+Sô-cô-la sẽ bay lên</i>
+
+228
+00:12:41,390 --> 00:12:44,720
+<i><font color="#00ffff">♪ And float most gracefully ♪</font>
+Và lơ lửng trông thật duyên dáng</i>
+
+229
+00:12:48,030 --> 00:12:50,030
+<i><font color="#00ffff">♪ Well, there's chocolate ♪</font>
+Vâng, đó chính là sô-cô-la</i>
+
+230
+00:12:50,700 --> 00:12:52,620
+<i><font color="#00ffff">♪ And there's chocolate ♪</font>
+Và đây là sô-cô-la</i>
+
+231
+00:12:52,850 --> 00:12:54,570
+<i><font color="#00ffff">♪ But only Wonka's makes ♪</font>
+Chỉ có Wonka mới khiến cho bạn</i>
+
+232
+00:12:54,590 --> 00:12:56,390
+<i><font color="#00ffff">♪ Your eyes pop out their sockelets ♪</font>
+Phải tròn xoe đôi mắt</i>
+
+233
+00:12:57,820 --> 00:13:00,190
+<i><font color="#00ffff">♪ Put your hand into your pockelet ♪</font>
+Đặt tay của bạn vào túi</i>
+
+234
+00:13:00,220 --> 00:13:02,320
+<i><font color="#00ffff">♪ Get yourself some Wonka chocolate  ♪</font>
+Lấy cho mình một ít sô-cô-la Wonka</i>
+
+235
+00:13:02,340 --> 00:13:03,380
+<i><font color="#00ffff">♪ Come now ♪</font>
+Hãy đến đây nào</i>
+
+236
+00:13:03,400 --> 00:13:05,210
+<i><font color="#00ffff">♪ I insist ♪</font>
+Tôi nhấn mạnh nhé</i>
+
+237
+00:13:06,660 --> 00:13:07,640
+<i><font color="#00ffff">♪ You've never ♪</font>
+Bạn chưa bao giờ  </i>
+
+238
+00:13:07,670 --> 00:13:09,640
+<i><font color="#00ffff">♪ Had chocolate like this ♪</font>
+Được thưởng thức sô-cô-la như thế này</i>
+
+239
+00:13:10,170 --> 00:13:11,970
+<i><font color="#00ffff">♪ No, you've never ♪</font>
+Không, bạn chưa bao giờ </i>
+
+240
+00:13:12,000 --> 00:13:15,010
+<i><font color="#00ffff">♪ Had chocolate like this ♪</font>
+Được thưởng thức sô-cô-la như thế này</i>
+
+241
+00:13:16,140 --> 00:13:16,930
+Tuyệt vời!
+
+242
+00:13:18,280 --> 00:13:18,820
+Hay lắm!
+
+243
+00:13:20,670 --> 00:13:21,470
+Xin cảm ơn.
+
+244
+00:13:21,830 --> 00:13:22,830
+Cô Bon-Bon?
+
+245
+00:13:22,970 --> 00:13:24,040
+Vâng, ông Slugworth.
+
+246
+00:13:24,190 --> 00:13:25,390
+Gọi cảnh sát đi.
+
+247
+00:13:25,510 --> 00:13:26,190
+Vâng thưa ông.
+
+248
+00:13:28,220 --> 00:13:29,660
+- Ai muốn thử một miếng nào?
+- Làm ơn, cho tôi với!
+
+249
+00:13:29,800 --> 00:13:30,600
+Để tôi thử.
+
+250
+00:13:32,940 --> 00:13:33,650
+Thưa ông Slugworth.
+
+251
+00:13:34,220 --> 00:13:34,950
+Xin lỗi.
+
+252
+00:13:35,210 --> 00:13:36,050
+Ông Fickelgruber.
+
+253
+00:13:37,080 --> 00:13:38,040
+Và ông Prodnose.
+
+254
+00:13:38,500 --> 00:13:39,280
+Thật là một vinh dự.
+
+255
+00:13:39,420 --> 00:13:41,310
+Kể từ khi tôi còn là một cậu bé...
+
+256
+00:13:41,720 --> 00:13:43,230
+Đây thật sự là một cái bắt tay.
+
+257
+00:13:43,300 --> 00:13:45,420
+Đây là một cái bắt tay làm ăn, anh Wonka.
+
+258
+00:13:45,547 --> 00:13:47,737
+Để mọi người hiểu là tôi nghiêm túc.
+
+259
+00:13:48,540 --> 00:13:49,510
+Giờ thì để xem nào.
+
+260
+00:13:49,683 --> 00:13:53,063
+Chúng ta hãy thử một miếng
+được gọi là sô-cô-la Bay lượn này nào.
+
+261
+00:14:05,030 --> 00:14:06,490
+Nó không chỉ là sô-cô-la, phải không?
+
+262
+00:14:07,103 --> 00:14:07,693
+Đây là...
+
+263
+00:14:09,126 --> 00:14:10,596
+- kẹo dẻo.
+- Đúng vậy.
+
+264
+00:14:10,989 --> 00:14:12,759
+Được thu hoạch từ đầm lầy
+cây cẩm quỳ ở Peru.
+
+265
+00:14:13,018 --> 00:14:14,628
+Và caramel nữa.
+
+266
+00:14:15,337 --> 00:14:16,230
+Nhưng nó có một chút...
+
+267
+00:14:16,260 --> 00:14:16,915
+Muối.
+
+268
+00:14:17,486 --> 00:14:20,165
+Với những giọt nước mắt buồn vui lẫn lộn
+của một chú hề Nga.
+
+269
+00:14:21,063 --> 00:14:21,893
+Và đó có phải là...
+
+270
+00:14:22,100 --> 00:14:23,020
+Chắc chắn là không?
+
+271
+00:14:23,830 --> 00:14:24,978
+Vị quả anh đào?
+
+272
+00:14:25,033 --> 00:14:27,125
+Những người thu hoạch
+đã lựa chọn kĩ lưỡng những quả anh đào...
+
+273
+00:14:27,150 --> 00:14:28,510
+từ Khu vườn Hoàng gia ở Nhật Bản.
+
+274
+00:14:29,450 --> 00:14:31,790
+Tốt lắm, anh Wonka.
+
+275
+00:14:32,290 --> 00:14:34,260
+Tôi đã làm kinh doanh trong ngành này
+một thời gian rất dài...
+
+276
+00:14:34,330 --> 00:14:38,070
+Và tôi có thể nói một cách khá chắc rằng
+trong tất cả sô-cô-la tôi đã từng nếm...
+
+277
+00:14:38,461 --> 00:14:40,381
+không còn nghi ngờ gì nữa...
+
+278
+00:14:40,441 --> 00:14:43,531
+nó chắc chắn 100% là dở tệ.
+
+279
+00:14:44,970 --> 00:14:46,300
+Chà, quý vị đã nghe thấy rồi chứ.
+
+280
+00:14:46,330 --> 00:14:48,040
+Một sự công nhận từ ông...
+
+281
+00:14:48,360 --> 00:14:49,340
+Đợi đã. Tệ nhất sao?
+
+282
+00:14:49,660 --> 00:14:52,330
+Ba chúng tôi là những
+đối thủ khốc liệt nhất của nhau...
+
+283
+00:14:52,470 --> 00:14:54,080
+và chúng tôi đều thống nhất một điều.
+
+284
+00:14:54,110 --> 00:14:55,150
+Một món sô-cô-la ngon...
+
+285
+00:14:55,170 --> 00:14:58,260
+chỉ nên thật đơn giản.
+Không cầu kỳ. Không phức tạp.
+
+286
+00:14:58,430 --> 00:14:59,780
+Trong khi thứ này...
+
+287
+00:14:59,840 --> 00:15:01,490
+quá ồn ào và hào nhoáng...
+
+288
+00:15:01,530 --> 00:15:02,970
+Chà, rốt cuộc nó chỉ...
+
+289
+00:15:03,560 --> 00:15:04,730
+Kỳ lạ mà thôi.
+
+290
+00:15:06,132 --> 00:15:07,062
+Thật sự đáng thất vọng.
+
+291
+00:15:08,180 --> 00:15:09,690
+Nếu ông nghĩ rằng sô-cô-la này kỳ lạ...
+
+292
+00:15:10,542 --> 00:15:12,302
+ông sẽ ghét những gì chuẩn bị diễn ra đấy.
+
+293
+00:15:15,050 --> 00:15:16,180
+Chuyện gì đang xảy ra vậy?
+
+294
+00:15:16,280 --> 00:15:18,790
+- Có chuyện gì vậy?
+- Đó chính là ruồi ong.
+
+295
+00:15:18,820 --> 00:15:22,130
+Nó đã thoát ra khỏi cái kén.
+Và đang vỗ cánh liên tục đấy.
+
+296
+00:15:23,730 --> 00:15:26,290
+Tóc của tôi!
+Ý anh là một con ruồi làm điều này sao?
+
+297
+00:15:26,370 --> 00:15:27,730
+Vâng. Nhưng đừng lo lắng.
+
+298
+00:15:27,760 --> 00:15:29,530
+- Nó hoàn toàn vô hại.
+- Cảm ơn.
+
+299
+00:15:29,760 --> 00:15:32,820
+Trong khoảng 20 phút, nó sẽ mệt mỏi
+và thoát ra từ phía dưới mông.
+
+300
+00:15:33,180 --> 00:15:33,910
+Cái gì cơ?
+
+301
+00:15:34,100 --> 00:15:36,300
+Ý cậu ấy là chúng ta sẽ phải đánh rắm
+để cho chúng thoát ra từ mông!
+
+302
+00:15:36,330 --> 00:15:37,600
+Vâng, tôi hiểu anh ấy nói gì.
+
+303
+00:15:37,684 --> 00:15:39,284
+Anh thật sự điên rồi, Wonka!
+
+304
+00:15:39,530 --> 00:15:40,670
+Ai mà lại có ý nghĩ...
+
+305
+00:15:40,690 --> 00:15:42,370
+muốn một món sô-cô-la
+có thể khiến họ bay lượn chứ?
+
+306
+00:15:42,400 --> 00:15:43,820
+Chà, vậy ta xem thử nhé, được chứ?
+
+307
+00:15:43,900 --> 00:15:45,910
+Ai muốn sô-cô-la Bay lượn nào?
+
+308
+00:15:46,800 --> 00:15:47,480
+Tôi muốn một cái.
+
+309
+00:15:47,820 --> 00:15:49,290
+Làm ơn cho 1 đồng nhé.
+Cảm ơn.
+
+310
+00:15:50,180 --> 00:15:50,900
+Cảm ơn rất nhiều.
+
+311
+00:15:51,920 --> 00:15:52,690
+1 đồng nhé.
+
+312
+00:15:53,362 --> 00:15:54,922
+Cảm ơn, thưa bà.
+Tận hưởng chuyến bay nhé.
+
+313
+00:15:56,356 --> 00:15:58,116
+Nhìn này, em đang bay!
+Em đang bay!
+
+314
+00:16:01,640 --> 00:16:02,610
+Ở trển vui không em?
+
+315
+00:16:03,890 --> 00:16:05,360
+Đừng bay cao quá, em yêu!
+
+316
+00:16:09,570 --> 00:16:10,800
+Đi chỗ khác chơi nhóc.
+
+317
+00:16:11,010 --> 00:16:13,740
+Được rồi, mọi người.
+Không có gì để xem ở đây cả.
+
+318
+00:16:14,136 --> 00:16:17,326
+Chỉ là một nhóm nhỏ người đang cố
+thách thức các định luật của trọng lực.
+
+319
+00:16:17,510 --> 00:16:18,710
+- Ừ.
+- Bắt họ lại, các chàng trai.
+
+320
+00:16:18,887 --> 00:16:20,917
+Đó là sô-cô-la Bay lượn, thưa ngài.
+Chỉ là kẹo mà thôi.
+
+321
+00:16:21,083 --> 00:16:23,523
+Tôi e rằng chúng tôi đã nhận được
+một số khiếu nại về cậu.
+
+322
+00:16:23,570 --> 00:16:24,210
+Khiếu nại à?
+
+323
+00:16:24,297 --> 00:16:26,567
+Về việc cậu đang cản trở việc buôn bán
+của các doanh nghiệp khác.
+
+324
+00:16:26,760 --> 00:16:28,611
+Rất tiếc nhưng tôi phải đưa cậu đi...
+
+325
+00:16:28,647 --> 00:16:31,187
+và tịch thu số tiền cậu vừa kiếm được.
+
+326
+00:16:31,470 --> 00:16:32,875
+Này! Anh đang làm gì vậy?
+
+327
+00:16:32,900 --> 00:16:35,210
+- Đừng lo, nó sẽ được sung công quỹ.
+- Không! Tránh ra.
+
+328
+00:16:35,230 --> 00:16:36,740
+Hoặc là dành cho những đứa trẻ ốm yếu.
+
+329
+00:16:36,830 --> 00:16:38,930
+Rất tiếc, thưa cậu.
+Nhưng quy tắc là quy tắc.
+
+330
+00:16:40,373 --> 00:16:42,343
+Anh có thể để lại cho tôi
+một vài đồng được không?
+
+331
+00:16:43,101 --> 00:16:44,611
+Tôi cần phải trả tiền phòng của mình.
+
+332
+00:16:47,743 --> 00:16:48,453
+Đây.
+
+333
+00:16:51,346 --> 00:16:52,156
+Cảm ơn anh.
+
+334
+00:16:56,357 --> 00:16:57,847
+Chào buổi tối, cậu Wonka.
+
+335
+00:16:58,642 --> 00:16:59,623
+Mọi chuyện thế nào rồi?
+
+336
+00:16:59,690 --> 00:17:01,110
+Không hoàn toàn tốt như tôi mong đợi.
+
+337
+00:17:01,926 --> 00:17:04,696
+Tiếc thật nhỉ. Nhưng tôi e là
+chúng ta vẫn còn việc phải giải quyết.
+
+338
+00:17:04,845 --> 00:17:06,515
+Rất may là tôi vẫn kiếm đủ
+để trả tiền phòng.
+
+339
+00:17:07,535 --> 00:17:08,795
+Chúng ta đã thống nhất là 1 đồng nhỉ.
+
+340
+00:17:08,994 --> 00:17:10,289
+Đúng vậy, cho căn phòng.
+
+341
+00:17:10,314 --> 00:17:12,908
+Nhưng đã phát sinh thêm
+một vài dịch vụ khác...
+
+342
+00:17:13,165 --> 00:17:15,500
+trong thời gian anh ở đây.
+
+343
+00:17:16,587 --> 00:17:17,317
+Tôi có sao?
+
+344
+00:17:17,722 --> 00:17:19,022
+Có chứ.
+
+345
+00:17:20,228 --> 00:17:22,845
+Một ly rượu gin lúc anh vừa đến đây...
+
+346
+00:17:22,970 --> 00:17:24,120
+Và nếu tôi nhớ đúng...
+
+347
+00:17:24,150 --> 00:17:26,300
+cậu đã sưởi ấm nữa đúng không.
+
+348
+00:17:26,629 --> 00:17:28,359
+Đúng vậy, bà Scrubitt.
+
+349
+00:17:28,860 --> 00:17:31,160
+Sưởi ấm là dịch vụ phát sinh,
+đúng chứ?
+
+350
+00:17:31,220 --> 00:17:33,490
+Và sau đó sử dụng cầu thang để lên phòng.
+
+351
+00:17:33,550 --> 00:17:35,190
+Vậy là có thêm phí
+sử dụng cầu thang...
+
+352
+00:17:35,220 --> 00:17:38,060
+và tôi e là phí này được tính
+bằng từng bậc thang. Lên và xuống.
+
+353
+00:17:38,120 --> 00:17:39,620
+Và còn nữa, cậu Wonka...
+
+354
+00:17:39,640 --> 00:17:41,940
+cậu có tình cờ sử dụng
+mấy món nhỏ trong phòng không?
+
+355
+00:17:42,020 --> 00:17:43,070
+Có mấy món nhỏ nữa sao?
+
+356
+00:17:43,140 --> 00:17:44,080
+Chẳng hạn như thanh xà phòng nhỏ.
+
+357
+00:17:44,410 --> 00:17:45,120
+Cạnh bồn rửa.
+
+358
+00:17:45,820 --> 00:17:47,050
+Chắc là có, nhưng nhanh lắm.
+
+359
+00:17:47,630 --> 00:17:49,200
+Thấy chưa?
+Ngay cả Bleacher cũng biết...
+
+360
+00:17:49,230 --> 00:17:52,090
+không bao giờ chạm vào mấy món nhỏ,
+và anh ta còn chẳng được giáo dục tốt.
+
+361
+00:17:52,200 --> 00:17:55,950
+Thêm vào tiền thuê nệm, thuê vải lanh,
+và toàn bộ phí cộng thêm...
+
+362
+00:17:55,980 --> 00:17:57,510
+cậu sẽ thấy ở đây là...
+
+363
+00:17:57,720 --> 00:17:59,370
+Mười ngàn đồng.
+
+364
+00:17:59,660 --> 00:18:00,620
+Bà đang đùa với tôi đúng không?
+
+365
+00:18:00,660 --> 00:18:02,720
+Tất cả đều ghi trong tờ ghi chú nhỏ,
+chú bé à.
+
+366
+00:18:03,472 --> 00:18:04,742
+Tôi làm gì có mười ngàn đồng.
+
+367
+00:18:05,970 --> 00:18:07,880
+Vậy thì chúng ta gặp vấn đề rồi,
+cậu Wonka à.
+
+368
+00:18:08,040 --> 00:18:10,228
+Cậu sẽ phải làm việc tại
+Phòng Giặt Rửa, được không nhỉ?
+
+369
+00:18:10,810 --> 00:18:12,360
+Với mức lương là 1 đồng cho một ngày.
+
+370
+00:18:12,550 --> 00:18:13,630
+Vậy 10 ngàn đồng sẽ là...
+
+371
+00:18:13,660 --> 00:18:14,640
+Hai mươi bảy năm.
+
+372
+00:18:14,820 --> 00:18:15,900
+- Này!
+- Bốn tháng.
+
+373
+00:18:15,990 --> 00:18:17,060
+Và mười sáu ngày.
+
+374
+00:18:25,767 --> 00:18:27,212
+Cậu chắc là Wonka nhỉ.
+
+375
+00:18:27,516 --> 00:18:28,392
+Ông là ai?
+
+376
+00:18:28,417 --> 00:18:31,329
+Abacus Crunch, nhân viên kế toán.
+
+377
+00:18:31,601 --> 00:18:32,828
+Ít nhất, tôi đã từng như vậy.
+
+378
+00:18:33,042 --> 00:18:33,703
+Bây giờ...
+
+379
+00:18:34,000 --> 00:18:34,924
+Ông ấy quản lý nơi này.
+
+380
+00:18:35,290 --> 00:18:37,357
+Và tốt nhất cậu nên làm như ông ấy nói,
+hoặc sẽ phải chịu phạt.
+
+381
+00:18:37,494 --> 00:18:38,572
+Tôi là Piper Benz.
+
+382
+00:18:38,702 --> 00:18:39,562
+Thợ sửa ống nước.
+
+383
+00:18:39,587 --> 00:18:41,728
+Đây là cô Lottie Bell.
+
+384
+00:18:41,753 --> 00:18:42,425
+Chào.
+
+385
+00:18:43,328 --> 00:18:44,408
+Cô ấy không nói nhiều.
+
+386
+00:18:44,432 --> 00:18:48,228
+Và tôi là Larry Chucklesworth!
+
+387
+00:18:48,571 --> 00:18:49,494
+Diễn viên hài.
+
+388
+00:18:50,578 --> 00:18:52,109
+Vậy là bọn họ
+cũng gài bẫy tất cả mọi người sao?
+
+389
+00:18:52,188 --> 00:18:53,555
+Tôi e là vậy.
+
+390
+00:18:53,681 --> 00:18:56,837
+Chúng tôi đều đã từng
+cần 1 nơi giá rẻ để ở...
+
+391
+00:18:56,862 --> 00:18:59,376
+và bỏ qua việc đọc bản ghi chú nhỏ.
+
+392
+00:18:59,566 --> 00:19:03,211
+Ngu ngốc một chốc,
+hối hận cả đời.
+
+393
+00:19:03,438 --> 00:19:05,072
+Nghe giống như
+cuộc hôn nhân thứ 3 của tôi thế.
+
+394
+00:19:07,148 --> 00:19:08,586
+Tôi xin lỗi,
+lố nhiều quá riết quen.
+
+395
+00:19:08,667 --> 00:19:10,087
+- Đúng vậy.
+- Rất nhiều đấy.
+
+396
+00:19:10,220 --> 00:19:11,437
+Tôi chỉ mới kết hôn một lần...
+
+397
+00:19:11,462 --> 00:19:13,345
+và cũng không tốt đẹp gì mấy.
+
+398
+00:19:13,539 --> 00:19:14,900
+Phải có cách nào đó để thoát khỏi đây.
+
+399
+00:19:14,925 --> 00:19:16,134
+Cậu không nghĩ rằng
+chúng tôi đã thử mọi cách rồi sao?
+
+400
+00:19:16,523 --> 00:19:17,704
+Những thanh chắn trên cửa sổ...
+
+401
+00:19:17,729 --> 00:19:18,751
+và con chó thì nằm canh ngay cửa.
+
+402
+00:19:18,776 --> 00:19:19,986
+Và ngay cả khi có thể thoát ra...
+
+403
+00:19:20,087 --> 00:19:22,103
+vẫn còn cái hợp đồng cậu đã ký.
+
+404
+00:19:22,322 --> 00:19:24,812
+Nếu cậu không ở đây để điểm danh,
+bà Scrubitt sẽ gọi cảnh sát...
+
+405
+00:19:24,860 --> 00:19:26,017
+Họ sẽ đưa cậu trở lại đây ngay lập tức...
+
+406
+00:19:26,042 --> 00:19:27,800
+và bà ta sẽ tính thêm phí là cả ngàn
+đồng bạc cho việc đó.
+
+407
+00:19:28,977 --> 00:19:31,618
+Được rồi, mọi người. Quay lại làm việc.
+Đi nào, cậu Wonka.
+
+408
+00:19:32,604 --> 00:19:33,743
+Cậu đi với tôi.
+
+409
+00:19:34,751 --> 00:19:37,361
+Cậu ở đây.
+Với nước xà phòng.
+
+410
+00:19:45,100 --> 00:19:47,115
+<i><font color="#00ffff">♪ First you pick up the apparel ♪</font>
+Đầu tiên, cậu chọn quần áo</i>
+
+411
+00:19:47,140 --> 00:19:48,850
+<i><font color="#00ffff">♪ And you stick it in a barrel ♪</font>
+Và cậu đặt nó vào một cái thùng</i>
+
+412
+00:19:49,000 --> 00:19:50,630
+<i><font color="#00ffff">♪ Scrub Scrub! ♪</font>
+Chà, chà</i>
+
+413
+00:19:53,090 --> 00:19:54,980
+<i><font color="#00ffff">♪ Then you take it to the mangle ♪</font>
+Sau đó, cậu mang nó đến máy ép</i>
+
+414
+00:19:55,000 --> 00:19:57,080
+<i><font color="#00ffff">♪ And you turn the giant handle ♪</font>
+và xoay một tay cầm khổng lồ </i>
+
+415
+00:19:57,140 --> 00:19:58,400
+<i><font color="#00ffff">♪ Scrub Scrub! ♪</font>
+Chà, chà</i>
+
+416
+00:20:01,132 --> 00:20:03,548
+<i><font color="#00ffff">♪ Then it's hung up really high ♪</font>
+Sau đó, treo nó lên thật cao</i>
+
+417
+00:20:03,573 --> 00:20:04,843
+<i><font color="#00ffff">♪ Until it's nearly dry ♪</font>
+Cho đến khi nó gần khô</i>
+
+418
+00:20:05,230 --> 00:20:06,070
+<i><font color="#00ffff">♪ Scrub Scrub! ♪</font>
+Chà, chà</i>
+
+419
+00:20:09,530 --> 00:20:11,505
+<i><font color="#00ffff">♪ But when we sing this song ♪</font>
+Khi chúng ta hát bài này</i>
+
+420
+00:20:11,530 --> 00:20:13,216
+<i><font color="#00ffff">♪ The day don't seem so long ♪</font>
+Ngày dường như có vẻ không quá dài</i>
+
+421
+00:20:13,240 --> 00:20:15,030
+<i><font color="#00ffff">♪ Scrub Scrub! ♪</font>
+Chà, chà </i>
+
+422
+00:20:15,108 --> 00:20:16,514
+Tuy nhiên, nó vẫn dài.
+
+423
+00:20:23,250 --> 00:20:25,380
+<i><font color="#00ffff">♪ Gotta press out all the creases ♪</font>
+Phải ép thẳng ra tất cả các nếp nhăn</i>
+
+424
+00:20:25,500 --> 00:20:27,340
+<i><font color="#00ffff">♪ From the dresses and chemises ♪</font>
+Từ những chiếc váy và áo sơ mi</i>
+
+425
+00:20:27,500 --> 00:20:28,760
+<i><font color="#00ffff">♪ Rub Rub! ♪</font>
+Chà, chà</i>
+
+426
+00:20:31,380 --> 00:20:33,066
+<i><font color="#00ffff">♪ Gotta fold 'em like they told us ♪</font>
+Phải gấp chúng như họ đã bảo</i>
+
+427
+00:20:33,091 --> 00:20:34,371
+<i><font color="#00ffff">♪ Or they'll scold us ♪</font>
+hoặc họ sẽ mắng chúng ta</i>
+
+428
+00:20:34,396 --> 00:20:35,761
+<i><font color="#00ffff">♪ and withhold our ♪</font>
+Và giữ lấy miếng ăn của chúng ta </i>
+
+429
+00:20:39,390 --> 00:20:41,343
+<i><font color="#00ffff">♪ We all signed the dotted line ♪</font>
+Tất cả chúng ta đều ký vào tờ giấy đó</i>
+
+430
+00:20:41,368 --> 00:20:43,399
+<i><font color="#00ffff">♪ So we've gotta do our time ♪</font>
+Vì vậy chúng ta phải làm thôi</i>
+
+431
+00:20:43,730 --> 00:20:46,770
+<i><font color="#00ffff">♪ Scrub Scrub! ♪</font>
+Chà, chà</i>
+
+432
+00:20:46,900 --> 00:20:49,931
+<i><font color="#00ffff">♪ Scrub Scrub! ♪</font>
+Chà, chà</i>
+
+433
+00:20:49,956 --> 00:20:52,268
+Và nếu không đồng ý...
+
+434
+00:20:52,337 --> 00:20:53,875
+Xem khoản 5.
+
+435
+00:20:53,955 --> 00:20:55,125
+Mục 7A.
+
+436
+00:20:55,259 --> 00:20:56,688
+Đoạn 22.
+
+437
+00:20:56,852 --> 00:20:57,930
+Phần D.
+
+438
+00:20:58,367 --> 00:20:59,280
+Nó nói là...
+
+439
+00:20:59,961 --> 00:21:01,273
+<i><font color="#00ffff">♪ Scrub Scrub! ♪</font>
+Chà, chà</i>
+
+440
+00:21:04,076 --> 00:21:05,275
+<i><font color="#00ffff">♪ Scrub Scrub! ♪</font>
+Chà, chà</i>
+
+441
+00:21:08,130 --> 00:21:10,510
+<i><font color="#00ffff">♪ Scrub Scrub! ♪</font>
+Chà, chà</i>
+
+442
+00:21:13,378 --> 00:21:15,572
+<i><font color="#00ffff">♪ Scrub Scrub! ♪</font>
+Chà, chà</i>
+
+443
+00:21:40,380 --> 00:21:41,327
+Dịch vụ phòng.
+
+444
+00:21:42,742 --> 00:21:44,257
+Đã bảo anh đọc bản ghi chú nhỏ.
+
+445
+00:21:45,748 --> 00:21:46,959
+Vấn đề là ở chỗ đó.
+
+446
+00:21:48,613 --> 00:21:50,272
+Anh không biết đọc sao?
+
+447
+00:21:51,373 --> 00:21:53,952
+Anh hầu như tập trung hết vào
+việc học cách làm sô-cô-la.
+
+448
+00:21:54,710 --> 00:21:55,420
+Em hiểu rồi.
+
+449
+00:21:56,724 --> 00:21:59,208
+Với những chuyện khác,
+anh đặt niềm tin vào nhân sinh.
+
+450
+00:21:59,948 --> 00:22:00,904
+Và giờ thì anh có được gì nào.
+
+451
+00:22:01,733 --> 00:22:02,592
+Chỗ ở của người làm.
+
+452
+00:22:03,451 --> 00:22:04,567
+Anh có một cái giường.
+
+453
+00:22:07,279 --> 00:22:09,052
+Anh đã từng có một cái giường.
+
+454
+00:22:09,451 --> 00:22:12,928
+Một cái bàn, kiêm cái bồn 2 công dụng.
+
+455
+00:22:13,936 --> 00:22:14,858
+Nước chảy vào...
+
+456
+00:22:15,008 --> 00:22:17,045
+có hai nhiệt độ. Lạnh...
+
+457
+00:22:17,837 --> 00:22:18,889
+và lạnh hơn.
+
+458
+00:22:20,598 --> 00:22:21,555
+Anh nợ họ bao nhiêu?
+
+459
+00:22:22,308 --> 00:22:23,041
+Mười ngàn.
+
+460
+00:22:23,836 --> 00:22:26,282
+Xem như anh may mắn.
+Em nợ họ ba mươi ngàn.
+
+461
+00:22:26,518 --> 00:22:28,199
+Cái gì? Làm thế nào em nợ họ tiền?
+
+462
+00:22:28,565 --> 00:22:30,238
+Anh tưởng họ đã tìm thấy em
+ở chỗ máng giặt đồ.
+
+463
+00:22:30,488 --> 00:22:33,309
+Đúng vậy. Rồi họ đưa em vào đây
+bằng sự nhân từ của mình...
+
+464
+00:22:33,713 --> 00:22:34,956
+rồi họ tính phí cho đặc quyền đó.
+
+465
+00:22:36,042 --> 00:22:37,174
+Thật là một bộ đôi quái vật.
+
+466
+00:22:38,051 --> 00:22:40,715
+Kẻ tham lam luôn bóc lột
+người thiếu thốn, anh Wonka ạ.
+
+467
+00:22:41,029 --> 00:22:42,456
+Chắc đó là cách thế giới này vận hành.
+
+468
+00:22:42,807 --> 00:22:43,785
+Coi nào, Noodle.
+
+469
+00:22:44,237 --> 00:22:46,096
+Đó chỉ là Hội chứng Trẻ mồ côi
+của em đang nói.
+
+470
+00:22:47,477 --> 00:22:48,144
+Cái gì cơ?
+
+471
+00:22:48,392 --> 00:22:49,487
+Là Hội chứng Trẻ mồ côi đó.
+
+472
+00:22:49,651 --> 00:22:51,582
+Và chúng ta sẽ không ăn thứ này nữa.
+
+473
+00:22:53,237 --> 00:22:54,066
+Anh đang làm gì vậy?
+
+474
+00:22:54,808 --> 00:22:55,925
+Dĩ nhiên là anh làm sô-cô-la rồi.
+
+475
+00:22:56,223 --> 00:22:59,574
+Em thích nó như thế nào?
+Đen? Trắng? Có hạt? Cực kỳ điên rồi?
+
+476
+00:23:00,195 --> 00:23:01,011
+Em không biết.
+
+477
+00:23:01,675 --> 00:23:03,299
+Em chưa từng ăn bao giờ.
+
+478
+00:23:04,631 --> 00:23:06,756
+Em chưa từng...
+Em chưa từng ăn sô-cô-la sao?
+
+479
+00:23:07,241 --> 00:23:07,927
+Chưa.
+
+480
+00:23:08,204 --> 00:23:08,810
+Cái gì?
+
+481
+00:23:08,892 --> 00:23:09,985
+Em chưa từng ăn sô-cô-la?
+
+482
+00:23:10,959 --> 00:23:12,072
+Chưa.
+
+483
+00:23:13,185 --> 00:23:15,150
+Chà, thật không thể tin được.
+Ý anh là, thật không thể chịu nổi mà.
+
+484
+00:23:15,549 --> 00:23:16,908
+May cho em đấy...
+
+485
+00:23:16,974 --> 00:23:19,080
+Anh có tuyển chọn
+những nguyên liệu tốt nhất thế giới...
+
+486
+00:23:19,105 --> 00:23:21,049
+ngay đây, trong cái nhà máy xách tay này.
+
+487
+00:23:27,204 --> 00:23:28,963
+Bắt đầu từ đâu? Đó là câu hỏi.
+
+488
+00:23:29,588 --> 00:23:30,145
+Biết rồi!
+
+489
+00:23:30,762 --> 00:23:31,666
+Kẹo May Mắn.
+
+490
+00:23:32,094 --> 00:23:33,775
+Được làm từ những
+đám mây sấm sét cô đặc...
+
+491
+00:23:34,694 --> 00:23:35,532
+và ánh sáng mặt trời trong trẻo.
+
+492
+00:23:38,146 --> 00:23:39,533
+Giúp em nhìn thấy
+tia hy vọng mờ nhạt...
+
+493
+00:23:39,558 --> 00:23:41,127
+đằng sau cái bóng của sự tuyệt vọng.
+
+494
+00:23:41,677 --> 00:23:42,510
+Chính là những gì chúng ta cần...
+
+495
+00:23:42,612 --> 00:23:43,407
+đúng không nào?
+
+496
+00:23:44,304 --> 00:23:45,899
+Anh luôn muốn làm sô-cô-la à?
+
+497
+00:23:46,143 --> 00:23:46,783
+Không.
+
+498
+00:23:48,024 --> 00:23:49,221
+Trở về lúc khi anh bằng tuổi em...
+
+499
+00:23:49,673 --> 00:23:50,618
+Anh muốn trở thành một ảo thuật gia.
+
+500
+00:23:51,705 --> 00:23:52,588
+Mẹ anh là một đầu bếp.
+
+501
+00:23:54,046 --> 00:23:56,174
+Bọn anh sống trên 1 dòng sông,
+chỉ có hai người.
+
+502
+00:23:56,854 --> 00:23:59,369
+Trong một thế giới nhỏ hoàn hảo
+của riêng gia đình anh.
+
+503
+00:24:02,012 --> 00:24:03,342
+<i>Theo như anh nhớ...</i>
+
+504
+00:24:03,367 --> 00:24:05,707
+<i>Anh đã từng dành hết thời gian của mình
+để cố gắng tìm ra...</i>
+
+505
+00:24:05,732 --> 00:24:07,862
+<i>Những mẹo mới để gây ấn tượng với mẹ.</i>
+
+506
+00:24:08,861 --> 00:24:10,110
+Hoan hô!
+
+507
+00:24:11,389 --> 00:24:13,533
+<i>Nhưng ma thuật thực sự đến từ bà ấy.</i>
+
+508
+00:24:16,041 --> 00:24:18,684
+<i>Nhà anh không có nhiều tiền,
+nhưng mỗi tuần...</i>
+
+509
+00:24:18,709 --> 00:24:20,629
+<i>bà ấy mang về nhà một hạt ca cao.</i>
+
+510
+00:24:20,950 --> 00:24:22,516
+<i>Và đến ngày sinh nhật của anh...</i>
+
+511
+00:24:22,541 --> 00:24:24,596
+<i>đã đủ để làm duy nhất
+một thanh sô-cô-la.</i>
+
+512
+00:24:26,517 --> 00:24:29,994
+<i>Nhưng không chỉ là sô-cô-la bình thường.
+Nó rất đặc biệt.</i>
+
+513
+00:24:31,869 --> 00:24:34,354
+Đây là sô-cô-la ngon nhất
+trên thế giới.
+
+514
+00:24:34,408 --> 00:24:35,619
+Mẹ cũng không chắc nữa.
+
+515
+00:24:36,126 --> 00:24:39,978
+Họ nói rằng thứ ngon nhất đến từ
+một nơi gọi là Thiên Đường Thượng Lưu.
+
+516
+00:24:40,642 --> 00:24:42,713
+Không thể nào ngon hơn của mẹ được, mẹ à.
+
+517
+00:24:43,302 --> 00:24:44,305
+Không thể nào.
+
+518
+00:24:44,931 --> 00:24:47,743
+Ừ, nếu điều đó xảy ra...
+
+519
+00:24:48,227 --> 00:24:49,681
+mẹ biết một bí mật nho nhỏ...
+
+520
+00:24:49,940 --> 00:24:51,892
+mà những món thượng lưu đó không có được.
+
+521
+00:24:53,333 --> 00:24:53,996
+Nó là gì?
+
+522
+00:24:54,427 --> 00:24:55,277
+Mẹ sẽ nói cho con biết.
+
+523
+00:24:56,090 --> 00:24:58,254
+Khi con lớn hơn một chút.
+Giờ thì đi ngủ nào.
+
+524
+00:25:05,405 --> 00:25:06,434
+Chúng ta nên đi thử, mẹ à.
+
+525
+00:25:06,934 --> 00:25:07,973
+Đi đâu cơ?
+
+526
+00:25:08,527 --> 00:25:10,481
+- Đến Thiên Đường Thượng Lưu đó.
+- Cái gì?
+
+527
+00:25:10,525 --> 00:25:11,292
+Và thử mở một cửa hàng?
+
+528
+00:25:11,614 --> 00:25:12,323
+Phải.
+
+529
+00:25:12,707 --> 00:25:14,692
+Với tên của chúng ta trên cánh cửa
+và tất cả mọi thứ.
+
+530
+00:25:15,122 --> 00:25:17,044
+Đó là một giấc mơ tuyệt vời, con yêu.
+
+531
+00:25:18,200 --> 00:25:19,442
+Chỉ vậy thôi sao?
+
+532
+00:25:21,153 --> 00:25:22,208
+Chỉ là một giấc mơ?
+
+533
+00:25:24,051 --> 00:25:24,778
+Này.
+
+534
+00:25:28,535 --> 00:25:31,950
+Mọi điều tốt đẹp trên thế giới này
+bắt đầu với một giấc mơ.
+
+535
+00:25:32,698 --> 00:25:34,278
+Vì vậy, con cứ giữ lấy
+giấc mơ của con.
+
+536
+00:25:35,081 --> 00:25:37,113
+Và khi con chia sẻ sô-cô-la
+với thế giới...
+
+537
+00:25:38,138 --> 00:25:40,013
+Mẹ sẽ ở ngay bên cạnh con.
+
+538
+00:25:40,863 --> 00:25:41,552
+Mẹ hứa chứ?
+
+539
+00:25:42,051 --> 00:25:43,034
+Mẹ sẽ cố làm tốt hơn thế.
+
+540
+00:25:44,402 --> 00:25:45,340
+Ngoéo tay hứa nhé.
+
+541
+00:25:47,442 --> 00:25:48,082
+Giờ thì...
+
+542
+00:25:48,933 --> 00:25:49,693
+ngủ đi nhé.
+
+543
+00:25:52,989 --> 00:25:55,176
+<i>Vậy nó là gì thế, anh Willy?</i>
+
+544
+00:25:56,232 --> 00:25:57,106
+<i>Bí mật là gì?</i>
+
+545
+00:25:58,351 --> 00:25:59,573
+<i>Anh chưa bao giờ tìm ra.</i>
+
+546
+00:26:01,263 --> 00:26:02,685
+<i>Ngay sau đó, bà ấy ngã bệnh.</i>
+
+547
+00:26:04,629 --> 00:26:07,263
+<i>Và chẳng mấy chốc, những gì anh còn lại
+là thanh sô-cô-la của bà ấy.</i>
+
+548
+00:26:12,619 --> 00:26:13,705
+Đó là lý do tại sao anh ở đây, Noodle.
+
+549
+00:26:14,764 --> 00:26:16,700
+Để anh có thể cảm thấy
+giống như lúc đó...
+
+550
+00:26:17,847 --> 00:26:18,933
+ăn sô-cô-la với bà ấy.
+
+551
+00:26:21,112 --> 00:26:21,870
+Ý anh là sao?
+
+552
+00:26:22,558 --> 00:26:25,253
+Mẹ anh đã từng hứa rằng
+khi anh chia sẻ sô-cô-la với thế giới...
+
+553
+00:26:25,581 --> 00:26:26,964
+bà ấy sẽ ở ngay bên cạnh anh.
+
+554
+00:26:28,847 --> 00:26:32,683
+Anh biết nghe có vẻ điên rồ, nhưng anh
+luôn hy vọng, bà ấy sẽ giữ lời hứa đó.
+
+555
+00:26:34,681 --> 00:26:35,940
+Bà ấy thậm chí có thể
+nói cho anh biết bí mật của bà ấy.
+
+556
+00:26:43,084 --> 00:26:44,292
+Đây. Thử đi nào.
+
+557
+00:27:03,118 --> 00:27:04,321
+Ước gì anh đã không làm nó.
+
+558
+00:27:05,493 --> 00:27:06,267
+Em không thích nó sao?
+
+559
+00:27:06,869 --> 00:27:07,729
+Không...
+
+560
+00:27:08,095 --> 00:27:09,892
+Em thích. Chỉ là...
+
+561
+00:27:11,282 --> 00:27:11,966
+Sao?
+
+562
+00:27:13,383 --> 00:27:16,641
+Giờ thì mỗi ngày mà em không có sô-cô-la,
+sẽ khó chịu hơn một chút.
+
+563
+00:27:17,836 --> 00:27:21,305
+Vậy em có muốn mỗi ngày
+đều được ăn sô-cô-la...
+
+564
+00:27:21,626 --> 00:27:22,767
+suốt quãng đời còn lại không nào?
+
+565
+00:27:23,062 --> 00:27:24,289
+Được ăn trọn đời sao?
+
+566
+00:27:24,446 --> 00:27:25,946
+Được ăn trọn đời.
+
+567
+00:27:26,728 --> 00:27:27,704
+Em phải làm sao đây?
+
+568
+00:27:27,892 --> 00:27:29,861
+Không khó lắm.
+Chỉ cần đưa anh ra khỏi đây.
+
+569
+00:27:30,103 --> 00:27:31,462
+Anh có điên không?
+
+570
+00:27:31,609 --> 00:27:33,226
+Bình tĩnh nào.
+Anh sẽ nhờ ai đó thay thế ca làm việc...
+
+571
+00:27:33,632 --> 00:27:34,921
+và em có thể đưa anh ra ngoài
+trong giỏ giặt của em.
+
+572
+00:27:35,023 --> 00:27:36,000
+- Nhưng em...
+- Chỉ vài giờ thôi, nhé.
+
+573
+00:27:36,478 --> 00:27:37,559
+Thậm chí không ai biết là anh đã đi.
+
+574
+00:27:38,319 --> 00:27:39,410
+Mục đích của chuyện này là gì?
+
+575
+00:27:39,563 --> 00:27:40,814
+Tất nhiên là để bán sô-cô-la rồi.
+
+576
+00:27:41,031 --> 00:27:42,848
+Chúng ta sẽ chia lợi nhuận
+và trả hết tiền cho bà Scrubitt ngay.
+
+577
+00:27:43,133 --> 00:27:44,488
+Đó là một ý tưởng hay, anh Willy.
+
+578
+00:27:44,513 --> 00:27:45,360
+Đó là một ý tưởng tuyệt vời.
+
+579
+00:27:45,385 --> 00:27:46,421
+Nhưng nó sẽ không bao giờ thành công.
+
+580
+00:27:46,446 --> 00:27:47,867
+Tất nhiên là được rồi.
+Ăn sô-cô-la của em đi.
+
+581
+00:27:48,201 --> 00:27:49,276
+Anh không hiểu.
+
+582
+00:27:49,904 --> 00:27:51,121
+Bà Scrubitt giống như một con diều hâu.
+
+583
+00:27:51,415 --> 00:27:54,820
+Bà ta luôn để mắt đến mọi thứ
+vào và ra khỏi Phòng Giặt, ngoại trừ...
+
+584
+00:27:56,690 --> 00:27:57,349
+Ha.
+
+585
+00:27:58,114 --> 00:27:58,795
+Sao thế?
+
+586
+00:27:59,707 --> 00:28:00,513
+Không, không có gì cả.
+
+587
+00:28:01,424 --> 00:28:02,036
+Ờ.
+
+588
+00:28:02,979 --> 00:28:03,599
+Ha.
+
+589
+00:28:03,875 --> 00:28:05,366
+Hai lần "ha" rồi!
+Chắc chắn là phải có gì đó.
+
+590
+00:28:05,415 --> 00:28:07,303
+Đó là Kẹo May Mắn.
+Nó cho em ý tưởng.
+
+591
+00:28:07,409 --> 00:28:07,951
+Được rồi.
+
+592
+00:28:08,287 --> 00:28:11,712
+Có một lần bà ấy đã mất cảnh giác,
+là khi một người quý tộc đến tiệm.
+
+593
+00:28:12,092 --> 00:28:13,388
+Ông ta chỉ ghé qua
+để hỏi đường...
+
+594
+00:28:13,518 --> 00:28:15,197
+nhưng bà ấy bỗng như người mất hồn.
+
+595
+00:28:15,731 --> 00:28:17,287
+Thật là gớm chết được.
+
+596
+00:28:17,521 --> 00:28:18,492
+Chính là nó đó, Noodle.
+
+597
+00:28:18,688 --> 00:28:21,618
+Tất cả những gì ta cần làm là tìm
+một người quý tộc, và lẻn đi ngay lúc đó.
+
+598
+00:28:22,176 --> 00:28:23,198
+Ừ, nhưng...
+
+599
+00:28:23,851 --> 00:28:25,531
+Chúng ta sẽ tìm người quý tộc đó ở đâu?
+
+600
+00:28:29,037 --> 00:28:29,645
+Ha.
+
+601
+00:28:30,183 --> 00:28:30,833
+Hả?
+
+602
+00:28:32,117 --> 00:28:32,826
+Ha.
+
+603
+00:28:33,266 --> 00:28:34,255
+Hai lần "ha" rồi.
+
+604
+00:28:34,591 --> 00:28:35,510
+Em có bút chì và giấy không?
+
+605
+00:28:35,811 --> 00:28:36,605
+À ha.
+
+606
+00:28:36,792 --> 00:28:37,769
+Anh có một ý tưởng.
+
+607
+00:28:58,213 --> 00:28:59,546
+Tôi đến đây để xưng tội.
+
+608
+00:29:02,251 --> 00:29:04,032
+Nghe có vẻ hay đấy, mọi người.
+Cứ tiếp tục đi.
+
+609
+00:29:09,697 --> 00:29:11,846
+Xin tha lỗi cho con, thưa Cha,
+vì những tội lỗi con đã phạm.
+
+610
+00:29:13,818 --> 00:29:16,983
+Con mới vi phạm sương sương
+khoảng 150 lỗi thôi.
+
+611
+00:29:19,895 --> 00:29:22,440
+Cám dỗ thật sự rất khó cưỡng lại.
+
+612
+00:29:27,984 --> 00:29:28,877
+Cho con xuống nào.
+
+613
+00:29:31,674 --> 00:29:32,501
+Gặp lại Cha sau nhé.
+
+614
+00:29:38,336 --> 00:29:39,404
+Chào buổi tối, Cảnh sát trưởng.
+
+615
+00:29:40,815 --> 00:29:41,706
+Bọn họ đang chờ đợi.
+
+616
+00:29:42,003 --> 00:29:43,078
+Cảm ơn cô rất nhiều.
+
+617
+00:29:45,404 --> 00:29:46,348
+Chào buổi tối, mọi người.
+
+618
+00:29:46,606 --> 00:29:47,961
+Tôi có mang hóa đơn đến đây.
+
+619
+00:29:48,067 --> 00:29:49,239
+Một người bán sô-cô-la...
+
+620
+00:29:49,264 --> 00:29:51,068
+đã được chuyển sang
+kinh doanh khu bình thường.
+
+621
+00:29:53,151 --> 00:29:54,336
+Ồ, tuyệt vời.
+
+622
+00:29:54,477 --> 00:29:55,466
+Hàng này có vẻ ngon nhỉ.
+
+623
+00:29:56,309 --> 00:29:57,201
+Nói tôi nghe nào, sếp...
+
+624
+00:29:58,379 --> 00:30:00,716
+anh có muốn kiếm thêm một ít nữa không?
+
+625
+00:30:00,795 --> 00:30:01,767
+Tôi đang lắng nghe đây.
+
+626
+00:30:01,992 --> 00:30:03,568
+Chúng tôi nghĩ rằng cậu Wonka...
+
+627
+00:30:03,593 --> 00:30:07,572
+có thể cần nhiều hơn một chút
+không chỉ đơn giản là chuyển đi.
+
+628
+00:30:08,047 --> 00:30:09,011
+Anh ấy giỏi đấy.
+
+629
+00:30:09,088 --> 00:30:10,254
+Quá giỏi.
+
+630
+00:30:10,404 --> 00:30:13,640
+Và còn hơn thế nữa,
+anh ta chỉ lấy 1 đồng cho 1 viên sô-cô-la.
+
+631
+00:30:13,985 --> 00:30:16,465
+Vì vậy bất kỳ ai cũng có thể mua chúng,
+kể cả...
+
+632
+00:30:18,405 --> 00:30:19,134
+Anh biết đấy, những...
+
+633
+00:30:20,202 --> 00:30:20,880
+Người nghèo?
+
+634
+00:30:22,031 --> 00:30:22,630
+Ôi, anh bạn.
+
+635
+00:30:22,878 --> 00:30:24,942
+Tôi suýt tí nữa thì bị nôn.
+
+636
+00:30:25,703 --> 00:30:29,050
+Anh có thể vui lòng không nói ra từ đó
+khi có sự hiện diện của tôi không?
+
+637
+00:30:29,075 --> 00:30:30,554
+Anh ấy không thích
+khi mọi người nói từ "nghèo".
+
+638
+00:30:31,426 --> 00:30:32,162
+Xin lỗi nhé, Felix.
+
+639
+00:30:32,474 --> 00:30:34,323
+Chúng tôi muốn anh gửi cho Wonka...
+
+640
+00:30:34,348 --> 00:30:35,326
+một lời nhắn.
+
+641
+00:30:35,482 --> 00:30:37,754
+Được gia cố bằng tác động vật lý.
+
+642
+00:30:37,780 --> 00:30:40,130
+Rằng nếu anh ta cố gắng bán sô-cô-la
+ở thị trấn này một lần nữa...
+
+643
+00:30:40,162 --> 00:30:43,283
+anh ta có thể gặp một tai nạn nhỏ.
+
+644
+00:30:43,459 --> 00:30:45,712
+Mà có thể dẫn đến cái chết.
+
+645
+00:30:46,454 --> 00:30:47,899
+À, phải, tôi đã hiểu rồi.
+
+646
+00:30:47,924 --> 00:30:49,253
+Anh không cần phải tiếp tục nói điều đó.
+
+647
+00:30:49,278 --> 00:30:51,272
+Tôi chỉ muốn chắc rằng
+tất cả chúng ta đều hiểu cùng một ý.
+
+648
+00:30:51,297 --> 00:30:52,333
+Ờ, không ai dám hiểu cùng ý với anh đâu.
+
+649
+00:30:52,358 --> 00:30:54,318
+Vậy nó có nghĩa là gì chứ?
+À, tôi biết nó có ý gì...
+
+650
+00:30:54,343 --> 00:30:55,621
+Mà thực ra, nghĩa là sao vậy?
+
+651
+00:30:55,646 --> 00:30:56,714
+Được rồi nào, các quý ông.
+
+652
+00:30:58,393 --> 00:30:59,793
+Vậy, anh nghĩ sao, Cảnh sát trưởng?
+
+653
+00:31:00,067 --> 00:31:01,363
+Chúng ta chốt đơn chứ?
+
+654
+00:31:01,962 --> 00:31:04,748
+Nghe này, các bạn của tôi,
+tôi là một viên chức bảo vệ pháp luật.
+
+655
+00:31:04,937 --> 00:31:07,678
+Tôi không thể đi vòng vòng
+và tác động vật lý đối thủ của các anh.
+
+656
+00:31:08,978 --> 00:31:09,629
+Tôi xin lỗi.
+
+657
+00:31:10,831 --> 00:31:12,059
+Được rồi, Cảnh sát trưởng.
+
+658
+00:31:14,177 --> 00:31:16,747
+Tôi có thể thấy rằng
+anh là một người đàn ông chính trực.
+
+659
+00:31:18,901 --> 00:31:19,630
+Cảm ơn anh.
+
+660
+00:31:20,100 --> 00:31:21,610
+Nhưng hãy tự hỏi mình điều này...
+
+661
+00:31:22,497 --> 00:31:23,690
+{\an8}TRẢ BẰNG SÔ-CÔ-LA
+
+662
+00:31:23,940 --> 00:31:26,400
+<i><i><font color="#d04e22">♪ Have you got a sweet tooth? ♪</font>
+Anh có một chiếc răng ngọt ngào không?</i></i>
+
+663
+00:31:26,570 --> 00:31:27,990
+<i><font color="#d04e22">♪ I do ♪</font>
+Tôi có</i>
+
+664
+00:31:28,200 --> 00:31:32,080
+<i><font color="#d04e22">♪ A hunger that you have to feed? ♪</font>
+Một cơn đói mà anh phải có gì đó bỏ bụng?</i>
+
+665
+00:31:32,160 --> 00:31:34,700
+<i><font color="#d04e22">♪ Have you got a sweet tooth? ♪</font>
+Anh có một chiếc răng ngọt ngào không?</i>
+
+666
+00:31:34,910 --> 00:31:35,870
+<i><font color="#d04e22">♪ I do ♪</font>
+Tôi có</i>
+
+667
+00:31:36,000 --> 00:31:40,040
+<i><font color="#d04e22">♪ Well, we've got everything you need! ♪</font>
+Phải, chúng tôi đã có mọi thứ anh cần</i>
+
+668
+00:31:40,170 --> 00:31:43,880
+<i><font color="#d04e22">♪ Don't give me that conscience nonsense! ♪</font>
+Đừng nói với tôi về chuyện lương tâm vô nghĩa</i>
+
+669
+00:31:43,960 --> 00:31:45,275
+<i><font color="#d04e22">♪ It's simply ♪</font>
+Nó chỉ đơn giản là</i>
+
+670
+00:31:45,300 --> 00:31:47,340
+<i><font color="#d04e22">♪ quid pro quo ♪</font>
+Có qua có lại</i>
+
+671
+00:31:47,470 --> 00:31:51,141
+<i><font color="#d04e22">♪ So, a hundred of your favorites? ♪</font>
+Vì vậy, một trăm hộp mùi vị yêu thích của anh</i>
+
+672
+00:31:51,430 --> 00:31:54,890
+<i><font color="#d04e22">♪ Sorry, I'm afraid it's no! ♪</font>
+Xin lỗi, tôi e là không</i>
+
+673
+00:31:55,756 --> 00:31:56,656
+Tôi đã hứa với vợ...
+
+674
+00:31:56,681 --> 00:31:58,850
+Tôi sẽ giảm bớt Sô-cô-la.
+Anh biết đấy, tôi phải lấy lại vóc dáng...
+
+675
+00:31:58,875 --> 00:32:01,037
+cho Vũ hội của Sở Cảnh Sát, vì vậy...
+
+676
+00:32:01,400 --> 00:32:03,940
+<i><font color="#d04e22">♪ But think about your sweet tooth ♪</font>
+Nhưng hãy nghĩ về chiếc răng ngọt ngào của anh</i>
+
+677
+00:32:04,110 --> 00:32:05,480
+<i><font color="#d04e22">♪ I do ♪</font>
+Tôi có</i>
+
+678
+00:32:05,650 --> 00:32:09,360
+<i><font color="#d04e22">♪ I've had it since I was a boy ♪</font>
+Tôi đã có nó từ khi tôi còn là một cậu bé</i>
+
+679
+00:32:09,530 --> 00:32:11,910
+<i><font color="#d04e22">♪ Your naughty little sweet tooth ♪</font>
+Chiếc răng nhỏ ngọt ngào nghịch ngợm của anh</i>
+
+680
+00:32:12,120 --> 00:32:13,580
+<i><font color="#d04e22">♪ It's true ♪</font>
+Đúng là vậy</i>
+
+681
+00:32:13,700 --> 00:32:17,040
+<i><font color="#d04e22">♪ The only thing that brings you joy ♪</font>
+Thứ duy nhất mang lại cho anh niềm vui</i>
+
+682
+00:32:17,750 --> 00:32:19,870
+<i><font color="#d04e22">♪ Don't look at your waistline! ♪</font>
+Đừng nhìn vào vòng eo của anh nữa</i>
+
+683
+00:32:20,000 --> 00:32:20,960
+<i><font color="#d04e22">♪  It's fine! ♪</font>
+Nó ổn mà!</i>
+
+684
+00:32:20,985 --> 00:32:21,670
+Thôi nào!
+
+685
+00:32:22,080 --> 00:32:24,880
+<i><font color="#d04e22">♪ Who needs to see their toes? ♪</font>
+Ai cần nhìn thấy ngón chân làm gì chứ?</i>
+
+686
+00:32:24,960 --> 00:32:26,000
+<i><font color="#d04e22">♪ So ♪</font>
+Vậy</i>
+
+687
+00:32:26,130 --> 00:32:28,510
+<i><font color="#d04e22">♪ Seven hundred boxes? ♪</font>
+Bảy trăm hộp nhé</i>
+
+688
+00:32:29,720 --> 00:32:32,590
+<i><font color="#d04e22">♪ That's a lot of chocolates ♪</font>
+Đó là rất nhiều sô-cô-la...</i>
+
+689
+00:32:32,749 --> 00:32:33,435
+Không!
+
+690
+00:32:36,427 --> 00:32:38,440
+Nào các anh, nỗ lực hơn chút nữa nào.
+
+691
+00:32:42,060 --> 00:32:44,690
+<i><font color="#d04e22">♪ Have you got a sweet tooth? ♪</font>
+Anh có một chiếc răng ngọt ngào không?</i>
+
+692
+00:32:44,860 --> 00:32:45,722
+<i><font color="#d04e22">♪ Me too! ♪</font>
+Tôi cũng vậy</i>
+
+693
+00:32:45,747 --> 00:32:46,570
+Này các anh...
+
+694
+00:32:46,780 --> 00:32:48,940
+<i><font color="#d04e22">♪ Have you got the hots for chocs? ♪</font>
+Anh có mê sô-cô-la không?</i>
+
+695
+00:32:49,324 --> 00:32:50,568
+Tôi có, chắc chắn rồi.
+
+696
+00:32:50,749 --> 00:32:53,545
+<i><font color="#d04e22">♪ Do you think thatcandy's... ♪</font>
+Anh có nghĩ rằng những viên kẹo đó...</i>
+
+697
+00:32:53,570 --> 00:32:54,408
+<i><font color="#d04e22">♪ dandy? ♪</font>
+tuyệt vời không?</i>
+
+698
+00:32:54,433 --> 00:32:55,054
+- Ờ, thì có.
+
+699
+00:32:55,079 --> 00:32:56,693
+<i><font color="#d04e22">♪ Well, we've got lots and lots ♪</font>
+Chà, chúng tôi có rất nhiều</i>
+
+700
+00:32:56,718 --> 00:32:58,312
+<i><font color="#d04e22">♪ lots and lots and lots! ♪</font>
+và rất nhiều và rất nhiều</i>
+
+701
+00:32:58,568 --> 00:32:59,505
+Sao tôi lại hát thế này?
+
+702
+00:32:59,530 --> 00:33:01,710
+<i><font color="#d04e22">♪ If the wife's complaining ♪</font>
+Nếu vợ anh có phàn nàn</i>
+
+703
+00:33:02,170 --> 00:33:03,540
+<i><font color="#d04e22">♪ Body-shaming ♪</font>
+Hay là "bo đi sam sung" anh</i>
+
+704
+00:33:03,750 --> 00:33:04,710
+<i><font color="#d04e22">♪ It's amazing ♪</font>
+Thật tuyệt vời</i>
+
+705
+00:33:04,880 --> 00:33:07,307
+<i><font color="#d04e22">♪ what a tailor can conceal ♪</font>
+Thợ may có thể giúp ta che giấu chúng</i>
+
+706
+00:33:06,136 --> 00:33:07,374
+{\an8}GÜRDELS
+Ngôi nhà của Quần co giãn
+
+707
+00:33:09,010 --> 00:33:11,050
+<i><font color="#d04e22">♪ Keep your wretched chocolates ♪</font>
+Giữ lấy sô-cô-la xấu xa của anh đi</i>
+
+708
+00:33:11,170 --> 00:33:13,510
+<i><font color="#d04e22">♪ 18 hundred boxes?  ♪</font>
+1800 hộp nhé?</i>
+
+709
+00:33:13,890 --> 00:33:15,100
+<i><font color="#d04e22">♪ Oh, deal! ♪</font>
+Chốt</i>
+
+710
+00:33:22,331 --> 00:33:23,731
+- Bell.
+- Đây.
+
+711
+00:33:23,945 --> 00:33:24,857
+Benz.
+
+712
+00:33:25,586 --> 00:33:26,709
+Chucklesworth.
+
+713
+00:33:27,279 --> 00:33:28,506
+- Crunch.
+- Đây.
+
+714
+00:33:28,620 --> 00:33:29,831
+Wonka.
+
+715
+00:33:29,869 --> 00:33:30,449
+Bleacher!
+
+716
+00:33:30,866 --> 00:33:32,357
+Nhà vệ sinh lại bị nghẹt nữa rồi.
+
+717
+00:33:32,956 --> 00:33:36,192
+Chà. Âm thanh yêu thương
+không thể lẫn vào đâu được nhỉ.
+
+718
+00:33:37,062 --> 00:33:37,826
+Là sao hả?
+
+719
+00:33:38,795 --> 00:33:40,201
+Đừng nói với tôi là ông không để ý nhé.
+
+720
+00:33:40,507 --> 00:33:41,255
+Cái gì?
+
+721
+00:33:41,568 --> 00:33:43,000
+Bà ta yêu ông lắm đấy.
+
+722
+00:33:43,331 --> 00:33:44,841
+Bà Scrubitt?
+
+723
+00:33:45,026 --> 00:33:46,029
+Chết mê chết mệt.
+
+724
+00:33:46,373 --> 00:33:48,248
+Tại sao không chứ?
+Nhìn ông xem.
+
+725
+00:33:48,500 --> 00:33:49,903
+Dáng người chuẩn đàn ông thế này cơ mà.
+
+726
+00:33:50,306 --> 00:33:51,966
+Ông chỉ cần
+sửa soạn bản thân lại một chút.
+
+727
+00:33:52,121 --> 00:33:53,151
+Mặc một bộ đồ mới.
+
+728
+00:33:53,653 --> 00:33:54,616
+Tắm rửa sạch sẽ.
+
+729
+00:33:55,447 --> 00:33:56,467
+Tắm rửa ư?
+
+730
+00:33:56,726 --> 00:33:58,379
+Ông biết người ta nói gì mà, đúng không?
+
+731
+00:34:00,015 --> 00:34:01,135
+Người ta nói gì?
+
+732
+00:34:01,499 --> 00:34:02,938
+Bà ấy sẽ mê ông từ mắt cá chân.
+
+733
+00:34:03,327 --> 00:34:03,978
+Phải.
+
+734
+00:34:04,087 --> 00:34:05,808
+- Cho tới tận đầu gối.
+- Đúng vậy.
+
+735
+00:34:05,886 --> 00:34:07,142
+Nhưng nếu ông muốn
+khiến bà ấy phải thở dài...
+
+736
+00:34:07,167 --> 00:34:07,969
+Nói tôi nghe.
+
+737
+00:34:08,633 --> 00:34:09,987
+Cho bà ấy thấy luôn cả bắp đùi.
+
+738
+00:34:12,129 --> 00:34:12,826
+Bleacher!
+
+739
+00:34:13,275 --> 00:34:15,076
+Giờ nó đang tràn ra ngoài này.
+
+740
+00:34:15,254 --> 00:34:16,504
+- Vào đó đi. Quay lại làm việc.
+- Được rồi.
+
+741
+00:34:16,862 --> 00:34:18,347
+Tới mắt cá chân tôi rồi này.
+
+742
+00:34:18,509 --> 00:34:19,447
+Mất thời gian.
+
+743
+00:34:20,341 --> 00:34:21,116
+Bleacher!
+
+744
+00:34:21,465 --> 00:34:23,386
+Tên nông dân lười biếng chết tiệt.
+
+745
+00:34:32,989 --> 00:34:34,341
+Ngươi có gì ở đó thế hả?
+
+746
+00:34:34,784 --> 00:34:35,630
+Không có gì.
+
+747
+00:34:36,739 --> 00:34:38,509
+Ngươi có thích
+cái chuồng đó không, Noodle?
+
+748
+00:34:39,154 --> 00:34:40,013
+Được rồi.
+
+749
+00:34:40,759 --> 00:34:43,024
+Con đang gom đồ giặt
+từ Giáo sư Monocle của ngày hôm trước.
+
+750
+00:34:43,347 --> 00:34:43,840
+Ừ.
+
+751
+00:34:44,258 --> 00:34:46,576
+Ông ấy đang viết một cuốn sách
+về Hoàng gia xứ Bavaria.
+
+752
+00:34:46,634 --> 00:34:47,181
+Nhạt nhẽo.
+
+753
+00:34:47,206 --> 00:34:49,518
+Ông ấy có tranh vẽ các nhà quý tộc
+trên khắp tường nhà của mình.
+
+754
+00:34:49,603 --> 00:34:51,193
+- Thì sao?
+- Và cái này...
+
+755
+00:34:51,270 --> 00:34:52,507
+trông khá quen thuộc.
+
+756
+00:34:55,662 --> 00:34:57,915
+{\an8}Nam tước BleaChowitz
+
+757
+00:34:55,962 --> 00:34:57,977
+Ngạc nhiên đấy. Trông giống hệt như...
+
+758
+00:34:58,067 --> 00:34:59,284
+Ông Bleacher.
+
+759
+00:35:00,385 --> 00:35:03,633
+Ngươi đang nói với ta
+Bleacher là một quý tộc xứ Bavaria?
+
+760
+00:35:05,370 --> 00:35:06,818
+Đi lấy cho ta chai gin ngay.
+
+761
+00:35:09,370 --> 00:35:11,120
+<i><font color="#00ffff">♪ First, You pick up the apparel ♪</font>
+Đầu tiên bạn chọn quần áo</i>
+
+762
+00:35:11,240 --> 00:35:13,000
+<i><font color="#00ffff">♪ Then you stick it In a barrel ♪</font>
+Sau đó bạn bỏ vào một cái thùng</i>
+
+763
+00:35:13,160 --> 00:35:14,330
+<i><font color="#00ffff">♪ Scrub, scrub ♪</font>
+Chà, chà</i>
+
+764
+00:35:17,000 --> 00:35:18,880
+<i><font color="#00ffff">♪ Then you put it through the mangle ♪</font>
+Sau đó, bạn đưa nó qua máy vắt</i>
+
+765
+00:35:18,920 --> 00:35:20,840
+<i><font color="#00ffff">♪ Making sure you don’t get strangled ♪</font>
+Đảm bảo rằng bạn không bị siết cổ</i>
+
+766
+00:35:21,000 --> 00:35:22,300
+<i><font color="#00ffff">♪ Scrub, scrub ♪</font>
+Chà, chà</i>
+
+767
+00:35:24,923 --> 00:35:26,716
+<i><font color="#00ffff">♪ Oh, Tiddles, Here’s your chance ♪</font>
+Này Tiddles, đây là cơ hội của mày</i>
+
+768
+00:35:26,741 --> 00:35:28,459
+<i><font color="#00ffff">♪ To chew my mailman pants! ♪</font>
+để nhai quần đưa thư của tao!</i>
+
+769
+00:35:31,873 --> 00:35:34,155
+<i><font color="#00ffff">♪ Something must be going on ♪</font>
+Có điều gì đó đang xảy ra</i>
+
+770
+00:35:34,180 --> 00:35:35,980
+<i><font color="#00ffff">♪ ’Cause we never change our song ♪</font>
+Vì chúng ta không bao giờ thay đổi bài hát của mình</i>
+
+771
+00:35:36,190 --> 00:35:37,310
+<i><font color="#00ffff">♪ Scrub, scrub ♪</font>
+Chà, chà</i>
+
+772
+00:35:38,342 --> 00:35:40,406
+Vậy là cuối cùng anh cũng chịu
+lê cái mông lười biếng vào rồi à...
+
+773
+00:35:45,809 --> 00:35:47,129
+Anh mới chải chuốt à?
+
+774
+00:35:48,016 --> 00:35:48,810
+Chắc là thế.
+
+775
+00:35:49,226 --> 00:35:50,200
+Có lẽ không.
+
+776
+00:35:54,051 --> 00:35:55,595
+Anh lấy cái quần đó đâu ra thế?
+
+777
+00:35:56,092 --> 00:35:57,232
+Đồ thất lạc.
+
+778
+00:35:57,945 --> 00:35:58,841
+Thì sao...
+
+779
+00:35:59,859 --> 00:36:00,888
+nó hợp với tôi chứ?
+
+780
+00:36:02,151 --> 00:36:02,869
+Ừ.
+
+781
+00:36:03,355 --> 00:36:04,552
+Tôi thấy cũng không tệ.
+
+782
+00:36:07,250 --> 00:36:08,767
+Anh làm gì mà đứng ở đó thế?
+
+783
+00:36:09,274 --> 00:36:10,537
+Giữ ấm cho đầu gối của tôi.
+
+784
+00:36:11,337 --> 00:36:13,466
+À, sao anh không đến đây
+và uống một ly gin hả?
+
+785
+00:36:14,496 --> 00:36:15,902
+Sao cô không đến đây...
+
+786
+00:36:16,512 --> 00:36:17,828
+chỗ mà đang hừng hực đây này?
+
+787
+00:36:22,294 --> 00:36:23,902
+Ôi, Chủ nhân của tôi.
+
+788
+00:36:25,257 --> 00:36:26,546
+Thưa quý vị,
+tôi xin phép giới thiệu với mọi người...
+
+789
+00:36:26,571 --> 00:36:28,701
+một công trình hoàn toàn mới
+đến từ sự sáng tạo của tôi...
+
+790
+00:36:28,928 --> 00:36:30,921
+một sự đổi mới trong giặt ủi.
+
+791
+00:36:31,130 --> 00:36:32,010
+<i><font color="#00ffff">♪ Scrub, scrub ♪</font>
+Chà, chà</i>
+
+792
+00:36:32,035 --> 00:36:33,062
+Để tôi hỏi các bạn một câu nhé...
+
+793
+00:36:33,087 --> 00:36:35,836
+Tiddles luôn muốn làm gì?
+Đuổi theo những người đưa thư.
+
+794
+00:36:35,861 --> 00:36:38,694
+Và ta phải làm gì cả ngày,
+các đồng nghiệp, nói đi nào?
+
+795
+00:36:38,930 --> 00:36:39,677
+<i><font color="#00ffff">♪ Scrub, scrub ♪</font>
+Chà, chà</i>
+
+796
+00:36:39,702 --> 00:36:42,796
+Chiếc máy Willy Wonka Hoang dã Tuyệt vời,
+máy giặt Mơ ước Wonka Walker...
+
+797
+00:36:42,821 --> 00:36:45,133
+xin đừng bắt tôi nói lại một lần nữa,
+Tiddles được chạy...
+
+798
+00:36:45,158 --> 00:36:46,375
+và tôi thì vui.
+
+799
+00:36:46,400 --> 00:36:47,440
+<i><font color="#00ffff">♪ Scrub, scrub ♪</font>
+Chà, chà</i>
+
+800
+00:36:47,509 --> 00:36:48,928
+Tôi chỉ đi ra ngoài một chút thôi.
+
+801
+00:36:49,378 --> 00:36:51,174
+Sẽ quay lại trước khi điểm danh.
+
+802
+00:36:51,538 --> 00:36:53,733
+Cho đến lúc đó, Tiddles đã đồng ý...
+
+803
+00:36:54,360 --> 00:36:55,490
+<i><font color="#00ffff">♪ Scrub, scrub ♪</font>
+Chà, chà</i>
+
+804
+00:36:57,483 --> 00:36:59,710
+Hãy kể cho tôi nghe về xứ Bavaria đi.
+
+805
+00:36:59,735 --> 00:37:00,427
+Ở đâu?
+
+806
+00:37:00,468 --> 00:37:01,392
+Anh đến từ đâu.
+
+807
+00:37:01,578 --> 00:37:04,755
+Ồ, vâng. Nó rất là... Bavarian.
+
+808
+00:37:12,193 --> 00:37:13,223
+An toàn rồi.
+
+809
+00:37:13,439 --> 00:37:14,404
+- Thật sao?
+- Ừ.
+
+810
+00:37:14,801 --> 00:37:16,800
+Chúng ta làm được rồi!
+Tốt lắm, Noodle.
+
+811
+00:37:16,979 --> 00:37:18,201
+Em không thể tin rằng nó hiệu quả.
+
+812
+00:37:18,278 --> 00:37:20,452
+Chờ đến khi em thấy
+anh đã làm bao nhiêu sô-cô-la tối qua.
+
+813
+00:37:20,563 --> 00:37:22,255
+Chúng ta bán cái này, và chúng ta sẽ...
+
+814
+00:37:23,895 --> 00:37:24,646
+Ồ, không.
+
+815
+00:37:25,198 --> 00:37:26,591
+Có chuyện gì vậy, anh Willy?
+
+816
+00:37:26,616 --> 00:37:27,470
+Lại nữa sao.
+
+817
+00:37:27,627 --> 00:37:28,662
+Sô-cô-la đâu rồi?
+
+818
+00:37:28,955 --> 00:37:32,444
+Anh không biết nói thế nào, Noodle à,
+nhưn... chúng đã bị đánh cắp.
+
+819
+00:37:33,382 --> 00:37:34,466
+Bị đánh cắp?
+
+820
+00:37:34,944 --> 00:37:35,680
+Bởi ai?
+
+821
+00:37:36,140 --> 00:37:37,627
+Người đàn ông nhỏ màu da cam.
+
+822
+00:37:38,570 --> 00:37:39,255
+Cái gì?
+
+823
+00:37:39,384 --> 00:37:41,734
+Người đàn ông nhỏ màu da cam.
+Anh chưa kể em nghe về hắn à?
+
+824
+00:37:41,889 --> 00:37:43,276
+Không, anh không có.
+
+825
+00:37:43,419 --> 00:37:45,287
+Hắn là kẻ thù của anh.
+Cao cỡ này.
+
+826
+00:37:45,856 --> 00:37:47,067
+Hắn đến trong đêm khuya thanh vắng...
+
+827
+00:37:47,092 --> 00:37:48,460
+và đánh cắp tất cả sô-cô-la của anh.
+
+828
+00:37:49,019 --> 00:37:51,685
+Chuyện này đã xảy ra vài tuần một lần
+trong ba, bốn năm qua.
+
+829
+00:37:52,014 --> 00:37:52,828
+Thật sao?
+
+830
+00:37:52,867 --> 00:37:54,157
+Đôi lúc anh theo dõi hắn ta...
+
+831
+00:37:54,261 --> 00:37:56,110
+trong cõi kỳ lại đó, ở giữa khoảng không
+mơ màng và tỉnh giấc...
+
+832
+00:37:56,551 --> 00:37:58,205
+mái tóc xanh lấp lánh dưới ánh trăng.
+
+833
+00:37:58,393 --> 00:37:59,285
+Tóc xanh?
+
+834
+00:37:59,410 --> 00:38:01,351
+- Ngày nào đó anh sẽ bắt được hắn, Noodle.
+- Anh Willy.
+
+835
+00:38:01,376 --> 00:38:02,614
+- Khi anh bắt được...
+- Anh Willy.
+
+836
+00:38:03,263 --> 00:38:05,677
+Anh không nghiêm túc mong đợi em
+tin điều này, phải không?
+
+837
+00:38:05,791 --> 00:38:06,617
+Tất nhiên là anh có.
+
+838
+00:38:06,817 --> 00:38:08,119
+Còn lời giải thích nào khác sao?
+
+839
+00:38:08,306 --> 00:38:08,924
+Em không biết...
+
+840
+00:38:09,223 --> 00:38:10,607
+chẳng hạn như anh đi ngủ...
+
+841
+00:38:10,647 --> 00:38:11,962
+rồi mơ về người đàn ông xanh...
+
+842
+00:38:11,987 --> 00:38:12,893
+Người đàn ông da cam, tóc xanh. Ừ.
+
+843
+00:38:13,021 --> 00:38:14,397
+... và trong khi anh đang mơ...
+
+844
+00:38:14,586 --> 00:38:16,018
+thì đã úp mặt vào sô-cô-la
+và ăn hết rồi!
+
+845
+00:38:16,486 --> 00:38:17,203
+Úp mặt vào...
+
+846
+00:38:18,584 --> 00:38:19,528
+Chuyện này nghe có lý hơn nhỉ.
+
+847
+00:38:19,553 --> 00:38:21,827
+- Sao em lại nghĩ điều này sẽ thành công?
+- Mình đã ăn hết sô-cô-la của mình?
+
+848
+00:38:21,852 --> 00:38:23,095
+- Kẹo May Mắn ngu ngốc.
+- Mình không nghĩ là mình đã làm vậy.
+
+849
+00:38:23,328 --> 00:38:23,922
+Này!
+
+850
+00:38:24,430 --> 00:38:26,097
+Sô-cô-la của anh không có ngu ngốc nhé.
+
+851
+00:38:26,852 --> 00:38:30,140
+Nếu bà Scrubitt phát hiện ra chúng ta,
+em sẽ bị bắt vào trong chuồng ngay.
+
+852
+00:38:30,322 --> 00:38:31,748
+Nghe này, anh xin lỗi, được chứ?
+
+853
+00:38:31,943 --> 00:38:32,939
+Nhưng chúng ta có thể
+làm thêm sô-cô-la mà.
+
+854
+00:38:33,618 --> 00:38:35,070
+Vấn đề duy nhất là anh không có sữa.
+
+855
+00:38:35,895 --> 00:38:37,360
+À, đó không phải là vấn đề.
+
+856
+00:38:39,200 --> 00:38:39,815
+Sữa.
+
+857
+00:38:40,573 --> 00:38:42,291
+Này, đó là ăn cắp.
+
+858
+00:38:42,982 --> 00:38:43,808
+Và...
+
+859
+00:38:43,900 --> 00:38:45,690
+Willy Wonka không sử dụng
+bất kỳ loại sữa bò cũ nào.
+
+860
+00:38:46,328 --> 00:38:47,454
+Với sự sáng tạo đặc biệt này...
+
+861
+00:38:47,733 --> 00:38:49,488
+anh cần sữa của một con hươu cao cổ.
+
+862
+00:38:49,814 --> 00:38:51,494
+Được rồi... tốt thôi.
+
+863
+00:38:51,727 --> 00:38:53,283
+Trên thực tế, có một con ở sở thú.
+
+864
+00:38:53,708 --> 00:38:54,443
+Chính nó!
+
+865
+00:38:54,736 --> 00:38:56,956
+Nhưng này, sở thú không phải hướng đó.
+
+866
+00:38:57,066 --> 00:38:57,515
+Tuyệt.
+
+867
+00:38:57,900 --> 00:38:58,621
+Và...
+
+868
+00:38:59,793 --> 00:39:02,215
+họ sẽ không cho phép anh
+bước vào đó và vắt sữa đâu.
+
+869
+00:39:03,551 --> 00:39:04,840
+Noodle yêu dấu à, đó là lý do tại sao
+chúng ta rất may mắn...
+
+870
+00:39:04,970 --> 00:39:08,499
+vì Người đàn ông nhỏ
+màu da cam không tìm thấy cái này.
+
+871
+00:39:12,847 --> 00:39:13,387
+BẢO VỆ
+
+872
+00:39:13,385 --> 00:39:14,110
+Nó là gì vậy?
+
+873
+00:39:14,546 --> 00:39:15,685
+Từ Quản lý của Sở Thú.
+
+874
+00:39:16,084 --> 00:39:18,115
+Để ghi nhận
+những năm tháng phục vụ của anh.
+
+875
+00:39:19,390 --> 00:39:20,861
+Nhưng tôi chỉ mới làm ở đây một năm.
+
+876
+00:39:22,313 --> 00:39:25,152
+Đó là lý do tại sao chỉ có
+một viên sô-cô-la.
+
+877
+00:39:27,762 --> 00:39:28,966
+Ồ, cảm ơn rất nhiều.
+
+878
+00:39:29,368 --> 00:39:30,983
+Không có chi.
+Ngủ ngon nhé!
+
+879
+00:39:33,108 --> 00:39:33,792
+Làm tốt lắm, Noodle.
+
+880
+00:39:33,957 --> 00:39:35,780
+Vậy nó thật ra là gì vậy?
+
+881
+00:39:36,048 --> 00:39:37,168
+Nó được gọi là Một Đêm Say.
+
+882
+00:39:37,682 --> 00:39:39,583
+Loại sô-cô-la tái hiện hoàn hảo
+một đêm trên thị trấn.
+
+883
+00:39:41,164 --> 00:39:43,341
+Lớp bên ngoài, mang vị bơ sữa
+phủ bột ca cao và sâm-panh.
+
+884
+00:39:44,039 --> 00:39:44,706
+Ngon thật đấy.
+
+885
+00:39:44,840 --> 00:39:46,416
+Tiếp theo là rượu vang trắng.
+
+886
+00:39:47,535 --> 00:39:48,362
+Kế đến là rượu vang đỏ.
+
+887
+00:39:48,525 --> 00:39:50,309
+Tới công chuyện nào!
+
+888
+00:39:50,478 --> 00:39:51,767
+Đó là lúc người ta bắt đầu
+ca hát và nhảy múa.
+
+889
+00:39:52,230 --> 00:39:55,240
+<i> Tối nay sẽ có một bữa tiệc!</i>
+
+890
+00:39:55,350 --> 00:39:57,616
+Và khi anh ta chạm đến lớp kẹo
+vị wisky, cảm xúc sẽ dâng trào.
+
+891
+00:39:58,505 --> 00:40:00,673
+Cô ấy là người phụ nữ
+duy nhất tôi từng yêu!
+
+892
+00:40:00,726 --> 00:40:02,477
+Anh ta có thể làm điều gì đó liều lĩnh.
+
+893
+00:40:02,601 --> 00:40:04,808
+Tôi sẽ gọi cho cô ấy.
+Còn gì để mất nữa đâu?
+
+894
+00:40:06,591 --> 00:40:09,447
+Xin chào, Gwennie? Là anh, Basil đây.
+Anh chỉ muốn nói...
+
+895
+00:40:09,472 --> 00:40:10,871
+anh luôn yêu em.
+
+896
+00:40:11,138 --> 00:40:12,759
+Anh yêu em nhiều lắm.
+Cái gì?
+
+897
+00:40:13,449 --> 00:40:15,715
+Là Basil Bond đây.
+Chúng ta đã ngồi cùng nhau ở lớp Hóa.
+
+898
+00:40:15,876 --> 00:40:17,150
+Không, không, đừng cúp máy!
+
+899
+00:40:17,183 --> 00:40:20,513
+Cuối cùng, một vị rượu đặc biệt
+được giấu kỹ đằng sau tủ, và...
+
+900
+00:40:24,550 --> 00:40:25,378
+Đi thôi.
+
+901
+00:40:26,526 --> 00:40:27,336
+Noodle, đi thôi.
+
+902
+00:40:30,057 --> 00:40:31,242
+Tại sao chúng ta không bay đi?
+
+903
+00:40:31,698 --> 00:40:32,644
+Anh không biết.
+
+904
+00:40:33,443 --> 00:40:34,488
+Có lẽ chúng ta không nghĩ về chuyện đó.
+
+905
+00:40:35,038 --> 00:40:35,800
+Anh đùa à?
+
+906
+00:40:35,943 --> 00:40:38,352
+Không, anh nghiêm túc đấy.
+Đó là vấn đề của chim hồng hạc.
+
+907
+00:40:38,736 --> 00:40:40,247
+Chúng cần ai đó chỉ đường cho chúng.
+
+908
+00:40:46,028 --> 00:40:46,800
+Hươu cao cổ.
+
+909
+00:40:47,818 --> 00:40:50,813
+Hươu cao cổ. Hươu cao cổ.
+
+910
+00:40:51,231 --> 00:40:54,656
+{\an8}HỔ
+Panthera Tigris
+
+911
+00:40:53,283 --> 00:40:53,990
+Hươu cao cổ.
+
+912
+00:40:59,997 --> 00:41:01,872
+Anh phải đi học đọc chữ ngay đi.
+
+913
+00:41:02,504 --> 00:41:03,031
+Tại sao?
+
+914
+00:41:03,404 --> 00:41:04,745
+Suýt nữa anh bị con hổ đó ăn thịt đấy.
+
+915
+00:41:04,986 --> 00:41:06,243
+"Suýt" chính là từ khóa đó, Noodle.
+
+916
+00:41:06,457 --> 00:41:07,942
+Anh gần như suýt bị ăn thịt
+bởi rất nhiều thứ...
+
+917
+00:41:08,189 --> 00:41:09,609
+và chưa từng có sinh vật nào
+làm được nhiều hơn 1 cú cắn yêu.
+
+918
+00:41:11,704 --> 00:41:12,622
+Hươu cao cổ.
+
+919
+00:41:13,290 --> 00:41:14,312
+Được rồi, anh sẽ học cách đọc.
+
+920
+00:41:34,727 --> 00:41:35,673
+Chào buổi tối, cô...
+
+921
+00:41:38,747 --> 00:41:39,320
+Abigail.
+
+922
+00:41:39,445 --> 00:41:40,038
+Abigail.
+
+923
+00:41:42,037 --> 00:41:42,531
+Bình tĩnh thôi nào.
+
+924
+00:41:43,033 --> 00:41:44,133
+Tôi có mang theo
+món bạc hà này.
+
+925
+00:41:52,578 --> 00:41:55,182
+Hươu cao cổ luôn phát cuồng
+về món bạc hà này của anh.
+
+926
+00:41:55,561 --> 00:41:56,928
+Chúng thích nó hơn bất cứ điều gì khác.
+
+927
+00:41:57,281 --> 00:41:58,876
+Chỉ sau việc gãi cằm cho chúng,
+em thấy chứ?
+
+928
+00:42:02,070 --> 00:42:03,281
+Em muốn thử không, Noodle?
+
+929
+00:42:03,415 --> 00:42:04,099
+Em à?
+
+930
+00:42:05,024 --> 00:42:06,059
+Ừ. Tại sao không?
+
+931
+00:42:07,997 --> 00:42:08,660
+Được rồi.
+
+932
+00:42:17,047 --> 00:42:17,769
+Anh nghĩ rằng cô ấy thích em.
+
+933
+00:42:19,315 --> 00:42:20,351
+Cô Abigail...
+
+934
+00:42:21,426 --> 00:42:23,562
+Nếu người bạn này của tôi
+gãi cằm cho cô thật đã...
+
+935
+00:42:23,899 --> 00:42:26,588
+liệu rằng cô có thể cho chúng tôi
+một hoặc hai ly sữa chứ?
+
+936
+00:42:31,878 --> 00:42:32,657
+Vậy...
+
+937
+00:42:33,046 --> 00:42:34,459
+Anh đã làm điều này rồi hả?
+
+938
+00:42:34,656 --> 00:42:38,544
+Một lần. Ở Châu Phi.
+Một sinh vật đẹp tuyệt vời.
+
+939
+00:42:39,068 --> 00:42:40,168
+Nó có hoang dã không?
+
+940
+00:42:40,388 --> 00:42:41,181
+Hoang dã à?
+
+941
+00:42:41,422 --> 00:42:42,698
+Nó cực kỳ dữ dội.
+
+942
+00:42:43,874 --> 00:42:45,593
+Anh chắc chắn là một tên ngốc, Willy à.
+
+943
+00:42:45,676 --> 00:42:47,824
+Anh cho rằng đó là <i>sự-thiệt</i>, Noodle.
+
+944
+00:42:48,491 --> 00:42:49,273
+<i>Sự-thiệt?</i>
+
+945
+00:42:49,862 --> 00:42:50,904
+Từ đó không đúng sao?
+
+946
+00:42:51,458 --> 00:42:52,532
+Tên của em chẳng có vần điệu gì cả.
+
+947
+00:42:53,350 --> 00:42:54,893
+Em lấy tên đó ở đâu ra thế?
+
+948
+00:42:55,840 --> 00:42:56,680
+Không quan trọng.
+
+949
+00:42:57,500 --> 00:42:58,571
+Không sao đâu, nói đi.
+
+950
+00:43:01,651 --> 00:43:02,391
+Cái này.
+
+951
+00:43:03,859 --> 00:43:06,444
+Đó là tất cả những gì em có
+từ cha mẹ ruột của mình. Thấy chứ?
+
+952
+00:43:06,868 --> 00:43:10,534
+"N" là Noodle. Hoặc Nora, hoặc Nina...
+
+953
+00:43:11,374 --> 00:43:12,383
+hoặc không có gì cả.
+
+954
+00:43:13,675 --> 00:43:14,783
+Em không thể tìm được
+người sở hữu nó sao?
+
+955
+00:43:14,920 --> 00:43:16,085
+Anh không nghĩ rằng em đã cố tìm rồi à?
+
+956
+00:43:17,287 --> 00:43:20,972
+Khi còn là một đứa trẻ, em luôn hy vọng
+rằng sẽ tìm thấy cha mẹ mình.
+
+957
+00:43:20,718 --> 00:43:22,927
+{\an8}GIẤC MƠ CỦA NOODLE
+
+958
+00:43:22,515 --> 00:43:25,503
+Và họ sẽ sống trong ngôi nhà cũ xinh đẹp
+có đầy những quyển sách.
+
+959
+00:43:26,474 --> 00:43:29,886
+Mẹ em, bà ấy sẽ đợi em
+ở trước cửa ngôi nhà...
+
+960
+00:43:30,433 --> 00:43:33,189
+và em sẽ chạy vào vòng tay bà ấy.
+Bà ấy sẽ ôm em thật chặt...
+
+961
+00:43:33,214 --> 00:43:34,767
+như thể bà ấy chưa từng để em rời xa.
+
+962
+00:43:37,721 --> 00:43:39,609
+Nhưng rồi em nhận ra,
+đó chỉ là một giấc mơ ngu ngốc.
+
+963
+00:43:42,852 --> 00:43:44,037
+Chuyện đó không có gì là ngu ngốc cả.
+
+964
+00:43:44,697 --> 00:43:45,473
+Thật sao?
+
+965
+00:43:46,533 --> 00:43:50,016
+Anh biết mọi chuyện không dễ dàng với em.
+Nhưng từ giờ nó sẽ tốt hơn.
+
+966
+00:43:50,915 --> 00:43:53,357
+Anh sẽ không bỏ em ở lại
+trong căn Nhà Giặt đó mãi mãi đâu.
+
+967
+00:43:53,915 --> 00:43:54,741
+Anh hứa chứ?
+
+968
+00:43:55,585 --> 00:43:56,672
+Anh có thể làm tốt hơn thế.
+
+969
+00:43:58,314 --> 00:44:01,679
+Anh ngoéo tay xin thề.
+Và đây sẽ là lời thề trang trọng nhất.
+
+970
+00:44:05,290 --> 00:44:06,110
+Giờ thì tiếp tục gãi nào.
+
+971
+00:44:06,956 --> 00:44:10,081
+Chúng ta không có nhiều thời gian
+cho đến khi bảo vệ <i>tiến-thăm</i>, Noodle à.
+
+972
+00:44:10,617 --> 00:44:11,407
+<i>Tiến-thăm!</i>
+
+973
+00:44:11,647 --> 00:44:12,865
+Từ đó cũng chẳng có ý nghĩa gì cả!
+
+974
+00:44:15,058 --> 00:44:16,251
+Anh sẽ cố tìm từ khác tốt hơn.
+
+975
+00:44:19,509 --> 00:44:21,889
+<i><font color="#ff80c0">♪ For a moment ♪</font>
+Trong một khoảnh khắc</i>
+
+976
+00:44:22,090 --> 00:44:26,590
+<i><font color="#ff80c0">♪ Life doesn’t seem quite so bad ♪</font>
+Cuộc sống dường như không quá tệ</i>
+
+977
+00:44:28,590 --> 00:44:31,510
+<i><font color="#ff80c0">♪ For a moment ♪</font>
+Trong một khoảnh khắc</i>
+
+978
+00:44:31,590 --> 00:44:36,220
+<i><font color="#ff80c0">♪ I kinda forgot to be sad ♪</font>
+Tôi dường như đã quên đi nỗi buồn</i>
+
+979
+00:44:38,230 --> 00:44:42,230
+<i><font color="#ff80c0">♪ He turns night to day ♪</font>
+Anh ấy làm cho mọi thứ tươi sáng hơn</i>
+
+980
+00:44:43,538 --> 00:44:47,748
+<i><font color="#ff80c0">♪ But don’t get carried away ♪</font>
+Nhưng đừng nên phấn khích quá</i>
+
+981
+00:44:48,280 --> 00:44:50,570
+<i><font color="#ff80c0">♪ Never let down your guard ♪</font>
+Đừng bao giờ mất cảnh giác</i>
+
+982
+00:44:50,700 --> 00:44:52,731
+<i><font color="#ff80c0">♪ Let them into your heart ♪</font>
+Để họ lọt vào trái tim bạn</i>
+
+983
+00:44:52,756 --> 00:44:54,700
+<i><font color="#ff80c0">♪ For a moment ♪</font>
+dù chỉ trong khoảnh khắc</i>
+
+984
+00:44:57,000 --> 00:44:59,710
+<i><font color="#ff80c0">♪ Not for a moment ♪</font>
+Không phải khoảnh khắc này</i>
+
+985
+00:44:59,830 --> 00:45:01,830
+Anh tìm ra rồi, Noodle.
+Nghe này.
+
+986
+00:45:02,670 --> 00:45:07,670
+<i><font color="#00ffff">♪ Noodle, Noodle, Apple strudel ♪</font>
+Noodle, Noodle,  bánh táo!</i>
+
+987
+00:45:07,840 --> 00:45:09,509
+<i><font color="#00ffff">♪ Some people don’t ♪</font>
+Một số người thì không</i>
+
+988
+00:45:09,534 --> 00:45:11,994
+<i><font color="#00ffff">♪ And some people doodle ♪</font>
+Một vài người thì vẽ nguệch ngoạc</i>
+
+989
+00:45:12,347 --> 00:45:17,277
+<i><font color="#00ffff">♪ Snakes, flamingos, Bears, and poodles ♪</font>
+Rắn, hồng hạc, gấu và chó lông xù </i>
+
+990
+00:45:17,470 --> 00:45:22,212
+<i><font color="#00ffff">♪ Singing this song will improve your moodle ♪</font>
+Hát bài hát này sẽ khiến em vui hơn</i>
+
+991
+00:45:22,361 --> 00:45:25,861
+<i><font color="#00ffff">♪ Noodle-dee-dee
+Noodle-dee-dum ♪</font></i>
+
+992
+00:45:25,982 --> 00:45:26,768
+Willy!
+
+993
+00:45:27,150 --> 00:45:31,860
+<i><font color="#00ffff">♪ We’re having oodles and oodles of fun ♪</font>
+Chúng ta đang có rất nhiều niềm vui</i>
+
+994
+00:45:32,182 --> 00:45:33,399
+Cảm ơn, Abigail!
+
+995
+00:45:33,941 --> 00:45:35,534
+<i><font color="#ff80c0">♪ For a moment ♪</font>
+Trong khoảnh khắc,</i>
+
+996
+00:45:34,316 --> 00:45:39,140
+{\an8}<i><font color="#00ffff">♪ Noodle, Noodle, Apple strudel ♪</font>
+Noodle, Noodle, bánh táo!</i>
+
+997
+00:45:36,351 --> 00:45:40,279
+<i><font color="#ff80c0">♪ My life has turned upside down ♪</font>
+Mọi thứ đã đảo lộn</i>
+
+998
+00:45:39,250 --> 00:45:40,718
+{\an8}<i><font color="#00ffff">♪ Some people don’t ♪</font>
+Một số người thì không</i>
+
+999
+00:45:40,743 --> 00:45:42,687
+{\an8}<i><font color="#00ffff">♪ And some people doodle ♪</font>
+Một vài người vẽ nguệch ngoạc </i>
+
+1000
+00:45:42,725 --> 00:45:45,159
+<i><font color="#ff80c0">♪ For a moment ♪</font>
+Trong khoảnh khắc</i>
+
+1001
+00:45:43,658 --> 00:45:45,976
+{\an8}<i><font color="#00ffff">♪ Snakes, flamingos ♪</font>
+Rắn, hồng hạc</i>
+
+1002
+00:45:46,170 --> 00:45:49,914
+<i><font color="#ff80c0">♪ I can’t keep my feet on the ground ♪</font>
+Em không thể giữ chân mình trên mặt đất</i>
+
+1003
+00:45:46,285 --> 00:45:48,079
+{\an8}<i><font color="#00ffff">♪ Bears and poodles ♪</font>
+Gấu và chó lông xù</i>
+
+1004
+00:45:48,648 --> 00:45:52,630
+{\an8}<i><font color="#00ffff">♪ Singing this song will improve your moodle ♪</font>
+Hát bài hát này sẽ khiến em vui hơn</i>
+
+1005
+00:45:52,760 --> 00:45:57,171
+<i><font color="#ff80c0">♪ He’s the one good thing ♪</font>
+Anh là điều tốt đẹp đầu tiên</i>
+
+1006
+00:45:53,499 --> 00:45:57,640
+{\an8}<i><font color="#00ffff">Noodle-dee-dee,
+Noodle-dee-dum</font></i>
+
+1007
+00:45:57,760 --> 00:46:00,354
+<i><font color="#ff80c0">♪ That’s ever happened to me ♪</font>
+Mà đã từng đến cuộc đời em</i>
+
+1008
+00:45:58,381 --> 00:46:03,100
+{\an8}<i><font color="#00ffff">♪ We’re having oodles and oodles of fun ♪</font>
+Chúng ta đang có rất nhiều niềm vui</i>
+
+1009
+00:46:43,400 --> 00:46:44,030
+Cảnh sát trưởng...
+
+1010
+00:46:44,715 --> 00:46:46,440
+nhớ cái gã mà anh muốn
+nói chuyện với hắn chứ?
+
+1011
+00:46:53,490 --> 00:46:55,330
+<i><font color="#ff80c0">♪ For a moment ♪</font>
+Trong một khoảnh khắc</i>
+
+1012
+00:46:56,300 --> 00:47:01,020
+<i><font color="#ff80c0">♪ Life doesn’t seem quite so bad ♪</font>
+Cuộc sống dường như không quá tệ</i>
+
+1013
+00:47:02,327 --> 00:47:04,747
+<i><font color="#ff80c0">♪ And for a moment ♪</font>
+Và trong một khoảnh khắc</i>
+
+1014
+00:47:05,894 --> 00:47:10,894
+<i><font color="#ff80c0">♪  I kinda forgot to be sad ♪</font>
+Em dường như đã quên đi nỗi buồn</i>
+
+1015
+00:47:14,146 --> 00:47:15,249
+Anh Wonka!
+
+1016
+00:47:15,568 --> 00:47:17,021
+Tôi muốn nói chuyện riêng với anh.
+
+1017
+00:47:17,560 --> 00:47:19,286
+Chắc chắn rồi, Cảnh sát trưởng.
+
+1018
+00:47:19,311 --> 00:47:21,402
+- Đi trước đi nhé, Affable.
+- Anh chắc chứ?
+
+1019
+00:47:21,427 --> 00:47:24,260
+Ừ. Đây là chuyện giữa tôi và anh Wonka.
+
+1020
+00:47:24,481 --> 00:47:25,724
+- Em nên đi khỏi đây, Noodle.
+- Nhưng Willy...
+
+1021
+00:47:25,749 --> 00:47:28,413
+Đừng lo cho anh. Anh sẽ tìm cách
+thoát khỏi tình huống khó khăn này.
+
+1022
+00:47:28,524 --> 00:47:29,739
+Anh sẽ gặp lại em ở chỗ giỏ đồ.
+
+1023
+00:47:30,958 --> 00:47:31,688
+Chào anh, cảnh sát Trưởng...
+
+1024
+00:47:31,897 --> 00:47:33,010
+Nếu là về chuyện Abigail...
+
+1025
+00:47:33,035 --> 00:47:34,540
+Tôi có một lời nhắn cho anh, anh bạn.
+
+1026
+00:47:36,929 --> 00:47:39,774
+Không được bán
+sô-cô-la trong thị trấn này!
+
+1027
+00:47:41,608 --> 00:47:42,505
+Anh hiểu chưa?
+
+1028
+00:47:43,739 --> 00:47:45,152
+Tôi e rằng tôi chưa hiểu lắm.
+
+1029
+00:47:45,637 --> 00:47:49,310
+Chà, anh có cái miệng lớn lối đấy hả,
+Chàng trai Kẹo ngọt? Tôi nói là...
+
+1030
+00:47:50,158 --> 00:47:52,229
+Không được bán sô-cô-la!
+
+1031
+00:47:53,927 --> 00:47:54,968
+Lần này thì anh nghe rõ chưa?
+
+1032
+00:47:55,596 --> 00:47:57,126
+Nước chảy vào trong tai của tôi.
+
+1033
+00:47:57,919 --> 00:47:59,598
+À, ờ... Anh bị...
+
+1034
+00:48:01,071 --> 00:48:02,138
+Ờ, cũng có lý nhỉ.
+
+1035
+00:48:03,159 --> 00:48:05,074
+Nghe này, tôi xin lỗi.
+
+1036
+00:48:05,494 --> 00:48:07,069
+Tôi thật sự điên mất rồi.
+
+1037
+00:48:07,417 --> 00:48:09,976
+Sự thật là, tôi không muốn làm điều này.
+
+1038
+00:48:10,001 --> 00:48:11,199
+Tôi cũng không muốn anh như vậy.
+
+1039
+00:48:11,362 --> 00:48:13,166
+Nhưng tôi vẫn phải
+gửi cho anh một lời nhắn.
+
+1040
+00:48:13,510 --> 00:48:15,672
+Bán sô-cô-la ở thị trấn này một lần nữa...
+
+1041
+00:48:15,697 --> 00:48:17,333
+anh sẽ bị đau đầu nhiều hơn đấy.
+
+1042
+00:48:18,140 --> 00:48:19,436
+Tôi đâu có bị đau đầu.
+
+1043
+00:48:21,786 --> 00:48:23,200
+Hôm nay tôi bị làm sao thế này? Tôi...
+
+1044
+00:48:24,292 --> 00:48:25,911
+- Anh đợi tôi một chút nhé.
+- Được thôi.
+
+1045
+00:48:28,908 --> 00:48:30,334
+Ngài Bleachowitz.
+
+1046
+00:48:31,122 --> 00:48:32,281
+Bà Scrubitt.
+
+1047
+00:48:32,366 --> 00:48:36,325
+Đôi mắt của em giống như hai hòn phân thỏ
+trong hai chén sữa trứng.
+
+1048
+00:48:37,483 --> 00:48:39,267
+Anh thật là khéo ăn khéo nói.
+
+1049
+00:48:39,761 --> 00:48:40,750
+Gặp lại em ở tầng dưới nhé.
+
+1050
+00:48:40,786 --> 00:48:42,003
+Rơi tự do đây!
+
+1051
+00:48:44,171 --> 00:48:45,067
+Cậu Wonka.
+
+1052
+00:48:45,232 --> 00:48:46,378
+Mừng cậu đã quay lại với chúng tôi.
+
+1053
+00:48:47,394 --> 00:48:49,093
+- Tôi không về muộn chứ?
+- Vâng, không muộn.
+
+1054
+00:48:49,118 --> 00:48:50,740
+Đến hiện tại thì vẫn ổn, nhưng...
+
+1055
+00:48:50,765 --> 00:48:52,348
+Tiddles vẫn chạy khỏe chứ?
+
+1056
+00:48:52,373 --> 00:48:54,470
+Trên thực tế,
+Tiddles đã làm việc rất tốt...
+
+1057
+00:48:54,495 --> 00:48:56,287
+và năng suất tăng 30%,
+
+1058
+00:48:56,723 --> 00:48:58,175
+Chúng tôi đã nghỉ buổi chiều.
+
+1059
+00:48:58,286 --> 00:48:59,425
+Nhưng đó không phải là vấn đề.
+
+1060
+00:48:59,450 --> 00:49:00,447
+Đây mới là vấn đề.
+
+1061
+00:49:00,472 --> 00:49:02,244
+- Không phải bây giờ, Larry.
+- Xin lỗi.
+
+1062
+00:49:02,269 --> 00:49:03,149
+Vấn đề là...
+
+1063
+00:49:03,853 --> 00:49:04,908
+Cậu đã ở đâu?
+
+1064
+00:49:05,042 --> 00:49:06,611
+Và tại sao cậu lại có mùi hươu cao cổ?
+
+1065
+00:49:08,064 --> 00:49:09,405
+Chắc là tôi nợ mọi người
+một lời giải thích.
+
+1066
+00:49:10,293 --> 00:49:11,349
+Sự thật là...
+
+1067
+00:49:11,606 --> 00:49:12,680
+tôi là một người làm sô-cô-la.
+
+1068
+00:49:13,090 --> 00:49:14,457
+Không đơn giản chỉ là sô-cô-la.
+
+1069
+00:49:14,621 --> 00:49:16,083
+Mà còn là tốt nhất trên thế giới.
+
+1070
+00:49:16,222 --> 00:49:18,806
+Chà, Noodle có hơi nói quá,
+nhưng em ấy nói đúng.
+
+1071
+00:49:19,047 --> 00:49:20,044
+Chúng rất tinh tế.
+
+1072
+00:49:20,310 --> 00:49:22,836
+Và kế hoạch là sẽ bán sô-cô-la
+và trả hết tiền cho bà Scrubitt.
+
+1073
+00:49:23,597 --> 00:49:25,857
+Ít nhất, đó là kế hoạch, cho đến khi...
+
+1074
+00:49:25,992 --> 00:49:29,924
+Để tôi đoán. Cậu đã có một màn rượt đuổi
+nhỏ với Cảnh sát trưởng?
+
+1075
+00:49:30,627 --> 00:49:31,506
+Làm thế nào ông biết điều đó?
+
+1076
+00:49:31,532 --> 00:49:34,527
+Bởi vì tôi đã từng là
+kế toán của Slugworth.
+
+1077
+00:49:35,009 --> 00:49:38,563
+Ít nhất là trong một tuần.
+Nhân viên kế toán của ông ta bị ốm.
+
+1078
+00:49:38,588 --> 00:49:39,313
+Làm ơn chở tôi ra ga.
+
+1079
+00:49:39,338 --> 00:49:42,528
+<i>Và tôi đã được gọi từ nửa vòng đất nước
+đến để thay thế người đó.</i>
+
+1080
+00:49:42,978 --> 00:49:47,222
+Chào buổi tối, ông Slugworth.
+Tôi cần chữ ký của ông trên...
+
+1081
+00:49:47,659 --> 00:49:49,130
+<i>Có vẻ là một công việc đơn giản.</i>
+
+1082
+00:49:50,829 --> 00:49:51,956
+<i>Cho đến khi tôi nhận ra...</i>
+
+1083
+00:49:52,808 --> 00:49:54,612
+<i>có hai cuốn sổ.</i>
+
+1084
+00:49:55,237 --> 00:49:56,988
+<i>Một cho cơ quan nhà nước...</i>
+
+1085
+00:49:57,457 --> 00:49:59,592
+<i>và một cuốn nói lên sự thật.</i>
+
+1086
+00:50:00,612 --> 00:50:06,029
+<i>Slugworth, Fickelgruber và Prodnose
+đã bí mật hợp tác nhiều năm nay.</i>
+
+1087
+00:50:06,219 --> 00:50:08,720
+<i>Một Băng đảng doanh nghiệp sô-cô-la
+hợp tác với nhau.</i>
+
+1088
+00:50:08,941 --> 00:50:11,090
+<i>Họ đã thêm nước vào sô-cô-la của họ...</i>
+
+1089
+00:50:11,115 --> 00:50:15,657
+<i>và cất giấu phần dư ra trong một hầm
+bí mật sâu bên dưới nhà thờ...</i>
+
+1090
+00:50:15,832 --> 00:50:18,332
+<i>canh gác suốt ngày đêm
+bởi một linh mục sa đọa...</i>
+
+1091
+00:50:18,357 --> 00:50:21,724
+<i>và năm trăm tu sĩ nghiện sô-cô-la.</i>
+
+1092
+00:50:23,007 --> 00:50:26,184
+<i>Cách duy nhất vào đó
+là đi xuống bằng một thang máy bí mật...</i>
+
+1093
+00:50:26,209 --> 00:50:29,068
+<i>và vượt qua Nữ chủ nhân của
+những chiếc Chìa khóa.</i>
+
+1094
+00:50:29,283 --> 00:50:33,319
+<i>một lính canh dưới lòng đất, người đã
+không thấy ánh sáng mặt trời nhiều năm.</i>
+
+1095
+00:50:33,534 --> 00:50:34,447
+<i>Chào buổi tối.</i>
+
+1096
+00:50:34,472 --> 00:50:37,655
+<i>Có hàng ngàn gallon
+sô-cô-la ở dưới đó...</i>
+
+1097
+00:50:37,680 --> 00:50:40,012
+<i>và Băng nhóm này sử dụng nó để hối lộ...</i>
+
+1098
+00:50:40,032 --> 00:50:43,638
+<i>...tống tiền, và triệt hạ
+tất cả đối thủ cạnh tranh.</i>
+
+1099
+00:50:40,413 --> 00:50:43,509
+{\an8}TRẢ BẰNG SÔ-CÔ-LA
+
+1100
+00:50:44,029 --> 00:50:46,920
+Tôi không quan tâm dù chúng có là những
+đứa trẻ, chúng cản đường ta. Lần sau...
+
+1101
+00:50:46,945 --> 00:50:48,052
+cứ nhấn hết ga hết số cho tôi.
+
+1102
+00:50:48,371 --> 00:50:49,220
+Cô Bon-Bon?
+
+1103
+00:50:49,245 --> 00:50:50,546
+Chào buổi sáng, ông Slugworth.
+
+1104
+00:50:50,571 --> 00:50:53,879
+Từ giờ trở đi,
+tôi sẽ giữ sổ cái trong hầm.
+
+1105
+00:50:53,904 --> 00:50:54,760
+Vâng, thưa ngài.
+
+1106
+00:50:56,668 --> 00:50:57,778
+Ồ, còn ông Crunch?
+
+1107
+00:50:59,756 --> 00:51:00,488
+Vâng?
+
+1108
+00:51:00,905 --> 00:51:01,903
+Ông bị sa thải.
+
+1109
+00:51:04,075 --> 00:51:04,900
+Vâng, thưa ngài.
+
+1110
+00:51:06,720 --> 00:51:08,244
+<i>Tôi xin lỗi, cậu Wonka...</i>
+
+1111
+00:51:08,803 --> 00:51:11,596
+<i>nhưng họ đã kiểm soát cậu
+theo cách họ muốn.</i>
+
+1112
+00:51:12,145 --> 00:51:14,645
+<i>Cậu không thể có một cửa hàng
+mà không bán sô-cô-la...</i>
+
+1113
+00:51:14,852 --> 00:51:18,302
+<i>và cũng không thể bán sô-cô-la
+mà không có một cửa hàng.</i>
+
+1114
+00:51:21,121 --> 00:51:23,041
+Này, Noodle! Noodle!
+
+1115
+00:51:25,847 --> 00:51:26,811
+Chuyện gì vậy, anh Willy?
+
+1116
+00:51:26,922 --> 00:51:27,560
+Cẩn thận.
+
+1117
+00:51:34,790 --> 00:51:35,903
+Cái này để làm gì?
+
+1118
+00:51:36,412 --> 00:51:39,529
+Tiền lương của em.
+Được ăn trọn đời, nhớ không?
+
+1119
+00:51:40,130 --> 00:51:41,263
+Anh không cần phải làm điều này.
+
+1120
+00:51:41,582 --> 00:51:42,348
+Tất nhiên là có rồi.
+
+1121
+00:51:42,895 --> 00:51:43,856
+Anh đã hứa với em.
+
+1122
+00:51:44,951 --> 00:51:46,958
+Vâng, cảm ơn.
+
+1123
+00:51:47,635 --> 00:51:49,050
+Em cũng có một thứ muốn cho anh.
+
+1124
+00:51:49,223 --> 00:51:49,973
+Cho anh?
+
+1125
+00:51:55,910 --> 00:51:56,740
+Cái gì đây?
+
+1126
+00:51:57,104 --> 00:51:58,019
+Cái ly nửa đầy hả?
+
+1127
+00:51:58,302 --> 00:51:59,162
+Lật ngược nó lại.
+
+1128
+00:52:00,076 --> 00:52:00,865
+Cái ly hết nước luôn.
+
+1129
+00:52:01,496 --> 00:52:02,449
+Đó là một chữ "A".
+
+1130
+00:52:02,575 --> 00:52:03,544
+Chữ cái đầu tiên đó.
+
+1131
+00:52:04,739 --> 00:52:05,763
+Em đang dạy anh tập đọc đó.
+
+1132
+00:52:06,068 --> 00:52:06,919
+Ồ, Noodle.
+
+1133
+00:52:07,185 --> 00:52:09,583
+Ở, không thể để đối tác làm ăn của mình
+bị hổ ăn thịt được.
+
+1134
+00:52:09,824 --> 00:52:11,277
+Hoặc là suýt bị ăn thịt.
+
+1135
+00:52:11,848 --> 00:52:12,770
+Vậy chúng ta vẫn là đối tác nhỉ?
+
+1136
+00:52:12,974 --> 00:52:15,630
+Chắc rồi, nhưng em không biết làm thế nào
+chúng ta có thể bán sô-cô-la nữa.
+
+1137
+00:52:16,199 --> 00:52:19,004
+Mỗi khi cảnh sát xuất hiện
+là anh phải tan biến vào hư không.
+
+1138
+00:52:19,356 --> 00:52:20,278
+Giống như một nhà ảo thuật.
+
+1139
+00:52:21,185 --> 00:52:21,959
+Đúng rồi!
+
+1140
+00:52:22,015 --> 00:52:24,036
+Phải, nhưng vấn đề là khi đó
+em phải ở trên sân khấu.
+
+1141
+00:52:24,395 --> 00:52:28,005
+Phải có dây thừng, ròng rọc, và cửa sập.
+Trên phố làm sao có được những thứ đó.
+
+1142
+00:52:28,364 --> 00:52:30,239
+Thật ra thì có đó.
+
+1143
+00:52:30,513 --> 00:52:32,310
+Có cửa sập ở khắp thành phố.
+
+1144
+00:52:32,552 --> 00:52:34,068
+Chúng được gọi là cống thoát nước mưa.
+
+1145
+00:52:34,364 --> 00:52:36,840
+Tôi sẽ rất vui để chỉ cho anh
+nếu như anh chia lợi nhuận với tôi.
+
+1146
+00:52:37,395 --> 00:52:38,567
+Nếu anh muốn tuyển thêm người...
+
+1147
+00:52:38,645 --> 00:52:41,583
+tôi sẽ làm mọi thứ để rời khỏi đây
+và làm lành với vợ.
+
+1148
+00:52:41,950 --> 00:52:46,513
+Tôi không có kỹ năng xịn sò nào,
+nhưng có thể nói như kiểu đang lặn nước.
+
+1149
+00:52:47,130 --> 00:52:50,349
+Và nếu anh cần một người lo liệu
+việc liên lạc, thì tôi chính là người đó.
+
+1150
+00:52:51,286 --> 00:52:52,099
+Lottie?
+
+1151
+00:52:53,183 --> 00:52:54,472
+Gì vậy? Sao mọi người lại nhìn tôi thế?
+
+1152
+00:52:54,685 --> 00:52:56,693
+Tôi không biết là cô nói được đó.
+
+1153
+00:52:56,718 --> 00:52:58,974
+- Tôi tưởng cô là người diễn kịch câm.
+- Không...
+
+1154
+00:52:58,999 --> 00:53:01,490
+Thật ra tôi từng làm việc
+tại tổng đài điện thoại.
+
+1155
+00:53:02,231 --> 00:53:03,950
+Lúc trước tôi là người nói khá nhiều.
+
+1156
+00:53:05,115 --> 00:53:06,279
+Nhưng kể từ khi tôi đến đây...
+
+1157
+00:53:07,656 --> 00:53:09,070
+tôi không có nhiều thứ để trò chuyện.
+
+1158
+00:53:09,805 --> 00:53:13,391
+Đừng quên điều tôi đã nói,
+tỉnh táo lên và đừng vội mừng...
+
+1159
+00:53:13,416 --> 00:53:15,743
+Nếu bà Scrubitt bắt được mọi người
+đang cố gắng trốn thoát...
+
+1160
+00:53:15,997 --> 00:53:19,938
+hình phạt sẽ là 6 tháng trong chuồng.
+Hãy suy nghĩ kỹ về chuyện đó...
+
+1161
+00:53:19,963 --> 00:53:22,930
+trước khi tham gia vào
+kế hoạch ngớ ngẩn này.
+
+1162
+00:53:23,125 --> 00:53:27,422
+Nó không hề ngớ ngẩn đâu, ông Abacus.
+Sô-cô-la của anh Willy rất tuyệt vời.
+
+1163
+00:53:27,665 --> 00:53:28,435
+Hãy thử một cái đi.
+
+1164
+00:53:29,336 --> 00:53:30,938
+Cháu thật là tốt bụng, Noodle.
+
+1165
+00:53:30,963 --> 00:53:33,157
+Ta không quan tâm đến việc
+sô-cô-la của cậu ấy ngon ra sao đâu.
+
+1166
+00:53:35,038 --> 00:53:36,145
+Khi nào chúng ta bắt đầu?
+
+1167
+00:53:48,383 --> 00:53:49,836
+Điều anh đang muốn nói đó là.
+Barbara, đó là...
+
+1168
+00:53:49,930 --> 00:53:50,680
+em sẽ lấy anh chứ?
+
+1169
+00:53:52,562 --> 00:53:53,703
+Em không biết nữa, Colin.
+
+1170
+00:53:53,743 --> 00:53:55,211
+Anh là một người đàn ông đáng yêu,
+nhưng em đang tìm một người...
+
+1171
+00:53:55,236 --> 00:53:56,977
+thật sự lãng mạn. Anh biết đó...
+
+1172
+00:53:57,134 --> 00:53:59,242
+kiểu như đưa em đến
+một cuộc sống phiêu lưu.
+
+1173
+00:53:59,860 --> 00:54:00,742
+Anh có thể làm được không?
+
+1174
+00:54:02,017 --> 00:54:02,677
+Không.
+
+1175
+00:54:03,728 --> 00:54:06,399
+Anh bị bệnh thiếu tự tin kinh niên.
+
+1176
+00:54:06,825 --> 00:54:07,736
+Tốt nhất là anh nên đi về nhỉ.
+
+1177
+00:54:08,041 --> 00:54:10,541
+Nhưng Colin...
+Xin lỗi đã lãng phí thời gian của em.
+
+1178
+00:54:11,096 --> 00:54:12,237
+Taxi!
+
+1179
+00:54:18,799 --> 00:54:20,026
+Thưa ông,
+tôi có thể giúp gì cho ông không?
+
+1180
+00:54:20,361 --> 00:54:21,502
+Ồ, anh phục vụ.
+
+1181
+00:54:22,361 --> 00:54:24,080
+Anh có món gì dành cho
+một trái tim tan vỡ không?
+
+1182
+00:54:25,246 --> 00:54:27,474
+<i><font color="#00ffff">♪ So the taxis never stop ♪</font>
+Những chiếc taxi không bao giờ dừng lại</i>
+
+1183
+00:54:27,528 --> 00:54:29,400
+<i><font color="#00ffff">♪ The girls think you’re a flop ♪</font>
+Các cô gái nghĩ rằng anh là một thất bại</i>
+
+1184
+00:54:29,520 --> 00:54:31,414
+<i><font color="#00ffff">♪ You’re wet and cold, You’re getting old ♪</font>
+Anh ướt và lạnh, anh đang già đi</i>
+
+1185
+00:54:31,438 --> 00:54:33,078
+<i><font color="#00ffff">♪ Your confidence is shot ♪</font>
+Sự tự tin của anh bị tổn thương</i>
+
+1186
+00:54:33,103 --> 00:54:33,713
+Đúng vậy.
+
+1187
+00:54:33,782 --> 00:54:35,819
+<i><font color="#00ffff">♪ When people look at you ♪</font>
+Khi mọi người nhìn anh</i>
+
+1188
+00:54:35,844 --> 00:54:37,820
+<i><font color="#00ffff">♪ They seem to look straight through ♪</font>
+Anh giống như kẻ vô hình</i>
+
+1189
+00:54:37,845 --> 00:54:39,372
+<i><font color="#00ffff">♪ Or like you’re something brown ♪</font>
+hoặc giống như anh là thứ gì đó màu nâu</i>
+
+1190
+00:54:39,396 --> 00:54:42,290
+<i><font color="#00ffff">♪ They found upon the bottom of their shoe ♪</font>
+ở dưới gót giày của họ</i>
+
+1191
+00:54:42,362 --> 00:54:43,487
+Anh theo dõi tôi đấy à?
+
+1192
+00:54:43,670 --> 00:54:45,486
+<i><font color="#00ffff">♪ But this should lift the gloom ♪</font>
+Nhưng món này sẽ giúp anh ổn hơn</i>
+
+1193
+00:54:45,510 --> 00:54:47,300
+<i><font color="#00ffff">♪ My Giraffe Milk Macaroon ♪</font>
+Bánh quy Sữa Hươu cao cổ </i>
+
+1194
+00:54:47,470 --> 00:54:48,579
+<i><font color="#00ffff">♪ Just take a chance ♪</font>
+Chỉ cần nắm lấy cơ hội</i>
+
+1195
+00:54:48,604 --> 00:54:51,204
+<i><font color="#00ffff">♪ And you’ll be dancing to a different tune ♪</font>
+Và anh sẽ nhảy sang một giai điệu khác</i>
+
+1196
+00:54:51,470 --> 00:54:53,458
+<i><font color="#00ffff">♪ Goodbye to feeling small ♪</font>
+Tạm biệt cảm giác nhỏ bé</i>
+
+1197
+00:54:53,482 --> 00:54:55,310
+<i><font color="#00ffff">♪ And frightened of it all ♪</font>
+và sợ hãi về tất cả</i>
+
+1198
+00:54:55,480 --> 00:54:57,093
+<i><font color="#00ffff">♪ Just eat a few of these ♪</font>
+Chỉ cần ăn một vài miếng</i>
+
+1199
+00:54:57,117 --> 00:55:00,310
+<i><font color="#00ffff">♪ And you’ll be feeling ten feet tall ♪</font>
+Và anh sẽ cảm thấy tự tin hơn rất nhiều</i>
+
+1200
+00:55:01,360 --> 00:55:05,190
+<i><font color="#00ffff">♪ Well, there’s Chocolate ♪</font>
+Vâng, đó chính là sô-cô-la</i>
+
+1201
+00:55:05,360 --> 00:55:06,700
+<i><font color="#00ffff">♪ And there’s chocolate ♪</font>
+Và đây là sô-cô-la</i>
+
+1202
+00:55:07,381 --> 00:55:08,475
+<i><font color="#00ffff">♪ Only Wonka’s makes ♪</font>
+Chỉ có Wonka có thể</i>
+
+1203
+00:55:08,500 --> 00:55:10,030
+<i><font color="#00ffff">♪ Your confidence skyrocke-let ♪</font>
+làm cho sự tự tin của anh tăng vụt</i>
+
+1204
+00:55:10,149 --> 00:55:11,177
+Anh ta đâu có làm việc ở đây.
+
+1205
+00:55:11,612 --> 00:55:13,368
+<i><font color="#00ffff">♪ Put your hand into your pocke-let ♪</font>
+Đặt tay của bạn vào túi</i>
+
+1206
+00:55:13,393 --> 00:55:15,680
+<i><font color="#00ffff">♪ Get yourself some Wonka chocolate ♪</font>
+Lấy cho mình một ít sô-cô-la Wonka</i>
+
+1207
+00:55:15,705 --> 00:55:17,845
+<i><font color="#00ffff">♪ Madam, just one kiss ♪</font>
+Hôn một cái nhé</i>
+
+1208
+00:55:17,870 --> 00:55:19,159
+<i><font color="#00ffff">♪ Yes, please! ♪</font>
+Vâng, làm đi anh!</i>
+
+1209
+00:55:19,195 --> 00:55:22,296
+<i><font color="#00ffff">♪ You’ve never had chocolate like this ♪</font>
+Bạn chưa bao giờ ăn sô-cô-la như thế này </i>
+
+1210
+00:55:22,321 --> 00:55:26,880
+<i><font color="#00ffff">♪ No, we’ve never had chocolate like this ♪</font>
+Không. Chúng tôi chưa bao giờ ăn sô-cô-la như thế này</i>
+
+1211
+00:55:34,826 --> 00:55:36,788
+<i><font color="#00ffff">♪ Have you tried his new one? ♪</font>
+Cô đã thử vị mới của anh ấy chưa?</i>
+
+1212
+00:55:36,307 --> 00:55:37,042
+{\an8}<i><font color="#00ffff">♪ No ♪</font>
+Chưa</i>
+
+1213
+00:55:36,807 --> 00:55:38,690
+<i><font color="#00ffff">♪ Oh, you’ve got to have a go ♪</font>
+Ồ, cô phải thử ngay đi</i>
+
+1214
+00:55:38,864 --> 00:55:39,833
+<i><font color="#00ffff">♪ Just pop one in ♪</font>
+Chỉ cần thử một viên</i>
+
+1215
+00:55:39,858 --> 00:55:43,208
+<i><font color="#00ffff">♪ And everything becomes a Broadway show ♪</font>
+Sẽ cảm thấy như đang ở Sân khấu lớn </i>
+
+1216
+00:55:44,197 --> 00:55:45,867
+<i><font color="#00ffff">♪ The news that makes you gasp ♪</font>
+Tin tức về anh ấy khiến bạn phải há hốc mồm</i>
+
+1217
+00:55:45,892 --> 00:55:47,640
+<i><font color="#00ffff">♪ The jokes that make you laugh ♪</font>
+Những câu chuyện phiếm khiến bạn buồn cười</i>
+
+1218
+00:55:47,665 --> 00:55:49,307
+<i><font color="#00ffff">♪ All that you say and do all day ♪</font>
+Những gì bạn nói và làm cả ngày</i>
+
+1219
+00:55:49,331 --> 00:55:51,045
+<i><font color="#00ffff">♪ Will be choreographed ♪</font>
+Sẽ biến thành một điệu nhảy</i>
+
+1220
+00:55:52,560 --> 00:55:54,333
+<i><font color="#00ffff">♪ Lost your hair, can’t think where ♪</font>
+Tóc bạn đi lạc mất, bạn không biết nó ở đâu</i>
+
+1221
+00:55:54,358 --> 00:55:56,075
+<i><font color="#00ffff">♪ Feeling fairly bare up there ♪</font>
+Cảm thấy khá trần trụi ở trên này</i>
+
+1222
+00:55:56,100 --> 00:55:57,341
+<i><font color="#00ffff">♪ Don’t despair, I come prepared ♪</font>
+Đừng tuyệt vọng, tôi đã chuẩn bị cả rồi</i>
+
+1223
+00:55:57,366 --> 00:55:59,677
+<i><font color="#00ffff">♪ Behold My Hair Repair Eclair ♪</font>
+Hãy cùng thử món sô-cô-la Mọc Tóc</i>
+
+1224
+00:55:59,702 --> 00:56:01,314
+<i><font color="#00ffff">♪ It’s made from ground vanilla ♪</font>
+Nó được làm từ vani xay</i>
+
+1225
+00:56:01,338 --> 00:56:03,030
+<i><font color="#00ffff">♪ From the markets of Manila ♪</font>
+Tại các khu chợ ở Manila </i>
+
+1226
+00:56:03,140 --> 00:56:04,518
+<i><font color="#00ffff">♪ Take heed, eat more than three ♪</font>
+Cẩn thận, ăn nhiều hơn ba viên</i>
+
+1227
+00:56:04,542 --> 00:56:06,631
+<i><font color="#00ffff">♪ And you’ll end up like a gorilla ♪</font>
+Và bạn sẽ lông lá như một con khỉ đột</i>
+
+1228
+00:56:08,611 --> 00:56:10,691
+<i><font color="#00ffff">♪ Well, there’s chocolate ♪</font>
+Vâng, đó chính là sô-cô-la</i>
+
+1229
+00:56:10,719 --> 00:56:11,879
+<i><font color="#00ffff">♪ And there’s chocolate ♪</font>
+Và đây là sô-cô-la</i>
+
+1230
+00:56:12,600 --> 00:56:15,554
+<i><font color="#00ffff">♪ Only Wonka’s makes you rock around the clock-elet ♪</font>
+Chỉ có Wonka mới khiến cho bạn nhảy múa ca hát</i>
+
+1231
+00:56:18,578 --> 00:56:20,329
+<i><font color="#00ffff">♪ Put your hand Into your pocke-let ♪</font>
+Đặt tay của bạn vào túi</i>
+
+1232
+00:56:20,354 --> 00:56:21,073
+<i><font color="#00ffff">♪ Get yourself ♪</font>
+Lấy cho mình một ít</i>
+
+1233
+00:56:21,098 --> 00:56:22,171
+<i>Này, hãy im lặng đi nào!</i>
+
+1234
+00:56:22,195 --> 00:56:24,708
+<i><font color="#00ffff">♪ Make sure hey’re all frisked ♪</font>
+Chắc rằng tất cả đều được lục soát</i>
+
+1235
+00:56:25,208 --> 00:56:28,418
+<i><font color="#00ffff">♪ Have you ever had chocolate like this? ♪</font>
+Bạn đã bao giờ ăn sô-cô-la như thế này chưa?</i>
+
+1236
+00:56:30,498 --> 00:56:33,548
+<i><font color="#00ffff">♪ I’ve never had chocolate like this ♪</font>
+Tôi chưa bao giờ ăn sô-cô-la như thế này</i>
+
+1237
+00:56:42,213 --> 00:56:44,022
+<i><font color="#00ffff">♪ Get yourself some Wonka chocolate ♪</font>
+Lấy cho mình một ít sô-cô-la Wonka</i>
+
+1238
+00:56:44,046 --> 00:56:45,518
+<i><font color="#00ffff">♪ Put your hands into your pocke-let ♪</font>
+Đặt tay của bạn vào túi</i>
+
+1239
+00:56:45,688 --> 00:56:47,058
+<i><font color="#00ffff">♪ Get yourself some choc ♪</font>
+Lấy cho mình một ít sô-cô-la</i>
+
+1240
+00:56:47,188 --> 00:56:50,228
+<i><font color="#ff80c0">♪ Well, there’s literate and illiterate ♪</font>
+Phải, có người biết chữ và mù chữ </i>
+
+1241
+00:56:51,108 --> 00:56:53,028
+<i><font color="#ff80c0">♪ Can you tell me what this word is? ♪</font>
+Anh có thể cho em biết từ này là gì không?</i>
+
+1242
+00:56:53,053 --> 00:56:54,013
+<i><font color="#00ffff">♪ Not a bit of it ♪</font>
+Anh không biết</i>
+
+1243
+00:56:54,938 --> 00:56:56,988
+<i><font color="#ff80c0">♪ Well, that’s a vowel and that’s a consonant ♪</font>
+Vâng, đó là nguyên âm và đây là phụ âm</i>
+
+1244
+00:56:57,181 --> 00:56:57,885
+<i><font color="#00ffff">♪ What’s that now? ♪</font>
+Vậy thì sao nào?</i>
+
+1245
+00:56:57,970 --> 00:56:59,015
+<i><font color="#00ffff">♪ You’re talking nonse-nence ♪</font>
+Em đang nói ngớ ngẩn gì vậy</i>
+
+1246
+00:56:59,072 --> 00:57:02,402
+<i><font color="#ff80c0">♪ I should call it quits ♪</font>
+Em nên từ bỏ thôi</i>
+
+1247
+00:57:02,502 --> 00:57:03,291
+<i><font color="#00ffff">♪ But you’ve never ♪</font>
+Nhưng cháu chưa bao giờ</i>
+
+1248
+00:57:03,316 --> 00:57:05,378
+<i><font color="#00ffff">♪ Sold chocolate like this ♪</font>
+Bán sô-cô-la như thế này</i>
+
+1249
+00:57:07,418 --> 00:57:08,787
+<i><font color="#d04e22">♪ Well, there’s chocolate ♪</font>
+Vâng, đó chính là sô-cô-la</i>
+
+1250
+00:57:08,811 --> 00:57:09,578
+Vâng, tôi hiểu mà.
+
+1251
+00:57:09,708 --> 00:57:10,775
+<i><font color="#d04e22">♪ And there’s chocolate ♪</font>
+Và đây là sô-cô-la</i>
+
+1252
+00:57:10,799 --> 00:57:11,498
+Hoàn toàn đúng.
+
+1253
+00:57:11,620 --> 00:57:12,775
+<i><font color="#d04e22">♪ Only Wonka drives a hole ♪</font>
+Chỉ có Wonka làm giảm</i>
+
+1254
+00:57:12,799 --> 00:57:14,370
+<i><font color="#d04e22">♪ Right through our profi-lets ♪</font>
+Đáng kể lợi nhuận của chúng ta</i>
+
+1255
+00:57:14,403 --> 00:57:15,813
+Phải, nhưng những gì tôi đang cố gắng
+để nói với anh là...
+
+1256
+00:57:15,838 --> 00:57:17,863
+<i><font color="#d04e22">♪ If we don’t get on top of this ♪</font>
+Nếu chúng ta không kiểm soát được chuyện này</i>
+
+1257
+00:57:17,888 --> 00:57:18,653
+<i><font color="#d04e22">♪ We’ll go bust ♪</font>
+Chúng ta sẽ phá sản</i>
+
+1258
+00:57:18,678 --> 00:57:19,548
+<i><font color="#d04e22">♪ Choc-apocalypse! ♪</font>
+Một thảm họa sô-cô-la! </i>
+
+1259
+00:57:19,678 --> 00:57:21,848
+<i><font color="#d04e22">♪ We’ll cease to exist ♪</font>
+Chúng ta sẽ không còn tồn tại</i>
+
+1260
+00:57:22,383 --> 00:57:23,493
+Nhưng các anh này...
+
+1261
+00:57:23,518 --> 00:57:25,978
+<i><font color="#d04e22">♪ You’ve never had chocolate like this ♪</font>
+Các anh chưa bao giờ ăn món sô-cô-la như thế này</i>
+
+1262
+00:57:26,138 --> 00:57:27,728
+<i><font color="#d04e22">♪ No, we’ve never ♪</font>
+Không, chúng tôi chưa bao giờ</i>
+
+1263
+00:57:27,752 --> 00:57:30,098
+<i><font color="#d04e22">♪ Had chocolate like this ♪</font>
+Ăn món sô-cô-la như thế này </i>
+
+1264
+00:57:30,188 --> 00:57:33,018
+<i><font color="#00ffff">♪ Well, there’s chocolate ♪</font>
+Vâng, đó chính là sô-cô-la</i>
+
+1265
+00:57:33,188 --> 00:57:35,148
+<i><font color="#00ffff">♪ And there’s chocolate ♪</font>
+Và đây là sô-cô-la</i>
+
+1266
+00:57:35,318 --> 00:57:38,858
+<i><font color="#00ffff">♪ Only mine will find you buying wedding frocke-lets ♪</font>
+Chỉ có tôi sẽ tìm thấy cô mua váy cưới</i>
+
+1267
+00:57:39,778 --> 00:57:41,368
+<i><font color="#00ffff">♪ We have just tied the knot ♪</font>
+Chúng tôi vừa mới đám cưới</i>
+
+1268
+00:57:41,568 --> 00:57:43,868
+<i><font color="#00ffff">♪ And it’s all because of Wonka’s chocolate ♪</font>
+Và tất cả là nhờ sô-cô-la của Wonka</i>
+
+1269
+00:57:43,988 --> 00:57:47,158
+<i><font color="#00ffff">♪ Off to a life of bliss ♪</font>
+Đến một cuộc sống hạnh phúc</i>
+
+1270
+00:57:47,368 --> 00:57:50,328
+<i><font color="#00ffff">♪ You’ve never had chocolate like this ♪</font>
+Bạn chưa bao giờ ăn món sô-cô-la như thế này</i>
+
+1271
+00:57:50,538 --> 00:57:54,128
+<i><font color="#00ffff">♪ No, we’ve never had chocolate like this ♪</font>
+Bạn chưa bao giờ ăn món sô-cô-la như thế</i>
+
+1272
+00:57:54,298 --> 00:57:55,743
+<i><font color="#00ffff">♪ Have you ever ♪</font>
+Bạn đã bao giờ thử ăn</i>
+
+1273
+00:57:55,768 --> 00:57:57,878
+<i><font color="#00ffff">♪ Had chocolate like this? ♪</font>
+Sô-cô-la như thế này chưa?</i>
+
+1274
+00:57:58,048 --> 00:58:01,468
+<i><font color="#00ffff">♪ No, we’ve never had Chocolate ♪</font>
+Không, chúng tôi chưa bao giờ ăn món sô-cô-la</i>
+
+1275
+00:58:01,896 --> 00:58:04,365
+<i><font color="#00ffff">♪ No, we’ve never ♪</font>
+Không, chúng tôi chưa bao giờ</i>
+
+1276
+00:58:04,390 --> 00:58:07,388
+<i><font color="#00ffff">♪ Had chocolate like this ♪</font>
+Ăn món sô-cô-la như thế </i>
+
+1277
+00:58:15,601 --> 00:58:17,867
+Được rồi, hắn đâu rồi? Hắn đi đâu vậy?
+
+1278
+00:58:29,822 --> 00:58:31,531
+Vậy ra đây là cách hắn trốn thoát.
+
+1279
+00:58:32,905 --> 00:58:33,544
+Affable...
+
+1280
+00:58:33,906 --> 00:58:37,140
+Tôi muốn một người canh gác
+trên mọi cống thoát nước mưa ở thành phố.
+
+1281
+00:58:37,234 --> 00:58:38,476
+Ông có chắc không, thưa ông?
+
+1282
+00:58:38,734 --> 00:58:40,820
+Chẳng phải chúng ta nên tập trung
+vào những vụ sát nhân chưa được xử lý sao?
+
+1283
+00:58:40,853 --> 00:58:43,617
+Không, không, không, đây là ưu tiên.
+Được rồi.
+
+1284
+00:58:48,257 --> 00:58:50,804
+Được rồi, biết gì không?
+Tôi sẽ cần anh giúp một chút.
+
+1285
+00:58:51,618 --> 00:58:54,148
+Khá chắc rằng tôi đã tăng
+khoảng 68 kg trong hai tuần vừa qua.
+
+1286
+00:59:59,718 --> 01:00:00,370
+Bắt được rồi!
+
+1287
+01:00:01,663 --> 01:00:02,336
+Cái đồ quỷ yêu nào đây nhỉ?
+
+1288
+01:00:02,374 --> 01:00:03,702
+Cho tôi ra khỏi đây.
+
+1289
+01:00:03,750 --> 01:00:05,164
+Tôi yêu cầu được thả ra.
+
+1290
+01:00:05,250 --> 01:00:07,195
+Không thể tin được.
+Ngươi có thể nói.
+
+1291
+01:00:07,242 --> 01:00:10,297
+Tất nhiên là tôi có thể nói rồi. Giờ thì
+thả tôi ra, nếu không tôi sẽ hét lên đấy.
+
+1292
+01:00:10,880 --> 01:00:12,145
+- Chà.
+- Thả tôi ra!
+
+1293
+01:00:12,179 --> 01:00:14,474
+Không, cho đến khi ta nhìn rõ được ngươi.
+
+1294
+01:00:16,536 --> 01:00:17,321
+Chà.
+
+1295
+01:00:17,448 --> 01:00:18,142
+Chào buổi tối.
+
+1296
+01:00:18,468 --> 01:00:21,036
+Vậy ngươi là người đàn ông nhỏ bé
+nghịch ngợm, đã luôn đi theo ta.
+
+1297
+01:00:21,288 --> 01:00:23,523
+"Người đàn ông nhỏ nghịch ngợm"?
+Sao anh dám nói thế hả.
+
+1298
+01:00:23,897 --> 01:00:26,936
+Tôi hân hạnh nói anh biết rằng,
+kích thước của tôi là cực kỳ hoàn hảo...
+
+1299
+01:00:26,961 --> 01:00:28,163
+cho một Oompa Loompa.
+
+1300
+01:00:28,251 --> 01:00:29,617
+Một Oompa-cái gì cơ?
+
+1301
+01:00:29,642 --> 01:00:30,781
+Thật ra, ở Vùng đất Loompa...
+
+1302
+01:00:30,970 --> 01:00:33,163
+tôi được xem là rất to lớn đấy.
+
+1303
+01:00:33,422 --> 01:00:34,539
+Họ gọi tôi là Cao Kều đấy.
+
+1304
+01:00:35,164 --> 01:00:37,336
+Vậy tôi đề nghị anh
+đừng nhìn tôi như thế nữa...
+
+1305
+01:00:37,361 --> 01:00:39,641
+Tôi cảm thấy khó chịu
+khi cứ bị nhìn như thế.
+
+1306
+01:00:39,705 --> 01:00:43,008
+Tôi cảm thấy không thoải mái,
+mà nói thẳng ra là thật thô lỗ.
+
+1307
+01:00:44,935 --> 01:00:46,591
+- Xin lỗi.
+- Bây giờ hãy để tôi ra khỏi đây.
+
+1308
+01:00:46,616 --> 01:00:50,481
+Anh hoàn toàn không có quyền khi bắt
+một người lạ vô tội bỏ vô chai như vầy.
+
+1309
+01:00:50,518 --> 01:00:51,572
+Vô tội à?
+
+1310
+01:00:51,659 --> 01:00:54,470
+Chờ đã, anh đã ăn cắp đồ của tôi.
+Nhiều năm nay rồi.
+
+1311
+01:00:54,511 --> 01:00:55,708
+Do anh bắt đầu trước mà.
+
+1312
+01:00:55,932 --> 01:00:56,725
+Tôi à?
+
+1313
+01:00:56,970 --> 01:00:58,533
+Anh đã đánh cắp hạt ca cao của chúng tôi.
+
+1314
+01:00:59,352 --> 01:01:00,602
+Anh đang nói về cái gì vậy?
+
+1315
+01:01:02,040 --> 01:01:04,719
+Ý anh là anh thậm chí còn không nhớ sao?
+
+1316
+01:01:05,087 --> 01:01:05,986
+Nhớ cái gì?
+
+1317
+01:01:06,774 --> 01:01:07,923
+Ngày mà anh...
+
+1318
+01:01:09,696 --> 01:01:10,839
+đã phá hủy cuộc sống của tôi.
+
+1319
+01:01:11,548 --> 01:01:13,650
+Không, tôi không nhớ chuyện đó.
+
+1320
+01:01:13,947 --> 01:01:17,122
+Vậy thì, chàng trai trẻ.
+Hãy để tôi khôi phục trí nhớ của anh...
+
+1321
+01:01:17,269 --> 01:01:20,083
+bằng một bài hát rất hấp dẫn...
+
+1322
+01:01:20,108 --> 01:01:22,364
+mà có thể anh sẽ
+không bao giờ quên được.
+
+1323
+01:01:23,286 --> 01:01:24,716
+Tôi không nghĩ rằng tôi muốn nghe nó.
+
+1324
+01:01:24,761 --> 01:01:29,278
+Quá muộn. Tôi đã bắt đầu nhảy rồi.
+Một khi đã bắt đầu, là không thể dừng lại.
+
+1325
+01:01:31,578 --> 01:01:34,981
+<i><font color="#63f549">♪ Oompa Loompa doompety-doo ♪</font></i>
+
+1326
+01:01:35,006 --> 01:01:37,887
+<i><font color="#63f549">♪ I’ve got a tragic tale for you ♪</font>
+Tôi có một câu chuyện bi thảm dành cho anh </i>
+
+1327
+01:01:38,357 --> 01:01:41,527
+<i><font color="#63f549">♪ Oompa Loompa doompety-dee ♪</font></i>
+
+1328
+01:01:41,752 --> 01:01:45,092
+<i><font color="#63f549">♪ If you are wise, You’ll listen to me ♪</font>
+Nếu anh khôn ngoan, anh sẽ lắng nghe tôi</i>
+
+1329
+01:01:45,117 --> 01:01:48,157
+<i><font color="#63f549">♪ Dear Loompaland Is both luscious and green ♪</font>
+Vùng đất Loompa tươi tốt và màu mỡ </i>
+
+1330
+01:01:48,465 --> 01:01:51,645
+<i><font color="#63f549">♪ But not conducive to growing the bean ♪</font>
+Nhưng lại không tốt cho việc trồng đậu</i>
+
+1331
+01:01:51,832 --> 01:01:53,214
+<i><font color="#63f549">♪ My job was guarding ♪</font>
+Công việc của tôi là bảo vệ</i>
+
+1332
+01:01:53,239 --> 01:01:54,890
+<i><font color="#63f549">♪ What little we’d got ♪</font>
+những gì chúng tôi đã tạo ra </i>
+
+1333
+01:01:55,250 --> 01:01:56,420
+<i><font color="#63f549">♪ You came along ♪</font>
+Còn anh đã đến</i>
+
+1334
+01:01:56,445 --> 01:01:59,035
+<i><font color="#63f549">♪ And pinched the lot ♪</font>
+Và đánh cắp rất nhiều</i>
+
+1335
+01:01:59,110 --> 01:02:00,490
+<i><font color="#63f549">♪ When I awoke, they sent me away ♪</font>
+Này, sao lúc đó anh không nói gì </i>
+
+1336
+01:02:00,550 --> 01:02:01,957
+<i>Vâng, có lẽ khi đó tôi đã ngủ quên mất. </i>
+
+1337
+01:02:02,006 --> 01:02:05,348
+<i><font color="#63f549">♪ Oompa Loompa doompety-day ♪</font></i>
+
+1338
+01:02:05,373 --> 01:02:08,593
+<i><font color="#63f549">♪ When I awoke, they sent me away ♪</font>
+Khi tôi tỉnh dậy, họ đã đuổi tôi đi</i>
+
+1339
+01:02:08,753 --> 01:02:11,712
+<i><font color="#63f549">♪ I’m disgraced, cast out in the cold ♪</font>
+Tôi đã bị bỏ mặc, bị ném ra ngoài trời lạnh </i>
+
+1340
+01:02:12,112 --> 01:02:14,247
+<i><font color="#63f549">♪ Till I’ve paid my friends ♪</font>
+Cho đến khi tôi trả lại cho họ</i>
+
+1341
+01:02:14,271 --> 01:02:16,376
+<i><font color="#63f549">♪ Back a thousandfold ♪</font>
+Gấp một ngàn lần </i>
+
+1342
+01:02:16,512 --> 01:02:18,802
+<i> Một ngàn lần?
+Chắc anh đùa đúng không! </i>
+
+1343
+01:02:18,879 --> 01:02:20,709
+<i><font color="#63f549">♪ I repeat... ♪</font>
+Tôi nhắc lại...</i>
+
+1344
+01:02:21,268 --> 01:02:23,858
+<i><font color="#63f549">♪ A thousandfold ♪</font>
+Một ngàn lần </i>
+
+1345
+01:02:25,042 --> 01:02:25,786
+Chà.
+
+1346
+01:02:27,356 --> 01:02:28,325
+Anh Loompa...
+
+1347
+01:02:28,350 --> 01:02:30,511
+nếu anh thực sự nghĩ
+đó là một hình phạt hợp lý...
+
+1348
+01:02:30,536 --> 01:02:31,418
+chỉ vì ba hạt đậu...
+
+1349
+01:02:31,443 --> 01:02:32,075
+Bốn hạt đậu.
+
+1350
+01:02:32,879 --> 01:02:33,706
+Bốn hạt đậu...
+
+1351
+01:02:33,731 --> 01:02:35,543
+vậy tôi chắc là chúng ta có thể
+đi đến một thỏa thuận nhé.
+
+1352
+01:02:35,568 --> 01:02:37,809
+Nhưng tôi không thể
+chu cấp cho anh cả đời được.
+
+1353
+01:02:38,293 --> 01:02:39,475
+Cũng có người đang trông cậy ở tôi.
+
+1354
+01:02:42,141 --> 01:02:42,776
+Tốt thôi.
+
+1355
+01:02:43,609 --> 01:02:44,508
+Tôi nói thế này nhé.
+
+1356
+01:02:45,016 --> 01:02:48,434
+Anh để tôi ra khỏi đây, và chúng ta
+sẽ thảo luận, như những quý ông.
+
+1357
+01:02:50,152 --> 01:02:50,849
+Được rồi.
+
+1358
+01:02:53,551 --> 01:02:58,453
+Cảm ơn. Bây giờ, sẽ rất tử tế nếu như
+anh đưa cho tôi cái chảo rán thu nhỏ đó?
+
+1359
+01:02:59,194 --> 01:02:59,961
+Cái này?
+
+1360
+01:03:00,159 --> 01:03:01,819
+Không, không. Cái nặng hơn kìa.
+
+1361
+01:03:02,086 --> 01:03:02,856
+Được rồi.
+
+1362
+01:03:04,230 --> 01:03:06,944
+Cảm ơn. Cảm ơn rất...
+Chà, nó cũng khá to đấy chứ nhỉ?
+
+1363
+01:03:07,434 --> 01:03:08,645
+Giờ thì, lại gần đây một chút.
+
+1364
+01:03:09,147 --> 01:03:10,332
+Đúng rồi, gần hơn, gần hơn chút nữa...
+
+1365
+01:03:10,357 --> 01:03:11,393
+- Coi nào, thân mật lên tí.
+- Được rồi.
+
+1366
+01:03:11,458 --> 01:03:13,316
+- Đây rồi.
+- Sao cơ?
+
+1367
+01:03:18,658 --> 01:03:22,067
+Oompa Loompa không thương lượng.
+Chúc một ngày tốt lành, thưa ngài.
+
+1368
+01:03:22,171 --> 01:03:23,590
+Nhưng đó là bình cuối cùng của tôi!
+
+1369
+01:03:23,615 --> 01:03:25,510
+Tôi nói một ngày tốt lành.
+
+1370
+01:03:28,791 --> 01:03:29,841
+<i>Hắn ta lại quay lại nữa à?</i>
+
+1371
+01:03:30,074 --> 01:03:33,570
+Đúng vậy, nhưng lần này anh đã đặt bẫy.
+Và hắn ta bước ngay vào đó.
+
+1372
+01:03:34,091 --> 01:03:35,133
+Vậy giờ hắn ở đâu?
+
+1373
+01:03:35,158 --> 01:03:37,626
+À thì, anh đã đánh nhau với hắn 1 trận.
+Hắn ta đã thắng.
+
+1374
+01:03:37,651 --> 01:03:40,074
+Hắn đánh vào đầu anh bằng chảo rán
+và nhảy ra khỏi cửa sổ.
+
+1375
+01:03:40,393 --> 01:03:41,598
+Tất nhiên là hắn ta đã làm thế.
+
+1376
+01:03:43,729 --> 01:03:44,869
+Em không tin anh, đúng không?
+
+1377
+01:03:45,149 --> 01:03:46,315
+Thật lòng hả?
+Không.
+
+1378
+01:03:46,975 --> 01:03:47,661
+Không!
+
+1379
+01:03:47,802 --> 01:03:48,388
+Không.
+
+1380
+01:03:48,655 --> 01:03:49,183
+Không.
+
+1381
+01:03:49,383 --> 01:03:50,302
+Chắc chắn là không.
+
+1382
+01:03:50,874 --> 01:03:51,489
+Nhưng vì...
+
+1383
+01:03:51,858 --> 01:03:54,794
+chuyện đó đã xảy ra, tình cờ thay hôm nay
+chúng ta sẽ không bán sô-cô-la.
+
+1384
+01:03:55,289 --> 01:03:56,181
+Và tại sao vậy?
+
+1385
+01:03:56,469 --> 01:03:57,458
+Còn nhớ vụ cửa hàng chứ?
+
+1386
+01:03:57,733 --> 01:03:58,944
+Cửa hàng mà anh luôn mơ ước đó?
+
+1387
+01:04:14,640 --> 01:04:19,224
+Tôi biết những gì cậu đang nghĩ.
+Nó có thể cần sửa sang lại một chút.
+
+1388
+01:04:21,164 --> 01:04:23,709
+Trông như ai đó đã để nước chảy
+từ 20 năm trước...
+
+1389
+01:04:23,734 --> 01:04:25,129
+và trần nhà đã rơi xuống.
+
+1390
+01:04:25,506 --> 01:04:27,518
+Và trần nhà phía trên đó,
+và trên đó nữa.
+
+1391
+01:04:27,921 --> 01:04:29,601
+Nhưng như vậy cũng có nghĩa
+là chúng ta có khả năng thuê nó.
+
+1392
+01:04:30,226 --> 01:04:31,483
+Khoảng một tuần, vậy cũng được.
+
+1393
+01:04:31,646 --> 01:04:33,058
+Và cuối cùng chúng ta sẽ
+kinh doanh hợp pháp.
+
+1394
+01:04:33,469 --> 01:04:35,916
+Cảnh sát sẽ không có bất kỳ lý do nào
+để tiếp tục làm phiền chúng ta.
+
+1395
+01:04:37,403 --> 01:04:39,380
+Anh nghĩ sao, Willy?
+
+1396
+01:04:39,985 --> 01:04:41,099
+Anh có thích nó không?
+
+1397
+01:04:43,299 --> 01:04:44,567
+Anh có thích nó không à?
+
+1398
+01:04:47,861 --> 01:04:49,528
+Noodle, nó y như những gì
+anh đã luôn tưởng tượng.
+
+1399
+01:04:49,856 --> 01:04:53,190
+Không, bỏ qua cái đó,
+nó còn hơn anh tưởng tượng.
+
+1400
+01:04:53,280 --> 01:04:54,504
+Ý anh là, hãy nhìn nơi này xem.
+
+1401
+01:04:54,607 --> 01:04:56,815
+Ý là, phải, đó là một đống đổ nát,
+nhưng... đầy tiềm năng!
+
+1402
+01:04:56,840 --> 01:04:58,976
+Chính ở đây! Hãy ghi lại lời tôi nói...
+
+1403
+01:04:59,001 --> 01:05:01,873
+Đây sẽ là cửa hàng sô-cô-la tốt nhất
+thế giới từng được thấy.
+
+1404
+01:05:02,590 --> 01:05:04,426
+Em sẽ không còn phải "chà-chà" nữa đâu,
+Noodle à.
+
+1405
+01:05:04,666 --> 01:05:05,565
+Tất cả chúng ta sẽ được tự do.
+
+1406
+01:05:05,825 --> 01:05:07,661
+Tự do như chim hồng hạc!
+
+1407
+01:05:20,030 --> 01:05:22,752
+Bọn họ tổng cộng có 6 người.
+Bao gồm cả cô bé.
+
+1408
+01:05:23,202 --> 01:05:25,051
+Con bé giống như là
+người tổ chức hoạt động của cả nhóm.
+
+1409
+01:05:25,589 --> 01:05:28,643
+Chúng đến từ một tiệm giặt ủi
+được gọi là Scrubitt và Bleacher.
+
+1410
+01:05:29,702 --> 01:05:30,476
+Scrubitt à?
+
+1411
+01:05:30,789 --> 01:05:31,428
+Đúng vậy.
+
+1412
+01:05:31,916 --> 01:05:32,966
+Sao thế, anh biết chỗ đó à.
+
+1413
+01:05:33,270 --> 01:05:35,327
+Phải, đúng là tôi có biết.
+
+1414
+01:05:35,409 --> 01:05:38,814
+Họ thuê một cửa hàng. Về pháp lý, tôi
+không thể làm gì cả. Nhưng bất hợp pháp...
+
+1415
+01:05:39,145 --> 01:05:41,521
+tôi rất vui khi được làm
+bất cứ điều gì các anh muốn.
+
+1416
+01:05:41,553 --> 01:05:43,000
+Anh muốn tất cả bọn họ
+gặp tai nạn nhỏ sao?
+
+1417
+01:05:43,273 --> 01:05:44,386
+Có thể dẫn đến cái chết?
+
+1418
+01:05:44,590 --> 01:05:47,578
+Không thành vấn đề. Nhưng nó sẽ
+khiến anh tốn nhiều sô-cô-la hơn.
+
+1419
+01:05:47,685 --> 01:05:48,475
+Không sao cả, Sếp.
+
+1420
+01:05:48,500 --> 01:05:51,099
+Và thêm nữa, tôi cũng muốn có
+một khoản tạm ứng trước.
+
+1421
+01:05:51,124 --> 01:05:52,870
+Những hộp cuối cùng anh đưa tôi...
+
+1422
+01:05:54,218 --> 01:05:54,997
+đã hết sạch rồi.
+
+1423
+01:05:55,430 --> 01:05:56,186
+Tất cả luôn sao?
+
+1424
+01:05:56,302 --> 01:05:59,207
+Ba ngày qua, tôi đã ăn
+những hộp giấy nhỏ này.
+
+1425
+01:05:59,232 --> 01:06:01,348
+Anh biết đấy, anh nghĩ rằng mấy món này
+không gây nghiện sao.
+
+1426
+01:06:02,559 --> 01:06:03,341
+Không có đâu.
+
+1427
+01:06:04,774 --> 01:06:08,054
+Của anh đây, Sếp.
+Còn lại một ít như loại anh muốn.
+
+1428
+01:06:08,490 --> 01:06:09,903
+Giờ thì anh hãy bình tĩnh nhé.
+
+1429
+01:06:10,371 --> 01:06:11,856
+Chúng tôi sẽ gọi cho anh
+khi đúng thời điểm.
+
+1430
+01:06:18,549 --> 01:06:19,714
+Có chuyện gì vậy Arthur?
+
+1431
+01:06:19,740 --> 01:06:20,763
+Con bé đó.
+
+1432
+01:06:21,221 --> 01:06:23,623
+Anh không thật sự nghĩ rằng
+nó chính là con bé đó chứ?
+
+1433
+01:06:24,285 --> 01:06:25,261
+Đúng là vậy đó.
+
+1434
+01:06:25,645 --> 01:06:28,627
+Anh luôn đảm bảo với chúng tôi rằng
+con bé đó sẽ không là vấn đề gì.
+
+1435
+01:06:28,925 --> 01:06:30,735
+Anh ta nói đúng.
+Anh đã đảm bảo như thế.
+
+1436
+01:06:30,971 --> 01:06:32,153
+Và nó sẽ là như thế.
+
+1437
+01:06:32,585 --> 01:06:33,724
+<i>Kể cả Wonka cũng thế.</i>
+
+1438
+01:06:34,141 --> 01:06:35,040
+<i>Tự tôi sẽ lo liệu việc này.</i>
+
+1439
+01:06:39,980 --> 01:06:40,996
+Ai đó? Ông muốn gì?
+
+1440
+01:06:44,617 --> 01:06:45,762
+Ông Slugworth.
+
+1441
+01:06:46,850 --> 01:06:48,302
+Chờ một chút, thưa ngài.
+
+1442
+01:06:49,459 --> 01:06:50,906
+Chào buổi tối.
+
+1443
+01:06:51,341 --> 01:06:51,948
+Chào buổi tối.
+
+1444
+01:06:52,005 --> 01:06:53,171
+Ai vậy, bánh bột...
+
+1445
+01:06:54,688 --> 01:06:55,548
+Ôi trời ơi.
+
+1446
+01:06:55,834 --> 01:06:56,615
+Đó là ông Slugworth.
+
+1447
+01:06:57,566 --> 01:06:59,063
+Vinh dự thế nào khi ông
+lại ghé đến nơi đây?
+
+1448
+01:06:59,390 --> 01:07:01,981
+Bà có một người khách.
+Là cậu Wonka nhỉ?
+
+1449
+01:07:02,219 --> 01:07:05,312
+Anh ta đã lẻn ra ngoài bán sô-cô-la
+với sự giúp đỡ từ con bé phụ việc của bà.
+
+1450
+01:07:05,945 --> 01:07:07,156
+Con chuột nhắt chết tiệt đó.
+
+1451
+01:07:07,181 --> 01:07:08,165
+Khá chắc là vậy.
+
+1452
+01:07:08,765 --> 01:07:11,643
+Tôi tự hỏi nếu bà có thể giúp tôi
+đặt dấu chấm hết cho...
+
+1453
+01:07:12,319 --> 01:07:13,536
+việc kinh doanh của chúng.
+
+1454
+01:07:23,145 --> 01:07:24,645
+Cùng làm thôi nào mẹ.
+
+1455
+01:07:34,810 --> 01:07:37,520
+Xin chào tất cả mọi người,
+rất vui được chào đón
+
+1456
+01:07:37,545 --> 01:07:39,838
+tất cả mọi người đến với
+cửa hiệu Wonka.
+
+1457
+01:07:40,846 --> 01:07:45,318
+Những điều to lớn tuyệt vời,
+đang chờ đợi quý vị ở trong cửa hàng.
+
+1458
+01:07:46,159 --> 01:07:46,864
+Sao cơ?
+
+1459
+01:07:47,745 --> 01:07:48,622
+Trong đó à?
+
+1460
+01:07:50,087 --> 01:07:51,028
+Thử xem nhé.
+
+1461
+01:07:52,758 --> 01:07:56,348
+<i><font color="#00ffff">♪ Close your eyes and count to ten ♪</font>
+Nhắm mắt lại và đếm đến 10</i>
+
+1462
+01:07:58,449 --> 01:08:01,699
+<i><font color="#00ffff">♪ Make a wish. Now ♪</font>
+Ước một điều gì đó. Ngay bây giờ</i>
+
+1463
+01:08:02,331 --> 01:08:03,711
+<i><font color="#00ffff">♪ Open them ♪</font>
+Mở mắt ra</i>
+
+1464
+01:08:06,136 --> 01:08:10,306
+<i><font color="#00ffff">♪ Here’s a store that’s like no other ♪</font>
+Đây là một cửa hàng không giống bất kỳ nơi nào</i>
+
+1465
+01:08:11,116 --> 01:08:15,310
+<i><font color="#00ffff">♪ If it were, I wouldn’t bother ♪</font>
+Mà nếu có, tôi cũng không bận tâm</i>
+
+1466
+01:08:15,592 --> 01:08:19,578
+<i><font color="#00ffff">♪ Chocolate bushes, Chocolate trees ♪</font>
+Bụi cây sô-cô-la, cây sô-cô-la</i>
+
+1467
+01:08:19,948 --> 01:08:23,828
+<i><font color="#00ffff">♪ Chocolate flowers and chocolate bees ♪</font>
+Hoa sô-cô-la và ong sô-cô-la</i>
+
+1468
+01:08:24,676 --> 01:08:26,346
+<i><font color="#00ffff">♪ Chocolate memories ♪</font>
+Ký ức sô-cô-la</i>
+
+1469
+01:08:27,256 --> 01:08:30,216
+<i><font color="#00ffff">♪ That a boy once saved ♪</font>
+Mà một cậu bé đã từng nhớ</i>
+
+1470
+01:08:33,260 --> 01:08:36,180
+<i><font color="#00ffff">♪ Before they melted away ♪</font>
+Trước khi chúng tan chảy</i>
+
+1471
+01:08:36,334 --> 01:08:40,477
+<i><font color="#00ffff">♪ A world of your own ♪</font>
+Một thế giới của riêng bạn</i>
+
+1472
+01:08:40,889 --> 01:08:44,109
+<i><font color="#00ffff">♪ A place to escape to ♪</font>
+Một nơi để trốn </i>
+
+1473
+01:08:45,337 --> 01:08:48,457
+<i><font color="#00ffff">♪ A world of your own ♪</font>
+Một thế giới của riêng bạn </i>
+
+1474
+01:08:49,858 --> 01:08:51,898
+<i><font color="#00ffff">♪ Where you can be free ♪</font>
+Nơi bạn có thể được tự do</i>
+
+1475
+01:08:54,311 --> 01:08:57,401
+<i><font color="#00ffff">♪ Wherever you go ♪</font>
+Bất cứ nơi nào bạn đi</i>
+
+1476
+01:08:58,667 --> 01:09:02,257
+<i><font color="#00ffff">♪ Wherever life takes you ♪</font>
+Bất cứ nơi nào cuộc sống đưa bạn đến</i>
+
+1477
+01:09:03,288 --> 01:09:05,498
+<i><font color="#00ffff">♪ This is your home ♪</font>
+Đây chính là nhà của bạn</i>
+
+1478
+01:09:07,500 --> 01:09:10,210
+<i><font color="#00ffff">♪ A world of your own ♪</font>
+Một thế giới của riêng bạn</i>
+
+1479
+01:09:17,758 --> 01:09:19,317
+<i><font color="#00ffff">♪ Here is the child ♪</font>
+Đây là đứa trẻ</i>
+
+1480
+01:09:19,342 --> 01:09:21,922
+<i><font color="#00ffff">♪ That you left behind ♪</font>
+Mà bạn đã bỏ lại phía sau </i>
+
+1481
+01:09:22,258 --> 01:09:26,348
+<i><font color="#00ffff">♪ Here is the kid with the curious mind ♪</font>
+Đây là đứa trẻ với tâm trí tò mò</i>
+
+1482
+01:09:26,558 --> 01:09:30,435
+<i><font color="#00ffff">♪ Here is the wonder we used to feel ♪</font>
+Đây là điều kỳ diệu mà chúng ta từng cảm thấy</i>
+
+1483
+01:09:31,150 --> 01:09:33,780
+<i><font color="#00ffff">♪ Back when the magic was real ♪</font>
+Trở lại khi điều kỳ diệu là có thật</i>
+
+1484
+01:09:34,195 --> 01:09:38,266
+<i><font color="#00ffff">♪ A world of your own ♪</font>
+Một thế giới của riêng bạn</i>
+
+1485
+01:09:38,732 --> 01:09:42,112
+<i><font color="#00ffff">♪ A place to go when you’re ♪</font>
+Một nơi để đến khi bạn</i>
+
+1486
+01:09:43,249 --> 01:09:45,709
+<i><font color="#00ffff">♪ Feeling alone ♪</font>
+Cảm thấy cô đơn</i>
+
+1487
+01:09:47,787 --> 01:09:51,707
+<i><font color="#00ffff">♪ Feeling unsure ♪</font>
+Cảm thấy không chắc chắn</i>
+
+1488
+01:09:52,128 --> 01:09:55,208
+<i><font color="#00ffff">♪ Embrace the unknown ♪</font>
+Đón nhận những thứ chưa rõ ràng</i>
+
+1489
+01:09:56,548 --> 01:10:00,388
+<i><font color="#00ffff">♪ Enjoy the adventure ♪</font>
+Tận hưởng cuộc phiêu lưu</i>
+
+1490
+01:10:02,558 --> 01:10:06,888
+<i><font color="#00ffff">♪ Let’s go strolling in the clouds ♪</font>
+Hãy đi dạo trên mây</i>
+
+1491
+01:10:07,058 --> 01:10:10,768
+<i><font color="#00ffff">♪ Grab a handful, it’s allowed  ♪</font>
+Lấy một nắm đi, bạn được phép </i>
+
+1492
+01:10:11,478 --> 01:10:15,858
+<i><font color="#00ffff">♪ Clouds are made of cotton candy ♪</font>
+Mây được làm bằng kẹo bông</i>
+
+1493
+01:10:16,028 --> 01:10:20,108
+<i><font color="#00ffff">♪ Just keep your umbrella handy ♪</font>
+Chỉ cần giữ chiếc ô của bạn thật chặt</i>
+
+1494
+01:10:20,488 --> 01:10:23,658
+<i><font color="#00ffff">♪ ’Cause there’s a hard rain gonna fall ♪</font>
+Bởi vì sắp có một cơn mưa nặng hạt đấy</i>
+
+1495
+01:10:24,864 --> 01:10:26,498
+<i><font color="#00ffff">♪ Humbugs, gumdrops ♪</font>
+Những viên kẹo luộc, và kẹo cao su...</i>
+
+1496
+01:10:26,618 --> 01:10:28,828
+<i><font color="#00ffff">♪ And aniseed balls ♪</font>
+Và kẹo vị quả hồi</i>
+
+1497
+01:10:29,375 --> 01:10:31,328
+<i><font color="#00ffff">♪ Fireworks bring ♪</font>
+Pháo hoa sẽ mang đến</i>
+
+1498
+01:10:31,498 --> 01:10:35,588
+<i><font color="#00ffff">♪ Sugar string to chew ♪</font>
+Dây kẹo đường để nhấm nháp</i>
+
+1499
+01:10:38,164 --> 01:10:42,548
+<i><font color="#00ffff">♪ All the colors of the rainbow ♪</font>
+Tất cả các màu sắc của cầu vồng</i>
+
+1500
+01:10:42,632 --> 01:10:45,012
+<i><font color="#00ffff">♪ And some others, too ♪</font>
+Và tất cả những màu khác nữa</i>
+
+1501
+01:10:45,383 --> 01:10:49,888
+<i><font color="#00ffff">♪ A world of our own ♪</font>
+Một thế giới của riêng chúng ta</i>
+
+1502
+01:10:50,058 --> 01:10:54,228
+<i><font color="#00ffff">♪ A place to escape to ♪</font>
+Một nơi để trốn</i>
+
+1503
+01:10:54,375 --> 01:10:58,085
+<i><font color="#00ffff">♪ A world of our own ♪</font>
+Một thế giới của riêng chúng ta</i>
+
+1504
+01:10:58,764 --> 01:11:00,434
+<i><font color="#00ffff">♪ Where we can be free ♪</font>
+Nơi chúng ta có thể được tự do</i>
+
+1505
+01:11:03,238 --> 01:11:05,158
+<i><font color="#00ffff">♪ That’s where we can be free ♪</font>
+Bất cứ nơi nào bạn đi</i>
+
+1506
+01:11:05,328 --> 01:11:07,625
+<i><font color="#00ffff">♪ Wherever you go ♪</font>
+Bất cứ nơi nào bạn đi</i>
+
+1507
+01:11:07,696 --> 01:11:11,305
+<i><font color="#00ffff">♪ Wherever life takes you ♪</font>
+Bất cứ nơi nào cuộc sống đưa bạn đến</i>
+
+1508
+01:11:12,188 --> 01:11:15,948
+<i><font color="#00ffff">♪ This is our home ♪</font>
+Đây là nhà của chúng ta</i>
+
+1509
+01:11:16,458 --> 01:11:19,798
+<i><font color="#00ffff">♪ A world of our own ♪</font>
+Một thế giới của riêng chúng ta</i>
+
+1510
+01:11:24,678 --> 01:11:27,497
+<i> Đây là, nấm, lê, các loại hoa.</i>
+
+1511
+01:11:27,522 --> 01:11:30,083
+Tổng cộng là 89 đồng.
+
+1512
+01:11:30,817 --> 01:11:32,770
+Một món hời đáng giá gấp đôi.
+
+1513
+01:11:33,208 --> 01:11:36,344
+Cảm ơn, Thưa ngài. Ông muốn tiền thừa
+được thối lại như thế nào?
+
+1514
+01:11:36,369 --> 01:11:38,609
+Xài được hay là ăn được?
+
+1515
+01:11:38,658 --> 01:11:40,199
+Tôi sẽ lấy ăn được.
+
+1516
+01:11:41,996 --> 01:11:42,797
+Mời ngài thưởng thức.
+
+1517
+01:11:43,708 --> 01:11:45,831
+Và đừng quên mấy món trong giỏ nữa nhé.
+
+1518
+01:11:46,348 --> 01:11:47,989
+Không, không, không.
+Xin vui lòng xếp hàng.
+
+1519
+01:11:48,298 --> 01:11:50,591
+Ông Abacus, người đàn ông đó
+vừa cho chúng ta 100 đồng.
+
+1520
+01:11:50,616 --> 01:11:51,952
+Ta biết rồi, Noodle!
+
+1521
+01:11:53,123 --> 01:11:53,807
+Người tiếp theo nào?
+
+1522
+01:11:53,832 --> 01:11:55,004
+- Đó là tôi.
+- Tôi!
+
+1523
+01:12:01,020 --> 01:12:02,003
+Anh Wonka?
+
+1524
+01:12:02,197 --> 01:12:02,777
+Vâng?
+
+1525
+01:12:04,362 --> 01:12:05,482
+Chuyện gì đang xảy ra ở đây thế?
+
+1526
+01:12:05,870 --> 01:12:06,821
+Ôi, Chúa ơi.
+
+1527
+01:12:07,335 --> 01:12:08,318
+Điều đó là không thể.
+
+1528
+01:12:08,683 --> 01:12:09,614
+Trừ khi...
+
+1529
+01:12:13,123 --> 01:12:14,249
+Mồ hôi của Yeti sao?
+
+1530
+01:12:14,640 --> 01:12:15,968
+Mồ hôi của Yeti?
+
+1531
+01:12:15,993 --> 01:12:17,907
+Thuốc mọc tóc mạnh nhất trên thế giới.
+
+1532
+01:12:18,155 --> 01:12:19,153
+Tôi đâu có thêm nó vào nhỉ.
+
+1533
+01:12:20,323 --> 01:12:22,889
+Kính thưa quý vị!
+Xin vui lòng chú ý!
+
+1534
+01:12:22,928 --> 01:12:24,998
+Có vẻ như đã có một sự cố nhỏ
+trong khâu sản xuất.
+
+1535
+01:12:25,023 --> 01:12:26,704
+Đừng ai ăn những bông hoa!
+
+1536
+01:12:28,017 --> 01:12:28,974
+Tại sao không?
+
+1537
+01:12:29,148 --> 01:12:30,072
+Có chuyện gì với chúng vậy?
+
+1538
+01:12:30,258 --> 01:12:31,834
+Cái nấm này bị làm sao vậy?
+
+1539
+01:12:31,995 --> 01:12:34,267
+Con gái tôi chỉ cắn một miếng
+và nhìn nó mà xem!
+
+1540
+01:12:34,594 --> 01:12:37,355
+Vậy sô-cô-la sữa thì không có
+vấn đề gì chứ... phải không?
+
+1541
+01:12:37,484 --> 01:12:40,240
+Tôi vô cùng xin lỗi, và tôi không biết
+làm thế nào để giải thích điều này...
+
+1542
+01:12:41,087 --> 01:12:43,020
+nhưng có vẻ như sô-cô-la
+đã bị nhiễm độc!
+
+1543
+01:12:43,306 --> 01:12:44,231
+Bị nhiễm độc?
+
+1544
+01:12:44,256 --> 01:12:44,830
+Bị nhiễm độc?
+
+1545
+01:12:44,967 --> 01:12:46,386
+Hắn đã đầu độc con tôi!
+
+1546
+01:12:46,411 --> 01:12:48,098
+Tôi không có làm thế.
+
+1547
+01:12:48,123 --> 01:12:49,882
+Tôi muốn lấy lại tiền.
+
+1548
+01:12:49,907 --> 01:12:50,963
+Tôi muốn bồi thường.
+
+1549
+01:12:50,988 --> 01:12:52,115
+Tôi muốn trả thù.
+
+1550
+01:13:00,221 --> 01:13:01,419
+Không, không! Làm ơn!
+
+1551
+01:13:07,089 --> 01:13:09,192
+Đây là những gì ngươi đáng phải nhận
+vì khiến con gái ta mọc râu!
+
+1552
+01:13:12,187 --> 01:13:14,563
+- Cứu tôi. Tôi phải ra khỏi đây.
+- Tôi sẽ đợi cô.
+
+1553
+01:13:16,914 --> 01:13:18,170
+Và tôi tin rằng điều này...
+
+1554
+01:13:18,509 --> 01:13:21,028
+là sự kết thúc của
+cửa hàng sô-cô-la Wonka.
+
+1555
+01:13:41,060 --> 01:13:42,210
+Tôi không hiểu. Chuyện gì...
+
+1556
+01:13:44,717 --> 01:13:45,411
+Chuyện gì...
+
+1557
+01:13:46,781 --> 01:13:47,841
+Chuyện gì đã xảy ra vậy?
+
+1558
+01:13:47,991 --> 01:13:49,032
+Chẳng phải rõ ràng rồi sao?
+
+1559
+01:13:49,651 --> 01:13:51,507
+Chính là do Băng đảng sô-cô-la đó.
+
+1560
+01:13:54,438 --> 01:13:56,926
+Không sao đâu, anh Willy.
+Chúng ta có thể làm lại.
+
+1561
+01:13:57,213 --> 01:13:58,268
+Chúng ta có thể bắt đầu lại.
+
+1562
+01:13:58,750 --> 01:13:59,733
+Đó không phải là vấn đề, Noodle.
+
+1563
+01:14:01,500 --> 01:14:02,374
+Điều đó đã không xảy ra.
+
+1564
+01:14:03,424 --> 01:14:04,388
+Ý anh là sao?
+
+1565
+01:14:05,110 --> 01:14:06,438
+Bà ấy đã hứa là sẽ ở đây.
+
+1566
+01:14:08,795 --> 01:14:09,706
+Nhưng đã không như vậy.
+
+1567
+01:14:10,686 --> 01:14:12,354
+Anh không thực sự nghĩ rằng...
+
+1568
+01:14:12,379 --> 01:14:13,205
+Không, anh có nghĩ như vậy.
+
+1569
+01:14:16,300 --> 01:14:17,394
+Giấc mơ ngu ngốc.
+
+1570
+01:14:17,571 --> 01:14:20,122
+Đừng nói thế, anh Willy.
+Xin đừng bao giờ...
+
+1571
+01:14:20,147 --> 01:14:20,936
+Thôi nào. Noodle.
+
+1572
+01:14:21,800 --> 01:14:24,092
+Ông nghĩ cậu Wonka đang cần ở một mình.
+
+1573
+01:14:36,908 --> 01:14:40,965
+<i> Mọi điều tốt đẹp trên thế giới này
+bắt đầu với một giấc mơ.</i>
+
+1574
+01:14:44,333 --> 01:14:46,416
+<i> Vậy nên hãy cứ giữ lấy
+giấc mơ của con.</i>
+
+1575
+01:14:48,099 --> 01:14:50,191
+<i>Và khi con chia sẻ sô-cô-la
+với thế giới...</i>
+
+1576
+01:14:53,503 --> 01:14:55,456
+<i>Mẹ sẽ ở ngay bên cạnh con.</i>
+
+1577
+01:14:58,383 --> 01:15:00,304
+Thật xấu hổ, với những gì đã xảy ra ở đây.
+
+1578
+01:15:03,047 --> 01:15:04,402
+Tôi đoán việc này là do
+các ông gây ra đúng không?
+
+1579
+01:15:04,427 --> 01:15:07,409
+Chúng tôi? Ồ, không.
+Không phải chuyện cá nhân đâu.
+
+1580
+01:15:07,583 --> 01:15:12,635
+Chúng tôi đã ủng hộ bà Scrubitt
+giúp nâng cao sự sáng tạo của anh.
+
+1581
+01:15:12,935 --> 01:15:14,731
+Chúng tôi đã trả tiền cho bà ấy
+để đầu độc họ.
+
+1582
+01:15:14,756 --> 01:15:15,536
+Vâng, cảm ơn, Gerald.
+
+1583
+01:15:15,799 --> 01:15:16,627
+Không có chi.
+
+1584
+01:15:17,471 --> 01:15:18,584
+Vậy tại sao các người lại đến đây?
+
+1585
+01:15:19,719 --> 01:15:20,383
+Để cười nhạo à?
+
+1586
+01:15:20,455 --> 01:15:23,152
+Không, anh Wonka, tôi không lãng phí
+thời gian của tôi như thế.
+
+1587
+01:15:23,929 --> 01:15:26,377
+Chúng tôi đến để cho anh
+một thỏa thuận.
+
+1588
+01:15:27,295 --> 01:15:31,911
+Đây là chính xác số tiền
+mà anh nợ bà Scrubitt.
+
+1589
+01:15:32,827 --> 01:15:34,916
+Và đây là cho gã kế toán...
+
+1590
+01:15:36,149 --> 01:15:37,360
+cho người sửa ống nước...
+
+1591
+01:15:37,476 --> 01:15:38,947
+cô nàng trực điện thoại...
+
+1592
+01:15:39,637 --> 01:15:42,488
+cho cái gã hề hước...
+
+1593
+01:15:43,181 --> 01:15:44,027
+và cuối cùng...
+
+1594
+01:15:46,629 --> 01:15:47,821
+là cho bé gái đó.
+
+1595
+01:15:48,324 --> 01:15:49,873
+Tôi cũng đã cho cô bé ấy
+thêm một ít nữa.
+
+1596
+01:15:50,034 --> 01:15:52,910
+Để cô bé có thể kiếm được một nơi để sống,
+mua quần áo, đồ chơi...
+
+1597
+01:15:54,418 --> 01:15:55,077
+và sách.
+
+1598
+01:15:57,369 --> 01:15:58,990
+Đúng vậy, anh Wonka ạ.
+
+1599
+01:15:59,566 --> 01:16:03,622
+Anh có thể thay đổi cuộc sống của cô bé.
+Của tất cả bọn họ.
+
+1600
+01:16:05,648 --> 01:16:06,950
+Và tôi sẽ phải làm gì?
+
+1601
+01:16:07,650 --> 01:16:08,769
+Rời khỏi thị trấn này.
+
+1602
+01:16:09,580 --> 01:16:10,458
+Ồ, và...
+
+1603
+01:16:12,040 --> 01:16:14,357
+không bao giờ làm sô-cô-la nữa.
+
+1604
+01:16:15,698 --> 01:16:17,808
+Có một chiếc thuyền sẽ rời đi
+vào lúc nửa đêm.
+
+1605
+01:16:17,833 --> 01:16:21,811
+<i>Và vì lợi ích của họ, cũng như của anh,
+tôi hy vọng anh sẽ ở trên đó.</i>
+
+1606
+01:16:26,509 --> 01:16:28,219
+<i><font color="#00ffff">♪ Sorry, Noodle ♪</font>
+Xin lỗi, Noodle</i>
+
+1607
+01:16:31,498 --> 01:16:35,498
+<i><font color="#00ffff">♪ I guess I got carried away ♪</font>
+Anh nghĩ là anh đã quá phấn khích</i>
+
+1608
+01:16:38,596 --> 01:16:40,386
+<i><font color="#00ffff">♪ Sorry, Noodle ♪</font>
+Xin lỗi, Noodle</i>
+
+1609
+01:16:43,436 --> 01:16:47,066
+<i><font color="#00ffff">♪ I hope you’ll forgive me one day ♪</font>
+Anh hy vọng ngày nào đó em sẽ tha thứ cho anh</i>
+
+1610
+01:16:47,283 --> 01:16:48,572
+Anh trả phòng, đúng không?
+
+1611
+01:16:48,950 --> 01:16:49,521
+Phải.
+
+1612
+01:16:53,330 --> 01:16:56,540
+<i><font color="#00ffff">♪ I just wanted it ♪</font>
+Tôi chỉ muốn</i>
+
+1613
+01:16:57,664 --> 01:17:02,044
+<i><font color="#00ffff">♪ To feel the way that it did ♪</font>
+Cảm nhận lại cảm giác lúc đó</i>
+
+1614
+01:17:02,268 --> 01:17:04,768
+<i><font color="#00ffff">♪ When I was a kid ♪</font>
+Khi tôi còn là một đứa trẻ</i>
+
+1615
+01:17:09,268 --> 01:17:11,268
+<i><font color="#00ffff">♪ Sorry, Noodle ♪</font>
+Xin lỗi, Noodle</i>
+
+1616
+01:17:18,167 --> 01:17:18,891
+Anh Wonka.
+
+1617
+01:17:19,276 --> 01:17:21,281
+Vé của anh. Một chiều.
+
+1618
+01:17:22,077 --> 01:17:23,457
+Đến Bắc Cực.
+
+1619
+01:17:23,855 --> 01:17:25,561
+Ghế phổ thông cao cấp.
+
+1620
+01:17:25,784 --> 01:17:27,210
+Phải, về cơ bản là
+hạng phổ thông.
+
+1621
+01:17:27,324 --> 01:17:30,449
+Ý là anh sẽ có thêm chỗ để chân.
+Và vài gói đậu phộng.
+
+1622
+01:17:30,688 --> 01:17:32,042
+Xứng đáng quá trời đúng không?
+
+1623
+01:17:32,281 --> 01:17:34,605
+Tôi không biết nữa.
+Nhưng những anh chàng này...
+
+1624
+01:17:35,745 --> 01:17:37,002
+Chúng ta không cần
+phải đi sâu vô chi tiết nhỉ.
+
+1625
+01:17:37,584 --> 01:17:38,258
+Tạm biệt...
+
+1626
+01:17:39,465 --> 01:17:40,294
+Anh Wonka.
+
+1627
+01:17:58,392 --> 01:17:59,341
+Cảm ơn anh.
+
+1628
+01:18:15,613 --> 01:18:17,395
+HẠNG PHỔ THÔNG
+CAO CẤP
+
+1629
+01:18:33,282 --> 01:18:36,412
+<i><font color="#63f549">♪ Oompa Loompa doompety-dee ♪</font></i>
+
+1630
+01:18:36,700 --> 01:18:39,620
+<i><font color="#63f549">♪ I’m not in premium economy ♪</font>
+Tôi không ngồi ở hàng ghế phổ thông cao cấp</i>
+
+1631
+01:18:39,998 --> 01:18:43,218
+<i><font color="#63f549">♪ I’d go first class if I were you ♪</font>
+Nếu là anh tôi sẽ ngồi ở khoang hạng nhất </i>
+
+1632
+01:18:43,378 --> 01:18:45,968
+<i><font color="#63f549">♪ That’s what Oompa Loompas ♪</font>
+Đó chính là Oompa Loompas</i>
+
+1633
+01:18:46,088 --> 01:18:47,758
+<i><font color="#63f549">♪ Doompety-do! ♪</font></i>
+
+1634
+01:18:49,560 --> 01:18:50,751
+Mừng vì anh ở đây.
+
+1635
+01:18:50,979 --> 01:18:53,505
+Tôi sẽ không để anh thoát
+khỏi tầm mắt của tôi, Willy Wonka.
+
+1636
+01:18:53,642 --> 01:18:58,232
+Cho đến khi anh trả hết nợ.
+Nhưng tôi có tin vui cho anh đây.
+
+1637
+01:18:58,622 --> 01:18:59,156
+Cái gì vậy?
+
+1638
+01:18:59,495 --> 01:19:01,272
+Tôi đã làm một vài phép tính.
+
+1639
+01:19:01,552 --> 01:19:03,707
+Chỉ cần thêm một lọ nữa,
+và chúng ta sẽ hết nợ.
+
+1640
+01:19:04,064 --> 01:19:09,417
+Nếu anh muốn, tôi sẽ chấp nhận nửa lọ
+sô-cô-la Bay lượn thú vị đó.
+
+1641
+01:19:10,099 --> 01:19:10,810
+Xui cho anh rồi.
+
+1642
+01:19:11,292 --> 01:19:12,789
+Tôi không làm sô-cô-la nữa.
+
+1643
+01:19:12,814 --> 01:19:16,090
+Ôi trời, đừng nói với tôi là anh sẽ
+chấp nhận thỏa thuận lố bịch đó nhé.
+
+1644
+01:19:16,194 --> 01:19:17,168
+Tôi phải làm thế.
+
+1645
+01:19:17,511 --> 01:19:18,250
+Vì Noodle.
+
+1646
+01:19:19,592 --> 01:19:21,044
+Tôi đã hứa cho cô bé
+một cuộc sống tốt đẹp hơn.
+
+1647
+01:19:22,288 --> 01:19:23,153
+Tôi đã ngoéo tay hứa.
+
+1648
+01:19:23,284 --> 01:19:26,630
+Anh phải đứng lên chống lại bất công.
+Cho họ vài đòn phản công chứ.
+
+1649
+01:19:26,923 --> 01:19:28,101
+Đó là những gì một Oompa Loompa sẽ làm.
+
+1650
+01:19:31,278 --> 01:19:34,579
+Nhưng nếu anh quyết định chỉ ngồi đó
+cảm thấy thương hại cho bản thân...
+
+1651
+01:19:35,246 --> 01:19:36,323
+thì tôi đi ngủ đây.
+
+1652
+01:19:36,968 --> 01:19:37,693
+Chúc ngủ ngon.
+
+1653
+01:19:47,319 --> 01:19:47,971
+Ha.
+
+1654
+01:19:52,543 --> 01:19:53,421
+Sao thế?
+
+1655
+01:19:54,503 --> 01:19:55,336
+Không, không có gì?
+
+1656
+01:19:55,406 --> 01:19:57,848
+Rõ ràng có cái gì đó
+vì anh đã nói, "Ha".
+
+1657
+01:19:58,788 --> 01:20:00,211
+Tôi xin lỗi. Quên nó đi.
+
+1658
+01:20:01,972 --> 01:20:02,885
+Được thôi.
+
+1659
+01:20:09,107 --> 01:20:09,705
+Ha.
+
+1660
+01:20:09,755 --> 01:20:11,080
+Anh lại làm như thế nữa.
+
+1661
+01:20:11,245 --> 01:20:13,875
+Nói cho tôi biết nó là gì, hoặc tôi sẽ
+khá ác ý xiên anh bằng một que cocktail.
+
+1662
+01:20:14,544 --> 01:20:16,334
+Nhìn này. Chỗ mà Slugworth bắt tay tôi.
+
+1663
+01:20:16,691 --> 01:20:18,422
+Nhẫn của ông ta để lại một dấu ấn.
+Thấy không?
+
+1664
+01:20:18,670 --> 01:20:20,668
+Đó là chữ "A", được bao quanh bởi chữ "S".
+
+1665
+01:20:20,693 --> 01:20:24,338
+Thì sao? Tên ông ta là Arthur Slugworth.
+Chắc đây chỉ là nhẫn gia tộc thôi.
+
+1666
+01:20:24,508 --> 01:20:26,213
+Phải, nhưng Noodle cũng có
+một cái giống như vậy.
+
+1667
+01:20:26,357 --> 01:20:27,346
+Noodle?
+
+1668
+01:20:28,017 --> 01:20:31,370
+Tại sao trẻ mồ côi như Noodle lại có
+nhẫn của gia tộc Slugworth?
+
+1669
+01:20:32,118 --> 01:20:33,512
+Chỉ có một lý do tôi có thể nghĩ ra.
+
+1670
+01:20:33,809 --> 01:20:34,761
+Là gì?
+
+1671
+01:20:34,977 --> 01:20:36,950
+Và nếu tôi đúng, Noodle có thể
+gặp nguy hiểm nghiêm trọng.
+
+1672
+01:20:37,104 --> 01:20:40,719
+Ý anh là sao, nói thẳng ra đi nào.
+Cho tôi một viên kẹo bổ não đi.
+
+1673
+01:20:40,830 --> 01:20:42,431
+Không còn thời gian nữa.
+Tôi phải quay lại ngay.
+
+1674
+01:20:42,784 --> 01:20:44,338
+- Thuyền trưởng!
+- Wonka?
+
+1675
+01:20:44,423 --> 01:20:47,340
+Quay lại đây.
+Wonka! Tôi yêu cầu một lời giải thích.
+
+1676
+01:20:47,952 --> 01:20:48,869
+Thuyền trưởng?
+
+1677
+01:20:50,951 --> 01:20:53,822
+Trong một diễn biến khác,
+lời giải thích để sau vậy.
+
+1678
+01:20:54,447 --> 01:20:55,518
+Chúc anh một ngày tốt lành.
+
+1679
+01:21:04,762 --> 01:21:08,818
+Vâng, các quý ông, một người làm
+sô-cô-la đã chết, theo yêu cầu.
+
+1680
+01:21:10,557 --> 01:21:11,615
+Cô Bon-Bon?
+
+1681
+01:21:11,640 --> 01:21:12,663
+<i>Vâng, ông Slugworth?</i>
+
+1682
+01:21:13,638 --> 01:21:14,914
+Gửi sô-cô-la đến Cảnh sát trưởng nhé.
+
+1683
+01:21:23,437 --> 01:21:24,388
+<i>Ái chà.</i>
+
+1684
+01:21:25,300 --> 01:21:27,878
+Sao sáng nay mặt ai
+cũng dài thườn thượt thế này.
+
+1685
+01:21:28,242 --> 01:21:31,182
+Nó giống như là các người có rất nhiều
+âm mưu lén lút...
+
+1686
+01:21:31,207 --> 01:21:32,822
+để cố gắng luồn lách
+thoát khỏi hợp đồng.
+
+1687
+01:21:33,262 --> 01:21:35,567
+Nhưng mà đã thất bại
+một cách ngoạn mục.
+
+1688
+01:21:36,456 --> 01:21:39,555
+Nhưng có tin tốt cho các người đây,
+không phải vì các người xứng đáng đâu.
+
+1689
+01:21:39,792 --> 01:21:43,479
+Bạn của các người, cậu Wonka,
+đã thỏa thuận xong với ông Slugworth.
+
+1690
+01:21:43,848 --> 01:21:44,573
+Cái gì?
+
+1691
+01:21:44,662 --> 01:21:46,192
+Từ bỏ giấc mơ của mình...
+
+1692
+01:21:46,217 --> 01:21:47,683
+để trả khoản nợ cho các người.
+
+1693
+01:21:49,089 --> 01:21:50,554
+- Ông Crunch.
+- Có.
+
+1694
+01:21:54,553 --> 01:21:55,381
+Ông có thể đi.
+
+1695
+01:21:57,178 --> 01:21:58,337
+Nhanh chân lên, đồ mọt sách.
+
+1696
+01:21:58,629 --> 01:22:00,198
+- Bell.
+- Xin chào.
+
+1697
+01:22:00,223 --> 01:22:00,947
+Biến ngay đi nào.
+
+1698
+01:22:01,360 --> 01:22:02,026
+Benz.
+
+1699
+01:22:02,725 --> 01:22:03,994
+Bà không cần nói gì đâu.
+
+1700
+01:22:04,137 --> 01:22:05,381
+Chucklesworth.
+
+1701
+01:22:05,973 --> 01:22:08,369
+Bà là một khán giả khủng khiếp
+Chúc ngủ ngon!
+
+1702
+01:22:08,499 --> 01:22:10,257
+Ờ, đỡ hơn diễn viên hài
+mà không thấy vui nha.
+
+1703
+01:22:10,478 --> 01:22:12,126
+- Tôi biết mà.
+- Này, Larry.
+
+1704
+01:22:12,633 --> 01:22:14,723
+Cố gắng lên.
+Đừng bỏ nghề.
+
+1705
+01:22:15,441 --> 01:22:16,535
+Làm hết hồn.
+
+1706
+01:22:16,839 --> 01:22:19,157
+Và cuối cùng, Noodle.
+
+1707
+01:22:19,717 --> 01:22:21,149
+Được trả nhiều tiền nhất
+trong tất cả.
+
+1708
+01:22:22,464 --> 01:22:24,189
+Nhưng không phải là trả nợ.
+
+1709
+01:22:25,253 --> 01:22:26,588
+Mà là để giữ ngươi ở lại đây.
+
+1710
+01:22:27,579 --> 01:22:28,732
+Ý bà là sao?
+
+1711
+01:22:29,182 --> 01:22:30,882
+Bạn của ta, ông Slugworth...
+
+1712
+01:22:30,907 --> 01:22:34,463
+cho rằng con bé mồ côi bẩn thỉu
+như ngươi không nên ra đường...
+
+1713
+01:22:34,488 --> 01:22:35,895
+để làm ô nhiễm bầu không khí.
+
+1714
+01:22:36,377 --> 01:22:38,180
+Nên, ông ấy đưa tiền cho ta...
+
+1715
+01:22:38,447 --> 01:22:41,299
+để giữ ngươi ở dưới Nhà Giặt mãi mãi.
+
+1716
+01:22:41,846 --> 01:22:43,942
+Và ta chỉ biết vui mừng mà làm theo.
+
+1717
+01:22:44,547 --> 01:22:45,635
+- Tôi ghét bà!
+- Này!
+
+1718
+01:22:45,660 --> 01:22:46,383
+Này, này, này.
+
+1719
+01:22:47,223 --> 01:22:49,222
+Nhìn nó mà xem, ngài Bleachwitz.
+
+1720
+01:22:49,307 --> 01:22:50,296
+Ngài Bleachwitz?
+
+1721
+01:22:51,097 --> 01:22:52,751
+Bà vẫn còn nghĩ rằng ông ta
+là một quý tộc à?
+
+1722
+01:22:53,165 --> 01:22:53,712
+Cái gì?
+
+1723
+01:22:53,831 --> 01:22:55,823
+Chúng tôi đã bịa ra đó,
+bà già ngu ngốc.
+
+1724
+01:22:56,325 --> 01:22:57,620
+Nó nói dối đó.
+
+1725
+01:22:58,089 --> 01:22:58,916
+Được thôi...
+
+1726
+01:22:58,941 --> 01:23:00,537
+con chuột nhắt khốn khiếp này.
+
+1727
+01:23:00,811 --> 01:23:02,893
+Mày đi vào chuồng ngay.
+
+1728
+01:23:03,280 --> 01:23:08,104
+Còn ngươi! Cởi bộ đồ đó ra,
+đồ... đồ nghèo khổ.
+
+1729
+01:23:09,171 --> 01:23:10,310
+Nhưng mà bánh ú à.
+
+1730
+01:23:11,171 --> 01:23:12,041
+Anh yêu em.
+
+1731
+01:23:39,654 --> 01:23:40,682
+Xin chào, Noodle.
+
+1732
+01:23:41,828 --> 01:23:43,782
+Willy. Em tưởng anh đã đi rồi.
+
+1733
+01:23:44,503 --> 01:23:45,174
+Đúng vậy.
+
+1734
+01:23:45,688 --> 01:23:47,408
+Slugworth hứa em sẽ có
+cuộc sống tốt đẹp hơn...
+
+1735
+01:23:47,823 --> 01:23:49,495
+nhưng ông ta đã không
+giữ được lời hứa của mình.
+
+1736
+01:23:50,045 --> 01:23:51,991
+Nên anh đã trở lại.
+Tất cả bọn anh.
+
+1737
+01:23:52,016 --> 01:23:53,241
+- Này, Noodle.
+- Em sao rồi?
+
+1738
+01:23:53,266 --> 01:23:54,226
+- Xin chào.
+- Bất ngờ chưa!
+
+1739
+01:23:54,960 --> 01:23:56,412
+Ông ta muốn em bị nhốt mãi mãi.
+
+1740
+01:23:56,633 --> 01:23:57,935
+Đúng vậy, rõ ràng quá rồi.
+
+1741
+01:23:58,248 --> 01:24:00,416
+Tại sao?
+Sao ông ta lại muốn hại em?
+
+1742
+01:24:00,598 --> 01:24:02,291
+Anh không biết, Noodle.
+Không chắc lắm.
+
+1743
+01:24:02,720 --> 01:24:04,901
+Anh chỉ biết chắc một điều là em sẽ
+không an toàn cho đến khi Slugworth...
+
+1744
+01:24:04,926 --> 01:24:05,943
+bị nhốt vào tù.
+
+1745
+01:24:07,772 --> 01:24:10,591
+Và chính xác thì làm thế nào
+chuyện đó xảy ra?
+
+1746
+01:24:10,881 --> 01:24:14,012
+Ông từng nói Băng nhóm đó
+giữ sổ ghi chép lại các tội lỗi của họ.
+
+1747
+01:24:14,251 --> 01:24:15,801
+Đúng, trong cuốn sổ cái
+màu xanh lá cây.
+
+1748
+01:24:15,826 --> 01:24:18,358
+Vậy nếu chúng ta có được nó, ta có thể
+chứng minh chúng đã bỏ độc và sô-cô-la.
+
+1749
+01:24:18,606 --> 01:24:20,162
+Scrubitt và Bleacher sẽ vào tù...
+
+1750
+01:24:20,187 --> 01:24:20,969
+và tất cả chúng ta sẽ được tự do.
+
+1751
+01:24:21,229 --> 01:24:21,802
+Phải...
+
+1752
+01:24:21,827 --> 01:24:25,077
+nhưng để tôi nhắc cậu rằng,
+họ giữ sổ cái đó trong một cái hầm.
+
+1753
+01:24:25,461 --> 01:24:26,724
+Được bảo vệ bởi một linh mục bại hoại.
+
+1754
+01:24:26,854 --> 01:24:29,003
+Và năm trăm tu sĩ nghiện sô-sô-la.
+
+1755
+01:24:30,240 --> 01:24:31,086
+Đúng vậy.
+
+1756
+01:24:31,601 --> 01:24:34,283
+Nhưng sáng nay, tôi đã bơi
+một quãng đường dài.
+
+1757
+01:24:34,387 --> 01:24:35,800
+Nước lạnh thì rất tốt cho bộ não.
+
+1758
+01:24:35,904 --> 01:24:39,387
+Kích thích các nơ-ron thần kinh.
+Và sau 4 dặm, tôi đã nghĩ ra cách.
+
+1759
+01:24:39,726 --> 01:24:41,216
+Làm thế nào một đứa trẻ mồ côi khéo léo...
+
+1760
+01:24:41,241 --> 01:24:42,610
+một kế toán, một thợ sửa ống nước...
+
+1761
+01:24:42,807 --> 01:24:44,354
+một người trực tổng đài điện thoại...
+
+1762
+01:24:44,379 --> 01:24:46,249
+và một người đàn ông
+có thể nói dưới nước...
+
+1763
+01:24:46,274 --> 01:24:49,465
+có thể kết hợp những tài năng đó,
+và thực hiện vụ cướp thế kỷ.
+
+1764
+01:24:49,726 --> 01:24:52,401
+Nhưng kể cả khi chúng ta chạm được
+tay mình lên cuốn sổ đó...
+
+1765
+01:24:52,426 --> 01:24:56,809
+Băng nhóm đó sẽ vẫn hối lộ như cách họ
+thường làm. Và lại thoát khỏi rắc rối.
+
+1766
+01:24:57,583 --> 01:24:59,028
+Người tham lam bóc lột người nghèo,
+anh Willy.
+
+1767
+01:24:59,739 --> 01:25:00,754
+Đó là cách thế giới này vận hành.
+
+1768
+01:25:01,349 --> 01:25:02,117
+Em nói đúng, Noodle.
+
+1769
+01:25:03,035 --> 01:25:04,409
+Anh đoán đó là lý do tại sao
+ta có một việc cần phải làm.
+
+1770
+01:25:04,953 --> 01:25:05,715
+Chuyện gì vậy?
+
+1771
+01:25:06,251 --> 01:25:07,130
+Thay đổi thế giới.
+
+1772
+01:25:13,048 --> 01:25:13,891
+Chúng ta bắt đầu từ đâu?
+
+1773
+01:25:27,128 --> 01:25:28,033
+Xin thứ lỗi, thưa ông.
+
+1774
+01:25:28,641 --> 01:25:31,160
+Ông có thể dành một miếng sô-cô-la
+cho một đứa trẻ mồ côi?
+
+1775
+01:25:31,323 --> 01:25:34,383
+Tao xin lỗi, con của ta.
+Nhưng ta không còn miếng nào cả.
+
+1776
+01:25:38,257 --> 01:25:40,034
+Vậy hãy nhận lấy món bạc hà này.
+
+1777
+01:25:40,783 --> 01:25:41,448
+Tuyệt!
+
+1778
+01:25:44,590 --> 01:25:47,540
+"Gửi đến Basil Bond,
+nhân viên xuất sắc của tuần."
+
+1779
+01:25:47,565 --> 01:25:49,285
+Ái chà, tốt thật...
+
+1780
+01:26:00,763 --> 01:26:02,469
+Mọi thứ đều ổn chứ?
+
+1781
+01:26:02,521 --> 01:26:04,800
+Mọi thứ đều ổn. Phải không, Abigail?
+
+1782
+01:26:07,163 --> 01:26:08,875
+Bảo nó là có thể nó muốn cúi xuống đấy.
+
+1783
+01:26:09,116 --> 01:26:10,294
+Bảo nó cái gì cơ?
+
+1784
+01:26:10,319 --> 01:26:11,557
+Cúi xuống!
+
+1785
+01:26:15,164 --> 01:26:16,219
+Chào buổi sáng, các huynh đệ.
+
+1786
+01:26:16,401 --> 01:26:17,794
+Chào buổi sáng, thưa Cha.
+
+1787
+01:26:17,892 --> 01:26:19,162
+Như tất cả đã biết...
+
+1788
+01:26:19,187 --> 01:26:22,527
+hôm nay là tang lễ của
+Nam tước von Schmeichelhammer.
+
+1789
+01:26:22,866 --> 01:26:25,809
+Và góa phụ của ông ấy là...
+
+1790
+01:26:26,401 --> 01:26:27,898
+một người khá sùng đạo.
+
+1791
+01:26:28,771 --> 01:26:32,514
+Vì vậy, tôi không muốn nhìn thấy bất cứ ai
+ăn sô-cô-la trong suốt buổi lễ.
+
+1792
+01:26:32,539 --> 01:26:34,358
+Vâng, thưa Cha.
+
+1793
+01:26:34,383 --> 01:26:37,169
+Chúng ta đều biết rằng một ngày,
+ta sẽ bị phán xét vì tội lỗi của mình...
+
+1794
+01:26:37,749 --> 01:26:40,385
+nhưng nó sẽ không phải là ngày hôm nay.
+
+1795
+01:26:40,887 --> 01:26:42,606
+Amen.
+
+1796
+01:26:55,743 --> 01:26:57,251
+Ở đó, ở đó.
+
+1797
+01:26:58,345 --> 01:27:00,118
+Hươu cao cổ xinh đẹp.
+
+1798
+01:27:00,376 --> 01:27:03,532
+- Chạy đi! Mọi người tránh ra!
+<i>Hươu cao cổ </i>
+
+1799
+01:27:03,565 --> 01:27:04,407
+- Chạy đi!
+Quái thú đến!
+
+1800
+01:27:04,432 --> 01:27:05,939
+- Hãy tự cứu mình!
+<i>Hươu cao cổ </i>
+
+1801
+01:27:06,056 --> 01:27:07,462
+- Ra ngoài!
+<i>Hươu cao cổ </i>
+
+1802
+01:27:07,487 --> 01:27:08,938
+- Phán quyết đã đến!
+<i>Hươu cao cổ </i>
+
+1803
+01:27:08,963 --> 01:27:10,242
+Chạy đi! Nhanh lên!
+
+1804
+01:27:10,267 --> 01:27:12,955
+- Trong một hình dáng thật bất ngờ.
+<i>Hươu cao cổ</i>
+
+1805
+01:27:13,118 --> 01:27:14,681
+- Chạy đi!
+<i>Vui lên nào </i>
+
+1806
+01:27:14,706 --> 01:27:16,947
+<i>Tôi biết nó là
+hươu cao cổ </i>
+
+1807
+01:27:16,972 --> 01:27:18,783
+Tôi đã làm gì để phải chịu
+như thế này?
+
+1808
+01:27:19,110 --> 01:27:20,657
+Ngươi biết ngươi đã làm gì, Julius.
+
+1809
+01:27:20,682 --> 01:27:22,931
+Ngươi đã bán linh hồn mình
+vì 30 miếng sô-cô-la.
+
+1810
+01:27:27,034 --> 01:27:29,440
+Xin chào, tổng đài đây.
+Tôi có thể chuyển máy đến đâu?
+
+1811
+01:27:29,465 --> 01:27:32,151
+<i>Chuyển đến Sở Thú.
+Trường hợp khẩn cấp.</i>
+
+1812
+01:27:32,409 --> 01:27:35,151
+Nối máy đến Bộ phận
+Động vật Trốn thoát ngay bây giờ.
+
+1813
+01:27:37,065 --> 01:27:38,151
+Xin chào, Sở Thú nghe đây.
+
+1814
+01:27:41,792 --> 01:27:43,862
+Yên lặng nào, các con thú.
+
+1815
+01:27:43,887 --> 01:27:45,393
+Ngươi cũng vậy, bạch tuộc à.
+
+1816
+01:27:45,418 --> 01:27:46,034
+<i>Đó là một con
+hươu cao cổ.</i>
+
+1817
+01:27:46,059 --> 01:27:49,518
+Cái gì? Vâng, tôi nghĩ chúng tôi
+đã mất một con hươu cao cổ.
+
+1818
+01:27:49,543 --> 01:27:50,862
+<i>Chà, anh có thể đến và đem nó về không?</i>
+
+1819
+01:27:50,887 --> 01:27:53,237
+Được rồi, trời ạ.
+Tôi sẽ gửi vài người đến ngay.
+
+1820
+01:28:05,456 --> 01:28:07,010
+Xin hãy tha thứ cho tôi!
+
+1821
+01:28:07,963 --> 01:28:09,424
+Tôi là một kẻ có tội!
+
+1822
+01:28:09,651 --> 01:28:13,643
+Một kẻ nghiện sô-cô-la
+yếu đuối và độc ác!
+
+1823
+01:28:23,255 --> 01:28:24,231
+Chào buổi sáng, mọi người.
+
+1824
+01:28:24,865 --> 01:28:26,935
+Chào mừng đến với
+nhà thờ Thánh Benedict.
+
+1825
+01:28:27,545 --> 01:28:30,349
+Thưa Nữ tước,
+tôi rất tiếc vì sự mất mát của bà.
+
+1826
+01:28:31,443 --> 01:28:34,490
+Chúng tôi hiện có
+một số sự cố kỹ thuật...
+
+1827
+01:28:35,849 --> 01:28:39,005
+nên có thể là bà sẽ muốn
+để Nam tước xuống một lát.
+
+1828
+01:28:40,732 --> 01:28:41,943
+Các hiệp sỹ tới rồi.
+
+1829
+01:28:42,169 --> 01:28:44,489
+Có phải linh mục đã gọi báo
+về con hươu cao cổ không?
+
+1830
+01:28:51,107 --> 01:28:51,699
+An toàn rồi.
+
+1831
+01:29:19,232 --> 01:29:20,756
+"Cảm ơn vì sự tận tụy của cô.
+
+1832
+01:29:21,013 --> 01:29:23,303
+"Cha Julius và Băng đảng sô-cô-la."
+
+1833
+01:29:23,881 --> 01:29:24,998
+Đáng yêu thật.
+
+1834
+01:29:27,358 --> 01:29:29,779
+Đây rồi, thưa Cha.
+Một con hươu cao cổ.
+
+1835
+01:29:31,434 --> 01:29:32,529
+- Tuyệt vời.
+- Cảm ơn, cảm ơn.
+
+1836
+01:29:32,554 --> 01:29:34,483
+Làm ơn lùi lại.
+Đứng lùi lại nào.
+
+1837
+01:29:34,508 --> 01:29:38,088
+<i>Tôi có một chiếc răng ngọt ngào không?
+Tôi có</i>
+
+1838
+01:29:41,920 --> 01:29:42,572
+Chà.
+
+1839
+01:29:43,058 --> 01:29:43,865
+<i>Tôi có một chiếc răng ngọt ngào... </i>
+
+1840
+01:29:43,890 --> 01:29:45,037
+Cô ta thật sự có thể nhảy.
+
+1841
+01:29:45,449 --> 01:29:47,801
+Tôi đã có thể hạnh phúc,
+nhưng tôi đã ném nó đi.
+
+1842
+01:29:48,723 --> 01:29:50,621
+Tôi sẽ gọi cho anh ấy.
+Không, tôi không thể.
+
+1843
+01:29:50,793 --> 01:29:51,840
+Tôi thực sự sẽ gọi cho anh ấy.
+
+1844
+01:29:58,597 --> 01:29:59,277
+Xin chào?
+
+1845
+01:29:59,464 --> 01:30:01,535
+Basil? Gwennie đây.
+
+1846
+01:30:01,942 --> 01:30:02,754
+Anh đã đúng.
+
+1847
+01:30:02,779 --> 01:30:03,428
+Thật không thể tin được?
+
+1848
+01:30:04,059 --> 01:30:07,809
+Những ngày trong lớp học Hóa,
+là hạnh phúc nhất trong cuộc đời em.
+
+1849
+01:30:27,698 --> 01:30:28,309
+Tuyệt.
+
+1850
+01:30:36,653 --> 01:30:39,574
+Xin lỗi thưa ngài. Chiếc xe tải chở
+hải sản đã bị quá tải.
+
+1851
+01:30:39,692 --> 01:30:41,871
+Ở đây có quá nhiều
+những con chim hồng hạc chết tiệt.
+
+1852
+01:30:41,896 --> 01:30:43,621
+Anh có thể chạy nhanh lên không?
+
+1853
+01:30:44,121 --> 01:30:49,098
+<i>Quảng trường đã đóng cửa sáng nay
+sau sự cố kỳ lạ tại nhà thờ thành phố.</i>
+
+1854
+01:30:49,207 --> 01:30:52,223
+<i>Làm trì hoãn tang lễ
+của nhà từ thiện nổi tiếng...</i>
+
+1855
+01:30:52,324 --> 01:30:54,176
+<i>Nam tước von Schmeichelhammer.</i>
+
+1856
+01:31:00,137 --> 01:31:00,830
+Amen.
+
+1857
+01:31:06,238 --> 01:31:07,840
+Xin lỗi, tôi nên nghe
+cuộc gọi này.
+
+1858
+01:31:10,192 --> 01:31:11,957
+- Xin chào?
+<i>- Thưa Cha.</i>
+
+1859
+01:31:12,035 --> 01:31:13,145
+Mọi thứ ổn chứ?
+
+1860
+01:31:13,526 --> 01:31:14,760
+<i>Ồ, vâng, ông Slugworth.</i>
+
+1861
+01:31:14,940 --> 01:31:15,979
+Tất cả đều ổn.
+
+1862
+01:31:16,838 --> 01:31:18,049
+Ít nhất, là bây giờ.
+
+1863
+01:31:18,995 --> 01:31:20,010
+Ý ông là sao?
+
+1864
+01:31:20,035 --> 01:31:22,003
+<i>Vừa nãy đã có một con
+hươu cao cổ ở đây.</i>
+
+1865
+01:31:22,028 --> 01:31:24,045
+<i>Phải dọn dẹp sạch sẽ toàn bộ
+trong khoảng 20 phút...</i>
+
+1866
+01:31:24,073 --> 01:31:25,049
+nhưng mọi thứ đã trở lại bình thường.
+
+1867
+01:31:27,525 --> 01:31:28,358
+Xin chào?
+
+1868
+01:31:28,627 --> 01:31:31,025
+Mấy con hồng hạc khốn khiếp, Donovan!
+Chạy nhanh lên!
+
+1869
+01:31:31,050 --> 01:31:31,986
+Vâng, thưa ngài!
+
+1870
+01:31:35,501 --> 01:31:36,370
+Đồ ngốc!
+
+1871
+01:31:40,580 --> 01:31:42,111
+- Có gì không?
+- Không có gì.
+
+1872
+01:31:42,775 --> 01:31:43,479
+Hãy tiếp tục tìm kiếm.
+
+1873
+01:31:43,658 --> 01:31:44,822
+Nó không có ở đây, anh Willy.
+
+1874
+01:31:44,847 --> 01:31:45,939
+Nhưng ông Abacus nói rằng nó ở đây.
+
+1875
+01:31:45,964 --> 01:31:47,166
+Ông Abacus đã ở trong Nhà Giặt...
+
+1876
+01:31:47,191 --> 01:31:50,971
+bốn năm qua. Có lẽ chà rửa đã khiến
+đầu ông ấy mụ mẫm rồi.
+
+1877
+01:31:51,314 --> 01:31:54,057
+Bởi vì tất cả những gì ở dưới này
+chỉ là mớ sô-cô-la cũ ngu ngốc.
+
+1878
+01:32:09,470 --> 01:32:10,314
+Anh Willy, nhìn này!
+
+1879
+01:32:18,791 --> 01:32:19,799
+Chúng ta làm được rồi, Noodle.
+
+1880
+01:32:20,634 --> 01:32:21,277
+Chúng ta đã bắt được chúng.
+
+1881
+01:32:23,970 --> 01:32:26,283
+Nghịch ngợm, hư hỏng quá đấy,
+anh Wonka à.
+
+1882
+01:32:26,744 --> 01:32:29,471
+Anh đã gây ra cho chúng tôi
+khá nhiều rắc rối.
+
+1883
+01:32:29,496 --> 01:32:31,439
+Anh và con bé mồ côi đó.
+
+1884
+01:32:31,611 --> 01:32:34,096
+Phải, nhưng cô ấy không chỉ là
+trẻ mồ côi, đúng không, ông Slugworth?
+
+1885
+01:32:35,932 --> 01:32:36,955
+Hai người là người một nhà.
+
+1886
+01:32:38,327 --> 01:32:38,939
+Cái gì?
+
+1887
+01:32:39,555 --> 01:32:41,078
+Anh đang nói gì vậy, anh Willy?
+
+1888
+01:32:42,703 --> 01:32:43,922
+Nhớ cái nhẫn đó không, Noodle?
+
+1889
+01:32:44,703 --> 01:32:46,078
+Cái mà bố mẹ đã để lại cho em?
+
+1890
+01:32:46,805 --> 01:32:48,409
+Ông Slugworth có một cái
+giống hệt như vậy.
+
+1891
+01:32:48,954 --> 01:32:50,643
+Có phải không, ông Slugworth?
+
+1892
+01:32:51,391 --> 01:32:53,063
+Thực tế thì, đúng là vậy.
+
+1893
+01:32:54,046 --> 01:32:57,851
+Nó thuộc về anh trai của ta. Zebedee.
+
+1894
+01:32:58,922 --> 01:33:00,000
+Ông ấy có phải là cha tôi không?
+
+1895
+01:33:00,344 --> 01:33:02,102
+Hắn là một kẻ mơ mộng viễn vông.
+
+1896
+01:33:03,141 --> 01:33:05,462
+Hắn đã yêu một con nhỏ mọt sách
+tầm thường...
+
+1897
+01:33:05,579 --> 01:33:08,608
+hắn đã chết trước khi chúng
+kịp làm lễ cưới. Nên ta trở thành...
+
+1898
+01:33:08,633 --> 01:33:11,360
+người thừa kế duy nhất,
+tài sản của gia đình.
+
+1899
+01:33:12,446 --> 01:33:13,672
+Hoặc ta đã nghĩ vậy.
+
+1900
+01:33:15,046 --> 01:33:16,828
+<i>Nhưng chín tháng sau...</i>
+
+1901
+01:33:16,853 --> 01:33:18,945
+<i>mẹ của ngươi xuất hiện
+ngay trước cửa nhà ta...</i>
+
+1902
+01:33:19,328 --> 01:33:22,461
+<i>cầu xin ta tìm một bác sĩ
+cho đứa trẻ sơ sinh ốm yếu của cô ấy.</i>
+
+1903
+01:33:23,359 --> 01:33:24,703
+<i>Ta đã nói rằng ta sẽ giúp.</i>
+
+1904
+01:33:25,562 --> 01:33:27,069
+<i>Nhưng ông đã không làm thế.</i>
+
+1905
+01:33:27,408 --> 01:33:28,078
+<i>Đúng không?</i>
+
+1906
+01:33:29,078 --> 01:33:31,110
+<i>Thay vào đó, ông bỏ tôi
+ở chỗ máng giặt.</i>
+
+1907
+01:33:31,291 --> 01:33:32,117
+Tạm biệt nhé nhóc.
+
+1908
+01:33:33,258 --> 01:33:34,547
+<i>Và Scrubitt đã tìm thấy tôi.</i>
+
+1909
+01:33:35,367 --> 01:33:36,477
+<i>Bà ấy nhìn thấy chiếc nhẫn.</i>
+
+1910
+01:33:37,078 --> 01:33:39,023
+<i>Nghĩ rằng đó là một chữ "N",
+và gọi tôi là Noodle.</i>
+
+1911
+01:33:40,014 --> 01:33:40,883
+<i>Nhưng không phải vậy.</i>
+
+1912
+01:33:41,430 --> 01:33:43,609
+<i>Đó là "Z" Trong tên Zebedee.</i>
+
+1913
+01:33:43,634 --> 01:33:44,383
+<i>Đúng là vậy.</i>
+
+1914
+01:33:45,133 --> 01:33:47,109
+<i>Khi mẹ ngươi quay lại,
+ta đã nói với cô ta rằng ngươi đã chết.</i>
+
+1915
+01:33:47,134 --> 01:33:47,938
+Ôi, không!
+
+1916
+01:33:47,963 --> 01:33:51,305
+<i>Tất nhiên, cô ta đã rất đau lòng.
+Nhưng ta đã cho cô ấy khá nhiều tiền...</i>
+
+1917
+01:33:51,330 --> 01:33:53,320
+<i>và đã đưa cô ta tránh xa
+khỏi tài sản của ta.</i>
+
+1918
+01:33:55,593 --> 01:33:56,484
+Tên bà ấy là gì?
+
+1919
+01:33:57,788 --> 01:33:58,311
+Hả?
+
+1920
+01:33:58,936 --> 01:34:00,914
+Mẹ tôi. Tên bà ấy là gì?
+
+1921
+01:34:03,812 --> 01:34:05,023
+Để ta nhớ xem.
+
+1922
+01:34:06,734 --> 01:34:08,672
+Không, ta không nghĩ rằng
+ta có thể nhớ điều đó.
+
+1923
+01:34:09,352 --> 01:34:11,703
+Xin lỗi. Nhưng ngươi phải hiểu rằng...
+
+1924
+01:34:12,305 --> 01:34:13,578
+cô ta rất nghèo.
+
+1925
+01:34:14,836 --> 01:34:15,703
+Xin lỗi, Felix.
+
+1926
+01:34:16,416 --> 01:34:17,602
+Tên cô ấy là Dorothy.
+
+1927
+01:34:18,580 --> 01:34:20,422
+Dorothy Smith.
+Trong đây có viết lại này.
+
+1928
+01:34:21,297 --> 01:34:22,102
+Dorothy à?
+
+1929
+01:34:22,750 --> 01:34:23,766
+Chà, em biết gì không?
+
+1930
+01:34:24,375 --> 01:34:26,359
+Anh đoán là anh đã biết đọc
+nhờ có em đấy.
+
+1931
+01:34:27,656 --> 01:34:29,305
+Chà, thật sự rất cảm động...
+
+1932
+01:34:29,750 --> 01:34:31,110
+nhưng quay lại việc kinh doanh nào.
+
+1933
+01:34:31,227 --> 01:34:33,031
+Chúng tôi sẽ lấy nó lại, cảm ơn anh.
+
+1934
+01:34:33,367 --> 01:34:35,828
+Anh có bao nhiêu sô-cô-la
+ở nhà máy của mình, anh Fickelgruber?
+
+1935
+01:34:35,922 --> 01:34:38,227
+Khoảng 80.000 gallon.
+
+1936
+01:34:38,252 --> 01:34:39,211
+Prodnose?
+
+1937
+01:34:40,477 --> 01:34:41,422
+75 ngàn?
+
+1938
+01:34:41,447 --> 01:34:42,742
+Và tôi có 150 ngàn.
+
+1939
+01:34:43,679 --> 01:34:44,875
+Thế là đủ.
+
+1940
+01:34:45,743 --> 01:34:46,345
+Để làm gì?
+
+1941
+01:34:47,212 --> 01:34:49,243
+Chết bởi sô-cô-la.
+
+1942
+01:35:08,243 --> 01:35:09,315
+Đi thôi nào.
+
+1943
+01:35:28,128 --> 01:35:29,026
+Các quý ông này.
+
+1944
+01:35:30,751 --> 01:35:31,946
+Sau khi cân nhắc tình huống...
+
+1945
+01:35:32,564 --> 01:35:34,502
+tôi tự hỏi liệu rằng các ông có sẵn lòng
+thay mặt tôi làm một việc tốt không.
+
+1946
+01:35:34,760 --> 01:35:35,760
+Anh nói gì cơ?
+
+1947
+01:35:35,847 --> 01:35:39,344
+"Một việc tốt." Đó là một loại
+hành động vô nghĩa của sự vị tha...
+
+1948
+01:35:39,369 --> 01:35:41,439
+Tất nhiên rồi, anh Wonka.
+
+1949
+01:35:42,088 --> 01:35:43,392
+Anh muốn chúng tôi làm gì?
+
+1950
+01:35:44,198 --> 01:35:46,072
+Không biết rằng ông có thể
+đưa cái này cho một người không.
+
+1951
+01:35:47,197 --> 01:35:48,447
+Nếu tình cờ ông thấy anh ta.
+
+1952
+01:35:48,861 --> 01:35:49,846
+Và đó là ai?
+
+1953
+01:35:50,204 --> 01:35:51,493
+Một người đàn ông nhỏ màu da cam.
+
+1954
+01:35:51,829 --> 01:35:52,425
+Hả?
+
+1955
+01:35:52,650 --> 01:35:53,838
+Một người đàn ông nhỏ màu da cam.
+
+1956
+01:35:54,088 --> 01:35:56,806
+Cao khoảng 20cm, với da màu cam
+và tóc màu xanh lá cây tươi sáng.
+
+1957
+01:35:57,416 --> 01:36:00,158
+Tôi nợ anh ta một lọ sô-cô-la.
+Và, tôi...
+
+1958
+01:36:00,610 --> 01:36:02,923
+nghĩ đây là lọ ngon nhất tôi từng làm.
+
+1959
+01:36:03,650 --> 01:36:06,494
+Trong trường hợp này, tôi chắc rằng
+anh ta sẽ nhận được chúng.
+
+1960
+01:36:11,533 --> 01:36:12,908
+Tạm biệt nhé, anh Wonka.
+
+1961
+01:36:14,337 --> 01:36:15,039
+Nhóc mồ côi.
+
+1962
+01:36:28,516 --> 01:36:29,056
+Anh Willy...
+
+1963
+01:36:55,220 --> 01:36:56,697
+Chúng ta làm gì đây, anh Willy?
+
+1964
+01:36:57,142 --> 01:36:59,650
+Anh không biết, Noodle.
+Anh sẽ nghĩ ra cách.
+
+1965
+01:37:06,954 --> 01:37:08,923
+Sô-cô-la ngon nhất
+mà hắn từng làm à?
+
+1966
+01:37:14,751 --> 01:37:15,381
+Anh biết rồi!
+
+1967
+01:37:15,406 --> 01:37:17,213
+Chuyện gì vậy?
+Anh nghĩ ra cách gì sao?
+
+1968
+01:37:17,238 --> 01:37:20,181
+Đúng vậy. Nếu chúng ta phải chết đuối
+trong sô-cô-la, Noodle à...
+
+1969
+01:37:20,206 --> 01:37:22,556
+hãy đối mặt với nó,
+chúng ta sẽ chết đuối trong sô-cô-la...
+
+1970
+01:37:22,681 --> 01:37:24,080
+và sau đó nó sẽ là sô-cô-la Wonka.
+
+1971
+01:37:24,588 --> 01:37:27,278
+Chúng ta sẽ không chết đuối, anh Willy.
+Nhìn kìa, có ánh sáng.
+
+1972
+01:37:27,778 --> 01:37:29,016
+Chúng ta sẽ để sô-cô-la...
+
+1973
+01:37:29,541 --> 01:37:30,384
+nâng chúng ta lên đó,
+và ta sẽ đập vào kính...
+
+1974
+01:37:30,994 --> 01:37:32,173
+rồi cầu nguyện cho ai đó
+nghe thấy chúng ta.
+
+1975
+01:37:33,150 --> 01:37:34,291
+Đó là một ý tưởng hay hơn nhiều.
+
+1976
+01:37:37,703 --> 01:37:38,203
+Các quý ông.
+
+1977
+01:37:38,530 --> 01:37:40,298
+Đó chỉ là một chút sai sót...
+
+1978
+01:37:40,323 --> 01:37:44,975
+lúc sáng nay, và tôi không biết liệu rằng
+có thể cân nhắc việc tái cơ cấu không.
+
+1979
+01:37:49,376 --> 01:37:51,850
+Hoặc... cứ để mọi thứ như chúng đang có.
+
+1980
+01:37:51,875 --> 01:37:52,754
+Chào Cha.
+
+1981
+01:37:54,100 --> 01:37:57,764
+Wonka có thể đầu óc không bình thường,
+nhưng chắc chắn anh ta biết làm sô-cô-la.
+
+1982
+01:37:58,444 --> 01:38:01,364
+Nhưng anh có nghĩ chúng ta nên để lại 1 ít
+cho người đàn ông nhỏ màu da cam không?
+
+1983
+01:38:01,389 --> 01:38:02,786
+Nói với tôi là anh đang giỡn đi.
+
+1984
+01:38:03,663 --> 01:38:06,264
+Phải, đúng vậy.
+Xin lỗi, tôi bị làm sao ấy nhỉ?
+
+1985
+01:38:06,351 --> 01:38:09,397
+Bởi vì chẳng có ai là người đàn ông nhỏ
+màu da cam, ngớ ngẩn như thế cả.
+
+1986
+01:38:13,022 --> 01:38:14,530
+- Cứu!
+- Cứu!
+
+1987
+01:38:15,068 --> 01:38:16,498
+Ai đó làm ơn cứu chúng tôi với!
+
+1988
+01:38:16,523 --> 01:38:17,193
+Cứu chúng tôi với!
+
+1989
+01:38:17,515 --> 01:38:18,475
+Cứu!
+
+1990
+01:38:18,500 --> 01:38:20,881
+Nhìn kìa. Có người đang đến.
+
+1991
+01:38:21,186 --> 01:38:22,483
+Anh Willy, chúng ta được cứu rồi!
+
+1992
+01:38:35,912 --> 01:38:36,834
+Anh xin lỗi, Noodle.
+
+1993
+01:38:37,537 --> 01:38:38,153
+Đừng như thế.
+
+1994
+01:38:39,241 --> 01:38:40,538
+Anh đã tìm ra gia đình của em.
+
+1995
+01:38:41,522 --> 01:38:43,100
+Một người mẹ rất yêu em.
+
+1996
+01:38:44,311 --> 01:38:45,444
+Đó là tất cả những gì em từng muốn.
+
+1997
+01:38:48,139 --> 01:38:49,209
+Hít thật sâu nào.
+
+1998
+01:39:05,413 --> 01:39:06,373
+Thật tinh tế.
+
+1999
+01:39:07,419 --> 01:39:09,567
+Không được để bản thân
+ủ rũ như vậy.
+
+2000
+01:39:10,005 --> 01:39:12,591
+Chỉ là một chút sô-cô-la thôi mà.
+
+2001
+01:39:13,192 --> 01:39:13,879
+Đính chính lại.
+
+2002
+01:39:14,270 --> 01:39:17,083
+Đó thực ra là sô-cô-la của tôi.
+
+2003
+01:39:24,543 --> 01:39:26,941
+Ông đã phạm 1 sai lầm
+rất nghiêm trọng, thưa ông.
+
+2004
+01:39:28,153 --> 01:39:30,942
+Ông ăn cắp từ một Oompa Loompa,
+và chúng tôi sẽ lấy lại...
+
+2005
+01:39:31,286 --> 01:39:32,458
+gấp một ngàn lần.
+
+2006
+01:39:32,073 --> 01:39:33,253
+{\an8}CỔNG KHẨN CẤP
+
+2007
+01:39:40,091 --> 01:39:41,286
+Có chuyện gì vậy, anh Willy?
+
+2008
+01:39:42,388 --> 01:39:43,747
+Sô-cô-la đang rút xuống dần, Noodle.
+
+2009
+01:39:44,302 --> 01:39:45,552
+Chúng ta đã được cứu!
+
+2010
+01:39:46,380 --> 01:39:47,427
+Bởi ai?
+
+2011
+01:39:47,452 --> 01:39:48,309
+Anh không biết.
+
+2012
+01:39:49,809 --> 01:39:51,778
+Bởi người đàn ông nhỏ màu da cam!
+
+2013
+01:39:51,895 --> 01:39:52,788
+Nhìn kìa.
+
+2014
+01:39:52,926 --> 01:39:54,621
+Người đàn ông nhỏ màu da cam!
+
+2015
+01:39:55,247 --> 01:39:57,552
+Cảm ơn, người đàn ông nhỏ màu da cam!
+
+2016
+01:40:20,871 --> 01:40:24,660
+Các quý ông. Ơn trời, các anh không sao.
+Tôi đến nhanh nhất có thể.
+
+2017
+01:40:34,606 --> 01:40:35,410
+Chiếc xe như bị co lại vậy.
+
+2018
+01:40:35,653 --> 01:40:36,393
+Tôi chắc là thế.
+
+2019
+01:40:36,622 --> 01:40:39,216
+Và ông không có gì phải lo lắng cả, Sếp.
+Tất cả đã được kiểm soát.
+
+2020
+01:40:39,755 --> 01:40:43,895
+Một vài tên trộm đột nhập, nhưng tôi e là
+họ đã gặp phải một... tai nạn nhỏ.
+
+2021
+01:40:44,098 --> 01:40:46,403
+Dẫn đến cái chết.
+
+2022
+01:40:47,677 --> 01:40:49,598
+Diễn đạt biểu cảm lắm, Gerald.
+
+2023
+01:40:49,623 --> 01:40:51,598
+Tôi không chắc lắm về chuyện đó nhé.
+
+2024
+01:40:52,036 --> 01:40:53,887
+Anh cảnh sát, anh vui lòng
+xem giúp cái này nhé?
+
+2025
+01:40:53,912 --> 01:40:54,496
+Wonka!
+
+2026
+01:40:54,747 --> 01:40:56,763
+Nó ghi lại chi tiết mọi khoản
+thanh toán bất hợp pháp...
+
+2027
+01:40:56,788 --> 01:40:58,098
+mà những người đàn ông này đã từng làm.
+
+2028
+01:40:58,474 --> 01:40:59,544
+Hàng ngàn lần.
+
+2029
+01:41:00,536 --> 01:41:02,427
+Affable, đừng nghe lời con bé ấy.
+Nó nói dối đấy.
+
+2030
+01:41:02,452 --> 01:41:03,833
+Tất nhiên là thế rồi.
+
+2031
+01:41:04,231 --> 01:41:05,325
+Cô bé không nói dối, thưa ông.
+
+2032
+01:41:05,567 --> 01:41:06,778
+Điều cô bé nói hoàn toàn đúng.
+
+2033
+01:41:07,958 --> 01:41:08,848
+Thật không thể tin được.
+
+2034
+01:41:10,231 --> 01:41:14,411
+Nghe có vẻ như vụ này cần được
+xử lý bởi Cảnh sát trưởng.
+
+2035
+01:41:14,653 --> 01:41:17,333
+Đưa nó cho tôi nhé, Affable,
+tôi sẽ xử lý nó.
+
+2036
+01:41:17,358 --> 01:41:18,591
+Anh biết đấy, đỡ cho anh một vụ nhé.
+
+2037
+01:41:18,702 --> 01:41:20,317
+Tôi e là tôi không thể làm vậy, Sếp.
+
+2038
+01:41:20,372 --> 01:41:21,403
+Tại sao lại như vậy?
+
+2039
+01:41:22,114 --> 01:41:23,638
+Bởi vì tên của ông được viết ở đây.
+
+2040
+01:41:24,036 --> 01:41:24,673
+Hả?
+
+2041
+01:41:24,880 --> 01:41:25,520
+Rất nhiều.
+
+2042
+01:41:26,145 --> 01:41:27,966
+- Các quý ông...
+- Các ông đã bị bắt.
+
+2043
+01:41:28,052 --> 01:41:29,364
+- Chạy đi.
+- Chúng ta bị còng tay, ở đây sao?
+
+2044
+01:41:29,638 --> 01:41:30,380
+Không sao đâu, Noodle.
+
+2045
+01:41:31,052 --> 01:41:32,489
+Chờ một giây nào.
+
+2046
+01:41:34,583 --> 01:41:35,598
+Chuyện gì đang xảy ra vậy?
+
+2047
+01:41:36,325 --> 01:41:37,489
+Tại sao chúng ta lại bay lên?
+
+2048
+01:41:37,514 --> 01:41:39,989
+Các ông đã không ăn bất kỳ viên sô-cô-la
+nào trong lọ chứ, ông Slugworth?
+
+2049
+01:41:40,442 --> 01:41:41,145
+Tại sao?
+
+2050
+01:41:41,309 --> 01:41:42,473
+Bởi vì đó là sô-cô-la Bay lượn.
+
+2051
+01:41:42,739 --> 01:41:45,278
+Tác dụng chậm, nhưng rất mạnh.
+
+2052
+01:41:45,466 --> 01:41:47,208
+Ngươi nghĩ rằng người thông minh,
+đúng không Wonka?
+
+2053
+01:41:47,466 --> 01:41:50,122
+Dưới chân của chúng ta
+có cả tỷ bạc sô-cô-la.
+
+2054
+01:41:50,559 --> 01:41:51,864
+Bọn ta sẽ tìm luật sư giỏi nhất...
+
+2055
+01:41:51,889 --> 01:41:54,020
+hối lộ thẩm phán, thao túng
+bồi thẩm đoàn nếu cần phải làm thế.
+
+2056
+01:41:54,309 --> 01:41:55,364
+Chúng ta sẽ ổn thôi.
+
+2057
+01:41:56,559 --> 01:41:57,848
+Ước gì tôi đã nghĩ về chuyện này.
+
+2058
+01:42:02,105 --> 01:42:02,964
+Này, Noodle!
+
+2059
+01:42:20,918 --> 01:42:22,206
+Cái gì vậy?
+
+2060
+01:42:22,231 --> 01:42:23,856
+Đó là sô-cô-la của chúng ta!
+
+2061
+01:42:23,881 --> 01:42:25,725
+Tất cả sô-cô-la của chúng ta!
+
+2062
+01:42:25,750 --> 01:42:26,764
+Chúng ta tiêu rồi!
+
+2063
+01:42:26,967 --> 01:42:28,522
+Này, đừng lo lắng, các quý ông
+
+2064
+01:42:28,547 --> 01:42:30,202
+Dù gì rồi các ông sẽ xuống được thôi.
+
+2065
+01:42:30,661 --> 01:42:32,530
+Có lẽ thế. Tôi nghĩ vậy.
+
+2066
+01:42:33,702 --> 01:42:34,848
+Nhưng cho đến lúc đó...
+
+2067
+01:42:35,818 --> 01:42:37,857
+kính thưa quý vị và các bạn...
+
+2068
+01:42:39,186 --> 01:42:41,819
+Willy Wonka và những người bạn
+mời các bạn...
+
+2069
+01:42:42,045 --> 01:42:44,498
+thưởng thức sô-cô-la của chúng tôi.
+
+2070
+01:42:46,123 --> 01:42:48,030
+Tuyệt vời!
+Phép thuật Wonka!
+
+2071
+01:42:51,966 --> 01:42:52,786
+Gwennie à?
+
+2072
+01:42:53,271 --> 01:42:54,054
+Basil!
+
+2073
+01:42:56,308 --> 01:42:58,761
+Tôi nói đúng chứ, Abacus,
+chúng ta sẽ làm được.
+
+2074
+01:43:16,780 --> 01:43:17,477
+Ly của bạn.
+
+2075
+01:43:18,984 --> 01:43:19,605
+Cảm ơn.
+
+2076
+01:43:19,711 --> 01:43:22,266
+- Anh đây rồi.
+- Cẩn thận, đừng nhiều quá.
+
+2077
+01:43:22,327 --> 01:43:23,096
+Được thôi.
+
+2078
+01:43:54,969 --> 01:44:00,344
+Bí mật không phải
+nằm ở sô-cô-la...
+
+2079
+01:44:03,703 --> 01:44:08,781
+mà đó là những người con chia sẻ nó
+Mẹ xxx
+
+2080
+01:45:02,469 --> 01:45:03,280
+Cảm ơn.
+
+2081
+01:45:04,578 --> 01:45:05,438
+Cảm ơn.
+
+2082
+01:45:06,750 --> 01:45:07,398
+Cảm ơn.
+
+2083
+01:45:24,525 --> 01:45:27,244
+Vậy... cảm giác như thế nào, anh Willy?
+
+2084
+01:45:28,510 --> 01:45:30,181
+Nó có ngon như anh từng ăn không?
+
+2085
+01:45:31,761 --> 01:45:32,730
+Từng chút một.
+
+2086
+01:45:36,956 --> 01:45:38,144
+Anh ước nó có thể tồn tại mãi mãi.
+
+2087
+01:45:44,768 --> 01:45:45,629
+Anh đoán đã đến lúc rồi.
+
+2088
+01:45:48,147 --> 01:45:49,223
+Đến lúc làm gì?
+
+2089
+01:45:50,166 --> 01:45:52,229
+Em có biết có bao nhiêu người trong
+thành phố này có tên là D. Smith?
+
+2090
+01:45:53,089 --> 01:45:54,644
+106.
+
+2091
+01:45:55,245 --> 01:45:57,691
+Và may mắn thay, ta có một người bạn
+làm việc tại tổng đài điện thoại.
+
+2092
+01:45:58,316 --> 01:46:00,105
+Và cô ấy đã dành cả buổi chiều...
+
+2093
+01:46:00,130 --> 01:46:01,144
+để gọi đến từng người.
+
+2094
+01:46:01,513 --> 01:46:02,229
+Và đoán xem?
+
+2095
+01:46:04,378 --> 01:46:05,315
+Chúng ta đã tìm thấy bà ấy.
+
+2096
+01:46:06,534 --> 01:46:07,675
+Chị đã tìm thấy mẹ em?
+
+2097
+01:46:08,151 --> 01:46:09,651
+Bà ấy làm việc trong thư viện.
+
+2098
+01:46:11,894 --> 01:46:13,161
+Đó là nơi bà ấy sống.
+
+2099
+01:46:14,925 --> 01:46:15,911
+Đi nào, Noodle.
+
+2100
+01:46:31,285 --> 01:46:33,816
+<i><font color="#00ffff">♪ Come with me ♪</font>
+Đi với anh</i>
+
+2101
+01:46:36,856 --> 01:46:39,356
+<i><font color="#00ffff">♪ And you’ll be ♪</font>
+Và em sẽ</i>
+
+2102
+01:46:41,669 --> 01:46:44,407
+<i><font color="#00ffff">♪ In a world ♪</font>
+Đến một thế giới</i>
+
+2103
+01:46:41,849 --> 01:46:44,156
+{\an8}GIẤC MƠ CỦA NOODLE
+
+2104
+01:46:44,897 --> 01:46:49,237
+<i><font color="#00ffff">♪ Of pure imagination ♪</font>
+Của trí tưởng tượng thuần khiết</i>
+
+2105
+01:46:49,911 --> 01:46:52,701
+<i><font color="#00ffff">♪ Reach out, touch ♪</font>
+Đưa tay ra, và chạm vào </i>
+
+2106
+01:46:53,307 --> 01:46:56,227
+<i><font color="#00ffff">♪ What was once ♪</font>
+Những gì đã từng </i>
+
+2107
+01:46:56,542 --> 01:47:01,302
+<i><font color="#00ffff">♪ Just in your imagination ♪</font>
+Chỉ trong trí tưởng tượng của em </i>
+
+2108
+01:47:03,237 --> 01:47:05,737
+<i><font color="#00ffff">♪ Don’t be shy ♪</font>
+Đừng ngần ngại </i>
+
+2109
+01:47:06,186 --> 01:47:08,526
+<i><font color="#00ffff">♪ It’s all right ♪</font>
+Không sao đâu </i>
+
+2110
+01:47:08,962 --> 01:47:15,132
+<i><font color="#00ffff">♪ If you feel a little trepidation ♪</font>
+Nếu em cảm thấy một chút lo lắng </i>
+
+2111
+01:47:15,287 --> 01:47:19,457
+<i><font color="#00ffff">♪ Sometimes these things ♪</font>
+Đôi khi những điều này </i>
+
+2112
+01:47:19,561 --> 01:47:24,611
+<i><font color="#00ffff">♪ Don’t need explanation ♪</font>
+Không cần phải giải thích </i>
+
+2113
+01:47:28,154 --> 01:47:33,074
+<i><font color="#00ffff">♪ If you want to view paradise ♪</font>
+Nếu em muốn xem thiên đường </i>
+
+2114
+01:47:33,252 --> 01:47:37,382
+<i><font color="#00ffff">♪ Simply look at them and view it ♪</font>
+Chỉ cần nhìn vào chúng và xem nó </i>
+
+2115
+01:47:38,492 --> 01:47:42,032
+<i><font color="#00ffff">♪ Somebody to hold on to ♪</font>
+Một ai đó để dựa vào </i>
+
+2116
+01:47:42,568 --> 01:47:46,528
+<i><font color="#00ffff">♪ It’s all we really need ♪</font>
+Đó là tất cả những gì chúng ta thực sự cần </i>
+
+2117
+01:47:47,986 --> 01:47:52,316
+<i><font color="#00ffff">♪ Nothing else to it ♪</font>
+Không có gì khác </i>
+
+2118
+01:47:52,780 --> 01:47:53,622
+Mẹ ơi.
+
+2119
+01:47:57,116 --> 01:47:58,491
+Vậy nên, hãy làm một việc tốt...
+
+2120
+01:47:59,116 --> 01:48:00,217
+trong một thế giới mệt mỏi.
+
+2121
+01:48:00,655 --> 01:48:02,241
+Tôi đã tự hỏi
+liệu rằng có gặp lại anh không.
+
+2122
+01:48:02,694 --> 01:48:05,866
+Tôi sẽ không đi đâu cả, Willy Wonka.
+Cho đến khi anh trả hết nợ.
+
+2123
+01:48:06,045 --> 01:48:10,007
+Tôi biết anh đã cố gắng. Nhưng luật Loompa
+rất rõ ràng về vấn đề này.
+
+2124
+01:48:10,280 --> 01:48:11,419
+Cho đến thời điểm...
+
+2125
+01:48:11,547 --> 01:48:14,030
+sô-cô-la về cơ bản ở trong tay của tôi...
+
+2126
+01:48:17,108 --> 01:48:17,817
+Cảm ơn anh.
+
+2127
+01:48:17,921 --> 01:48:20,030
+Cảm ơn. Vì đã cứu mạng tôi.
+
+2128
+01:48:21,398 --> 01:48:26,265
+Tôi cho rằng điều này sẽ kết thúc việc
+kinh doanh giữa hai ta. Tôi sẽ trở về nhà.
+
+2129
+01:48:27,147 --> 01:48:30,913
+Nơi mà hạt ca cao mọc
+với số lượng đáng thất vọng...
+
+2130
+01:48:31,335 --> 01:48:32,632
+và những người bạn thì coi thường tôi.
+
+2131
+01:48:32,990 --> 01:48:33,575
+Cái gì?
+
+2132
+01:48:33,905 --> 01:48:35,327
+Tôi tưởng họ gọi anh là Cao Kều.
+
+2133
+01:48:35,772 --> 01:48:39,600
+Sự thật là tôi thấp hơn một phần tư
+dưới mức trung bình.
+
+2134
+01:48:40,421 --> 01:48:41,780
+Họ gọi tôi là gã lùn ngắn ngủn.
+
+2135
+01:48:42,741 --> 01:48:44,921
+Nhưng thôi không sao.
+Chúc anh một ngày tốt lành.
+
+2136
+01:48:45,358 --> 01:48:47,257
+Thật tiếc khi anh phải đi.
+
+2137
+01:48:47,959 --> 01:48:48,786
+Tôi nói một ngày tốt lành.
+
+2138
+01:48:49,389 --> 01:48:52,561
+Nếu tôi muốn chia sẻ sô-cô-la của tôi với
+thế giới, tôi cần nhiều hơn một cửa hàng.
+
+2139
+01:48:52,586 --> 01:48:53,671
+Tôi chắc chắn anh sẽ làm được.
+
+2140
+01:48:53,696 --> 01:48:54,843
+Tôi sẽ cần một nhà máy.
+
+2141
+01:48:54,868 --> 01:48:56,436
+Ờ, chúc may mắn với chuyện đó.
+
+2142
+01:48:56,461 --> 01:48:58,655
+Và ai đó để quản lý
+bộ phận nếm thử.
+
+2143
+01:48:59,264 --> 01:49:00,616
+Bộ phận nếm thử?
+
+2144
+01:49:00,948 --> 01:49:02,498
+<i><font color="#00ffff">♪ Come with me ♪</font>
+Đi với tôi </i>
+
+2145
+01:49:02,523 --> 01:49:03,158
+Được rồi.
+
+2146
+01:49:03,352 --> 01:49:04,735
+<i><font color="#00ffff">♪ And you’ll be ♪</font>
+Và anh sẽ </i>
+
+2147
+01:49:04,760 --> 01:49:05,340
+Ở đâu?
+
+2148
+01:49:05,602 --> 01:49:11,869
+{\an8}CHO THUÊ
+Chào mừng những Kẻ mộng mơ!
+
+2149
+01:49:05,652 --> 01:49:09,528
+<i><font color="#00ffff">♪ In a world of pure imagination ♪</font>
+Trong một thế giới của trí tưởng tượng thuần khiết </i>
+
+2150
+01:49:09,553 --> 01:49:10,643
+Đó là một lâu đài đổ nát.
+
+2151
+01:49:10,858 --> 01:49:11,868
+<i><font color="#00ffff">♪ Take a look ♪</font>
+Hãy xem </i>
+
+2152
+01:49:12,028 --> 01:49:14,328
+<i><font color="#00ffff">♪ And you’ll see ♪</font>
+Và anh sẽ thấy </i>
+
+2153
+01:49:14,448 --> 01:49:17,578
+<i><font color="#00ffff">♪ Into your imagination ♪</font>
+Trong trí tưởng tượng của anh </i>
+
+2154
+01:49:17,728 --> 01:49:18,759
+Thành thật mà nói, tôi nghi ngờ điều đó.
+
+2155
+01:49:19,288 --> 01:49:23,328
+<i><font color="#00ffff">♪ We’ll begin with a spin ♪</font>
+Chúng ta sẽ bắt đầu với một vòng quay </i>
+
+2156
+01:49:23,498 --> 01:49:28,088
+<i><font color="#00ffff">♪ Traveling in the world of my creation ♪</font>
+Đi du lịch trong thế giới sáng tạo của tôi </i>
+
+2157
+01:49:28,208 --> 01:49:30,298
+<i><font color="#00ffff">♪ What we’ll see ♪</font>
+Những gì chúng ta sẽ thấy </i>
+
+2158
+01:49:30,378 --> 01:49:35,428
+<i><font color="#00ffff">♪ Will defy explanation ♪</font>
+Sẽ thách thức sự giải thích </i>
+
+2159
+01:49:35,669 --> 01:49:37,966
+Phải, thật sự thách thức lời giải thích.
+
+2160
+01:49:38,428 --> 01:49:42,228
+<i><font color="#00ffff">♪ If you want to view paradise ♪</font>
+Nếu anh muốn xem thiên đường </i>
+
+2161
+01:49:42,768 --> 01:49:45,818
+<i><font color="#00ffff">♪ Simply look around and view it ♪</font>
+Đơn giản chỉ cần nhìn xung quanh và xem nó </i>
+
+2162
+01:49:47,028 --> 01:49:51,318
+<i><font color="#00ffff">♪ Anything you want you do it ♪</font>
+Bất cứ điều gì, anh muốn làm? </i>
+
+2163
+01:49:51,818 --> 01:49:56,578
+<i><font color="#00ffff">♪ Wanna change the world? There’s nothing to it ♪</font>
+Muốn thay đổi thế giới? Dễ dàng thôi mà </i>
+
+2164
+01:49:56,829 --> 01:49:57,491
+Không tệ.
+
+2165
+01:49:57,698 --> 01:50:01,958
+<i><font color="#00ffff">♪ There is no life I know ♪</font>
+Không có cuộc sống nào mà tôi biết </i>
+
+2166
+01:50:02,168 --> 01:50:06,748
+<i><font color="#00ffff">♪ To compare with pure imagination ♪</font>
+Để so sánh với trí tưởng tượng thuần khiết này </i>
+
+2167
+01:50:06,878 --> 01:50:11,258
+<i><font color="#00ffff">♪ Living there, you’ll be free ♪</font>
+Sống ở đây, anh sẽ được tự do </i>
+
+2168
+01:50:11,378 --> 01:50:14,388
+<i><font color="#00ffff">♪ If you truly ♪</font>
+Nếu anh thực sự </i>
+
+2169
+01:50:14,508 --> 01:50:19,388
+<i><font color="#00ffff">♪ Wish to be ♪</font>
+Muốn được như thế </i>
+
+2170
+01:50:19,412 --> 01:50:30,084
+Phụ đề tiếng Việt được thực hiện bởi:
+<font color="#00ffff">MP12365 - MCUDISVN</font>
+<font color="#ffff00">FB.com/groups/mcudisvn</font>
+
+2171
+01:50:36,908 --> 01:50:39,988
+<i><font color="#63f549">♪ Oompa Loompa doompety-do ♪</font></i>
+
+2172
+01:50:40,198 --> 01:50:43,288
+<i><font color="#63f549">♪ I’ve got a little bonus for you ♪</font>
+Tôi có một chút phần thưởng cho bạn</i>
+
+2173
+01:50:43,498 --> 01:50:46,788
+<i><font color="#63f549">♪ Sit back down and stay in your seat ♪</font>
+Ngồi xuống và ở lại chỗ ngồi của bạn </i>
+
+2174
+01:50:46,998 --> 01:50:50,458
+<i><font color="#63f549">♪ For a last Oompa Loompa-ish treat ♪</font>
+Cho một món ăn Oompa Loompa-ish cuối cùng </i>
+
+2175
+01:50:50,628 --> 01:50:53,338
+<i><font color="#63f549">♪ Abacus Crunch returned to his home ♪</font>
+Abacus Crunch được trở về nhà của anh ấy </i>
+
+2176
+01:50:53,468 --> 01:50:55,258
+<i><font color="#63f549">♪ Benz to her friends ♪</font>
+Benz về với các bạn của cô ấy </i>
+
+2177
+01:50:55,428 --> 01:50:57,258
+<i><font color="#63f549">♪ Lottie Bell to her phones ♪</font>
+Lottie Bell trở về với chiếc điện thoại thân thuộc </i>
+
+2178
+01:50:57,428 --> 01:51:00,178
+<i><font color="#63f549">♪ Brave Larry made a triumphant comeback ♪</font>
+Brave Larry trở thành nghệ sỹ hài độc thoại </i>
+
+2179
+01:51:00,348 --> 01:51:02,098
+<i><font color="#63f549">♪ One day his ex-wife ♪</font>
+Một ngày nọ, vợ cũ của anh ấy </i>
+
+2180
+01:51:02,308 --> 01:51:04,598
+<i><font color="#63f549">♪ Saw the act ♪</font>
+Đã xem màn trình diễn </i>
+
+2181
+01:51:05,558 --> 01:51:06,938
+<i><font color="#63f549">♪ Laughed a lot and took him back ♪</font>
+Cười rất nhiều và trở lại với anh ta </i>
+
+2182
+01:51:07,228 --> 01:51:10,318
+<i><font color="#63f549">♪ Oompa Loompa doompety-day ♪</font></i>
+
+2183
+01:51:10,478 --> 01:51:13,818
+<i><font color="#63f549">♪ But what of Mrs. Scrubitt And Bleacher, you say? ♪</font>
+Nhưng còn bà Scrubitt và Bleacher thì sao? </i>
+
+2184
+01:51:13,988 --> 01:51:17,318
+<i><font color="#63f549">♪ Give me just a moment or two ♪</font>
+Hãy chờ tôi một chút hoặc nhiều chút </i>
+
+2185
+01:51:17,448 --> 01:51:21,488
+<i><font color="#63f549">♪ And I’ll Oompa Loompa show it to you ♪</font>
+Và tôi Oompa Loompa sẽ cho bạn xem </i>
+
+2186
+01:51:23,348 --> 01:51:26,018
+Có gì đó không ổn?
+Cái máy cũ kĩ này.
+
+2187
+01:51:26,558 --> 01:51:28,098
+<i><font color="#63f549">♪ I’ll show it to you ♪</font>
+Tôi sẽ cho bạn xem </i>
+
+2188
+01:51:28,323 --> 01:51:29,532
+Đây. Tốt hơn nhiều rồi.
+
+2189
+01:51:30,743 --> 01:51:34,938
+Giày dép, căng da mặt, sửa mũi, ở Ibiza...
+
+2190
+01:51:35,383 --> 01:51:38,423
+một ngôi nhà cũ lớn ở thành phố, đồ lót.
+
+2191
+01:51:38,837 --> 01:51:41,165
+Băng nhóm tội lỗi đó đã bị kết tội rồi.
+
+2192
+01:51:41,305 --> 01:51:42,977
+Chúng ta không làm gì cả.
+
+2193
+01:51:43,337 --> 01:51:45,126
+Ngoại trừ đầu độc tất cả sô-cô-la.
+
+2194
+01:51:45,727 --> 01:51:47,141
+Cảnh sát. Mở cửa ra.
+
+2195
+01:51:47,166 --> 01:51:47,954
+Nhanh lên! Nuốt hết bằng chứng đi.
+
+2196
+01:51:50,071 --> 01:51:52,094
+Chỉ một giây thôi, thưa Sếp.
+
+2197
+01:51:52,119 --> 01:51:54,626
+- Cảnh sát.
+- Tôi đang ở trong nhà vệ sinh, thưa Sếp.
+
+2198
+01:51:54,651 --> 01:51:55,844
+Mở ra.
+
+2199
+01:51:55,869 --> 01:51:57,087
+Chùi thêm cái nữa là sẽ xong ngay.
+
+2200
+01:51:57,696 --> 01:51:59,383
+Nó lại ra thêm nữa, hãy chờ một chút.
+
+2201
+01:51:59,408 --> 01:51:59,751
+Được rồi.
+
+2202
+01:52:03,915 --> 01:52:04,621
+Chà.
+
+2203
+01:52:06,555 --> 01:52:08,024
+Chúng tôi có thể giúp gì, thưa Sếp?
+
+2204
+01:52:08,187 --> 01:52:09,196
+Hai người đi với tôi.
+
+2205
+01:52:09,477 --> 01:52:10,501
+Nhưng chúng tôi không làm gì cả.
+
+2206
+01:52:10,860 --> 01:52:12,852
+Hai người sẽ đi xa
+một thời gian rất lâu đấy.
+
+2207
+01:52:13,188 --> 01:52:15,048
+Hôn cái cuối nhé, tình yêu?
+
+2208
+01:52:15,462 --> 01:52:16,758
+Bánh ú của anh
+
+2209
+01:52:25,978 --> 01:52:29,608
+<i><font color="#00ffff">♪ Close your eyes and count to ten ♪</font>
+Nhắm mắt lại và đếm đến 10</i>
+
+2210
+01:52:31,448 --> 01:52:34,408
+<i><font color="#00ffff">♪ Make a wish. Now ♪</font>
+Ước một điều gì đó. Ngay bây giờ</i>
+
+2211
+01:52:35,328 --> 01:52:36,658
+<i><font color="#00ffff">♪ Open them ♪</font>
+Mở mắt ra</i>
+
+2212
+01:52:39,075 --> 01:52:43,745
+<i><font color="#00ffff">♪ Here’s a store that’s like no other ♪</font>
+Đây là một cửa hàng không giống bất kỳ nơi nào</i>
+
+2213
+01:52:44,038 --> 01:52:48,258
+<i><font color="#00ffff">♪ If it were, I wouldn’t bother ♪</font>
+Mà nếu có, tôi cũng không bận tâm</i>
+
+2214
+01:52:48,708 --> 01:52:52,588
+<i><font color="#00ffff">♪ Chocolate bushes, Chocolate trees ♪</font>
+Bụi cây sô-cô-la, cây sô-cô-la</i>
+
+2215
+01:52:52,718 --> 01:52:57,008
+<i><font color="#00ffff">♪ Chocolate flowers and chocolate bees ♪</font>
+Hoa sô-cô-la và ong sô-cô-la</i>
+
+2216
+01:52:57,718 --> 01:52:59,388
+<i><font color="#00ffff">♪ Chocolate memories ♪</font>
+Ký ức sô-cô-la</i>
+
+2217
+01:53:00,348 --> 01:53:03,348
+<i><font color="#00ffff">♪ That a boy once saved ♪</font>
+Mà một cậu bé đã từng nhớ</i>
+
+2218
+01:53:06,188 --> 01:53:09,068
+<i><font color="#00ffff">♪ Before they melted away ♪</font>
+Trước khi chúng tan chảy</i>
+
+2219
+01:53:09,238 --> 01:53:13,658
+<i><font color="#00ffff">♪ A world of your own ♪</font>
+Một thế giới của riêng bạn</i>
+
+2220
+01:53:13,778 --> 01:53:16,948
+<i><font color="#00ffff">♪ A place to escape to ♪</font>
+Một nơi để trốn </i>
+
+2221
+01:53:18,328 --> 01:53:21,368
+<i><font color="#00ffff">♪ A world of your own ♪</font>
+Một thế giới của riêng bạn </i>
+
+2222
+01:53:22,748 --> 01:53:25,078
+<i><font color="#00ffff">♪ Where you can be free ♪</font>
+Nơi bạn có thể được tự do</i>
+
+2223
+01:53:27,248 --> 01:53:30,338
+<i><font color="#00ffff">♪ Wherever you go ♪</font>
+Bất cứ nơi nào bạn đi</i>
+
+2224
+01:53:31,588 --> 01:53:35,218
+<i><font color="#00ffff">♪ Wherever life takes you ♪</font>
+Bất cứ nơi nào cuộc sống đưa bạn đến</i>
+
+2225
+01:53:36,218 --> 01:53:38,348
+<i><font color="#00ffff">♪ This is your home ♪</font>
+Đây chính là nhà của bạn</i>
+
+2226
+01:53:40,428 --> 01:53:43,058
+<i><font color="#00ffff">♪ A world of your own ♪</font>
+Một thế giới của riêng bạn</i>
+
+2227
+01:53:50,648 --> 01:53:52,358
+<i><font color="#00ffff">♪ Here is the child ♪</font>
+Đây là đứa trẻ</i>
+
+2228
+01:53:52,488 --> 01:53:54,988
+<i><font color="#00ffff">♪ That you left behind ♪</font>
+Mà bạn đã bỏ lại phía sau </i>
+
+2229
+01:53:55,278 --> 01:53:59,198
+<i><font color="#00ffff">♪ Here is the kid with the curious mind ♪</font>
+Đây là đứa trẻ với tâm trí tò mò</i>
+
+2230
+01:53:59,448 --> 01:54:03,958
+<i><font color="#00ffff">♪ Here is the wonder we used to feel ♪</font>
+Đây là điều kỳ diệu mà chúng ta từng cảm thấy</i>
+
+2231
+01:54:04,118 --> 01:54:06,708
+<i><font color="#00ffff">♪ Back when the magic was real ♪</font>
+Trở lại khi điều kỳ diệu là có thật</i>
+
+2232
+01:54:06,878 --> 01:54:11,338
+<i><font color="#00ffff">♪ A world of your own ♪</font>
+Một thế giới của riêng bạn</i>
+
+2233
+01:54:11,458 --> 01:54:15,968
+<i><font color="#00ffff">♪ A place to go when you’re ♪</font>
+Một nơi để đến khi bạn</i>
+
+2234
+01:54:16,138 --> 01:54:19,388
+<i><font color="#00ffff">♪ Feeling alone ♪</font>
+Cảm thấy cô đơn</i>
+
+2235
+01:54:20,678 --> 01:54:24,598
+<i><font color="#00ffff">♪ Feeling unsure ♪</font>
+Cảm thấy không chắc chắn</i>
+
+2236
+01:54:24,768 --> 01:54:29,108
+<i><font color="#00ffff">♪ Embrace the unknown ♪</font>
+Đón nhận những thứ chưa rõ ràng</i>
+
+2237
+01:54:29,268 --> 01:54:33,108
+<i><font color="#00ffff">♪ Enjoy the adventure ♪</font>
+Tận hưởng cuộc phiêu lưu</i>
+
+2238
+01:54:35,108 --> 01:54:39,408
+<i><font color="#00ffff">♪ Let’s go strolling in the clouds ♪</font>
+Hãy đi dạo trên mây</i>
+
+2239
+01:54:39,618 --> 01:54:43,328
+<i><font color="#00ffff">♪ Grab a handful, it’s allowed  ♪</font>
+Lấy một nắm đi, bạn được phép </i>
+
+2240
+01:54:43,948 --> 01:54:48,328
+<i><font color="#00ffff">♪ Clouds are made of cotton candy ♪</font>
+Mây được làm bằng kẹo bông</i>
+
+2241
+01:54:48,578 --> 01:54:52,878
+<i><font color="#00ffff">♪ Just keep your umbrella handy ♪</font>
+Chỉ cần giữ chiếc ô của bạn thật chặt</i>
+
+2242
+01:54:53,048 --> 01:54:57,088
+<i><font color="#00ffff">♪ ’Cause there’s a hard rain gonna fall ♪</font>
+Bởi vì sắp có một cơn mưa nặng hạt đấy</i>
+
+2243
+01:54:57,718 --> 01:54:59,088
+<i><font color="#00ffff">♪ Humbugs, gumdrops ♪</font>
+Những viên kẹo luộc, và kẹo cao su...</i>
+
+2244
+01:54:59,258 --> 01:55:01,468
+<i><font color="#00ffff">♪ And aniseed balls ♪</font>
+Và kẹo vị quả hồi</i>
+
+2245
+01:55:02,178 --> 01:55:04,218
+<i><font color="#00ffff">♪ Fireworks bring ♪</font>
+Pháo hoa sẽ mang đến</i>
+
+2246
+01:55:04,348 --> 01:55:08,648
+<i><font color="#00ffff">♪ Sugar string to chew ♪</font>
+Dây kẹo đường để nhấm nháp</i>
+
+2247
+01:55:11,068 --> 01:55:15,488
+<i><font color="#00ffff">♪ All the colors of the rainbow ♪</font>
+Tất cả các màu sắc của cầu vồng</i>
+
+2248
+01:55:15,648 --> 01:55:18,108
+<i><font color="#00ffff">♪ And some others, too ♪</font>
+Và tất cả những màu khác nữa</i>
+
+2249
+01:55:18,238 --> 01:55:22,738
+<i><font color="#00ffff">♪ A world of our own ♪</font>
+Một thế giới của riêng chúng ta</i>
+
+2250
+01:55:22,908 --> 01:55:26,998
+<i><font color="#00ffff">♪ A place to escape to ♪</font>
+Một nơi để trốn</i>
+
+2251
+01:55:27,208 --> 01:55:31,378
+<i><font color="#00ffff">♪ A world of our own ♪</font>
+Một thế giới của riêng chúng ta</i>
+
+2252
+01:55:31,506 --> 01:55:33,554
+<i><font color="#00ffff">♪ Where we can be free ♪</font>
+Nơi chúng ta có thể được tự do</i>
+
+2253
+01:55:33,666 --> 01:55:36,036
+<i><font color="#00ffff">♪ That’s where we can be free ♪</font>
+Bất cứ nơi nào bạn đi</i>
+
+2254
+01:55:36,128 --> 01:55:37,968
+<i><font color="#00ffff">♪ Wherever you go ♪</font>
+Bất cứ nơi nào bạn đi</i>
+
+2255
+01:55:40,570 --> 01:55:43,812
+<i><font color="#00ffff">♪ Wherever life takes you ♪</font>
+Bất cứ nơi nào cuộc sống đưa bạn đến</i>
+
+2256
+01:55:45,428 --> 01:55:49,138
+<i><font color="#00ffff">♪ This is our home ♪</font>
+Đây là nhà của chúng ta</i>
+
+2257
+01:55:49,348 --> 01:55:51,648
+<i><font color="#00ffff">♪ A world of our own ♪</font>
+Một thế giới của riêng chúng ta</i>
+
