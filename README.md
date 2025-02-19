@@ -7,6 +7,11 @@ Welcome to the vibrant world of subtitles! This repository serves as your colorf
 
 This repository is home to a single, yet diverse folder named `subtitles`. Here, subtitle files in various languages and formats dance together, ready for upload or download by users from around the globe.
 
+![GitHub license](https://img.shields.io/github/license/HThanh-how/Subtitles)
+![GitHub issues](https://img.shields.io/github/issues/HThanh-how/Subtitles)
+![GitHub stars](https://img.shields.io/github/stars/HThanh-how/Subtitles)
+![GitHub forks](https://img.shields.io/github/forks/HThanh-how/Subtitles)
+
 ## 🌟 Features
 
 - **Storage of Subtitles**: Accommodates subtitle files in numerous formats such as `.srt`, `.vtt`, `.ass`, and more.
@@ -65,4 +70,3 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 ## 📩 Contact
 
 Questions or ideas? Open an issue here to start the conversation!
-
