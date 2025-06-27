@@ -1,0 +1,8573 @@
+1
+00:00:43,620 --> 00:00:48,750
+<i>Chúng tôi từng là một chủng tộc người máy</i>
+<i>thông minh và yêu chuộng hòa bình.</i>
+
+2
+00:00:49,840 --> 00:00:52,380
+<i>Rồi cuộc chiến... </i>
+
+3
+00:00:52,920 --> 00:00:55,800
+<i>giữa phe Autobot chiến đấu vì tự do... </i>
+
+4
+00:00:56,630 --> 00:00:59,930
+<i>và phe Decepticon khao khát độc tài nổ ra.</i>
+
+5
+00:01:03,560 --> 00:01:08,980
+<i>Bởi yếu thế hơn và bị áp đảo về quân số,</i>
+<i>bại trận là điều không thể tránh khỏi.</i>
+
+6
+00:01:22,540 --> 00:01:25,080
+<i>Nhưng trong những ngày</i>
+<i>cuối cùng của cuộc chiến,</i>
+
+7
+00:01:25,370 --> 00:01:27,750
+<i>một con tàu Autobot đã trốn thoát.</i>
+
+8
+00:01:28,080 --> 00:01:30,460
+<i>Nó đem theo một lô hàng bí mật</i>
+
+9
+00:01:30,790 --> 00:01:33,630
+<i>mà lẽ ra đã thay đổi</i>
+<i>số phận hành tinh chúng tôi.</i>
+
+10
+00:01:44,600 --> 00:01:46,310
+<i>Một nhiệm vụ liều lĩnh.</i>
+
+11
+00:01:47,270 --> 00:01:48,690
+<i>Hy vọng cuối của chúng tôi.</i>
+
+12
+00:02:01,740 --> 00:02:04,240
+<i>Một hy vọng đã tan biến.</i>
+
+13
+00:02:10,210 --> 00:02:12,840
+<i>ĐÀI THIÊN VĂN VÔ TUYẾN VLA
+NEW MEXICO, 1961</i>
+
+14
+00:02:13,000 --> 00:02:14,840
+<i>Một cái đằng đó. Một cái ở kia.</i>
+
+15
+00:02:15,420 --> 00:02:16,760
+Một cái dưới đây.
+
+16
+00:02:23,050 --> 00:02:24,600
+Phát hiện được gì?
+
+17
+00:02:36,820 --> 00:02:38,360
+<i>Có va chạm.</i>
+
+18
+00:02:39,320 --> 00:02:42,070
+Xác định va chạm. Tiếp xúc lúc...
+
+19
+00:02:42,200 --> 00:02:43,660
+<i>GIÁM ĐỐC NASA</i>
+
+20
+00:02:43,830 --> 00:02:45,200
+<i>- ... 22:50 giờ GMT.</i>
+<i>- Gì cơ?</i>
+
+21
+00:02:46,990 --> 00:02:49,290
+Gọi cố vấn quốc phòng cho tôi ngay.
+
+22
+00:02:49,370 --> 00:02:51,460
+PHÁT HIỆN VA CHẠM
+TRÊN MẶT TRĂNG
+
+23
+00:02:55,290 --> 00:02:57,880
+<i>LẦU NĂM GÓC - SỞ CHỈ HUY AN NINH QUỐC GIA</i>
+
+24
+00:03:05,680 --> 00:03:07,930
+<i>Thưa ông McNamara,</i>
+<i>Tổng thống đang chờ ông.</i>
+
+25
+00:03:09,560 --> 00:03:10,940
+Gọi Bobby vào đây.
+
+26
+00:03:11,020 --> 00:03:15,440
+Thưa Tổng thống, tin tối mật:
+Chúng tôi tin có UFO đâm vào Mặt Trăng.
+
+27
+00:03:15,520 --> 00:03:17,980
+Chúng tôi nghĩ phía Nga
+cũng đang nghiên cứu sự vụ này.
+
+28
+00:03:18,150 --> 00:03:21,860
+Vậy nói với NASA, bằng mọi giá,
+chúng ta phải lên được Mặt Trăng.
+
+29
+00:03:22,030 --> 00:03:25,450
+Chúng ta cần chuyến bay có người lái.
+NASA bảo phải mất năm năm.
+
+30
+00:03:25,530 --> 00:03:27,200
+Phải lên đó trước bọn họ.
+
+31
+00:03:28,620 --> 00:03:31,160
+<i>Tôi tin rằng đất nước chúng ta</i>
+<i>phải dốc hết sức lực</i>
+
+32
+00:03:31,500 --> 00:03:32,920
+<i>để hoàn thành mục tiêu... </i>
+
+33
+00:03:33,000 --> 00:03:34,130
+<i>Mười lăm giây.</i>
+
+34
+00:03:34,210 --> 00:03:35,540
+<i>... ngay trong thập niên này,</i>
+
+35
+00:03:36,250 --> 00:03:39,760
+<i>là đưa con người lên Mặt Trăng</i>
+<i>và trở về Trái Đất an toàn.</i>
+
+36
+00:03:39,840 --> 00:03:42,050
+<i>Bắt đầu quy trình điểm hỏa.</i>
+
+37
+00:03:42,180 --> 00:03:44,180
+<i>TÁM NĂM SAU
+NGÀY 16 THÁNG 7 NĂM 1969</i>
+
+38
+00:03:44,260 --> 00:03:46,430
+<i>Năm, bốn, ba, hai,</i>
+
+39
+00:03:46,510 --> 00:03:49,140
+<i>một... Mọi động cơ đều hoạt động.</i>
+
+40
+00:03:49,220 --> 00:03:51,230
+<i>Chúng ta đã cất cánh.</i>
+
+41
+00:03:51,480 --> 00:03:55,440
+<i>Vào 9:32 sáng, Apollo 11 đã cất cánh.</i>
+
+42
+00:03:55,560 --> 00:03:56,860
+<i>Đã rời khỏi tháp.</i>
+
+43
+00:03:57,520 --> 00:04:00,860
+<i>Neil Armstrong báo cáo,</i>
+<i>Apollo 11 đang giữ đúng lộ trình.</i>
+
+44
+00:04:00,940 --> 00:04:05,990
+<i>Apollo 11 đã lên đường,</i>
+<i>để lại đằng sau một cột lửa</i>
+
+45
+00:04:06,070 --> 00:04:08,990
+<i>từ tên lửa Saturn V,</i>
+<i>và cách đó 400.000 cây số</i>
+
+46
+00:04:09,160 --> 00:04:11,790
+<i>là Mặt Trăng đang chờ đón</i>
+
+47
+00:04:11,870 --> 00:04:14,000
+<i>cuộc đổ bộ đầu tiên của nhân loại.</i>
+
+48
+00:04:16,250 --> 00:04:18,040
+<i>Trung tâm đây, anh đáp được rồi. Hết.</i>
+
+49
+00:04:19,090 --> 00:04:22,510
+<i>Cách đất 12m, hạ cánh</i>
+<i>với vận tốc một m/s. Dính một chút bụi.</i>
+
+50
+00:04:23,550 --> 00:04:26,800
+<i>Cách đất chín mét,</i>
+<i>vận tốc một m/s. Có bóng mờ.</i>
+
+51
+00:04:27,180 --> 00:04:28,760
+<i>Liên lạc viên, phi hành đoàn.</i>
+
+52
+00:04:30,560 --> 00:04:32,890
+<i>Tiến một mét. Dạt sang phải một chút.</i>
+
+53
+00:04:33,180 --> 00:04:34,640
+<i>Hạ cánh với vận tốc 0,15m/s.</i>
+
+54
+00:04:36,440 --> 00:04:37,810
+<i>Đèn báo tiếp đất.</i>
+
+55
+00:04:37,900 --> 00:04:39,400
+<i>Động cơ tắt.</i>
+
+56
+00:04:41,070 --> 00:04:42,860
+<i>Trung tâm, đây là Căn cứ Bình yên.</i>
+
+57
+00:04:42,990 --> 00:04:44,740
+<i>HÌNH ẢNH TRỰC TIẾP ĐẦU TIÊN TỪ MẶT TRĂNG</i>
+
+58
+00:04:44,820 --> 00:04:46,410
+<i>Đại bàng đã tiếp đất.</i>
+
+59
+00:04:47,780 --> 00:04:52,200
+<i>Nghe rõ, Đại bàng. Cả đám lo xanh mặt.</i>
+<i>Giờ chúng tôi thở được rồi.</i>
+
+60
+00:04:53,830 --> 00:04:54,960
+TUYỆT MẬT
+
+61
+00:04:55,080 --> 00:04:58,750
+<i>Khoảng 400 triệu người</i>
+<i>đang theo dõi buổi truyền hình trực tiếp</i>
+
+62
+00:04:58,830 --> 00:05:01,710
+<i>sự kiện vĩ đại nhất trong</i>
+<i>thời đại chúng ta nói riêng,</i>
+
+63
+00:05:01,800 --> 00:05:05,340
+<i>và lịch sử nhân loại nói chung.</i>
+
+64
+00:05:05,550 --> 00:05:07,800
+<i>Tôi đã xuống chân thang.</i>
+
+65
+00:05:08,970 --> 00:05:11,260
+<i>Tôi sắp đặt chân lên Mặt Trăng đây.</i>
+
+66
+00:05:13,390 --> 00:05:16,270
+<i>Đây chỉ là một bước đi nhỏ bé</i>
+<i>đối với một con người... </i>
+
+67
+00:05:16,980 --> 00:05:20,400
+<i>nhưng lại là một bước tiến</i>
+<i>vĩ đại đối với cả nhân loại.</i>
+
+68
+00:05:21,480 --> 00:05:23,070
+- Được chưa?
+- Rồi, thưa sếp.
+
+69
+00:05:23,150 --> 00:05:26,150
+<i>Thời gian không chính thức</i>
+<i>của bước đi đầu tiên, 1092... </i>
+
+70
+00:05:32,160 --> 00:05:35,200
+<i>Apollo 11? Houston đây, hết.</i>
+
+71
+00:05:35,450 --> 00:05:38,670
+Đại bàng, tín hiệu bị nhiễu.
+Anh nghe rõ không?
+
+72
+00:05:40,500 --> 00:05:43,340
+<i>Chúng tôi xin xác nhận tàu Apollo 11</i>
+
+73
+00:05:43,500 --> 00:05:45,800
+<i>đã bị mất tín hiệu.</i>
+
+74
+00:05:45,920 --> 00:05:49,590
+<i>Hiện nó đang ở khoảng tối của Mặt Trăng.</i>
+
+75
+00:05:55,270 --> 00:05:57,480
+Neil, anh đang ở phần tối của Mặt Trăng.
+
+76
+00:05:57,560 --> 00:05:59,230
+<i>Thực thi nhiệm vụ đi.</i>
+
+77
+00:05:59,850 --> 00:06:01,980
+<i>Chúng ta có 21 phút.</i>
+
+78
+00:06:22,500 --> 00:06:24,880
+<i>Ba phút 45 giây, tiếp tục đếm.</i>
+
+79
+00:06:45,480 --> 00:06:46,940
+Chúa ơi.
+
+80
+00:06:47,030 --> 00:06:49,860
+<i>Nó giống như</i>
+<i>một khuôn mặt kim loại khổng lồ.</i>
+
+81
+00:06:49,950 --> 00:06:51,280
+Lạy Chúa.
+
+82
+00:06:52,110 --> 00:06:53,280
+<i>Được rồi.</i>
+
+83
+00:06:55,950 --> 00:06:59,460
+Sở Chỉ huy,
+chúng tôi đã ở bên trong con tàu.
+
+84
+00:07:02,960 --> 00:07:04,710
+Hư hại nghiêm trọng.
+
+85
+00:07:05,090 --> 00:07:08,090
+Con tàu quá rộng,
+chúng tôi không thể kiểm tra hết.
+
+86
+00:07:13,140 --> 00:07:15,720
+Mọi thứ ở trong này
+đều không hoạt động, Houston.
+
+87
+00:07:16,140 --> 00:07:18,270
+Không thấy dấu hiệu của sự sống.
+
+88
+00:07:19,770 --> 00:07:21,850
+Những thứ này thật to lớn.
+
+89
+00:07:23,270 --> 00:07:26,730
+Chúng tôi nghe rồi.
+Các anh còn ô- xy cho bảy phút.
+
+90
+00:07:26,980 --> 00:07:29,400
+<i>Nhân loại chúng ta</i>
+<i>không đơn độc, đúng không?</i>
+
+91
+00:07:29,530 --> 00:07:32,150
+Đúng vậy. Chúng ta không đơn độc.
+
+92
+00:07:32,450 --> 00:07:34,160
+<i>Xin mời Tổng thống.</i>
+
+93
+00:07:34,240 --> 00:07:37,990
+<i>Chào Neil và Buzz</i>
+<i>tôi đang gọi điện thoại cho các anh</i>
+
+94
+00:07:38,080 --> 00:07:40,410
+<i>từ Phòng bầu dục tại Nhà Trắng.</i>
+
+95
+00:07:40,910 --> 00:07:46,130
+<i>Đây chắc là cú điện thoại đáng ghi nhớ</i>
+<i>nhất trong lịch sử từ trước đến nay.</i>
+
+96
+00:07:46,840 --> 00:07:51,050
+<i>Không thể diễn tả nổi</i>
+<i>sự tự hào mà chúng tôi dành cho các anh.</i>
+
+97
+00:07:51,260 --> 00:07:55,220
+<i>Đối với mọi công dân Mỹ, đây hẳn</i>
+<i>là ngày tự hào nhất trong cuộc đời họ.</i>
+
+98
+00:07:55,590 --> 00:07:57,810
+<i>Nhờ thành quả mà các anh vừa đạt được... </i>
+
+99
+00:07:57,890 --> 00:07:59,470
+<i>Chúng tôi đã đáp xuống biển.</i>
+
+100
+00:07:59,560 --> 00:08:02,060
+<i>... bầu trời đã trở thành một phần</i>
+
+101
+00:08:02,140 --> 00:08:03,980
+<i>của thế giới nhân loại.</i>
+
+102
+00:08:05,150 --> 00:08:07,610
+<i>Trong một khoảnh khắc vô giá... </i>
+
+103
+00:08:08,440 --> 00:08:10,360
+<i>của lịch sử nhân loại... </i>
+
+104
+00:08:11,900 --> 00:08:15,740
+<i>mọi con người trên Trái Đất này</i>
+<i>thật sự đã hòa làm một.</i>
+
+105
+00:08:17,160 --> 00:08:19,620
+<i>Chung một niềm tự hào</i>
+<i>về những gì mà các anh đã làm được.</i>
+
+106
+00:08:22,040 --> 00:08:25,040
+<i>Điều đó thôi thúc</i>
+<i>chúng ta phải nỗ lực gấp đôi</i>
+
+107
+00:08:25,120 --> 00:08:28,420
+<i>trong công cuộc đem lại hòa bình</i>
+<i>và ổn định cho Trái Đất.</i>
+
+108
+00:09:02,950 --> 00:09:06,040
+Người hùng của em phải thức dậy thôi.
+
+109
+00:09:19,350 --> 00:09:20,550
+Cái gì vậy?
+
+110
+00:09:21,390 --> 00:09:23,390
+Thỏ con may mắn mới của anh đấy.
+
+111
+00:09:27,230 --> 00:09:31,650
+Em dễ thương quá, Carly,
+nhưng không phải cả con thỏ đều may mắn.
+
+112
+00:09:31,770 --> 00:09:33,480
+Chỉ có chỗ này này.
+
+113
+00:09:34,030 --> 00:09:36,320
+Chỉ có chân thỏ mới đem lại may mắn thôi.
+
+114
+00:09:37,780 --> 00:09:41,910
+Chỉ là một lá bùa cầu may thôi.
+Để anh lạc quan hơn?
+
+115
+00:09:42,540 --> 00:09:44,200
+Ngày hôm nay quan trọng lắm.
+
+116
+00:09:46,160 --> 00:09:47,250
+Nào, dậy thôi.
+
+117
+00:09:47,710 --> 00:09:49,960
+- Nhớ đeo cái cà-vạt dễ thương đó nhé.
+- Ừ.
+
+118
+00:09:50,420 --> 00:09:52,130
+Anh có cần tiền ăn trưa không?
+
+119
+00:09:53,500 --> 00:09:57,680
+Không, không cần đâu.
+Anh còn tiền ăn trưa từ hôm qua.
+
+120
+00:09:57,970 --> 00:10:01,010
+Em thích nuôi anh.
+Anh chỉ là chàng phi công trẻ của em.
+
+121
+00:10:01,390 --> 00:10:02,560
+Chàng phi công dễ thương.
+
+122
+00:10:02,680 --> 00:10:06,520
+Thật chán nản khi đã cứu thế giới
+những hai lần mà vẫn thất nghiệp.
+
+123
+00:10:06,680 --> 00:10:10,940
+Người ta đâu biết anh từng cứu thế giới.
+Em biết. Em tin anh.
+
+124
+00:10:11,230 --> 00:10:14,070
+Chính phủ biết. Họ có thể
+chu cấp cho anh việc làm ở thủ đô.
+
+125
+00:10:14,150 --> 00:10:16,780
+Lẽ ra anh phải được làm việc
+với Autobot. Thật bất công.
+
+126
+00:10:16,860 --> 00:10:21,160
+Họ đã trả học phí cho anh. Tổng thống
+cũng trao huân chương anh hùng rồi còn gì.
+
+127
+00:10:23,030 --> 00:10:24,740
+<i>Cảm ơn cậu. Làm giỏi lắm.</i>
+
+128
+00:10:27,040 --> 00:10:28,790
+Đó là điều vinh quang nhất đời mình.
+
+129
+00:10:28,960 --> 00:10:31,250
+- Được rồi...
+- Ngầu chưa!
+
+130
+00:10:32,210 --> 00:10:33,250
+Chao ôi.
+
+131
+00:10:33,340 --> 00:10:36,090
+Theo em nhớ, đó còn chưa phải
+là điểm quan trọng nhất hôm ấy.
+
+132
+00:10:37,590 --> 00:10:39,170
+Đây, thưa ngài đại sứ.
+
+133
+00:10:39,340 --> 00:10:40,890
+Đại sứ quán Anh, đến lượt các vị.
+
+134
+00:10:41,050 --> 00:10:46,350
+TỔNG THỐNG HỢP CHỦNG QUỐC HOA KỲ
+
+135
+00:10:46,430 --> 00:10:49,600
+- Không, con không được đeo. Con lấy...
+- Không à?
+
+136
+00:10:49,690 --> 00:10:52,730
+... từ trong hộp ra à?
+Lẽ ra phải để nguyên trong hộp mà.
+
+137
+00:10:52,810 --> 00:10:55,360
+Phải để trong này. Cái hộp đẹp thật.
+
+138
+00:11:02,530 --> 00:11:05,450
+Phải rồi. Huân chương của tôi.
+Cô biết ai trao cho tôi không?
+
+139
+00:11:06,120 --> 00:11:08,330
+- Ai?
+- TTHK.
+
+140
+00:11:10,210 --> 00:11:11,750
+Tổng thống Hoa Kỳ.
+
+141
+00:11:15,130 --> 00:11:17,130
+Cưng à, bây giờ kiếm việc khó lắm.
+
+142
+00:11:17,210 --> 00:11:21,380
+Không được. Tuần sau bố mẹ anh sẽ đến
+sau tour du lịch xe buýt quanh nước Mỹ.
+
+143
+00:11:21,470 --> 00:11:24,050
+Nếu khi bố đến đây
+mà anh vẫn thất nghiệp...
+
+144
+00:11:24,140 --> 00:11:26,390
+ông ấy sẽ tét đít anh. Anh phải tìm việc.
+
+145
+00:11:26,470 --> 00:11:29,060
+Tối nay em sẽ có "việc" dành cho anh.
+
+146
+00:11:29,270 --> 00:11:34,440
+Chuẩn bị một bữa tối lãng mạn đi
+rồi có thể anh sẽ được thưởng.
+
+147
+00:11:38,940 --> 00:11:40,610
+- Sướng thế nhỉ.
+- Đuổi nó đi.
+
+148
+00:11:40,860 --> 00:11:42,280
+Đừng!
+
+149
+00:11:43,240 --> 00:11:44,740
+Gớm quá!
+
+150
+00:11:44,870 --> 00:11:45,910
+- Ngon.
+- Xin lỗi,
+
+151
+00:11:46,080 --> 00:11:47,950
+chúng bị dạt đến đây.
+Ai đó phải trông chúng.
+
+152
+00:11:48,160 --> 00:11:50,250
+Hôm qua nó chui vào ngăn đồ lót của em.
+
+153
+00:11:50,330 --> 00:11:52,500
+Nghiên cứu một chút. Toàn đồ đẹp thôi.
+
+154
+00:11:52,580 --> 00:11:53,710
+Không cần đánh tôi đâu.
+
+155
+00:11:53,790 --> 00:11:55,710
+Anh không phải là
+một cậu bạn trai bình thường.
+
+156
+00:11:55,790 --> 00:11:57,040
+Thế nên em mới yêu anh.
+
+157
+00:11:57,130 --> 00:11:59,000
+- Chào cưng.
+- Chúng ta chưa yêu nhau đâu.
+
+158
+00:11:59,210 --> 00:12:02,170
+Có lẽ phải khi nào anh trả
+được một nửa tiền nhà đã.
+
+159
+00:12:03,430 --> 00:12:04,640
+Tạm biệt em.
+
+160
+00:12:05,050 --> 00:12:07,470
+Suýt chút nữa tôi đã bị
+đoản mạch ở ngoài này.
+
+161
+00:12:07,550 --> 00:12:10,350
+Thật vô nhân đạo!
+Khi bắt bọn tôi sống trong hộp
+
+162
+00:12:10,430 --> 00:12:12,940
+đặt ngoài ban công, kế bên một con thú dữ!
+
+163
+00:12:13,020 --> 00:12:14,690
+- Coi tôi như súc vật!
+- Thôi đi.
+
+164
+00:12:14,770 --> 00:12:17,650
+Cậu và thằng đệ xấu xa của cậu
+không được tự ý vào nhà.
+
+165
+00:12:17,730 --> 00:12:19,820
+Ai nói thế? Cô nàng tóc vàng à?
+
+166
+00:12:19,900 --> 00:12:21,650
+Đi nào, chó con!
+
+167
+00:12:24,070 --> 00:12:26,910
+- Ê, Brains, sao rồi?
+- Ổn cả.
+
+168
+00:12:26,990 --> 00:12:30,490
+Ôi, tập Star Trek này xem rồi.
+Đây là tập mà Spock nổi điên.
+
+169
+00:12:30,790 --> 00:12:33,580
+Tôi không chắc về chuyện dọn đến
+ở chung với cô nàng này.
+
+170
+00:12:33,660 --> 00:12:36,000
+Nhỡ nàng ta cũng đá anh
+như cô trước thì sao?
+
+171
+00:12:36,080 --> 00:12:37,840
+Cô đó xấu tính lắm. Chẳng thích.
+
+172
+00:12:37,920 --> 00:12:39,670
+Chúng ta phải luôn ở bên nhau.
+
+173
+00:12:39,750 --> 00:12:42,260
+<i>Chúng ta là gia đình</i>
+
+174
+00:12:44,130 --> 00:12:47,180
+Không, chúng ta không phải gia đình.
+Các cậu chỉ là dân tị nạn chính trị,
+
+175
+00:12:47,260 --> 00:12:49,810
+còn tôi thì mới tìm ra
+người biết trân trọng tôi.
+
+176
+00:12:49,890 --> 00:12:52,850
+Nói với cô ta bọn tôi không phải
+là thú cưng hay đồ chơi của anh!
+
+177
+00:12:52,930 --> 00:12:56,310
+Mà là một chủng tộc tân tiến,
+thiên tài đang cần tìm một mái nhà.
+
+178
+00:12:58,770 --> 00:13:00,730
+Có lẽ đó không phải là ý hay đâu.
+
+179
+00:13:00,820 --> 00:13:02,820
+Thôi nào. Họ định làm gì? Gọi xe kéo à?
+
+180
+00:13:02,900 --> 00:13:04,280
+Nó đâu rồi?
+
+181
+00:13:05,070 --> 00:13:06,490
+Sammy!
+
+182
+00:13:07,910 --> 00:13:10,120
+- Thôi nào, buồn cười ghê!
+- Sam!
+
+183
+00:13:10,580 --> 00:13:12,410
+Con nhớ bố mẹ lắm.
+
+184
+00:13:12,540 --> 00:13:14,160
+Hẳn là thế rồi. Con nghĩ sao?
+
+185
+00:13:14,540 --> 00:13:15,540
+- Nhìn kìa.
+- Cưng!
+
+186
+00:13:15,620 --> 00:13:17,170
+- Bố mẹ già thế.
+- Thôi đi.
+
+187
+00:13:17,250 --> 00:13:19,630
+- Cảm giác như thấy kết cục rồi.
+- Cà vạt xinh thế.
+
+188
+00:13:19,790 --> 00:13:23,010
+- Carly xinh đẹp của mẹ đâu?
+- Cô ấy đi làm rồi. Việc mới.
+
+189
+00:13:23,170 --> 00:13:26,430
+Bố mẹ bảo tuần sau mới đến mà.
+Ngày 21, không phải 11, bố ạ.
+
+190
+00:13:26,550 --> 00:13:28,640
+Tại chiếc xe này chạy nhanh như gió ấy.
+
+191
+00:13:28,800 --> 00:13:30,800
+Xe buýt tình yêu, phi nhanh như điện.
+
+192
+00:13:30,890 --> 00:13:34,770
+Bố mẹ có cản trở gì con không?
+Công việc của con chẳng hạn?
+
+193
+00:13:34,850 --> 00:13:37,140
+Cũng đến lúc rồi mà. Con làm bố mẹ lo quá.
+
+194
+00:13:39,100 --> 00:13:41,730
+Con mới đi phỏng vấn thôi ạ.
+
+195
+00:13:43,070 --> 00:13:44,230
+Tốt quá.
+
+196
+00:13:44,320 --> 00:13:45,360
+Chán thế.
+
+197
+00:13:45,490 --> 00:13:47,070
+- Thôi.
+- Bố đừng tiêu cực quá.
+
+198
+00:13:47,150 --> 00:13:49,570
+Bố đang ở thủ đô cùng gia đình. Vui mà.
+
+199
+00:13:49,660 --> 00:13:52,660
+- Con thất nghiệp thật chán.
+- Ở đây có nhiều trò vui mà.
+
+200
+00:13:52,790 --> 00:13:54,910
+- Bảo tàng, đài tưởng niệm.
+- Đừng lấy...
+
+201
+00:13:55,040 --> 00:13:56,750
+- Tối nay gặp nhau.
+- Cất quà đi.
+
+202
+00:13:56,910 --> 00:13:59,420
+Sam, mẹ nghĩ đi phỏng vấn
+thì nên mặc quần tử tế chứ.
+
+203
+00:13:59,540 --> 00:14:01,460
+Ra đường bố mẹ cũng nên mặc quần tử tế.
+
+204
+00:14:02,130 --> 00:14:03,920
+- Bumblebee đâu rồi?
+- Chúa ơi.
+
+205
+00:14:04,090 --> 00:14:05,130
+Cậu ấy có việc.
+
+206
+00:14:05,210 --> 00:14:07,930
+- Con dùng tạm cái này.
+- Xe của con còn có việc.
+
+207
+00:14:08,260 --> 00:14:09,130
+Thôi đi.
+
+208
+00:14:09,380 --> 00:14:11,140
+Chiếc này biến hình thành gì?
+
+209
+00:14:11,220 --> 00:14:13,140
+Nó không biến hình được.
+Hàng sưu tầm ấy mà.
+
+210
+00:14:13,220 --> 00:14:15,390
+Con mua với giá hời.
+Chỉ cần tút lại chút thôi.
+
+211
+00:14:15,470 --> 00:14:18,520
+Chiếc xe đáng yêu quá.
+Nó làm mẹ nhớ đến Bumblebee.
+
+212
+00:14:18,640 --> 00:14:21,270
+Nếu Bumblebee là một cục phế liệu.
+
+213
+00:14:23,980 --> 00:14:25,780
+Để bố mẹ chở con đi vậy!
+
+214
+00:14:27,320 --> 00:14:31,280
+<i>Kể từ khi đặt chân tới đây,</i>
+<i>ngôi nhà mới của chúng tôi, Trái Đất,</i>
+
+215
+00:14:31,370 --> 00:14:33,410
+<i>đã thay đổi rất nhiều.</i>
+
+216
+00:14:33,490 --> 00:14:36,750
+<i>Lúc này, các máy dò Energon</i>
+<i>đang canh giữ các thành phố.</i>
+
+217
+00:14:36,830 --> 00:14:40,500
+<i>Còn hệ thống phòng thủ từ xa</i>
+<i>thì canh gác bầu trời.</i>
+
+218
+00:14:40,620 --> 00:14:42,330
+<i>TRUNG ĐÔNG - KHU VỰC HẠT NHÂN PHI PHÁP</i>
+
+219
+00:14:42,420 --> 00:14:46,800
+<i>Thế nên hiện tại chúng tôi hỗ trợ đồng</i>
+<i>minh giải quyết xung đột của nhân loại</i>
+
+220
+00:14:47,170 --> 00:14:51,180
+<i>để ngăn loài người</i>
+<i>tự gây tổn hại cho chính bản thân.</i>
+
+221
+00:14:55,760 --> 00:14:57,470
+XE CỦA BỘ TRƯỞNG BỘ QUỐC PHÒNG
+
+222
+00:15:09,190 --> 00:15:12,570
+Vui lòng nằm xuống! Và nằm yên!
+
+223
+00:15:28,090 --> 00:15:32,630
+<i>Chúng tôi hoạt động bí mật</i>
+<i>trong nhiều nhiệm vụ trên toàn cầu.</i>
+
+224
+00:15:33,090 --> 00:15:34,600
+<i>Và đồng thời,</i>
+
+225
+00:15:34,680 --> 00:15:39,220
+<i>chúng tôi tìm kiếm dấu vết</i>
+<i>về sự trở lại của những kẻ thù thật sự.</i>
+
+226
+00:15:40,890 --> 00:15:45,150
+<i>Tôi là Voskhod, Tham mưu trưởng</i>
+<i>của Ban Năng lượng Ukraine.</i>
+
+227
+00:15:45,310 --> 00:15:47,320
+<i>Chính phủ của tôi sẽ phủ nhận</i>
+
+228
+00:15:47,400 --> 00:15:49,280
+cuộc đối thoại này giữa chúng ta.
+
+229
+00:15:49,440 --> 00:15:53,030
+Tại một trong các cơ sở bị bỏ hoang
+của chúng tôi, đã phát hiện ra
+
+230
+00:15:53,110 --> 00:15:56,700
+thứ mà tôi e rằng
+thuộc về người ngoài hành tinh.
+
+231
+00:15:59,950 --> 00:16:02,710
+Tên cơ sở đó là Chernobyl.
+
+232
+00:16:20,560 --> 00:16:22,100
+Ông Voskhod.
+
+233
+00:16:22,850 --> 00:16:25,060
+Chỗ đó bị bỏ không từ năm 1986.
+
+234
+00:16:25,730 --> 00:16:28,570
+Tôi nghe nói sau tận hai vạn năm
+cũng chẳng thể sống được ở đó cơ mà?
+
+235
+00:16:28,770 --> 00:16:33,490
+Ít nhất là thế. Ukraine trước đó là một
+vùng đất phì nhiêu. Thật là thảm họa.
+
+236
+00:16:33,860 --> 00:16:34,910
+Lối này.
+
+237
+00:16:35,740 --> 00:16:40,620
+Mặc đồ bảo hộ! Ta có 60 phút thôi.
+Hãy theo dõi mức độ phóng xạ.
+
+238
+00:16:43,710 --> 00:16:46,120
+Ông Voskhod, đồ bảo hộ của ông đâu?
+
+239
+00:16:51,590 --> 00:16:53,670
+Đồ bảo hộ của ông đâu?
+
+240
+00:16:54,220 --> 00:16:57,550
+Không sao đâu.
+Với tôi chỉ còn là vấn đề thời gian.
+
+241
+00:16:58,100 --> 00:16:59,510
+Băng qua trường học.
+
+242
+00:17:01,430 --> 00:17:03,100
+Yuri sẽ đưa ông xuống.
+
+243
+00:17:03,180 --> 00:17:07,400
+Một điều nữa, thưa Đại tá. Xin nói riêng.
+Đã từng có các thí nghiệm năng lượng...
+
+244
+00:17:10,070 --> 00:17:11,610
+Chuyện đó để sau đi.
+
+245
+00:17:23,410 --> 00:17:25,330
+<i>Tiếp tục tiến lên. Bám sát.</i>
+
+246
+00:17:28,670 --> 00:17:32,090
+<i>Đây. Tôi nghĩ tôi tìm thấy rồi.</i>
+
+247
+00:17:32,880 --> 00:17:35,090
+Optimus, chúng tôi có hình ảnh đây.
+
+248
+00:17:36,930 --> 00:17:40,720
+Trông như một vật bị kẹp
+trong khung kim loại.
+
+249
+00:17:42,640 --> 00:17:45,350
+Cái gì thế này? Mọi người!
+
+250
+00:17:45,430 --> 00:17:48,650
+Sao thứ này lại có dấu vết của
+chương trình không gian cũ trước đây?
+
+251
+00:17:49,100 --> 00:17:50,310
+<i>Sputnik sao?</i>
+
+252
+00:17:50,400 --> 00:17:53,690
+Mức độ Energon quá cao thưa sếp.
+
+253
+00:17:55,150 --> 00:17:57,990
+Bên dưới chúng ta.
+Nó đang tiếp cận rất nhanh.
+
+254
+00:18:03,700 --> 00:18:05,580
+Va chạm!
+
+255
+00:18:18,470 --> 00:18:20,050
+Lên trên nhanh! Đi nào!
+
+256
+00:18:48,160 --> 00:18:51,120
+- Đi mau!
+- Vũ khí hạng nặng sẵn sàng!
+
+257
+00:18:51,330 --> 00:18:53,040
+Nấp sau lưng tôi!
+
+258
+00:18:54,000 --> 00:18:55,050
+Đi mau!
+
+259
+00:18:55,300 --> 00:18:56,420
+Optimus!
+
+260
+00:19:00,130 --> 00:19:01,430
+Đi mau nào!
+
+261
+00:19:02,510 --> 00:19:03,550
+Rút lui!
+
+262
+00:19:04,300 --> 00:19:05,970
+Nó chạy vòng quanh chúng ta!
+
+263
+00:19:06,140 --> 00:19:07,850
+Nó đang tấn công mạn sườn!
+
+264
+00:19:13,860 --> 00:19:15,440
+Lấy vũ khí hạng nặng mau!
+
+265
+00:19:17,780 --> 00:19:19,610
+Optimus!
+
+266
+00:19:34,500 --> 00:19:36,170
+Cái quái gì thế?
+
+267
+00:19:37,630 --> 00:19:39,050
+Đó...
+
+268
+00:19:39,420 --> 00:19:41,260
+là Shockwave.
+
+269
+00:19:42,760 --> 00:19:44,590
+Sao hắn lại theo đuổi theo vật này?
+
+270
+00:19:45,680 --> 00:19:47,430
+Không thể nào.
+
+271
+00:19:48,010 --> 00:19:53,230
+Đây là một phần động cơ của
+một phi thuyền Autobot đã thất lạc từ lâu.
+
+272
+00:20:17,290 --> 00:20:20,010
+Rất vui khi được hợp tác với ông.
+
+273
+00:20:22,090 --> 00:20:24,590
+Phỏng vấn. Thú vị quá.
+
+274
+00:20:24,680 --> 00:20:28,890
+Nhai kẹo không?
+Con dễ bị hôi miệng khi căng thẳng đấy.
+
+275
+00:20:29,760 --> 00:20:32,140
+Anh Witwicky?
+
+276
+00:20:32,230 --> 00:20:33,390
+Vâng. Đúng người rồi đó.
+
+277
+00:20:33,480 --> 00:20:34,940
+Tôi là Whitley.
+
+278
+00:20:35,730 --> 00:20:36,770
+Ông...
+
+279
+00:20:37,190 --> 00:20:39,730
+- Còn ai nữa sao?
+- Không.
+
+280
+00:20:39,900 --> 00:20:41,820
+Không à? Muốn tôi xích lại gần không?
+
+281
+00:20:41,990 --> 00:20:42,900
+- Tôi...
+- Không.
+
+282
+00:20:43,030 --> 00:20:44,070
+Sensei.
+
+283
+00:20:44,360 --> 00:20:46,070
+Sẵn sàng chưa? Bắt đầu.
+
+284
+00:20:46,160 --> 00:20:48,620
+Tôi mới tốt nghiệp.
+Chuyên ngành địa lý chính trị.
+
+285
+00:20:48,700 --> 00:20:51,580
+Quan tâm đến sự giao thoa
+giữa chính quyền và công nghệ.
+
+286
+00:20:51,660 --> 00:20:52,790
+Định hình tương lai.
+
+287
+00:20:52,870 --> 00:20:55,500
+Sao phải mất công cho nó
+học ở trường loại ưu nhỉ?
+
+288
+00:20:55,580 --> 00:20:58,080
+Tốt nghiệp ba tháng rồi
+mà vẫn thất nghiệp?
+
+289
+00:20:58,170 --> 00:20:59,710
+Ông Masuhisu.
+
+290
+00:20:59,790 --> 00:21:00,960
+Matsumoto.
+
+291
+00:21:01,050 --> 00:21:02,420
+- Matsu...
+- ... moto.
+
+292
+00:21:02,510 --> 00:21:04,630
+- Martha, tôi gọi bà là Martha được không?
+- Không.
+
+293
+00:21:04,720 --> 00:21:07,430
+Có hai loại người trên đời: người nghĩ...
+
+294
+00:21:07,510 --> 00:21:08,930
+và người làm.
+
+295
+00:21:10,100 --> 00:21:13,230
+Người thắng, người mơ mộng và bạn bè.
+
+296
+00:21:13,310 --> 00:21:15,350
+Vậy điểm yếu của anh thì sao?
+
+297
+00:21:16,060 --> 00:21:17,100
+Tôi không...
+
+298
+00:21:17,190 --> 00:21:21,190
+Ông có gương mặt rất đáng tin.
+Giống như ông già KFC ấy.
+
+299
+00:21:21,270 --> 00:21:22,610
+Một người tôi có thể tin tưởng.
+
+300
+00:21:22,690 --> 00:21:26,200
+Nó là người thế hệ Y.
+Thế hệ của nó là một thế hệ xuống dốc.
+
+301
+00:21:26,280 --> 00:21:28,240
+Sao FBI lại tìm kiếm anh?
+
+302
+00:21:29,030 --> 00:21:29,950
+Ai cơ?
+
+303
+00:21:30,080 --> 00:21:31,410
+FBI, mừng là bà để ý tới.
+
+304
+00:21:31,490 --> 00:21:34,450
+Đó là cơn hỗn loạn đến từ
+người ngoài hành tinh hồi anh 14 tuổi.
+
+305
+00:21:34,540 --> 00:21:36,620
+Họ tốt bụng lắm. Họ tìm ra tôi rất nhanh.
+
+306
+00:21:36,870 --> 00:21:40,000
+Chuyện đó bị dẹp rồi.
+Obama đã trao huân chương cho tôi.
+
+307
+00:21:40,170 --> 00:21:43,880
+Lúc nào cũng tuyệt khi có người đạt
+huy chương trong văn phòng có huy chương.
+
+308
+00:21:44,050 --> 00:21:45,420
+- Obama à?
+- Vâng.
+
+309
+00:21:45,510 --> 00:21:49,720
+Trong văn phòng này, chúng tôi
+hầu hết thuộc đảng Cộng Hòa, nên...
+
+310
+00:21:50,010 --> 00:21:51,560
+- Bố khó chịu quá.
+- Thế ạ?
+
+311
+00:21:51,640 --> 00:21:54,770
+Bố cứ lấy xúc xích chấm
+thuốc trị đầy hơi là xong.
+
+312
+00:21:55,480 --> 00:21:57,440
+Con còn một cuộc phỏng vấn nữa. Đi nào!
+
+313
+00:21:57,520 --> 00:21:58,560
+Anh lại ăn à?
+
+314
+00:21:59,600 --> 00:22:00,650
+Ngồi đi.
+
+315
+00:22:00,940 --> 00:22:05,150
+Giờ tôi có anh Sam Witwicky
+mới tốt nghiệp đại học.
+
+316
+00:22:05,240 --> 00:22:08,240
+Kinh nghiệm gần như bằng không, tuy nhiên...
+
+317
+00:22:08,320 --> 00:22:11,780
+lại có thư giới thiệu
+từ hội đồng quản trị của chúng tôi sao?
+
+318
+00:22:12,120 --> 00:22:14,080
+Gì nữa không hiểu.
+
+319
+00:22:14,160 --> 00:22:15,950
+Tôi có quen ai trong hội đồng sao?
+
+320
+00:22:16,040 --> 00:22:17,080
+Vấn đề thế này.
+
+321
+00:22:17,160 --> 00:22:20,130
+Cậu biết chúng tôi là ai.
+Accuretta Systems, tập đoàn số một
+
+322
+00:22:20,210 --> 00:22:23,170
+trong viễn thông, không gian,
+lợi nhuận năm rồi là 17 tỷ.
+
+323
+00:22:23,250 --> 00:22:26,420
+Chúng tôi ký hợp đồng với DARPA,
+NASA, JPL và nhiều nơi nữa.
+
+324
+00:22:26,510 --> 00:22:29,340
+Cậu mà làm tốt ở đây,
+thì đường công danh rộng mở.
+
+325
+00:22:29,430 --> 00:22:32,010
+Công việc đầu tiên sau đại học
+rất quan trọng đó nhóc.
+
+326
+00:22:32,100 --> 00:22:35,060
+Hoặc là cậu bước chân
+trên đúng con đường sự nghiệp,
+
+327
+00:22:35,140 --> 00:22:38,600
+hoặc là rơi vào vũng sình không lối thoát.
+
+328
+00:22:38,940 --> 00:22:43,320
+Tất cả phụ thuộc vào
+câu trả lời của cậu với hai từ của tôi.
+
+329
+00:22:43,400 --> 00:22:45,320
+Thể hiện.
+
+330
+00:22:45,940 --> 00:22:47,860
+- Bây giờ à?
+- Thể hiện.
+
+331
+00:22:47,940 --> 00:22:50,240
+- Tôi chưa chuẩn bị gì cả.
+- Thể hiện.
+
+332
+00:22:50,320 --> 00:22:51,870
+Cứ hỏi tôi bất cứ điều gì.
+
+333
+00:22:51,950 --> 00:22:55,160
+Vậy cậu là một kẻ thống trị,
+tham vọng, quyết liệt à?
+
+334
+00:22:55,240 --> 00:22:57,660
+Tôi là một kẻ tàn bạo.
+Kẻ tàn bạo máu lạnh.
+
+335
+00:22:57,790 --> 00:22:59,120
+Thống trị...
+
+336
+00:22:59,210 --> 00:23:01,790
+Thống trị, độc địa, man rợ...
+đều là tôi hết.
+
+337
+00:23:01,880 --> 00:23:03,540
+Tôi chơi hết!
+
+338
+00:23:08,970 --> 00:23:11,430
+Chúng tôi không cần loại đó ở đây.
+
+339
+00:23:11,510 --> 00:23:16,180
+Không xun xoe, nịnh hót, khó chịu. Tôi...
+
+340
+00:23:19,140 --> 00:23:20,770
+<i>Tôi nghe, thưa ông Brazos.</i>
+
+341
+00:23:21,060 --> 00:23:26,110
+Tại sao Shontel hình như
+lại cầm một cái cốc màu đỏ
+
+342
+00:23:26,190 --> 00:23:29,320
+từ tầng đỏ khi chúng ta đang ở tầng vàng?
+
+343
+00:23:29,400 --> 00:23:30,320
+<i>Tôi xử lý ngay.</i>
+
+344
+00:23:30,400 --> 00:23:34,660
+Rõ ràng là một hành ảnh
+gây quấy rối thị giác.
+
+345
+00:23:35,410 --> 00:23:36,490
+Ngăn lại ngay!
+
+346
+00:23:37,120 --> 00:23:38,620
+Đồ ngu.
+
+347
+00:23:39,290 --> 00:23:40,790
+Ghê tởm!
+
+348
+00:23:41,330 --> 00:23:42,870
+Cảm ơn!
+
+349
+00:23:43,120 --> 00:23:45,540
+Thật vô tổ chức.
+
+350
+00:23:46,750 --> 00:23:51,340
+Tôi... đọc trong email
+là trợ lý hành chính cơ mà?
+
+351
+00:23:51,510 --> 00:23:53,050
+Không. Văn thư.
+
+352
+00:23:54,840 --> 00:23:56,220
+Tôi đi vậy.
+
+353
+00:23:56,390 --> 00:24:01,100
+Anh biết có bao người trong
+Hội sinh viên ưu tú Hoa Kỳ thèm khát...
+
+354
+00:24:01,180 --> 00:24:04,060
+Thưa ông, tôi đã cứu mạng ông
+hai lần đấy. Được chứ?
+
+355
+00:24:04,150 --> 00:24:06,770
+Tôi không thể cho ông biết chi tiết
+
+356
+00:24:06,860 --> 00:24:10,860
+nhưng tôi đã làm điều cần thiết
+và giờ tôi chỉ muốn công việc nào cần tôi.
+
+357
+00:24:11,950 --> 00:24:13,610
+Vậy nên xin cảm ơn, tôi từ chối.
+
+358
+00:24:13,780 --> 00:24:16,910
+Cậu sẽ thích công việc
+sau khi được thăng chức.
+
+359
+00:24:16,990 --> 00:24:20,370
+Nhưng trước tiên cậu phải vượt qua
+công việc văn thư này đã.
+
+360
+00:24:20,500 --> 00:24:23,540
+Thế nên cậu sẽ thực hiện
+công việc này tốt, thật tốt.
+
+361
+00:24:23,750 --> 00:24:26,380
+Bởi khi nhìn cậu,
+tôi nhớ lại mình hồi trẻ.
+
+362
+00:24:29,500 --> 00:24:32,470
+<i>TRỤ SỞ NEST TỐI MẬT - WASHINGTON DC</i>
+
+363
+00:24:33,880 --> 00:24:38,050
+BỘ Y TẾ VÀ DỊCH VỤ NHÂN SINH
+
+364
+00:24:38,430 --> 00:24:39,720
+KIỂM TRA AN NINH BẮT BUỘC
+
+365
+00:24:45,400 --> 00:24:50,440
+<i>Mọi Autobot vừa đến sẽ tập luyện</i>
+<i>và báo cáo trong vòng 15 phút nữa.</i>
+
+366
+00:24:53,280 --> 00:24:55,780
+<i>Dino, báo cáo với gian 23.</i>
+
+367
+00:24:56,240 --> 00:24:59,280
+<i>Sideswipe, gian 37 để thẩm tra vũ khí.</i>
+
+368
+00:25:01,870 --> 00:25:06,040
+Nghị sĩ, xin nhớ rằng khi
+Sở quốc phòng cần tiền thì họ gọi tôi đấy.
+
+369
+00:25:06,120 --> 00:25:10,500
+Khi CIA muốn khử một mục tiêu,
+họ cũng hỏi xin phép tôi.
+
+370
+00:25:10,590 --> 00:25:13,590
+Và khi Tổng thống
+muốn biết ai trong Quốc hội
+
+371
+00:25:13,670 --> 00:25:17,720
+mà số phận chính trị đang mong manh,
+do phạm tội chưa bị phát giác,
+
+372
+00:25:17,800 --> 00:25:19,510
+thì ông ấy cũng sẽ gọi cho tôi.
+
+373
+00:25:19,600 --> 00:25:21,930
+<i>Các ban ngành Hoa Kỳ đang theo dõi vụ nổ.</i>
+
+374
+00:25:22,020 --> 00:25:24,020
+<i>Nếu đây là vụ tấn công quân sự bí mật,</i>
+
+375
+00:25:24,100 --> 00:25:26,060
+<i>thì chưa nước nào</i>
+<i>lên tiếng nhận trách nhiệm.</i>
+
+376
+00:25:26,140 --> 00:25:28,770
+CIA đang treo tôi lên
+vì vụ tấn công bí ẩn ở Trung Đông.
+
+377
+00:25:28,860 --> 00:25:31,020
+Đơn vị anh có tham gia không đấy?
+
+378
+00:25:31,440 --> 00:25:33,320
+Tôi không rõ.
+
+379
+00:25:33,400 --> 00:25:36,820
+Nhìn đây, đây là cách
+bắn vỡ đầu một tên Decepticon.
+
+380
+00:25:38,570 --> 00:25:42,410
+Vì là Giám đốc Tình báo Quốc gia,
+tôi thích nghe câu trả lời thông minh.
+
+381
+00:25:42,490 --> 00:25:46,000
+Tôi không thể chắc được.
+Các Autobot giống như thiếu niên.
+
+382
+00:25:46,080 --> 00:25:47,580
+Thỉnh thoảng vẫn lẻn ra khỏi nhà.
+
+383
+00:25:47,670 --> 00:25:50,380
+- Đại tá, anh có phải chỉ huy không?
+- Có, thưa bà. Tôi...
+
+384
+00:25:50,460 --> 00:25:53,550
+Đừng gọi tôi bằng "bà" nữa.
+Tôi có giống "bà" không?
+
+385
+00:25:53,630 --> 00:25:55,800
+Không, thưa bà. Rõ, thưa bà. Vâng.
+
+386
+00:25:56,420 --> 00:25:58,640
+Khẩu súng này
+là phát minh hoàn hảo của tôi.
+
+387
+00:25:58,720 --> 00:25:59,760
+Phải rồi.
+
+388
+00:25:59,930 --> 00:26:01,760
+Ồ tốt quá, hai người đến rồi!
+
+389
+00:26:01,850 --> 00:26:05,930
+Tôi là Que. Hi vọng anh có câu trả lời.
+Chưa thấy ông ấy bực đến thế.
+
+390
+00:26:06,020 --> 00:26:08,230
+Optimus, ông có nhớ
+Charlotte Mearing không?
+
+391
+00:26:08,310 --> 00:26:10,560
+Giám đốc Tình báo Quốc gia của chúng tôi.
+
+392
+00:26:10,650 --> 00:26:14,570
+Ông ấy đang bực.
+Không chịu nói chuyện với ai đâu.
+
+393
+00:26:15,240 --> 00:26:17,400
+Sao thế? Chiến tranh lạnh à?
+
+394
+00:26:17,700 --> 00:26:19,570
+Chúng tôi thấy ông ấy giận rồi,
+lần này không phải.
+
+395
+00:26:19,740 --> 00:26:22,080
+- Đúng vậy.
+- Lần này tệ hơn nhiều.
+
+396
+00:26:22,280 --> 00:26:24,830
+Prime! Nói gì đi chứ!
+
+397
+00:26:25,790 --> 00:26:27,250
+Ông ấy đang cáu.
+
+398
+00:26:33,210 --> 00:26:34,670
+Các người đã nói dối.
+
+399
+00:26:34,750 --> 00:26:38,930
+Các người nói đã chia sẻ mọi thông tin
+mà nhân loại biết về chúng tôi.
+
+400
+00:26:39,010 --> 00:26:42,100
+Vậy tại sao tôi lại tìm thấy thứ này
+trong tay nhân loại?
+
+401
+00:26:42,180 --> 00:26:47,020
+Chúng tôi cũng không rõ. Đến giờ vẫn chỉ
+cấp Giám đốc tại Khu Bảy được biết.
+
+402
+00:26:47,100 --> 00:26:48,140
+Cái túi.
+
+403
+00:26:48,520 --> 00:26:52,940
+- Túi nào ạ?
+- Hermès. Birkin. Da đà điểu xanh!
+
+404
+00:26:53,400 --> 00:26:54,570
+Ôi Chúa ơi.
+
+405
+00:26:55,940 --> 00:26:59,570
+Bí mật này chỉ một số người biết.
+Và chẳng mấy người còn sống.
+
+406
+00:27:00,200 --> 00:27:04,160
+Xin giới thiệu
+hai giám đốc thành lập NASA,
+
+407
+00:27:04,280 --> 00:27:06,740
+và phi hành gia Tiến sỹ "Buzz" Aldrin,
+
+408
+00:27:06,830 --> 00:27:09,120
+một trong hai người
+đầu tiên lên Mặt Trăng.
+
+409
+00:27:09,290 --> 00:27:12,330
+Thưa ngài, đây là Optimus Prime.
+
+410
+00:27:13,590 --> 00:27:17,710
+Với tư cách là một đồng nghiệp
+phi hành gia, thật hân hạnh cho tôi.
+
+411
+00:27:17,840 --> 00:27:19,380
+Tôi cũng rất hân hạnh.
+
+412
+00:27:19,470 --> 00:27:24,430
+Toàn bộ cuộc đua vũ trụ thập niên 60
+thật ra là để đáp lại một sự kiện.
+
+413
+00:27:26,140 --> 00:27:29,850
+Chúng tôi điều tra
+một phi thuyền ngoài hành tinh bị rơi.
+
+414
+00:27:29,930 --> 00:27:31,560
+<i>Không một ai sống sót.</i>
+
+415
+00:27:31,640 --> 00:27:35,110
+Chúng tôi đã thề
+giữ bí mật trước Tổng chỉ huy.
+
+416
+00:27:35,190 --> 00:27:38,780
+Đây là một nhiệm vụ mà các anh
+không bao giờ được hé răng tiết lộ.
+
+417
+00:27:38,860 --> 00:27:39,940
+Tôi hiểu, thưa ngài.
+
+418
+00:27:40,030 --> 00:27:44,370
+Tổng cộng 35 người
+biết kế hoạch thật sự tại NASA.
+
+419
+00:27:44,450 --> 00:27:47,490
+Liên Xô đã cho đổ bộ
+một phi thuyền không người lái.
+
+420
+00:27:47,910 --> 00:27:50,790
+Bằng cách nào đó,
+họ đã có được nguồn năng lượng.
+
+421
+00:27:50,870 --> 00:27:53,210
+Tôi tin rằng người Nga nghĩ cái nguồn đó
+
+422
+00:27:53,290 --> 00:27:55,130
+<i>có thể phân hạch được,</i>
+
+423
+00:27:55,210 --> 00:27:58,550
+<i>tin rằng họ khống chế được nó,
+và cố sử dụng tại Chernobyl.</i>
+
+424
+00:27:58,630 --> 00:28:00,800
+Chúng tôi đổ bộ tổng cộng sáu lần.
+
+425
+00:28:00,880 --> 00:28:03,930
+<i>Chụp hàng trăm tấm hình và lấy mẫu vật.</i>
+
+426
+00:28:04,010 --> 00:28:05,640
+<i>Chúng tôi đã khóa chúng lại vĩnh viễn.</i>
+
+427
+00:28:05,720 --> 00:28:07,220
+Và chương trình bị hủy bỏ.
+
+428
+00:28:07,310 --> 00:28:09,890
+Các vị có tìm
+trong khoang chống va chạm không?
+
+429
+00:28:12,520 --> 00:28:15,100
+Tên con tàu là Ark.
+
+430
+00:28:15,360 --> 00:28:18,320
+Tôi tận mắt thấy nó thoát khỏi Cybertron.
+
+431
+00:28:18,820 --> 00:28:22,990
+Nó mang theo một công nghệ của Autobot
+lẽ ra đã giúp chúng tôi chiến thắng...
+
+432
+00:28:23,070 --> 00:28:25,370
+cùng với vị thuyền trưởng.
+
+433
+00:28:25,870 --> 00:28:27,120
+Vị thuyền trưởng là ai?
+
+434
+00:28:27,200 --> 00:28:31,000
+Sentinel Prime vĩ đại,
+người phát minh ra công nghệ đó.
+
+435
+00:28:31,080 --> 00:28:34,870
+Anh ta là chỉ huy Autobot trước tôi.
+
+436
+00:28:34,960 --> 00:28:39,750
+Tôi phải tìm ra nó trước khi
+bọn Decepticon dò ra vị trí.
+
+437
+00:28:39,880 --> 00:28:43,760
+Phi thuyền của Autobot có khả năng đến đó.
+
+438
+00:28:43,930 --> 00:28:47,760
+Và các vị hãy cầu mong là ta đến kịp lúc.
+
+439
+00:29:00,730 --> 00:29:02,900
+Xin chào, tôi đến gặp Carly Spencer.
+
+440
+00:29:06,910 --> 00:29:07,950
+Carly!
+
+441
+00:29:09,080 --> 00:29:10,410
+Xin lỗi, xin phép.
+
+442
+00:29:13,500 --> 00:29:15,370
+- Anh có việc rồi à?
+- Thật điên khùng.
+
+443
+00:29:15,460 --> 00:29:18,750
+Thật à? Em đã nói mà?
+Chính là nhờ con thỏ đó.
+
+444
+00:29:19,920 --> 00:29:22,170
+- Khỏi cảm ơn em.
+- Thích anh hơn chứ?
+
+445
+00:29:22,420 --> 00:29:23,970
+- Một chút.
+- Em bảo em là
+
+446
+00:29:24,130 --> 00:29:25,430
+trợ lý, nhưng không bảo
+
+447
+00:29:25,630 --> 00:29:28,090
+- anh ta sở hữu Space Mountain.
+- Ừ. Đẹp nhỉ?
+
+448
+00:29:28,260 --> 00:29:31,220
+- Anh ấy đỉnh nhất trần đời đấy.
+- Thế sao?
+
+449
+00:29:31,430 --> 00:29:32,520
+- Ừ.
+- Sam.
+
+450
+00:29:34,930 --> 00:29:36,310
+Dylan Gould.
+
+451
+00:29:37,100 --> 00:29:40,060
+Chào anh. Rất hân hạnh được gặp anh.
+
+452
+00:29:40,150 --> 00:29:42,900
+Tôi cũng vậy, Carly nói về cậu rất nhiều.
+
+453
+00:29:42,980 --> 00:29:46,700
+Cô ấy cũng nói về anh.
+Tòa nhà đẹp thật. Như tàu Enterprise vậy.
+
+454
+00:29:46,900 --> 00:29:48,530
+Cảm ơn cậu. Nhưng trần bị dột đấy.
+
+455
+00:29:48,610 --> 00:29:52,410
+Trước khi Carly đến giúp
+quản lý bộ sưu tập thì ở đây rối lắm.
+
+456
+00:29:52,490 --> 00:29:54,540
+Giờ thì việc phục dựng
+đang tiến triển tốt.
+
+457
+00:29:54,620 --> 00:29:57,670
+Chúng tôi sắp đến
+hội chợ Pebble Beach để giật giải.
+
+458
+00:29:57,920 --> 00:30:00,960
+Biết sao không? Vì cô gái này...
+
+459
+00:30:01,130 --> 00:30:02,840
+chính là vũ khí bí mật của tôi.
+
+460
+00:30:02,920 --> 00:30:06,670
+Anh Gould, anh lại nói quá rồi.
+Tôi chỉ thực hiện mỗi việc sắp xếp thôi.
+
+461
+00:30:06,760 --> 00:30:09,510
+Cô đã làm nhiều hơn chứ, Công nương.
+
+462
+00:30:10,260 --> 00:30:11,850
+Biệt danh cơ đấy, vui thật.
+
+463
+00:30:11,930 --> 00:30:13,890
+Phải. Công nương.
+
+464
+00:30:14,310 --> 00:30:15,480
+Cô ấy đáng yêu lắm.
+
+465
+00:30:15,560 --> 00:30:17,560
+Khi tôi giật cô ấy từ Đại sứ quán Anh,
+
+466
+00:30:17,640 --> 00:30:21,770
+tôi nói, "Quản lý một quốc gia dễ lắm. Hãy
+thử quản lý một bộ sưu tập vô giá xem".
+
+467
+00:30:21,860 --> 00:30:23,610
+Hãy nhìn chiếc xe này.
+
+468
+00:30:23,690 --> 00:30:27,820
+Delahaye 165 Cabriolet năm 1939.
+Thiết kế của người Pháp.
+
+469
+00:30:28,280 --> 00:30:32,160
+Nhìn mấy đường cong này.
+Tinh tế nhỉ? Đẹp tuyệt.
+
+470
+00:30:32,990 --> 00:30:34,240
+Gợi cảm.
+
+471
+00:30:34,700 --> 00:30:37,080
+Gợi lên một cơ thể phụ nữ lý tưởng.
+
+472
+00:30:38,660 --> 00:30:39,710
+Nào.
+
+473
+00:30:39,790 --> 00:30:44,130
+Bố tôi chỉ có cái bàn trị giá mười đô
+và một giấc mơ mà dựng thành đế chế.
+
+474
+00:30:44,840 --> 00:30:45,880
+Chao ôi.
+
+475
+00:30:45,960 --> 00:30:48,380
+Chúng tôi là công ty kế toán
+lớn nhất nước Mỹ.
+
+476
+00:30:48,470 --> 00:30:52,350
+Tôi bắt đầu đầu tư sau khi
+ông qua đời. Đầu tư vào tương lai.
+
+477
+00:30:52,430 --> 00:30:54,260
+Cố đánh cược kẻ chiến thắng.
+
+478
+00:30:54,760 --> 00:30:57,480
+Sưu tập ô tô giúp tôi tỉnh táo.
+
+479
+00:31:04,110 --> 00:31:05,940
+Hai người trông đẹp quá.
+
+480
+00:31:08,780 --> 00:31:10,490
+Hôm đó thật tuyệt, anh Gould.
+
+481
+00:31:10,570 --> 00:31:12,490
+- Tôi chưa thấy tấm đó.
+- Tôi cũng vậy.
+
+482
+00:31:12,570 --> 00:31:13,950
+Quần bó quá.
+
+483
+00:31:14,830 --> 00:31:19,370
+Nào. Em thấy chưa? Đánh giá.
+
+484
+00:31:19,460 --> 00:31:21,960
+Đánh giá một người qua ô tô?
+Rồi em vẫy hắn.
+
+485
+00:31:22,040 --> 00:31:25,250
+Anh sao vậy? Đó là sếp em.
+Việc này trả tiền ăn, tiền nhà đấy.
+
+486
+00:31:25,340 --> 00:31:28,050
+Không. Anh hiểu. Anh ăn no.
+
+487
+00:31:28,130 --> 00:31:29,880
+Nhưng anh không còn là cậu bé của em.
+
+488
+00:31:29,970 --> 00:31:31,630
+Anh mặc quần dài rồi đây này, thấy không?
+
+489
+00:31:31,720 --> 00:31:32,930
+Vào xe. Cảm ơn, Công nương.
+
+490
+00:31:33,010 --> 00:31:35,850
+Ôi Chúa ơi. Anh thấy sợ anh ta à?
+
+491
+00:31:40,140 --> 00:31:43,310
+Sợ cái gì? Tiền?
+Uy quyền? Bộ mặt điển trai?
+
+492
+00:31:43,400 --> 00:31:44,770
+Các lựa chọn trên đều sai. Đó!
+
+493
+00:31:44,860 --> 00:31:46,820
+Anh nổi giận trông thật khêu gợi.
+
+494
+00:31:46,900 --> 00:31:48,150
+Làm ơn vào xe đi.
+
+495
+00:31:48,860 --> 00:31:52,990
+Sam, đó không phải người đầu tiên
+mỉm cười với em. Em nghĩ em xử lý được.
+
+496
+00:31:53,070 --> 00:31:55,990
+Khoan đã. Anh chỉ ghét
+em cười đáp lại. Được chưa?
+
+497
+00:31:56,740 --> 00:31:58,950
+Vậy em sẽ không cười đáp lại. Em hứa.
+
+498
+00:31:59,040 --> 00:32:00,580
+- Vậy được đấy.
+- Được chứ?
+
+499
+00:32:07,250 --> 00:32:10,460
+Bình tĩnh! Không khởi động vậy được đâu.
+
+500
+00:32:10,550 --> 00:32:13,720
+Tôi đang cho nó khởi động.
+Mới phục dựng có 32% thôi.
+
+501
+00:32:13,800 --> 00:32:16,180
+Mạ chút crôm, chỉnh tấm lệch dòng.
+
+502
+00:32:16,260 --> 00:32:18,600
+Carly bảo cậu đang chật vật tìm việc.
+
+503
+00:32:18,810 --> 00:32:21,680
+Nói cậu nghe,
+tôi ở ban quản trị Accuretta Systems,
+
+504
+00:32:21,770 --> 00:32:23,480
+và tôi đã giới thiệu cậu.
+
+505
+00:32:23,560 --> 00:32:26,560
+Nói riêng nhé? Cô ấy rất tự hào về cậu.
+
+506
+00:32:27,570 --> 00:32:28,980
+Cậu là một người may mắn đấy.
+
+507
+00:32:32,200 --> 00:32:35,200
+<i>Xantium đang tiếp cận Căn cứ Bình Yên.</i>
+
+508
+00:32:35,950 --> 00:32:37,780
+<i>Đủ điều kiện hạ cánh.</i>
+
+509
+00:32:44,250 --> 00:32:47,130
+Ratchet, đi nào.
+
+510
+00:33:04,310 --> 00:33:06,350
+<i>Chúng tôi đang vào trong con tàu Ark.</i>
+
+511
+00:33:28,580 --> 00:33:30,670
+Nồng độ năng lượng của anh ấy rất thấp.
+
+512
+00:33:33,630 --> 00:33:37,470
+Anh ấy tự nhốt mình
+để bảo vệ những cây cột đó.
+
+513
+00:33:37,970 --> 00:33:39,390
+Sentinel.
+
+514
+00:33:40,260 --> 00:33:43,220
+Về nhà thôi, ông bạn già.
+
+515
+00:34:22,970 --> 00:34:27,390
+Tất cả kính chào Megatron!
+
+516
+00:34:33,520 --> 00:34:36,360
+Chủ nhân! Đúng là chủ nhân rồi! Tuyệt!
+
+517
+00:34:40,780 --> 00:34:46,500
+Đừng tham lam, bọn mỏng manh.
+
+518
+00:34:49,830 --> 00:34:51,920
+Tội nghiệp chủ nhân.
+
+519
+00:34:52,000 --> 00:34:56,340
+Chúng tôi thật xót xa khi thấy
+chủ nhân bị thương, yếu đuối đến thế.
+
+520
+00:34:56,420 --> 00:34:59,550
+Bớt lời đi, bọn bợ đít!
+
+521
+00:34:59,630 --> 00:35:02,720
+Ngươi biết ta đã bảo là
+không được nói gì mà.
+
+522
+00:35:09,940 --> 00:35:12,770
+Soundwave báo cáo, thưa Chúa tể Megatron.
+
+523
+00:35:12,860 --> 00:35:16,980
+Có tin gì từ tên sát thủ nhỏ của ngươi?
+
+524
+00:35:17,150 --> 00:35:19,150
+Bọn Autobot đã cắn câu!
+
+525
+00:35:19,280 --> 00:35:23,280
+Chúng đã phát hiện ra tàu Ark
+và mang lô hàng trở về.
+
+526
+00:35:23,370 --> 00:35:28,200
+Ta thật vinh dự khi được ngươi
+ra sức theo dõi con tàu đến tận Mặt Trăng.
+
+527
+00:35:28,750 --> 00:35:33,710
+Bọn cộng sự loài người của ngươi
+đã hết sử dụng được rồi đấy, Soundwave.
+
+528
+00:35:33,960 --> 00:35:37,710
+Đến lúc bịt mọi đầu mối rồi.
+
+529
+00:35:38,340 --> 00:35:40,930
+<i>Laserbeak, giết hết chúng đi.</i>
+
+530
+00:35:41,970 --> 00:35:43,220
+<i>Tuân lệnh.</i>
+
+531
+00:35:56,820 --> 00:35:58,150
+Bố cưng có nhà không?
+
+532
+00:35:58,690 --> 00:36:01,110
+- Rồi Madeline nói đã đến lúc...
+- Madeline!
+
+533
+00:36:01,950 --> 00:36:03,450
+Chào mẹ!
+
+534
+00:36:07,120 --> 00:36:09,750
+Bob, ra khỏi nhà mau!
+
+535
+00:36:09,830 --> 00:36:12,620
+- Ngươi làm gì trong nhà ta?
+- Chỉ ghé chơi thôi.
+
+536
+00:36:19,710 --> 00:36:22,380
+HỆ THỐNG ACCURETTA
+
+537
+00:36:31,020 --> 00:36:32,520
+Bộ đồ hở hang này là sao?
+
+538
+00:36:33,770 --> 00:36:35,560
+Không. Đây là bộ phận vũ trụ,
+
+539
+00:36:35,690 --> 00:36:37,110
+chúng tôi không chấp nhận kiểu đó!
+
+540
+00:36:37,230 --> 00:36:39,570
+Lính mới, thấy chưa?
+Thói của bọn Latin.
+
+541
+00:36:39,820 --> 00:36:42,150
+Cậu mà hở hang như thế
+thì cuốn gói ngay. Rõ chưa?
+
+542
+00:36:42,610 --> 00:36:45,160
+Hiểu chứ? Cậu sẽ chung sống
+với xe thư đó hai năm rưỡi.
+
+543
+00:36:45,320 --> 00:36:47,410
+Cậu phải sống,
+yêu thương và đặt tên cho nó.
+
+544
+00:36:47,490 --> 00:36:49,580
+Ở đây đừng mong thăng tiến.
+Tôi nghiêm lắm.
+
+545
+00:36:49,700 --> 00:36:51,120
+- Vâng.
+- Đi đi!
+
+546
+00:37:10,260 --> 00:37:12,140
+Tôi tìm thấy văn bản ông nói rồi.
+
+547
+00:37:13,390 --> 00:37:14,440
+Xem gì thế?
+
+548
+00:37:14,520 --> 00:37:15,600
+Im đi!
+
+549
+00:37:18,360 --> 00:37:20,440
+Còn thế nữa thì biết tay tôi đấy!
+
+550
+00:37:23,190 --> 00:37:25,490
+- Chào anh.
+- Chào thiên thần.
+
+551
+00:37:25,570 --> 00:37:27,110
+- Anh thế nào?
+- Ổn cả.
+
+552
+00:37:27,240 --> 00:37:30,160
+Em có cuộc họp gần đây.
+Em ghé thăm thế này có được không?
+
+553
+00:37:30,280 --> 00:37:33,410
+Anh còn chưa đọc
+cuốn hướng dẫn nhân viên 500 trang nữa.
+
+554
+00:37:33,580 --> 00:37:36,080
+- Văn phòng tuyệt quá.
+- Autobot cứu thế giới
+
+555
+00:37:36,210 --> 00:37:38,880
+còn anh thì ngồi xếp bìa giấy.
+Sống như trong mơ vậy. Đi nào.
+
+556
+00:37:40,750 --> 00:37:42,210
+Vi phạm nội quy dành cho khách.
+
+557
+00:37:44,880 --> 00:37:46,010
+Ông không sao chứ?
+
+558
+00:37:46,630 --> 00:37:47,680
+Dĩ nhiên.
+
+559
+00:37:51,430 --> 00:37:52,470
+Tới lượt tôi.
+
+560
+00:37:54,390 --> 00:37:56,230
+Nghe này. Thứ Bảy.
+
+561
+00:37:56,600 --> 00:37:58,850
+Có tiệc ở nhà Dylan. Tiệc công việc,
+
+562
+00:37:58,980 --> 00:38:00,480
+- nhưng anh được mời.
+- Vậy à?
+
+563
+00:38:00,610 --> 00:38:03,400
+Nếu anh đến nghe em
+kể chuyện cười thì em sẽ rất vui.
+
+564
+00:38:03,690 --> 00:38:05,530
+Anh thích mà. Em đi bằng gì?
+
+565
+00:38:06,240 --> 00:38:07,240
+Ô tô.
+
+566
+00:38:07,450 --> 00:38:08,490
+Em đâu có ô tô.
+
+567
+00:38:08,660 --> 00:38:09,570
+Em có.
+
+568
+00:38:09,740 --> 00:38:11,200
+Em trúng số à?
+
+569
+00:38:12,030 --> 00:38:13,120
+Anh ấy cho em.
+
+570
+00:38:13,240 --> 00:38:14,330
+Một chiếc xe sao?
+
+571
+00:38:14,540 --> 00:38:17,040
+- Em nghĩ là thưởng công.
+- Thưởng công.
+
+572
+00:38:17,330 --> 00:38:19,290
+Anh ta cho em xe gì?
+
+573
+00:38:19,630 --> 00:38:21,750
+Một chiếc Mercedes SLS AMG.
+
+574
+00:38:22,800 --> 00:38:24,130
+Động cơ khàn lắm.
+
+575
+00:38:25,920 --> 00:38:27,170
+<i>Xe Mercedes Benz SLS... </i>
+
+576
+00:38:27,340 --> 00:38:28,680
+<i>Em lái nó đến đây à?</i>
+
+577
+00:38:31,100 --> 00:38:32,470
+Trị giá 200.000 đô đấy.
+
+578
+00:38:33,560 --> 00:38:34,520
+Em biết.
+
+579
+00:38:34,600 --> 00:38:36,850
+Em biết bao lâu anh mới mua nổi không?
+
+580
+00:38:37,180 --> 00:38:38,060
+Lâu lắm nhỉ?
+
+581
+00:38:38,310 --> 00:38:39,480
+Ừ, chừng 53 năm.
+
+582
+00:38:39,650 --> 00:38:41,560
+- Anh ấy nói là cho chúng ta.
+- Vậy
+
+583
+00:38:41,690 --> 00:38:43,360
+mình nên bán đi mua nhà.
+
+584
+00:38:45,530 --> 00:38:46,900
+Em biết anh bực mình.
+
+585
+00:38:47,030 --> 00:38:49,990
+Em từng thế mà. Phải nhẫn nhịn.
+
+586
+00:38:50,660 --> 00:38:51,820
+Khổ tận cam lai mà.
+
+587
+00:38:51,950 --> 00:38:55,620
+Các vị, tôi cần nộp hồ sơ giờ trưa ngay.
+
+588
+00:38:55,910 --> 00:38:59,040
+- Đang đến đấy.
+- Ai muốn ghi điểm với Bruce Brazos nào?
+
+589
+00:38:59,330 --> 00:39:01,250
+Bruce ơi, anh tìm được người rồi.
+
+590
+00:39:02,790 --> 00:39:04,380
+Witwicky!
+
+591
+00:39:04,880 --> 00:39:07,800
+Người giúp công ty vận hành trơn tru.
+
+592
+00:39:08,300 --> 00:39:09,970
+Còn đây là ai nhỉ?
+
+593
+00:39:10,050 --> 00:39:12,300
+Em gái, bạn Facebook, bạn Twitter?
+
+594
+00:39:12,390 --> 00:39:14,560
+- Carly, đây là Bruce.
+- Xin chào.
+
+595
+00:39:14,720 --> 00:39:17,270
+Tôi là bạn gái anh ấy.
+Rất hân hạnh. Sam nói đúng.
+
+596
+00:39:17,390 --> 00:39:18,980
+Ông có bộ tóc rất đẹp.
+
+597
+00:39:19,230 --> 00:39:20,600
+Cảm ơn cô.
+
+598
+00:39:21,730 --> 00:39:23,190
+- Sam, em đi đây.
+- Ừ.
+
+599
+00:39:24,400 --> 00:39:26,030
+Quà của anh này.
+
+600
+00:39:26,980 --> 00:39:28,530
+Màu ưa thích của anh.
+
+601
+00:39:29,490 --> 00:39:32,070
+- Tạm biệt, ông Brazos.
+- Tạm biệt.
+
+602
+00:39:34,200 --> 00:39:35,910
+Tạm biệt, các anh.
+
+603
+00:39:41,080 --> 00:39:43,830
+Tôi vẫn còn bực vụ bìa hồ sơ đấy, Jerry.
+
+604
+00:39:44,290 --> 00:39:47,460
+Cho tôi uống hết sữa đã nhé, Donny?
+
+605
+00:39:47,550 --> 00:39:51,090
+Tôi không quan tâm đến thứ sữa
+kỳ quái đó. Tôi cần sự tôn trọng!
+
+606
+00:40:10,070 --> 00:40:11,530
+Tôi biết cậu!
+
+607
+00:40:11,610 --> 00:40:13,490
+- Ý anh là...
+- Witwicky!
+
+608
+00:40:13,660 --> 00:40:16,580
+- Tôi đang nói với cậu đấy!
+- Xin lỗi. Cảm ơn.
+
+609
+00:40:17,910 --> 00:40:19,750
+Từ từ thôi cậu bạn nóng nảy.
+
+610
+00:40:19,830 --> 00:40:23,670
+Cậu có mặt trong sáu tấm hình,
+hai lục địa, cùng người ngoài hành tinh.
+
+611
+00:40:23,750 --> 00:40:28,420
+Chính cậu là người ở Ai Cập phải không?
+Vì cậu biết người ngoài hành tinh.
+
+612
+00:40:28,500 --> 00:40:29,510
+Tạm biệt!
+
+613
+00:40:29,880 --> 00:40:30,920
+NAM
+
+614
+00:40:31,130 --> 00:40:32,590
+Trả áo cho tôi!
+
+615
+00:40:39,850 --> 00:40:43,640
+Tôi là Wang. Deep Wang.
+
+616
+00:40:43,980 --> 00:40:45,600
+Cậu không hiểu. Deep Throat ấy.
+
+617
+00:40:45,690 --> 00:40:47,690
+Watergate? Tôi đang nói mật khẩu đấy!
+
+618
+00:40:48,020 --> 00:40:49,270
+Khỉ thật.
+
+619
+00:40:50,650 --> 00:40:52,490
+Chúng theo dõi và lắng nghe.
+
+620
+00:40:53,400 --> 00:40:56,370
+Tôi không gặp chính phủ được, cậu thì có!
+
+621
+00:40:56,450 --> 00:40:59,660
+Vì sẽ có chuyện!
+Báo động đỏ, như Pink Floyd ấy!
+
+622
+00:40:59,740 --> 00:41:02,580
+Phần tối! Sao từ năm 1972
+không ai lên trên đó chứ?
+
+623
+00:41:02,660 --> 00:41:06,920
+Tôi biết ông nói tiếng Anh,
+nhưng là thứ tiếng Anh rất lạ! Thế nên...
+
+624
+00:41:08,040 --> 00:41:10,090
+Đừng. Tôi sẽ đánh ông đấy.
+
+625
+00:41:10,170 --> 00:41:11,590
+Tôi sẽ đánh lại cậu.
+
+626
+00:41:12,050 --> 00:41:13,510
+Tuyên ngôn của tôi.
+
+627
+00:41:13,670 --> 00:41:16,800
+Chúng đang khử chúng tôi.
+Những người nào biết chuyện...
+
+628
+00:41:16,970 --> 00:41:18,850
+- Hiểu rồi.
+- Đám bạn ngoài hành tinh
+
+629
+00:41:18,970 --> 00:41:20,510
+của cậu đang lâm nguy. Tùy cậu đấy.
+
+630
+00:41:21,720 --> 00:41:23,100
+Bình tĩnh.
+
+631
+00:41:23,640 --> 00:41:25,600
+Bình tĩnh nào, Sam!
+
+632
+00:41:34,320 --> 00:41:35,780
+Ông nhìn cái gì?
+
+633
+00:41:36,570 --> 00:41:37,950
+Này.
+
+634
+00:41:38,160 --> 00:41:41,870
+Ông muốn kiếm chuyện à?
+Ông làm việc cho ai?
+
+635
+00:41:42,910 --> 00:41:45,080
+Thi nhìn à.
+
+636
+00:41:46,750 --> 00:41:48,130
+Tôi thắng rồi nhé.
+
+637
+00:41:51,550 --> 00:41:53,130
+Vệ tinh Mặt Trăng.
+
+638
+00:41:54,630 --> 00:41:56,180
+Chương trình không gian Nga.
+
+639
+00:41:56,720 --> 00:41:57,840
+Các chuyên gia đều chết.
+
+640
+00:41:58,340 --> 00:42:00,430
+<i>Chương trình không gian chấm dứt.</i>
+
+641
+00:42:00,510 --> 00:42:03,060
+Phần tối Mặt Trăng.
+
+642
+00:42:03,310 --> 00:42:05,730
+Cái này ở bên ngoài
+nhà vệ sinh. Của anh à?
+
+643
+00:42:05,810 --> 00:42:08,060
+- Xử lý đi nhé.
+- Vâng, thưa sếp.
+
+644
+00:42:10,690 --> 00:42:12,610
+Tôi đã làm mọi thứ anh muốn!
+
+645
+00:42:12,780 --> 00:42:14,150
+Tôi nghĩ mình cần nói chuyện.
+
+646
+00:42:14,570 --> 00:42:16,320
+Phải gõ cửa chứ!
+
+647
+00:42:16,400 --> 00:42:19,910
+Không thấy tôi đang bận sao? Cậu là ai?
+
+648
+00:42:20,240 --> 00:42:22,080
+Ông đã đè tôi trong buồng vệ sinh.
+
+649
+00:42:22,280 --> 00:42:24,790
+Cả đời chỉ có một lần. Tôi sẽ không quên.
+
+650
+00:42:24,910 --> 00:42:26,290
+- Không biết.
+- Buồng vệ sinh.
+
+651
+00:42:26,460 --> 00:42:28,120
+Ông lấy thứ đó ra...
+
+652
+00:42:28,670 --> 00:42:31,130
+Chúng ta không phải bồ bịch nhé?
+
+653
+00:42:31,210 --> 00:42:34,840
+Tôi chỉ gọi một cú
+là cậu bị đuổi ngay, tên đồng tính!
+
+654
+00:42:36,380 --> 00:42:37,550
+Ông không sao chứ?
+
+655
+00:42:38,470 --> 00:42:40,220
+Tôi bị trĩ!
+
+656
+00:42:40,300 --> 00:42:41,970
+Tôi nên quay lại lúc nào?
+
+657
+00:42:42,050 --> 00:42:44,180
+Quay lại sau khi cậu biết cư xử!
+
+658
+00:42:47,850 --> 00:42:51,020
+Tôi không biết cậu ta!
+Tôi sẽ không nói gì cả!
+
+659
+00:42:53,860 --> 00:42:56,780
+Được rồi! Tôi đã phá
+mạng vệ tinh như đã hứa.
+
+660
+00:42:56,900 --> 00:42:58,570
+Còn cài điểm mù lên chương trình.
+
+661
+00:42:58,700 --> 00:43:00,700
+Các người còn muốn gì nữa?
+
+662
+00:43:01,110 --> 00:43:04,830
+Jerry, tôi rất thích ông.
+
+663
+00:43:04,910 --> 00:43:06,370
+Tôi sẽ làm mọi việc anh muốn.
+
+664
+00:43:06,450 --> 00:43:10,170
+Tôi biết, nhưng cấp trên cần tôi...
+
+665
+00:43:10,830 --> 00:43:13,590
+- Đừng mà. Ông không phải vậy đâu!
+- ... giúp ông tự sát.
+
+666
+00:43:14,960 --> 00:43:18,550
+Ông đã nói gì với Witwicky?
+
+667
+00:43:18,920 --> 00:43:21,130
+Chết tiệt!
+
+668
+00:43:22,140 --> 00:43:24,970
+Ai muốn ăn thịt chim không nào?
+
+669
+00:43:25,060 --> 00:43:28,390
+Mày động nhầm phải Wang rồi con ạ!
+
+670
+00:43:29,560 --> 00:43:32,230
+Nào! Có ngon thì vào đây?!
+
+671
+00:43:33,810 --> 00:43:35,270
+Không, dừng lại!
+
+672
+00:43:43,160 --> 00:43:46,450
+Tôi không muốn nghe Chuck giảng đạo nữa.
+
+673
+00:43:46,910 --> 00:43:47,950
+Chúa ơi!
+
+674
+00:43:53,250 --> 00:43:54,670
+Gọi phòng pháp lý.
+
+675
+00:43:56,670 --> 00:43:57,960
+Là Jerry đó!
+
+676
+00:43:58,050 --> 00:44:02,630
+Một đồng nghiệp qua đời, nhưng nhìn qua
+cửa sổ không cứu sống được người ta đâu.
+
+677
+00:44:02,720 --> 00:44:04,010
+Anh ta vốn trầm cảm.
+
+678
+00:44:04,090 --> 00:44:05,100
+Đừng chụp hình!
+
+679
+00:44:05,180 --> 00:44:07,510
+Cứ nhìn cũng được,
+nhưng anh ta không ngồi dậy đâu.
+
+680
+00:44:07,600 --> 00:44:10,560
+Ai cũng đọc <i>Humpty Dumpty</i> rồi. Được chứ?
+
+681
+00:44:10,680 --> 00:44:11,730
+Witwicky.
+
+682
+00:44:12,190 --> 00:44:14,440
+Tôi sẽ lo vụ báo chí. Cậu dọn dẹp đi.
+
+683
+00:44:14,520 --> 00:44:18,320
+Wang ở khắp nơi. Trong quán rượu.
+
+684
+00:44:18,400 --> 00:44:20,860
+Trong cây trúc. Trên lan can.
+
+685
+00:44:20,940 --> 00:44:23,110
+Anh thấy vỉa hè bên dưới không?
+
+686
+00:44:23,530 --> 00:44:26,530
+Đóng gói đồ của anh ta.
+Xóa tên anh ta khỏi bãi đậu xe đi.
+
+687
+00:44:26,660 --> 00:44:28,290
+- Còn nữa.
+- Còn máy photo mới?
+
+688
+00:44:28,370 --> 00:44:30,450
+Tôi sẽ không hé môi chuyện tôi thấy.
+
+689
+00:44:30,910 --> 00:44:34,630
+Anh ở buồng vệ sinh với ai
+là chuyện của anh.
+
+690
+00:44:34,710 --> 00:44:37,840
+Đúng là đồ Nhật.
+
+691
+00:44:39,710 --> 00:44:42,470
+Lúc nào cũng làm khó nhau.
+
+692
+00:45:19,540 --> 00:45:21,920
+- Anh sao thế?
+- Có chuyện thật rồi, Carly.
+
+693
+00:45:22,050 --> 00:45:24,880
+Bình tĩnh nhé. Xảy ra thật rồi.
+Anh sẽ giải thích sau.
+
+694
+00:45:29,300 --> 00:45:33,810
+Gọi Đại tá Lennox ra mau.
+Bọn Decepticon trở lại rồi. Mở cửa mau.
+
+695
+00:45:33,890 --> 00:45:36,600
+Bình tĩnh. Đây là Bộ Y tế
+và Dịch vụ Nhân sinh.
+
+696
+00:45:36,690 --> 00:45:41,270
+Phải rồi, trang bị cả súng M4 à? Để bảo vệ
+túi vệ sinh? Giường bệnh? Thuốc ho à?
+
+697
+00:45:41,360 --> 00:45:45,860
+Mũ nồi xanh lấy trong trường y ra à?
+Anh bảo vệ y tá và bột khử mùi à? Tuyệt!
+
+698
+00:45:45,950 --> 00:45:48,700
+- Chắc mình nhầm...
+- Nhất định đúng chỗ.
+
+699
+00:45:48,780 --> 00:45:51,120
+- Tôi muốn gặp Optimus.
+- Anh nhầm tòa rồi.
+
+700
+00:45:51,200 --> 00:45:52,910
+Tôi không biết anh đang nói gì.
+
+701
+00:45:53,000 --> 00:45:54,830
+Không hiểu "Decepticon trở lại" là sao à?
+
+702
+00:45:55,000 --> 00:45:57,580
+Này! Định tỏ ra thông minh à?
+
+703
+00:45:57,670 --> 00:46:00,630
+Không được đụng vào xe tôi!
+Đó là hàng sưu tập đấy!
+
+704
+00:46:01,000 --> 00:46:02,090
+Làm thế không hay đâu.
+
+705
+00:46:02,170 --> 00:46:03,550
+Anh điên à?
+
+706
+00:46:05,550 --> 00:46:07,010
+Phát hiện Energon!
+
+707
+00:46:07,090 --> 00:46:08,260
+Người ngoài hành tinh!
+
+708
+00:46:08,680 --> 00:46:11,970
+Đứng im, cử động là chết! Ra ngoài!
+
+709
+00:46:12,060 --> 00:46:13,970
+Có người ngoài hành tinh trong xe!
+
+710
+00:46:14,890 --> 00:46:17,310
+- Đứng im!
+- Bọn tôi đứng im rồi!
+
+711
+00:46:17,390 --> 00:46:19,810
+Anh đùa à?
+
+712
+00:46:20,150 --> 00:46:22,320
+Sam, họ có súng đấy!
+
+713
+00:46:24,110 --> 00:46:27,490
+- Tôi tóm được hắn rồi.
+- Bee! Có Bee trong đó không?
+
+714
+00:46:27,700 --> 00:46:29,780
+- Đùa tôi. Đứng lên!
+- Được rồi!
+
+715
+00:46:29,950 --> 00:46:32,580
+Đây là cách đón Autobot à?
+Chúng ta cùng phe mà.
+
+716
+00:46:32,660 --> 00:46:35,370
+Chuẩn bị đi kiếm việc
+ở 7-Eleven đi, lũ bã đậu.
+
+717
+00:46:35,450 --> 00:46:37,290
+- Đúng thế.
+- Bọn ngu.
+
+718
+00:46:37,370 --> 00:46:38,710
+Giờ xe anh sao rồi?
+
+719
+00:46:48,300 --> 00:46:49,510
+Xe tôi đó.
+
+720
+00:46:50,470 --> 00:46:51,600
+Đến đây.
+
+721
+00:46:51,970 --> 00:46:53,010
+Đến đây!
+
+722
+00:46:53,100 --> 00:46:54,890
+Thôi nào. Sam.
+
+723
+00:46:55,020 --> 00:46:56,180
+Cậu sao thế?
+
+724
+00:46:56,480 --> 00:46:59,350
+Tớ biết nhiệm vụ mật là quan trọng.
+Tớ không muốn xem nhẹ nó
+
+725
+00:46:59,440 --> 00:47:01,610
+hay làm cậu khó xử,
+nhưng ta chẳng gặp nhau nữa.
+
+726
+00:47:01,980 --> 00:47:04,440
+Cậu không thể đến ga-ra chơi một đêm à?
+
+727
+00:47:04,570 --> 00:47:07,240
+- Sam. Tớ thấy có lỗi rồi đấy.
+- Hy vọng thế.
+
+728
+00:47:07,320 --> 00:47:11,110
+Cậu nên thế. Nhìn chiếc công nông
+của tớ kìa, tớ khó xử mỗi ngày.
+
+729
+00:47:11,200 --> 00:47:13,450
+Đi nào. Lennox muốn gặp cậu.
+
+730
+00:47:13,530 --> 00:47:15,240
+Bọn tôi không đủ với các anh nữa sao?
+
+731
+00:47:15,330 --> 00:47:17,160
+Xin lỗi cưng. Họ thô lỗ quá.
+
+732
+00:47:18,410 --> 00:47:21,540
+Các anh phải sửa xe cho tôi.
+Sao, ý kiến gì không?
+
+733
+00:47:22,000 --> 00:47:24,920
+Giơ tay nếu có máy photo ninja
+hôm nay bay đến giết anh!
+
+734
+00:47:25,000 --> 00:47:26,300
+Đó là khuyên tay của tôi.
+
+735
+00:47:26,380 --> 00:47:29,130
+Đó là khuyên chân.
+Có cần tháo không? Nhẫn chân nữa?
+
+736
+00:47:29,590 --> 00:47:33,430
+<i>Nhân viên NEST tránh khỏi tầng.</i>
+<i>Mười phút nữa bắt đầu nỗ lực tiếp xúc.</i>
+
+737
+00:47:33,970 --> 00:47:38,140
+Chúng ta đã lấy được năm thiết bị
+giấu cùng với Sentinel Prime.
+
+738
+00:47:38,560 --> 00:47:41,440
+Chúng dường như là một
+công nghệ mô hình của Autobot.
+
+739
+00:47:41,810 --> 00:47:46,440
+Họ nói Sentinel là Einstein của nền
+văn minh đó, nên phải khóa chúng lại
+
+740
+00:47:46,530 --> 00:47:48,070
+đến khi ta biết rõ chúng là gì.
+
+741
+00:47:48,150 --> 00:47:51,610
+Giờ thì không ai được tiếp cận.
+Không ai hết.
+
+742
+00:47:52,030 --> 00:47:54,660
+Gã Wang này nhận ra tôi.
+Anh ta bảo phải cảnh báo anh.
+
+743
+00:47:54,740 --> 00:47:56,700
+Anh ta nói về Mặt Trăng, rồi bị nó giết.
+
+744
+00:47:56,790 --> 00:47:59,290
+- Anh ta nói đến Mặt Trăng à?
+- Phần tối.
+
+745
+00:47:59,370 --> 00:48:04,080
+Tại sao Decepticon lại giết người?
+Tưởng chúng chỉ gây chiến với Autobot.
+
+746
+00:48:04,170 --> 00:48:07,380
+Đó là lúc anh ta soạn báo cáo sơ bộ này.
+
+747
+00:48:08,170 --> 00:48:09,210
+Cô gái nào thế?
+
+748
+00:48:09,300 --> 00:48:11,220
+Xin lỗi! Đại tá Lennox?
+
+749
+00:48:11,300 --> 00:48:12,840
+Giám đốc Mearing, đây là Sam Witwicky,
+
+750
+00:48:13,050 --> 00:48:15,180
+- người mà...
+- Tôi biết tên anh ta, Đại tá.
+
+751
+00:48:15,390 --> 00:48:18,060
+- Tôi muốn biết ai cho anh ta vào?
+- Còn Optimus Prime,
+
+752
+00:48:18,180 --> 00:48:20,640
+ai cho ông ta vào nhà tôi nhỉ?
+
+753
+00:48:20,730 --> 00:48:24,230
+Đây là Giám đốc
+Tình báo Quốc gia. Nếu cậu...
+
+754
+00:48:24,310 --> 00:48:25,190
+Xin chào.
+
+755
+00:48:25,310 --> 00:48:29,030
+Bất kính với viên chức liên bang à?
+Giỏi đấy. Cô này là ai?
+
+756
+00:48:29,110 --> 00:48:30,190
+Bạn gái tôi.
+
+757
+00:48:30,400 --> 00:48:32,070
+Gì thế này, hẹn hò à?
+
+758
+00:48:32,280 --> 00:48:34,870
+Cô ấy biết về Autobot, biết Bumblebee.
+
+759
+00:48:34,950 --> 00:48:37,240
+Gia đình quân đội.
+Tôi có thể bảo đảm cho cô ấy.
+
+760
+00:48:37,330 --> 00:48:39,950
+Này, tôi có ý này.
+Hãy quay về chủ đề quan trọng
+
+761
+00:48:40,040 --> 00:48:42,370
+như là có một tên Decepticon
+suýt cắt mặt tôi ra đi.
+
+762
+00:48:42,460 --> 00:48:44,920
+Với tư cách người nộp thuế,
+tôi muốn khiếu nại.
+
+763
+00:48:45,000 --> 00:48:48,500
+Vâng. Một kỹ sư phần mềm
+tại văn phòng của Sam bị giết hôm nay.
+
+764
+00:48:48,590 --> 00:48:50,420
+Tham gia vẽ bản đồ Mặt Trăng của NASA.
+
+765
+00:48:50,510 --> 00:48:52,590
+Vấn đề thế này, Đại tá Lennox ạ.
+
+766
+00:48:52,840 --> 00:48:56,050
+Không thể giao an ninh
+quốc phòng cho bọn thiếu niên
+
+767
+00:48:56,140 --> 00:49:00,520
+trừ khi có chính sách mới
+mà tôi không biết. Có không? Không. Tốt.
+
+768
+00:49:00,680 --> 00:49:02,180
+Tôi không quan tâm cậu là ai.
+
+769
+00:49:02,270 --> 00:49:07,110
+Nếu cậu hé lời về chuyện cậu thấy ở đây,
+cậu sẽ phải ngồi tù vì phản quốc. Rõ chứ?
+
+770
+00:49:07,730 --> 00:49:10,860
+Tôi chỉ nghe lệnh Autobot.
+Tôi biết họ. Không biết bà.
+
+771
+00:49:11,400 --> 00:49:12,530
+Cậu sẽ nghe thôi.
+
+772
+00:49:14,740 --> 00:49:16,240
+Sentinel Prime.
+
+773
+00:49:16,490 --> 00:49:19,530
+Họ chạy bằng Energon,
+mà ông ta cạn sạch rồi. Ông ta...
+
+774
+00:49:19,620 --> 00:49:21,040
+như đang ở chế độ ngủ.
+
+775
+00:49:21,120 --> 00:49:22,790
+Bắt đầu thôi.
+
+776
+00:49:31,300 --> 00:49:33,590
+Đó là Ma trận Lãnh đạo.
+
+777
+00:49:34,800 --> 00:49:38,890
+Thứ duy nhất trong vũ trụ
+có thể kích hoạt lại linh hồn Transformer.
+
+778
+00:49:39,300 --> 00:49:41,220
+Thật không thể tin nổi.
+
+779
+00:49:42,220 --> 00:49:44,180
+Sentinel Prime...
+
+780
+00:49:45,100 --> 00:49:47,480
+chúng tôi đón chào anh trở về.
+
+781
+00:49:56,860 --> 00:49:57,990
+Đừng bắn!
+
+782
+00:49:58,240 --> 00:49:59,990
+- Dừng lại! Sentinel!
+- Ngừng bắn!
+
+783
+00:50:01,280 --> 00:50:04,080
+Tôi đây, Optimus Prime!
+
+784
+00:50:04,450 --> 00:50:07,080
+Không sao đâu. Anh an toàn rồi.
+
+785
+00:50:07,920 --> 00:50:09,790
+Không có gì phải sợ cả.
+
+786
+00:50:11,000 --> 00:50:12,840
+Có chúng tôi đây.
+
+787
+00:50:13,800 --> 00:50:16,090
+Anh đã về nhà rồi, Sentinel.
+
+788
+00:50:21,100 --> 00:50:23,600
+Cuộc chiến...
+
+789
+00:50:23,930 --> 00:50:25,890
+Cuộc chiến thất bại rồi.
+
+790
+00:50:25,980 --> 00:50:29,440
+Cybertron giờ chỉ là vùng đất hoang.
+
+791
+00:50:29,600 --> 00:50:32,400
+Chúng ta đang tị nạn ở hành tinh Trái Đất.
+
+792
+00:50:32,690 --> 00:50:35,190
+Loài người là đồng minh của chúng ta.
+
+793
+00:50:35,440 --> 00:50:38,240
+Con tàu của tôi. Chúng tôi bị tấn công.
+
+794
+00:50:38,320 --> 00:50:41,950
+Những cây cột. Chúng đâu rồi?
+
+795
+00:50:42,160 --> 00:50:45,950
+Anh cứu được năm cái,
+kể cả cây cột điều khiển.
+
+796
+00:50:46,040 --> 00:50:47,750
+Chỉ năm thôi sao?
+
+797
+00:50:48,160 --> 00:50:49,750
+Chúng ta từng có hàng trăm cái!
+
+798
+00:50:49,830 --> 00:50:53,920
+Xin lỗi. Công nghệ các ông đang tìm là gì?
+
+799
+00:50:54,000 --> 00:50:57,380
+Đó là khả năng định hình vũ trụ.
+Cùng nhau, các cây cột
+
+800
+00:50:57,470 --> 00:50:59,590
+tạo nên một cây cầu không gian.
+
+801
+00:50:59,680 --> 00:51:03,350
+Tôi đã thiết kế nó
+và chỉ tôi mới điều khiển được nó.
+
+802
+00:51:03,430 --> 00:51:08,270
+Nó trái với các quy luật vật lý về mang
+vật chất xuyên không gian và thời gian.
+
+803
+00:51:08,350 --> 00:51:11,310
+Ông đang nói đến một thiết bị
+dịch chuyển tức thời?
+
+804
+00:51:11,400 --> 00:51:14,190
+Đúng, cho tài nguyên và người tị nạn.
+
+805
+00:51:14,270 --> 00:51:18,070
+Người tị nạn, hoặc binh lính,
+vũ khí, có thể cả bom!
+
+806
+00:51:18,150 --> 00:51:21,030
+Một phương tiện tấn công tức thời
+dành cho quân đội, đúng không?
+
+807
+00:51:21,110 --> 00:51:25,240
+Đó là công nghệ của chúng tôi
+và nó phải được trả lại cho chúng tôi.
+
+808
+00:51:25,330 --> 00:51:27,660
+Nếu loài người cho phép.
+
+809
+00:51:27,910 --> 00:51:31,880
+Các vị không thể mang vũ khí
+hủy diệt hàng loạt vào hành tinh này!
+
+810
+00:51:31,960 --> 00:51:33,500
+Giống như phải thông quan!
+
+811
+00:51:33,590 --> 00:51:36,840
+Thủ tục giấy tờ
+tách biệt con người với loài vật.
+
+812
+00:51:36,920 --> 00:51:40,590
+Tôi sẽ bỏ qua cái giọng kẻ cả của bà
+
+813
+00:51:40,760 --> 00:51:43,140
+nếu bà chịu nghe lời tôi.
+
+814
+00:51:43,220 --> 00:51:48,100
+Không thể để bọn Decepticon biết về cầu
+không gian ở đây. Vào tay chúng,
+
+815
+00:51:48,180 --> 00:51:52,270
+đó sẽ là ngày tận thế của quý vị.
+
+816
+00:51:53,060 --> 00:51:54,650
+Hồ sơ "Ác mộng".
+
+817
+00:51:55,520 --> 00:51:58,650
+Chúng tôi sẽ điều tra
+và cử nhân viên đến văn phòng cậu.
+
+818
+00:51:58,740 --> 00:52:01,570
+Chúng tôi sẽ đưa cậu về
+với Autobot hộ tống.
+
+819
+00:52:01,950 --> 00:52:05,030
+Tôi cần liên lạc với ai
+để các vị biết là tôi có thể giúp đỡ?
+
+820
+00:52:05,370 --> 00:52:07,290
+- Tôi có thể góp sức.
+- Chúng tôi nữa.
+
+821
+00:52:07,490 --> 00:52:10,500
+Tôi rành về hệ mặt trời
+và các hành tinh thú vị.
+
+822
+00:52:10,580 --> 00:52:11,710
+Tránh khỏi bàn của tôi.
+
+823
+00:52:11,790 --> 00:52:14,580
+Thái độ thế.
+Tôi không giúp đâu. Bà ta giận rồi.
+
+824
+00:52:14,670 --> 00:52:15,710
+Chúa ơi.
+
+825
+00:52:15,790 --> 00:52:19,260
+Bà nghĩ sao? Giờ tôi về nhà?
+Về làm việc? Photo giấy tờ à?
+
+826
+00:52:19,340 --> 00:52:23,090
+Đây là đơn vị cựu sĩ quan tình báo
+và Đội Đặc nhiệm
+
+827
+00:52:23,180 --> 00:52:25,430
+không phải những cậu bé
+từng có ô tô siêu phàm.
+
+828
+00:52:25,640 --> 00:52:27,390
+Thưa bà, nói vậy hơi quá rồi.
+
+829
+00:52:27,470 --> 00:52:29,100
+Đừng gọi thế. Tôi không phải bà.
+
+830
+00:52:29,180 --> 00:52:30,640
+Cô là phụ nữ mà?
+
+831
+00:52:31,350 --> 00:52:32,730
+Vậy...
+
+832
+00:52:32,890 --> 00:52:34,020
+cái đó của cô à?
+
+833
+00:52:34,310 --> 00:52:35,690
+Ừ. CIA.
+
+834
+00:52:35,810 --> 00:52:39,280
+Tôi hỏi vì tôi cũng có
+một huy chương từ Tổng thống.
+
+835
+00:52:39,360 --> 00:52:42,240
+Ừ. Tuyệt lắm. Vậy đơn giản đúng không?
+
+836
+00:52:42,450 --> 00:52:44,910
+Không ai làm việc
+với Autobot trừ khi tôi cho phép
+
+837
+00:52:45,240 --> 00:52:47,030
+Cậu sẽ phá hệ thống chỉ huy của tôi.
+
+838
+00:52:48,580 --> 00:52:51,410
+Đi thôi. Anh đã làm hết sức rồi.
+
+839
+00:52:51,500 --> 00:52:55,710
+Chàng trai à, tôi trân trọng việc cậu làm.
+Nhưng cậu không phải lính.
+
+840
+00:52:55,790 --> 00:52:57,840
+Cậu chỉ là người đưa tin. Luôn là như thế.
+
+841
+00:52:58,800 --> 00:53:00,510
+Anh ấy là một người anh hùng.
+
+842
+00:53:06,390 --> 00:53:08,680
+Bee, cậu dùng thang hàng. Gặp cậu trên đó.
+
+843
+00:53:13,350 --> 00:53:16,560
+Tệ quá. Bà ta chính thức đá đít bọn mình.
+
+844
+00:53:16,650 --> 00:53:19,320
+Ừ. Chương trình bảo vệ nhân chứng tệ quá.
+
+845
+00:53:19,400 --> 00:53:22,650
+Ừ, nhưng an toàn hơn
+khi có gã vàng to bự cùng khẩu pháo.
+
+846
+00:53:22,740 --> 00:53:24,450
+Vì con chó đó chẳng bảo vệ được gì.
+
+847
+00:53:25,780 --> 00:53:26,950
+Bee?
+
+848
+00:53:32,370 --> 00:53:33,790
+Lâu không đi chơi nên nhớ à?
+
+849
+00:53:35,830 --> 00:53:37,380
+Tớ cũng thế.
+
+850
+00:53:41,880 --> 00:53:44,220
+Bà ta gọi tớ là người đưa tin.
+Tin được không?
+
+851
+00:53:44,340 --> 00:53:46,220
+Sau những gì tớ làm, tớ là kẻ đưa tin.
+
+852
+00:53:46,430 --> 00:53:51,220
+Tớ tin. Sammy, bọn tớ cũng nghĩ thế.
+Ở hành tinh này thiếu sự tôn trọng quá.
+
+853
+00:53:52,060 --> 00:53:54,020
+Chúng ta phải làm gì đó.
+
+854
+00:53:55,020 --> 00:53:56,140
+Bee...
+
+855
+00:53:57,230 --> 00:54:01,110
+tớ cần biết tại sao chúng giết người.
+Hãy gọi chuyên gia thôi.
+
+856
+00:54:01,400 --> 00:54:05,860
+<i>Khách mời kế tiếp của tôi</i>
+<i>là một cựu đặc vụ đã dám lên tiếng</i>
+
+857
+00:54:06,070 --> 00:54:09,700
+<i>về việc quân đội chúng ta</i>
+<i>liên minh với cái được gọi</i>
+
+858
+00:54:09,950 --> 00:54:12,950
+<i>là một nhóm lính</i>
+<i>đánh thuê ngoài hành tinh.</i>
+
+859
+00:54:13,160 --> 00:54:17,710
+<i>Anh ta là tác giả quyển sách</i>
+<i>bán chạy nhất, </i>Mật danh Anh hùng<i>.</i>
+
+860
+00:54:17,830 --> 00:54:19,960
+<i>Cựu đặc vụ, Seymour Simmons.</i>
+
+861
+00:54:20,040 --> 00:54:22,500
+Bill. Tôi hâm mộ anh lắm.
+Rất tuyệt khi được đến đây.
+
+862
+00:54:22,590 --> 00:54:26,420
+<i>Đặc vụ Simmons,</i>
+<i>anh tin rằng tốt nhất loài người nên</i>
+
+863
+00:54:26,510 --> 00:54:29,970
+<i>chính thức chọn phe</i>
+<i>trong cuộc chiến ngoài hành tinh này?</i>
+
+864
+00:54:30,050 --> 00:54:32,680
+Phe kia muốn dùng loài người làm bữa sáng
+
+865
+00:54:32,760 --> 00:54:34,970
+nên tôi nghĩ không có nhiều chọn lựa.
+
+866
+00:54:35,270 --> 00:54:36,850
+Bọn Decepticon này rất nguy hiểm.
+
+867
+00:54:36,940 --> 00:54:41,940
+<i>Nhưng theo thăm dò thì một nửa thế giới</i>
+<i>thấy an toàn hơn nếu các Autobot ra đi.</i>
+
+868
+00:54:42,020 --> 00:54:44,440
+<i>Đuổi họ đi! Chúng tôi không cần họ!</i>
+
+869
+00:54:44,530 --> 00:54:48,200
+<i>Tôi thấy an toàn nếu ngủ cùng quả</i>
+<i>lựu đạn. Không có nghĩa là tôi đúng.</i>
+
+870
+00:54:48,280 --> 00:54:51,200
+<i>Thật ra, thưa đặc vụ,
+chúng tôi có được văn bản</i>
+
+871
+00:54:51,280 --> 00:54:52,910
+<i>cho thấy anh</i>
+
+872
+00:54:52,990 --> 00:54:55,330
+- <i>bị đuổi việc... </i>
+- Chaz, tôi đang phỏng vấn.
+
+873
+00:54:55,410 --> 00:54:57,410
+- Xin lỗi.
+- Tinh giảm, Bill. Cắt ngân sách.
+
+874
+00:54:57,500 --> 00:54:58,670
+Chaz, ra ngoài.
+
+875
+00:54:58,830 --> 00:55:01,710
+<i>... xu hướng hoang tưởng nặng.</i>
+
+876
+00:55:01,790 --> 00:55:02,920
+Thủ thuật khiêu khích thôi.
+
+877
+00:55:03,000 --> 00:55:04,550
+<i>Muốn biết sự thật về liên minh ư?</i>
+
+878
+00:55:04,630 --> 00:55:08,470
+<i>Hãy mua sách của tôi ngay kẻo muộn!</i>
+
+879
+00:55:08,550 --> 00:55:11,220
+<i>Muốn chơi không Bill?</i>
+<i>Muốn lột truồng nhau không?</i>
+
+880
+00:55:11,340 --> 00:55:14,430
+<i>- Buổi phỏng vấn kết thúc! Cút đi!</i>
+<i>- Anh là một gã ngốc.</i>
+
+881
+00:55:14,560 --> 00:55:17,310
+<i>- Khuyên anh nhé, kiểm soát tổn hại đi.</i>
+- Dutch!
+
+882
+00:55:17,390 --> 00:55:19,480
+Các người đã làm ngài Simmons giận!
+
+883
+00:55:19,690 --> 00:55:23,110
+Các người có 23 giây để rời nhà!
+Tôi đã gọi cảnh sát!
+
+884
+00:55:23,190 --> 00:55:25,610
+<i>Bọn nhà quê các người</i>
+<i>định châu chấu đá xe à?</i>
+
+885
+00:55:25,860 --> 00:55:27,110
+Kế tiếp là gì nào?
+
+886
+00:55:27,190 --> 00:55:30,820
+Ký tên sách buổi trưa.
+Rồi chương trình thực tế trên Discovery.
+
+887
+00:55:30,910 --> 00:55:34,990
+Ồ, có gã "Vitvicky" nào cứ gọi mãi.
+
+888
+00:55:35,080 --> 00:55:36,330
+Thằng nhóc? Hắn muốn gì?
+
+889
+00:55:36,410 --> 00:55:39,410
+Decepticon đang trở lại.
+Tôi cần ông giúp để biết lý do.
+
+890
+00:55:39,500 --> 00:55:40,500
+Chúng trở lại à?
+
+891
+00:55:41,540 --> 00:55:43,170
+Vậy thì bán sách càng chạy.
+
+892
+00:55:43,250 --> 00:55:46,840
+Nếu tôi bảo tôi biết
+một bí mật 50 năm thì sao?
+
+893
+00:55:46,960 --> 00:55:52,050
+Đừng có khích tôi.
+Tôi đã cắt cơn nghiện trinh thám lâu rồi.
+
+894
+00:55:52,140 --> 00:55:55,180
+- Dutch, đường dây này bảo mật không?
+- Không.
+
+895
+00:55:55,970 --> 00:55:57,060
+ĐANG MÃ HÓA
+
+896
+00:55:57,140 --> 00:56:00,060
+Đừng liều. Mình giàu mà, sao phải liều?
+
+897
+00:56:00,350 --> 00:56:02,940
+Đừng tái phát. Không tái phát đâu.
+
+898
+00:56:03,350 --> 00:56:05,690
+Đừng để ma quỷ chiến thắng.
+
+899
+00:56:05,770 --> 00:56:06,820
+Được rồi.
+
+900
+00:56:08,280 --> 00:56:10,950
+Bí mật... gì đây?
+
+901
+00:56:11,150 --> 00:56:13,870
+Apollo. Mặt Trăng.
+Người ngoài hành tinh. Che đậy.
+
+902
+00:56:13,950 --> 00:56:16,160
+Công nghệ tương lai. Ám sát. Vậy đó.
+
+903
+00:56:16,910 --> 00:56:18,660
+Ồ, Apollo.
+
+904
+00:56:19,450 --> 00:56:20,580
+Dutch!
+
+905
+00:56:27,670 --> 00:56:31,130
+Bảo với Megatron, "Nhảy tango thôi".
+
+906
+00:56:41,560 --> 00:56:44,940
+Hành tinh này thật đẹp và yên bình.
+
+907
+00:56:45,230 --> 00:56:48,190
+Không như những ngày tàn của Cybertron.
+
+908
+00:56:48,440 --> 00:56:51,150
+Tôi tự hỏi chuyện gì sẽ xảy ra
+
+909
+00:56:51,240 --> 00:56:55,570
+nếu anh đánh trận cuối, thay vì tôi.
+
+910
+00:56:55,660 --> 00:56:58,120
+Đừng nuối tiếc quá khứ, chiến binh trẻ à.
+
+911
+00:56:58,410 --> 00:57:02,500
+Nhờ cậu mà chủng tộc ta còn tồn tại.
+
+912
+00:57:04,330 --> 00:57:06,630
+Anh là thủ lĩnh của chúng tôi, Sentinel.
+
+913
+00:57:07,040 --> 00:57:09,840
+Anh có quyền lãnh đạo
+chúng tôi một lần nữa.
+
+914
+00:57:09,920 --> 00:57:12,130
+Trong một thế giới mà tôi không biết gì,
+
+915
+00:57:12,380 --> 00:57:17,600
+tôi không còn là thầy của cậu, Optimus.
+Cậu mới là thầy của tôi.
+
+916
+00:57:21,140 --> 00:57:23,690
+Phải giải quyết vụ này.
+
+917
+00:57:23,770 --> 00:57:25,650
+Chúng ta có bệnh dịch phi hành gia.
+
+918
+00:57:25,730 --> 00:57:29,230
+Mất tích. Chết. Tai nạn.
+Bị giết. Chết tại chỗ. Chết do ô tô.
+
+919
+00:57:29,320 --> 00:57:32,820
+Cứ như thể họ biết lái phi thuyền
+mà không biết lái ô tô ấy.
+
+920
+00:57:33,280 --> 00:57:36,780
+- Đã có thông tin của cậu, Witwicky.
+- Cảm ơn ông, Bruce.
+
+921
+00:57:37,490 --> 00:57:38,950
+Bây giờ...
+
+922
+00:57:40,580 --> 00:57:42,830
+Cho tôi xem Autobot nhé. Một lần thôi.
+
+923
+00:57:43,120 --> 00:57:44,500
+- Nhanh đấy.
+- Rất nhanh thôi.
+
+924
+00:57:50,000 --> 00:57:51,750
+Tàu thám sát Quỹ đạo Mặt Trăng.
+
+925
+00:57:52,170 --> 00:57:54,420
+NASA phóng nó vào năm 2009.
+
+926
+00:57:55,130 --> 00:57:57,510
+Pháp y cho thấy Wang đã phá mã,
+
+927
+00:57:57,590 --> 00:58:00,300
+khiến nó không chụp được
+phần tối của Mặt Trăng.
+
+928
+00:58:00,390 --> 00:58:01,810
+Tuyệt cú mèo.
+
+929
+00:58:01,890 --> 00:58:05,520
+Chúng thâm nhập, đe dọa
+rồi buộc ta làm việc bẩn thỉu thay.
+
+930
+00:58:05,600 --> 00:58:06,640
+Rồi khi xong việc...
+
+931
+00:58:08,560 --> 00:58:10,310
+hai phát vào đầu.
+
+932
+00:58:10,400 --> 00:58:12,530
+Vậy có người đang cộng tác với Decepticon.
+
+933
+00:58:12,900 --> 00:58:17,610
+Tôi không nghĩ Decepticon
+đang tìm kiếm thứ gì đó trên Mặt Trăng.
+
+934
+00:58:18,360 --> 00:58:22,080
+Tôi nghĩ có thứ gì đó
+chúng đang muốn giấu.
+
+935
+00:58:22,450 --> 00:58:24,040
+Đến với bố nào.
+
+936
+00:58:25,120 --> 00:58:26,290
+Chiến đi nào.
+
+937
+00:58:28,040 --> 00:58:30,210
+Hồi nhỏ ông bị ngộ độc chì à?
+
+938
+00:58:30,960 --> 00:58:32,170
+Hắn ta đúng là hâm.
+
+939
+00:58:32,670 --> 00:58:33,840
+Sao nào?
+
+940
+00:58:37,340 --> 00:58:38,470
+Nhột quá!
+
+941
+00:58:39,840 --> 00:58:44,310
+Này, chúng tôi đang có một hội nghị
+cấp cao về người ngoài hành tinh
+
+942
+00:58:44,390 --> 00:58:47,480
+mà tôi nghĩ ông không thể
+tham dự, chàng sai vặt ạ.
+
+943
+00:58:47,560 --> 00:58:48,640
+Ừ, anh nói đúng.
+
+944
+00:58:48,730 --> 00:58:51,150
+- Con robot đàn bà.
+- Đi nào, Bruce.
+
+945
+00:58:51,230 --> 00:58:52,900
+Cảm ơn cậu nhiều lắm.
+
+946
+00:58:52,980 --> 00:58:54,110
+Đi thôi, Bruce.
+
+947
+00:58:55,940 --> 00:58:59,820
+Này, tôi đang quần quật tìm tin tức
+về phi hành gia người Nga mất tích.
+
+948
+00:58:59,910 --> 00:59:02,660
+Hóa ra Liên Xô đã hủy
+chương trình lên Mặt Trăng.
+
+949
+00:59:02,740 --> 00:59:04,290
+Mặt Trăng! Vào năm 1972.
+
+950
+00:59:04,370 --> 00:59:08,660
+Rồi hai phi hành gia tới trú ẩn tại Mỹ.
+Tôi phát hiện ra họ còn sống.
+
+951
+00:59:08,750 --> 00:59:10,120
+Cậu quả là thiên tài, Brains.
+
+952
+00:59:14,920 --> 00:59:17,130
+Hay quá nhỉ, Bumblebee.
+
+953
+00:59:20,590 --> 00:59:23,010
+Tí thì trượt.
+
+954
+00:59:25,390 --> 00:59:26,470
+Chào.
+
+955
+00:59:27,180 --> 00:59:29,100
+Chuyện gì thế này?
+
+956
+00:59:29,190 --> 00:59:31,400
+- Cô là ai?
+- Ông là ai?
+
+957
+00:59:31,480 --> 00:59:34,150
+Tôi là ai à? Ai thế?
+Dutch! Lục soát cô ta!
+
+958
+00:59:34,400 --> 00:59:35,270
+Rõ.
+
+959
+00:59:35,360 --> 00:59:36,900
+Không. Dutch.
+
+960
+00:59:36,980 --> 00:59:38,240
+Đừng chạm vào tôi.
+
+961
+00:59:38,780 --> 00:59:40,700
+- Tôi không đụng vào cô ta đâu.
+- Sam?
+
+962
+00:59:40,950 --> 00:59:42,160
+Thiên thần của anh.
+
+963
+00:59:42,450 --> 00:59:45,700
+Anh đang làm việc. Anh xin lỗi.
+
+964
+00:59:45,790 --> 00:59:46,910
+Tuyệt. Mình vô gia cư rồi.
+
+965
+00:59:46,990 --> 00:59:48,790
+Cô ấy sống ở đây à? Chà.
+
+966
+00:59:48,870 --> 00:59:50,710
+Cậu được lục soát cô ta đấy.
+
+967
+00:59:50,790 --> 00:59:53,080
+- Tôi có bạn gái.
+- Thật à? Tên gì?
+
+968
+00:59:53,670 --> 00:59:55,170
+India.
+
+969
+00:59:56,460 --> 00:59:58,550
+Lẽ ra chúng mình
+phải đến dự tiệc của Dylan.
+
+970
+00:59:58,630 --> 01:00:01,550
+Anh biết, nhưng bạn bè cần anh.
+Giờ anh phải ở đây.
+
+971
+01:00:01,630 --> 01:00:04,760
+Các Autobot và quân đội
+không tự xử lý được à?
+
+972
+01:00:04,970 --> 01:00:07,350
+Anh biết em thích
+chuyện của anh ở chỗ nào không?
+
+973
+01:00:07,430 --> 01:00:09,430
+Chúng là chuyện quá khứ. Chúng qua rồi.
+
+974
+01:00:09,520 --> 01:00:11,770
+Anh biết em đang nghĩ về anh trai em,
+
+975
+01:00:11,850 --> 01:00:13,810
+và gia đình của em, nhưng không phải thế.
+
+976
+01:00:13,940 --> 01:00:14,980
+- Không ư?
+- Không.
+
+977
+01:00:15,110 --> 01:00:17,440
+Sao không? Sao không hả Sam?
+
+978
+01:00:17,900 --> 01:00:20,740
+Anh nghĩ nhà em cần anh ấy
+hay huy chương của anh ấy hơn?
+
+979
+01:00:21,950 --> 01:00:26,030
+Anh nghe rồi. Anh hiểu rồi.
+Em lấy con thỏ đi đâu vậy? Khoan đã!
+
+980
+01:00:26,120 --> 01:00:27,330
+Chờ một chút.
+
+981
+01:00:27,410 --> 01:00:31,210
+Đêm qua em mất ngủ.
+Rồi em chợt nghĩ: Sam muốn gặp nguy hiểm.
+
+982
+01:00:31,290 --> 01:00:33,880
+- Nếu không, anh ấy lạc lối.
+- Anh chỉ muốn mình quan trọng.
+
+983
+01:00:34,880 --> 01:00:36,380
+Anh quan trọng đối với em.
+
+984
+01:00:42,720 --> 01:00:46,550
+Anh biết em lo lắng,
+nhưng anh hứa anh có thể xử lý chuyện này.
+
+985
+01:00:46,970 --> 01:00:48,720
+Thế sao? Anh hứa được không?
+
+986
+01:00:48,810 --> 01:00:50,020
+Anh hứa.
+
+987
+01:00:51,600 --> 01:00:54,900
+Em không muốn mất anh,
+và em biết hậu quả chuyện này.
+
+988
+01:00:57,110 --> 01:00:59,070
+Em chưa sẵn sàng.
+
+989
+01:01:00,650 --> 01:01:02,360
+Anh đi với em chứ?
+
+990
+01:01:02,450 --> 01:01:03,910
+Anh không thể.
+
+991
+01:01:05,280 --> 01:01:06,410
+Được rồi.
+
+992
+01:01:11,790 --> 01:01:12,750
+Em này...
+
+993
+01:01:17,170 --> 01:01:18,790
+Chân thỏ của anh đây.
+
+994
+01:01:30,060 --> 01:01:32,770
+Con đường chiến binh là con đường cô độc.
+
+995
+01:01:33,520 --> 01:01:35,520
+Sao cô ta mua nổi chiếc xe đó nhỉ?
+
+996
+01:01:35,690 --> 01:01:37,940
+- Sếp cho đấy.
+- Bọn nhà giàu khốn kiếp!
+
+997
+01:01:38,020 --> 01:01:40,610
+Tôi từng rất ghét chúng. Giờ thì...
+
+998
+01:01:42,400 --> 01:01:45,660
+Nhiệm vụ săn đuổi
+hai phi hành gia người Nga.
+
+999
+01:01:45,820 --> 01:01:47,950
+Không gì sướng bằng lái chiếc Maybach.
+
+1000
+01:01:48,160 --> 01:01:50,160
+Người Đức đúng là biết sản xuất xe.
+
+1001
+01:01:51,620 --> 01:01:55,870
+Anh bạn Dutch của tôi, cựu nhân viên
+an ninh chuyên săn tin trên mạng
+
+1002
+01:01:55,960 --> 01:01:58,000
+đã theo dấu họ đến đây.
+
+1003
+01:01:58,420 --> 01:02:01,380
+Các phi hành gia này
+phải ẩn danh. Sao vậy nhỉ?
+
+1004
+01:02:01,460 --> 01:02:03,710
+Trúng rồi. Đúng người rồi.
+
+1005
+01:02:04,220 --> 01:02:05,970
+Cậu cứ như là chó béc-giê ấy, Dutch.
+
+1006
+01:02:06,050 --> 01:02:09,140
+Vấn đề là người Nga
+chẳng bao giờ chịu mở miệng.
+
+1007
+01:02:09,220 --> 01:02:12,140
+Chắc phải cần phải dùng chút
+"ngôn ngữ quốc tế" đây.
+
+1008
+01:02:16,440 --> 01:02:17,440
+<i>Do svidaniya.</i>
+
+1009
+01:02:17,520 --> 01:02:19,110
+Đó có nghĩa là "tạm biệt".
+
+1010
+01:02:20,060 --> 01:02:21,150
+Xem đây.
+
+1011
+01:02:33,330 --> 01:02:34,750
+Sẵn sàng đi.
+
+1012
+01:02:35,410 --> 01:02:38,420
+Dutch. Cho tôi câu nào nghe ngầu vào.
+
+1013
+01:02:40,750 --> 01:02:41,960
+Baryshnikov.
+
+1014
+01:02:42,170 --> 01:02:43,340
+Chúng tôi nói tiếng Anh.
+
+1015
+01:02:43,420 --> 01:02:45,130
+Dutch, cậu dở quá.
+
+1016
+01:02:45,630 --> 01:02:47,590
+Đó là bảng chữ cái Kirin.
+
+1017
+01:02:47,680 --> 01:02:51,550
+Trông như mấy ký tự kỳ quái
+mình chẳng bao giờ dùng trên máy tính ấy.
+
+1018
+01:02:52,350 --> 01:02:53,390
+Tôi không dở đâu.
+
+1019
+01:02:53,470 --> 01:02:56,770
+Đặc vụ Seymour Simmons,
+Khu Tám, trước đây là Bảy.
+
+1020
+01:02:56,930 --> 01:02:59,900
+Chúng tôi biết các anh là ai,
+phi hành gia ạ.
+
+1021
+01:03:00,020 --> 01:03:01,060
+Thì sao?
+
+1022
+01:03:01,150 --> 01:03:05,150
+Các anh đáng lẽ ra phải đến
+phần tối của Mặt Trăng
+
+1023
+01:03:05,230 --> 01:03:07,280
+nhưng rồi mọi thứ bị dẹp.
+
+1024
+01:03:08,990 --> 01:03:11,870
+Vấn đề là... tại sao?
+
+1025
+01:03:12,450 --> 01:03:15,910
+<i>Mấy tên khùng. Ông không thấy sao?</i>
+<i>Ai cho chúng vào đây?</i>
+
+1026
+01:03:16,000 --> 01:03:18,540
+"Con tôi hút thuốc ở đây được không?"
+
+1027
+01:03:18,660 --> 01:03:21,040
+<i>- Tôi không biết họ.</i>
+<i>- Thế sao lại ở đây?</i>
+
+1028
+01:03:21,130 --> 01:03:23,790
+<i>Tôi không biết! Giờ thì biến mau!</i>
+
+1029
+01:03:26,800 --> 01:03:27,840
+Được rồi.
+
+1030
+01:03:29,010 --> 01:03:30,380
+Được rồi, bắn tôi đi.
+
+1031
+01:03:31,720 --> 01:03:34,180
+Tôi sẵn sàng hy sinh
+vì tổ quốc rồi. Các anh thì sao?
+
+1032
+01:03:34,810 --> 01:03:35,810
+Thật à?
+
+1033
+01:03:36,680 --> 01:03:38,770
+Cô đẹp lắm. Đã có ai khen cô đẹp chưa?
+
+1034
+01:03:38,890 --> 01:03:40,060
+Cô ấy đẹp quá.
+
+1035
+01:03:49,610 --> 01:03:51,200
+Dutch! Trở về lồng thôi.
+
+1036
+01:03:51,320 --> 01:03:54,330
+- Tới đi!
+- Dutch, ngừng lại đi!
+
+1037
+01:03:54,410 --> 01:03:56,080
+Kiểm soát anh chàng của ông đi.
+
+1038
+01:03:56,160 --> 01:03:57,330
+Dutch! Dừng lại!
+
+1039
+01:04:02,920 --> 01:04:05,340
+Tôi xin lỗi. Hồi xưa tôi mới hay thế.
+
+1040
+01:04:05,420 --> 01:04:07,170
+Mọi người bình tĩnh nào!
+
+1041
+01:04:07,250 --> 01:04:10,840
+Hạ nhiệt nào, hạ súng xuống.
+Hết thế chiến thứ II rồi.
+
+1042
+01:04:13,680 --> 01:04:17,310
+Các anh sắp được thấy một
+trong những bí mật lớn nhất của Liên Xô.
+
+1043
+01:04:18,850 --> 01:04:21,520
+Người Mỹ đưa người lên Mặt Trăng trước.
+
+1044
+01:04:21,600 --> 01:04:24,520
+Nhưng Liên Xô đưa máy ảnh lên trước.
+
+1045
+01:04:24,690 --> 01:04:27,480
+Năm 1959, Luna 3 của chúng tôi...
+
+1046
+01:04:27,690 --> 01:04:31,280
+đã chụp phần tối.
+
+1047
+01:04:31,990 --> 01:04:33,910
+Không thấy gì.
+
+1048
+01:04:34,780 --> 01:04:38,330
+Nhưng năm 1963, Luna 4 phát hiện...
+
+1049
+01:04:38,410 --> 01:04:39,620
+những tảng đá lạ.
+
+1050
+01:04:39,870 --> 01:04:41,410
+- Ừ.
+- Quanh con tàu.
+
+1051
+01:04:41,910 --> 01:04:43,120
+Hàng trăm tảng.
+
+1052
+01:04:43,710 --> 01:04:45,420
+Ừ, xem hình đó.
+
+1053
+01:04:46,340 --> 01:04:49,380
+Với các... vết lôi kéo.
+
+1054
+01:04:53,180 --> 01:04:58,010
+Tôi từng thấy rồi. Không phải đá,
+mà là các cột của cầu không gian.
+
+1055
+01:04:58,100 --> 01:05:00,180
+Vì Autobot có năm cái.
+
+1056
+01:05:00,310 --> 01:05:04,650
+Chắc Decepticon đã lục soát con tàu
+trước khi Apollo 11 đến đó...
+
+1057
+01:05:04,730 --> 01:05:07,360
+lấy đống cột và giấu đi.
+
+1058
+01:05:07,440 --> 01:05:10,360
+Vô lý. Decepticon có toàn bộ mấy cây cột.
+
+1059
+01:05:10,440 --> 01:05:13,360
+Sao lại bỏ Sentinel
+khi chỉ ông ấy mới sử dụng được?
+
+1060
+01:05:13,650 --> 01:05:15,070
+Trừ khi...
+
+1061
+01:05:15,570 --> 01:05:17,410
+ông ấy là thứ chúng vẫn cần.
+
+1062
+01:05:18,030 --> 01:05:21,040
+Chúng ta phải gặp Sentinel,
+bảo vệ ông ấy an toàn.
+
+1063
+01:05:21,120 --> 01:05:25,000
+Mearing, chúng tôi có Sentinel. Optimus sẽ
+tới sau mười phút. Bọn tôi đến NEST đây.
+
+1064
+01:05:27,170 --> 01:05:30,880
+Cậu Witwicky, tôi đã nói
+không muốn cậu gọi vào số này cơ mà.
+
+1065
+01:05:30,960 --> 01:05:33,220
+<i>Toàn bộ mọi chuyện là một cái bẫy.</i>
+
+1066
+01:05:33,300 --> 01:05:37,470
+Decepticon muốn Optimus tìm ra Sentinel
+bởi chỉ Optimus mới hồi sinh được ông ấy.
+
+1067
+01:05:37,550 --> 01:05:39,260
+Nhưng chúng ta có cây cầu không gian.
+
+1068
+01:05:39,350 --> 01:05:42,600
+Cô chỉ có năm cái. Chúng có hàng trăm cái.
+
+1069
+01:05:42,680 --> 01:05:45,190
+<i>Các vị đang làm đúng ý chúng.</i>
+<i>Tôi phải nói sao đây?</i>
+
+1070
+01:05:45,270 --> 01:05:47,980
+Decepticon sắp đến tìm Sentinel Prime!
+
+1071
+01:05:48,060 --> 01:05:49,270
+Đến NEST ngay.
+
+1072
+01:05:53,780 --> 01:05:58,070
+<i>Báo động Energon.</i>
+<i>Phát hiện Energon ở DC Parkway.</i>
+
+1073
+01:05:59,240 --> 01:06:01,870
+<i>Hiện đang theo dõi ba chiếc Suburban.</i>
+
+1074
+01:06:35,650 --> 01:06:37,660
+Bee, đưa Sentinel đi! Bảo vệ ông ấy!
+
+1075
+01:06:47,500 --> 01:06:49,670
+Ôi Chúa ơi! Mình bị đuổi việc mất!
+
+1076
+01:06:54,210 --> 01:06:55,550
+Coi chừng!
+
+1077
+01:07:12,650 --> 01:07:14,230
+Bắt được rồi!
+
+1078
+01:07:15,280 --> 01:07:16,780
+Bắn nó! Bắn nó đi, Bee!
+
+1079
+01:07:45,430 --> 01:07:47,520
+Bee, đi đi! Nhanh hơn nữa! Đi nào!
+
+1080
+01:07:51,350 --> 01:07:52,480
+Bee!
+
+1081
+01:08:14,380 --> 01:08:15,670
+Được rồi, trở về NEST!
+
+1082
+01:08:23,050 --> 01:08:24,800
+Dino, tớ xử hắn cho!
+
+1083
+01:08:33,650 --> 01:08:34,690
+Ironhide!
+
+1084
+01:08:57,210 --> 01:08:58,380
+Bắt lấy nó!
+
+1085
+01:08:59,340 --> 01:09:01,220
+Có vấn đề gì à?
+
+1086
+01:09:02,050 --> 01:09:04,800
+Chúng ta rơi vào thế đấu tay đôi rồi.
+
+1087
+01:09:04,930 --> 01:09:06,640
+Hạ vũ khí đi.
+
+1088
+01:09:06,850 --> 01:09:09,810
+Và bọn ta sẽ cho các ngươi
+ra đi trong danh dự.
+
+1089
+01:09:13,600 --> 01:09:14,980
+Hạ vũ khí đi.
+
+1090
+01:09:17,020 --> 01:09:18,270
+Tốt lắm.
+
+1091
+01:09:22,360 --> 01:09:24,450
+Ironhide, coi chừng!
+
+1092
+01:09:29,410 --> 01:09:30,330
+Ironhide!
+
+1093
+01:09:30,580 --> 01:09:31,750
+Bắt lấy!
+
+1094
+01:09:37,040 --> 01:09:38,590
+Sau lưng kìa!
+
+1095
+01:09:41,960 --> 01:09:44,470
+Bọn Decepticon du côn!
+
+1096
+01:09:52,140 --> 01:09:53,600
+Hết giờ học.
+
+1097
+01:09:59,440 --> 01:10:01,980
+- Vào trong! Mau!
+- Đi đi! Cứ đi đi!
+
+1098
+01:10:02,900 --> 01:10:04,450
+- Lennox!
+- Đi nào!
+
+1099
+01:10:04,610 --> 01:10:05,900
+Decepticon ở khắp nơi.
+
+1100
+01:10:05,990 --> 01:10:08,030
+Nhóm của tôi đang tìm chúng. Ironhide!
+
+1101
+01:10:08,570 --> 01:10:10,660
+Bảo vệ Sentinel! Đưa ông ấy vào trong!
+
+1102
+01:10:10,740 --> 01:10:12,080
+Không thành vấn đề!
+
+1103
+01:10:12,200 --> 01:10:14,040
+Ông ấy là mấu chốt của mọi việc.
+
+1104
+01:10:14,120 --> 01:10:19,210
+Dĩ nhiên là vậy.
+Anh em Autobot, các cậu phải hiểu,
+
+1105
+01:10:19,330 --> 01:10:22,170
+chúng ta sẽ không bao giờ chiến thắng.
+
+1106
+01:10:22,380 --> 01:10:27,510
+Vì sự tồn vong của hành tinh chúng ta,
+tôi buộc phải thương lượng...
+
+1107
+01:10:27,760 --> 01:10:29,220
+với Megatron.
+
+1108
+01:10:35,810 --> 01:10:36,810
+Lui lại!
+
+1109
+01:10:36,890 --> 01:10:39,150
+Ông làm gì vậy?!
+
+1110
+01:10:40,020 --> 01:10:43,690
+Ta tuyên bố chấm dứt nhiệm vụ của cậu.
+
+1111
+01:10:46,950 --> 01:10:48,570
+Lùi lại, nấp đi!
+
+1112
+01:10:49,240 --> 01:10:50,700
+- Bee!
+- Lui lại!
+
+1113
+01:10:50,950 --> 01:10:51,830
+Bee!
+
+1114
+01:11:05,510 --> 01:11:07,550
+Tập trung lực lượng NEST về căn cứ!
+
+1115
+01:11:07,630 --> 01:11:09,260
+- Đi nào!
+- Không!
+
+1116
+01:11:18,390 --> 01:11:19,440
+Cứu thương!
+
+1117
+01:11:19,520 --> 01:11:22,940
+Chúng ta không đủ người!
+Đừng giao chiến với Sentinel!
+
+1118
+01:11:23,270 --> 01:11:24,940
+Về cổng đi.
+
+1119
+01:11:30,280 --> 01:11:31,570
+Ẩn nấp mau!
+
+1120
+01:11:34,830 --> 01:11:36,200
+Bên trái!
+
+1121
+01:11:36,790 --> 01:11:38,960
+Đi nào! Theo tôi!
+
+1122
+01:11:44,090 --> 01:11:45,670
+Đi đi!
+
+1123
+01:11:46,090 --> 01:11:47,340
+TRUNG TÂM ĐIỀU HÀNH
+CẤM VÀO
+
+1124
+01:11:47,460 --> 01:11:49,340
+- Giám đốc, đừng ra đó!
+- Tránh ra!
+
+1125
+01:11:50,050 --> 01:11:51,260
+- Này, Sentinel!
+- Giám đốc!
+
+1126
+01:11:51,340 --> 01:11:54,470
+Chuyện gì vậy? Ông đang làm cái gì thế?
+
+1127
+01:11:57,720 --> 01:11:59,480
+Ta là một Prime!
+
+1128
+01:11:59,560 --> 01:12:02,400
+Ta không nghe lệnh ngươi.
+
+1129
+01:12:03,270 --> 01:12:05,520
+Giám đốc Mearing, nào.
+Chúng ta không thể đánh hắn. Đi thôi!
+
+1130
+01:12:05,860 --> 01:12:09,280
+- Ta phải đi.
+- Mau trả lại những thứ thuộc về ta!
+
+1131
+01:12:11,610 --> 01:12:13,700
+Lạy Chúa!
+
+1132
+01:12:26,210 --> 01:12:27,170
+PHÍA BẮC
+317
+
+1133
+01:12:27,250 --> 01:12:29,720
+- Các anh ổn chứ?
+- Ra đi! Mọi người thoát hết chưa?
+
+1134
+01:12:30,010 --> 01:12:32,550
+Bình tĩnh nhé.
+Cậu sẽ ổn thôi, từ từ hít thở.
+
+1135
+01:12:41,600 --> 01:12:44,270
+Nhìn đi Optimus! Tất cả là tại ông!
+
+1136
+01:12:44,810 --> 01:12:46,570
+Sentinel tấn công khoang!
+Lấy hết cột đi rồi.
+
+1137
+01:12:48,110 --> 01:12:49,360
+Thôi, đi nào.
+
+1138
+01:12:49,690 --> 01:12:51,570
+Báo cho Sư đoàn không quân 101!
+
+1139
+01:12:51,950 --> 01:12:53,610
+Chúng ta cần tiêu diệt hắn!
+
+1140
+01:13:00,500 --> 01:13:01,710
+Carly!
+
+1141
+01:13:05,170 --> 01:13:07,920
+Còn nóng hổi đấy. Bánh S'more.
+
+1142
+01:13:08,500 --> 01:13:11,010
+Cứ như đang sống giữa thiên nhiên ấy.
+
+1143
+01:13:11,920 --> 01:13:13,930
+Bố mẹ có thấy Carly về nhà không?
+
+1144
+01:13:14,010 --> 01:13:16,220
+Gõ cửa chứ con. Phòng ngủ của bố mẹ mà.
+
+1145
+01:13:16,600 --> 01:13:18,640
+- Sao nó không ở nhà?
+- Bọn con cãi nhau...
+
+1146
+01:13:18,810 --> 01:13:21,390
+Chắc bọn con đã chia tay
+hoặc tạm nghỉ. Chẳng biết.
+
+1147
+01:13:21,640 --> 01:13:25,020
+- Gì cơ? Không! Con đùa mẹ!
+- Giờ không kể rõ được.
+
+1148
+01:13:25,310 --> 01:13:26,270
+Con phải tìm cô ấy.
+
+1149
+01:13:26,400 --> 01:13:29,400
+Ngồi xuống đi.
+Chúng ta họp gia đình! Họp gia đình!
+
+1150
+01:13:29,480 --> 01:13:31,490
+Có lẽ con không biết. Không phải lúc nào
+
+1151
+01:13:31,650 --> 01:13:34,280
+bố mẹ cũng hạnh phúc thế này.
+Cũng có lúc bố mẹ nghĩ
+
+1152
+01:13:34,490 --> 01:13:37,030
+- là kết thúc rồi.
+- Ta không nói nữa được không ạ?
+
+1153
+01:13:37,160 --> 01:13:38,910
+- Mẹ cố hiểu.
+- Thằng bé tổn thương.
+
+1154
+01:13:39,120 --> 01:13:41,540
+- Con từng chia tay một cô tầm cỡ...
+- Thôi.
+
+1155
+01:13:41,660 --> 01:13:44,000
+Cô đó đá con,
+con tìm được người tốt hơn.
+
+1156
+01:13:44,120 --> 01:13:46,630
+Thế thôi. Giờ con hạnh phúc hơn.
+Sao bố không giúp con?
+
+1157
+01:13:46,750 --> 01:13:49,130
+- Bọn nó cãi nhau.
+- Một trận.
+
+1158
+01:13:49,250 --> 01:13:52,090
+Con sẽ không tìm được
+người thứ ba trừ khi con có...
+
+1159
+01:13:52,210 --> 01:13:54,130
+Gì hả mẹ?
+
+1160
+01:13:54,340 --> 01:13:57,050
+- ... chắc con kém quá.
+- Con không nói nữa.
+
+1161
+01:13:57,340 --> 01:14:00,060
+- Con cần đến cuốn sách.
+- Con luôn sai. Làm quen đi.
+
+1162
+01:14:00,180 --> 01:14:01,890
+Con phải đọc. <i>Ưu tiên Phái đẹp</i>.
+
+1163
+01:14:02,020 --> 01:14:04,690
+- Có một số tuyệt chiêu trong này.
+- Không...
+
+1164
+01:14:04,850 --> 01:14:06,900
+- Thôi, tôi đi đây...
+- Không...
+
+1165
+01:14:07,310 --> 01:14:09,360
+Ngồi xuống! Ủng hộ em đi!
+
+1166
+01:14:10,230 --> 01:14:12,190
+- Vợ vui thì đời vui.
+- Phải.
+
+1167
+01:14:12,480 --> 01:14:15,820
+Vợ không vui,
+đau khổ lạnh lẽo cho đến hết...
+
+1168
+01:14:15,950 --> 01:14:17,240
+- Thôi nào.
+- Thật mà.
+
+1169
+01:14:17,320 --> 01:14:19,570
+Mẹ chỉ muốn hỏi,
+con có yêu con bé ấy không?
+
+1170
+01:14:20,080 --> 01:14:22,120
+- Không ai ngoài cô ấy.
+- Đi tìm nó đi.
+
+1171
+01:14:22,240 --> 01:14:25,040
+Khi bố mẹ gặp rắc rối, bố con...
+
+1172
+01:14:25,210 --> 01:14:27,040
+luôn làm mọi cách để tìm mẹ.
+
+1173
+01:14:27,540 --> 01:14:30,090
+Biết bố nói...
+Nói điều anh từng nói đi nào.
+
+1174
+01:14:30,170 --> 01:14:32,500
+"Anh sẽ đi theo em đến hết đời này".
+
+1175
+01:14:32,670 --> 01:14:34,090
+Nghe chán nhỉ?
+
+1176
+01:14:34,210 --> 01:14:36,680
+- Như phim khoa học giả tưởng chán ngắt.
+- Tuyệt lắm.
+
+1177
+01:14:36,840 --> 01:14:39,340
+Con muốn bố mẹ rời khỏi thành phố
+càng xa càng tốt.
+
+1178
+01:14:40,050 --> 01:14:42,220
+Được chứ? Con yêu bố mẹ.
+
+1179
+01:15:02,780 --> 01:15:05,700
+Ôi chủ nhân! Quả là mưu kế tuyệt vời!
+
+1180
+01:15:05,950 --> 01:15:08,170
+Vậy ra Sentinel rời Cybertron,
+
+1181
+01:15:08,290 --> 01:15:10,170
+chính là để phản bội.
+
+1182
+01:15:10,420 --> 01:15:13,710
+Hắn lẽ ra phải hội quân
+với ta trên Trái Đất
+
+1183
+01:15:14,000 --> 01:15:16,470
+trước khi số phận trớ trêu
+cản đường cả hai ta.
+
+1184
+01:15:16,630 --> 01:15:18,930
+Cách duy nhất để hồi sinh hắn:
+
+1185
+01:15:19,260 --> 01:15:22,220
+cần đến Prime và Ma Trận của hắn.
+
+1186
+01:15:22,470 --> 01:15:24,260
+Chiến thuật ưu tú.
+
+1187
+01:15:33,730 --> 01:15:35,690
+Của tao!
+
+1188
+01:15:36,940 --> 01:15:39,780
+Vậy giờ hắn là cộng sự của chủ nhân?
+
+1189
+01:15:39,860 --> 01:15:43,160
+Hắn là thắng lợi vĩ đại nhất của ta.
+
+1190
+01:15:43,240 --> 01:15:44,830
+Ấn tượng quá.
+
+1191
+01:15:45,120 --> 01:15:47,160
+Bắt đầu vận chuyển.
+
+1192
+01:15:47,250 --> 01:15:50,080
+Dừng lại! Không! Không Sentinel!
+
+1193
+01:15:50,290 --> 01:15:51,750
+Tha thứ cho ta.
+
+1194
+01:15:55,960 --> 01:15:57,710
+Bọn ta đây rồi.
+
+1195
+01:15:57,800 --> 01:15:59,800
+Ngon thì xông tới đi!
+
+1196
+01:16:45,600 --> 01:16:47,850
+Autobot, rút lui!
+
+1197
+01:17:14,460 --> 01:17:16,170
+Tại sao vậy, Sentinel, tại sao?
+
+1198
+01:17:16,330 --> 01:17:19,300
+Vì Cybertron! Vì quê hương chúng ta!
+
+1199
+01:17:19,420 --> 01:17:21,760
+Những gì chiến tranh
+hủy diệt đều xây lại được!
+
+1200
+01:17:21,840 --> 01:17:24,890
+Nhưng chỉ nếu ta hợp lực với Decepticon.
+
+1201
+01:17:24,970 --> 01:17:27,010
+Không, đó không phải là cách duy nhất.
+
+1202
+01:17:27,100 --> 01:17:30,020
+Đây là nhà chúng ta!
+Ta phải bảo vệ loài người!
+
+1203
+01:17:30,100 --> 01:17:32,140
+Cậu lẩm cẩm rồi, Optimus.
+
+1204
+01:17:32,230 --> 01:17:34,350
+Ở Cybertron, chúng ta là thần linh.
+
+1205
+01:17:34,440 --> 01:17:38,060
+Ở đây, bọn chúng gọi ta là máy móc.
+
+1206
+01:17:38,150 --> 01:17:41,610
+Hãy để loài người phụng sự
+chúng ta hoặc là tuyệt diệt.
+
+1207
+01:17:44,150 --> 01:17:45,990
+Cậu gặp may vì tôi đã không giết cậu.
+
+1208
+01:17:46,530 --> 01:17:48,700
+Rồi cậu sẽ hiểu thôi.
+
+1209
+01:17:49,580 --> 01:17:51,450
+Chưa xong đâu.
+
+1210
+01:17:55,000 --> 01:17:56,250
+Nếu tôi là cậu,
+
+1211
+01:17:57,130 --> 01:17:59,210
+tôi sẽ không để cô ấy ra khỏi tầm mắt.
+
+1212
+01:18:01,380 --> 01:18:03,170
+Buồn cười, trên đường tới đây anh đã nghĩ
+
+1213
+01:18:03,260 --> 01:18:05,380
+mình nên nghe Dylan khuyên.
+Thế mà có đây luôn.
+
+1214
+01:18:05,720 --> 01:18:07,220
+- Nói chuyện được không?
+- Mời ngồi.
+
+1215
+01:18:08,640 --> 01:18:11,680
+Anh biết không, tôi không cần rượu.
+Xe hơi hay việc làm.
+
+1216
+01:18:11,770 --> 01:18:14,980
+Tôi chỉ cần nói chuyện với bạn gái tôi.
+Được chứ, ngài Vô duyên?
+
+1217
+01:18:16,480 --> 01:18:17,850
+Xin lỗi.
+
+1218
+01:18:20,520 --> 01:18:23,030
+- Anh sao vậy?
+- Anh sẽ nói bên ngoài.
+
+1219
+01:18:23,150 --> 01:18:24,950
+Tôi nghĩ mình giúp được anh đấy, Sam.
+
+1220
+01:18:25,030 --> 01:18:27,910
+Tôi nhớ từng nói chuyện với bố
+về những lựa chọn khó khăn.
+
+1221
+01:18:27,990 --> 01:18:29,950
+Không phải lúc rồi. Chúng tôi có chuyện.
+
+1222
+01:18:30,030 --> 01:18:32,240
+Dĩ nhiên từ hồi công ty bố tôi còn xem xét
+
+1223
+01:18:32,330 --> 01:18:34,700
+ngân sách và kiểm toán cho NASA.
+
+1224
+01:18:35,960 --> 01:18:39,080
+Ông đã dạy rằng
+nếu không phải cuộc chiến của chúng ta,
+
+1225
+01:18:39,170 --> 01:18:41,340
+thì hãy đứng về phe sẽ chiến thắng.
+
+1226
+01:18:42,710 --> 01:18:43,670
+Đi đi.
+
+1227
+01:18:43,760 --> 01:18:45,420
+Tôi nói thẳng quá à? Hay do tôi?
+
+1228
+01:18:45,510 --> 01:18:46,680
+Dĩ nhiên không phải do ngài.
+
+1229
+01:19:00,020 --> 01:19:01,400
+Cô là của ta!
+
+1230
+01:19:02,150 --> 01:19:03,110
+Không!
+
+1231
+01:19:06,190 --> 01:19:08,410
+- Cứu!
+- Em không ra được!
+
+1232
+01:19:08,570 --> 01:19:10,620
+- Ngủ ngon.
+- Chúc ngủ ngon, ngài Gould.
+
+1233
+01:19:10,740 --> 01:19:12,240
+Mau cứu em ra đi!
+
+1234
+01:19:16,580 --> 01:19:18,620
+Cứu! Gọi cứu viện đi!
+
+1235
+01:19:18,750 --> 01:19:21,170
+- Cậu ta còn trẻ. Sẽ học được thôi.
+- Cứu em ra!
+
+1236
+01:19:21,250 --> 01:19:22,880
+- Ngủ ngon.
+- Tiệc vui lắm.
+
+1237
+01:19:23,880 --> 01:19:28,090
+Cậu nghĩ cậu là con người đầu tiên
+được mời tham chiến à?
+
+1238
+01:19:28,170 --> 01:19:29,220
+Anh là ai?
+
+1239
+01:19:29,380 --> 01:19:34,510
+Cậu biết sao chúng ta không trở lại mặt
+trăng từ năm 1972 không? Vì hai tên này...
+
+1240
+01:19:34,600 --> 01:19:37,640
+đã đến gặp bố tôi và bảo ông
+dùng thủ thuật kế toán.
+
+1241
+01:19:37,730 --> 01:19:40,520
+Khiến chi phí trở nên quá đắt đỏ.
+Ông cùng với những cộng sự
+
+1242
+01:19:40,600 --> 01:19:42,980
+đã dẹp các chương trình của Mỹ và Nga.
+
+1243
+01:19:43,060 --> 01:19:45,190
+Họ là khách hàng của chúng ta từ đó.
+
+1244
+01:19:45,280 --> 01:19:47,860
+- Anh giúp họ giết người sao?
+- Cậu nghĩ tôi được lựa chọn?
+
+1245
+01:19:47,940 --> 01:19:49,610
+Có phải tôi trực tiếp tham gia đâu.
+
+1246
+01:19:49,700 --> 01:19:51,910
+Tôi là một giao liên. Tôi giữ liên lạc.
+
+1247
+01:19:55,330 --> 01:19:56,910
+Đến lúc cưỡng chế rồi, Sam ạ.
+
+1248
+01:19:58,910 --> 01:19:59,960
+Sam!
+
+1249
+01:20:02,790 --> 01:20:03,920
+Sam!
+
+1250
+01:20:04,170 --> 01:20:05,920
+Thả cô ấy ra!
+
+1251
+01:20:06,670 --> 01:20:07,960
+Sam!
+
+1252
+01:20:10,840 --> 01:20:12,930
+Tôi theo dõi cậu nhiều năm rồi.
+
+1253
+01:20:13,010 --> 01:20:16,680
+Tôi còn thiếu một gián điệp
+là người thân cận với Autobot.
+
+1254
+01:20:19,270 --> 01:20:21,560
+Sam, đừng nghe lời hắn!
+
+1255
+01:20:21,730 --> 01:20:23,230
+Cậu ta buộc phải nghe thôi.
+
+1256
+01:20:23,400 --> 01:20:24,520
+Ai cũng vậy.
+
+1257
+01:20:27,530 --> 01:20:29,400
+Họ sẽ giết cô ấy, hiểu không?
+
+1258
+01:20:29,490 --> 01:20:32,990
+Trong chớp mắt, họ sẽ giết cô ấy và tôi.
+
+1259
+01:20:33,070 --> 01:20:37,160
+Nên hãy tỏ ra tôn trọng
+khi có người giao việc cho cậu!
+
+1260
+01:20:38,580 --> 01:20:39,750
+Cổ tay.
+
+1261
+01:20:40,500 --> 01:20:42,330
+Cậu phải tìm ra Optimus Prime,
+
+1262
+01:20:42,420 --> 01:20:45,710
+vì cậu là người duy nhất
+lão ta tin tưởng và hỏi một chuyện:
+
+1263
+01:20:45,790 --> 01:20:50,090
+Hắn định phản công thế nào?
+Chiến thuật, chiến lược, mọi thứ!
+
+1264
+01:20:55,050 --> 01:20:58,220
+Cắn đau nhỉ? Công nghệ cao lắm đấy.
+
+1265
+01:20:58,310 --> 01:21:02,230
+Nó giúp chúng tôi nhìn thứ cậu nhìn, nghe
+điều cậu nghe và xâm nhập hệ thần kinh.
+
+1266
+01:21:02,310 --> 01:21:04,650
+Nếu cậu cố ra hiệu...
+
+1267
+01:21:06,900 --> 01:21:11,610
+Sam, những mối quan hệ
+đều đẫn đến hậu quả. Tôi ở đây vì cha tôi.
+
+1268
+01:21:11,690 --> 01:21:13,360
+Cô ấy ở đây vì cậu.
+
+1269
+01:21:15,160 --> 01:21:17,830
+Dừng lại!
+
+1270
+01:21:18,410 --> 01:21:19,990
+Soundwave, xin hãy dừng lại.
+
+1271
+01:21:24,080 --> 01:21:26,290
+Sam này, làm việc của cậu đi.
+
+1272
+01:21:26,380 --> 01:21:28,710
+Cô ấy sẽ an toàn. Tôi hứa.
+
+1273
+01:21:31,510 --> 01:21:34,630
+Tôi sẽ giết anh. Tôi hứa.
+
+1274
+01:21:37,010 --> 01:21:40,310
+<i>Các bộ tư lệnh tác chiến thống nhất</i>
+<i>hiện có mặt tại DEFCON 1.</i>
+
+1275
+01:21:40,390 --> 01:21:43,310
+Có khoảng 200 Decepticon đang ẩn náu.
+
+1276
+01:21:43,430 --> 01:21:47,520
+Máy dò Energon kích hoạt
+từ tận Nam Mỹ và Trung Quốc.
+
+1277
+01:21:47,610 --> 01:21:52,490
+Liên Hợp Quốc mới nhận được tập tin
+mã hóa từ thủ lĩnh của Autobot.
+
+1278
+01:21:53,280 --> 01:21:54,780
+<i>Hỡi những người bảo vệ Trái Đất:</i>
+
+1279
+01:21:55,200 --> 01:22:00,080
+<i>Chúng ta đến để lấy tài nguyên</i>
+<i>và xây dựng lại hành tinh bị tàn phá.</i>
+
+1280
+01:22:00,830 --> 01:22:06,040
+<i>Khi chúng ta vận chuyển xong những gì</i>
+<i>cần thiết, sẽ ra đi trong hòa bình.</i>
+
+1281
+01:22:06,120 --> 01:22:08,000
+<i>Để có hòa bình,</i>
+
+1282
+01:22:08,080 --> 01:22:13,340
+<i>các ngươi phải nhanh chóng trục xuất</i>
+<i>bọn phản loạn Autobot được chứa chấp.</i>
+
+1283
+01:22:13,550 --> 01:22:15,300
+<i>Điều khoản không thể thương lượng.</i>
+
+1284
+01:22:15,630 --> 01:22:17,590
+<i>Hãy từ bỏ bọn phản loạn.</i>
+
+1285
+01:22:17,680 --> 01:22:20,010
+<i>Chúng ta đợi câu trả lời của các ngươi.</i>
+
+1286
+01:22:20,850 --> 01:22:22,560
+Chúng tôi sẽ báo cáo trên đường đi.
+
+1287
+01:22:22,640 --> 01:22:25,390
+Tôi không biết tôi có thể giúp được gì.
+
+1288
+01:22:25,480 --> 01:22:27,150
+Có khi hãy bàn bạc sau.
+
+1289
+01:22:30,570 --> 01:22:33,480
+- Tôi luôn xem thường cậu.
+- Sao cơ?
+
+1290
+01:22:34,070 --> 01:22:36,110
+Cậu đã cảnh báo chúng đang
+lợi dụng con người.
+
+1291
+01:22:36,200 --> 01:22:37,910
+Cậu biết Sentinel chính là mấu chốt.
+
+1292
+01:22:37,990 --> 01:22:39,030
+Giám đốc!
+
+1293
+01:22:39,370 --> 01:22:43,200
+Tôi là ai chứ? Cô là chuyên gia.
+Tôi chỉ gây rủi ro an ninh thôi.
+
+1294
+01:22:49,210 --> 01:22:50,500
+Cậu không sao chứ?
+
+1295
+01:22:51,960 --> 01:22:53,000
+Tôi không sao.
+
+1296
+01:22:53,170 --> 01:22:56,590
+- Không. Cậu đang đổ mồ hôi.
+- Vì tôi căng thẳng.
+
+1297
+01:22:56,670 --> 01:23:00,050
+Vì bà lôi tôi vào đây nói cho tôi
+thông tin này và tôi nghiện Twitter.
+
+1298
+01:23:00,180 --> 01:23:02,600
+- Gì tôi cũng đăng. Tôi không giữ bí mật.
+- Anh dám.
+
+1299
+01:23:02,680 --> 01:23:04,930
+Giám đốc, 15 phút nữa Lầu năm góc gọi.
+
+1300
+01:23:06,020 --> 01:23:07,190
+Cậu làm gì thế?
+
+1301
+01:23:07,350 --> 01:23:08,980
+Không. Anh làm gì thế?
+
+1302
+01:23:09,560 --> 01:23:10,940
+Tránh xa tôi ra.
+
+1303
+01:23:11,020 --> 01:23:13,730
+<i>Một loạt sự kiện lớn</i>
+<i>đã xảy ra ở Capitol hôm nay.</i>
+
+1304
+01:23:13,820 --> 01:23:15,280
+<i>Mới đây thôi,</i>
+
+1305
+01:23:15,360 --> 01:23:17,700
+<i>điều luật trục xuất các Autobot khỏi Mỹ</i>
+
+1306
+01:23:18,030 --> 01:23:22,160
+<i>đã được thông qua.</i>
+<i>Liên minh quân sự với họ đã chấm dứt.</i>
+
+1307
+01:23:22,410 --> 01:23:23,910
+- <i>Theo lời của Nhà... </i>
+- Ừ?
+
+1308
+01:23:23,990 --> 01:23:26,250
+<i>... Thủ lĩnh phe đa số,</i>
+<i>giải pháp nhà tài trợ hôm nay,</i>
+
+1309
+01:23:26,370 --> 01:23:28,250
+- <i>"Vì lương tâm, ta không thể... "</i>
+- Sao?
+
+1310
+01:23:28,330 --> 01:23:30,290
+Phải bảo họ không thể làm vậy.
+
+1311
+01:23:30,420 --> 01:23:32,130
+Được rồi. Chính thức rồi. Đồng ý rồi!
+
+1312
+01:23:32,380 --> 01:23:34,590
+Họ là đồng minh của ta.
+Đã chiến đấu cùng ta.
+
+1313
+01:23:34,920 --> 01:23:37,470
+Và giờ chúng ta đang ở tình thế nào?
+
+1314
+01:23:37,760 --> 01:23:41,140
+Đối mặt với một cuộc xâm lăng mà
+kẻ địch có thể huy động quân số vô tận.
+
+1315
+01:23:43,970 --> 01:23:45,600
+<i>Nếu cậu biết thêm gì,</i>
+
+1316
+01:23:45,680 --> 01:23:48,350
+bất cứ gì về ý định của kẻ thù...
+
+1317
+01:23:49,190 --> 01:23:50,650
+thì giờ là lúc nói đấy.
+
+1318
+01:23:51,850 --> 01:23:54,270
+Autobot không có cách nào
+để rời khỏi hành tinh này.
+
+1319
+01:23:54,360 --> 01:23:56,230
+Việc này thì cậu lầm rồi.
+
+1320
+01:23:56,780 --> 01:23:59,030
+<i>Tên nó là Xantium.</i>
+
+1321
+01:23:59,200 --> 01:24:00,860
+<i>Nó mang đến đợt Autobot thứ hai</i>
+
+1322
+01:24:00,950 --> 01:24:03,950
+<i>và đã được NASA bảo quản và nghiên cứu.</i>
+
+1323
+01:24:04,240 --> 01:24:08,960
+<i>Ta liên kết nó với Phi thuyền cũ để duy</i>
+<i>trì kiểm soát quân sự đến khi họ ra đi.</i>
+
+1324
+01:24:09,040 --> 01:24:13,380
+Có mười ngàn cân lực momen
+trên cái đinh ốc đó, không phải 19!
+
+1325
+01:24:13,460 --> 01:24:16,500
+Cậu đe dọa sinh mạng tất cả anh em đấy!
+
+1326
+01:24:16,590 --> 01:24:18,720
+Các Wrecker giúp bảo trì Xantium.
+
+1327
+01:24:18,800 --> 01:24:21,630
+Chúng tôi không cho chúng rời căn cứ
+nhiều vì chúng toàn là lũ ngốc.
+
+1328
+01:24:21,720 --> 01:24:25,100
+- Kéo đi, thằng ngốc ẻo lả!
+- Giết nó đi!
+
+1329
+01:24:25,180 --> 01:24:27,100
+Tôi chỉ cố giúp và làm việc thôi mà.
+
+1330
+01:24:27,180 --> 01:24:29,520
+Bình tĩnh. Để anh ấy yên.
+Đây là con người.
+
+1331
+01:24:29,600 --> 01:24:31,190
+- Epps!
+- Đồ dở người!
+
+1332
+01:24:31,310 --> 01:24:32,900
+- Là cậu sao?
+- Sao rồi?
+
+1333
+01:24:33,100 --> 01:24:34,480
+Cậu làm gì ở đây?
+
+1334
+01:24:34,980 --> 01:24:36,520
+Tôi nghỉ Không quân rồi.
+
+1335
+01:24:36,980 --> 01:24:38,440
+Cậu thả tay tôi ra được không?
+
+1336
+01:24:39,360 --> 01:24:40,780
+Cậu làm cái quái gì thế?
+
+1337
+01:24:40,860 --> 01:24:42,910
+Giờ tôi chỉ tư vấn gỡ rối cho họ.
+
+1338
+01:24:42,990 --> 01:24:44,240
+Anh chẳng giúp được gì cả!
+
+1339
+01:24:44,370 --> 01:24:46,780
+Không chiến đấu và bắn nhau nữa.
+
+1340
+01:24:46,990 --> 01:24:49,790
+- Tôi có công việc mơ ước.
+- Đến lúc rời hành tinh này.
+
+1341
+01:24:49,870 --> 01:24:53,920
+Đuổi những Autobot đi. Cậu tin nổi không?
+
+1342
+01:24:54,130 --> 01:24:57,420
+- Anh nghĩ họ sẽ đi đâu?
+- Bất kỳ hành tinh nào trừ Trái Đất.
+
+1343
+01:25:00,510 --> 01:25:02,970
+Tôi muốn nói chuyện với người chỉ huy!
+
+1344
+01:25:03,550 --> 01:25:07,260
+Chà chà. Charlotte Mearing.
+
+1345
+01:25:07,430 --> 01:25:12,350
+Đặc vụ Simmons. Cựu đặc vụ Simmons.
+Anh còn sống sau vụ Washington cơ đấy.
+
+1346
+01:25:12,850 --> 01:25:17,320
+Washington, Ai Cập, đau lòng.
+Nhưng sống. Anh vẫn sống.
+
+1347
+01:25:17,400 --> 01:25:21,150
+Họ lôi mọi người vào đấy nhóc.
+Tập trung thông tin lại nào.
+
+1348
+01:25:21,320 --> 01:25:26,370
+Nếu em nghĩ đuổi chín Autobot đi
+sẽ giải quyết được điều gì đó...
+
+1349
+01:25:26,450 --> 01:25:27,830
+Tôi không quyết định được.
+
+1350
+01:25:28,280 --> 01:25:30,700
+Thăng quan tiến chức nhỉ?
+
+1351
+01:25:31,250 --> 01:25:34,580
+Mông em trông tuyệt quá.
+
+1352
+01:25:37,710 --> 01:25:41,130
+Nếu anh nói với ai chuyện
+tối hôm ở Quantico,
+
+1353
+01:25:41,260 --> 01:25:42,840
+tôi sẽ moi tim anh ra.
+
+1354
+01:25:43,220 --> 01:25:45,050
+Em đã làm nát tim anh lâu rồi.
+
+1355
+01:25:45,340 --> 01:25:46,720
+Sammy, nghe này.
+
+1356
+01:25:46,800 --> 01:25:48,510
+Đừng để họ đuổi chúng tôi đi.
+
+1357
+01:25:48,680 --> 01:25:51,890
+- Đừng để họ bắt chúng tôi, Sam.
+- Đây là bẫy của Decepticon.
+
+1358
+01:26:28,180 --> 01:26:31,720
+Kiểm tra nồng độ ni-tơ.
+Chúng ta rời khỏi đây thôi.
+
+1359
+01:26:33,890 --> 01:26:34,930
+Optimus?
+
+1360
+01:26:35,020 --> 01:26:39,770
+Lãnh đạo của cậu nói đúng.
+Đây là lỗi của tôi.
+
+1361
+01:26:40,020 --> 01:26:44,360
+Tôi đã bảo họ nên tin ai.
+Và tôi đã sai lầm.
+
+1362
+01:26:44,530 --> 01:26:47,160
+Không phải lỗi của ông.
+Như con người vậy, ai cũng có lỗi.
+
+1363
+01:26:47,240 --> 01:26:48,990
+Hãy nhớ.
+
+1364
+01:26:49,320 --> 01:26:51,950
+Cậu có thể mất lòng tin vào bọn tôi,
+
+1365
+01:26:52,200 --> 01:26:55,460
+nhưng đừng bao giờ
+mất lòng tin vào chính mình.
+
+1366
+01:27:02,250 --> 01:27:04,590
+Tôi muốn biết các ông
+sẽ phản công thế nào.
+
+1367
+01:27:05,760 --> 01:27:09,760
+Tôi biết các ông sẽ quay lại
+cùng viện binh hay gì đó.
+
+1368
+01:27:09,840 --> 01:27:11,050
+Hẳn ông phải có kế hoạch.
+
+1369
+01:27:14,850 --> 01:27:17,480
+Ông có thể nói với tôi.
+Không người nào biết đâu.
+
+1370
+01:27:18,810 --> 01:27:20,980
+Chẳng có kế hoạch nào hết.
+
+1371
+01:27:21,860 --> 01:27:25,230
+Nếu chúng tôi cứ làm theo ý bọn chúng,
+làm sao chúng tôi có thể thanh thản được?
+
+1372
+01:27:26,280 --> 01:27:28,860
+Sam, cậu là bạn của tôi.
+
+1373
+01:27:29,410 --> 01:27:31,320
+Cậu sẽ luôn là bạn của tôi.
+
+1374
+01:27:31,660 --> 01:27:34,370
+Nhưng lãnh đạo của cậu đã lên tiếng.
+
+1375
+01:27:35,750 --> 01:27:37,330
+Từ giờ...
+
+1376
+01:27:38,330 --> 01:27:41,000
+các cậu sẽ phải tự lực cánh sinh.
+
+1377
+01:27:54,430 --> 01:27:55,810
+Nói nhanh nhé.
+
+1378
+01:27:56,390 --> 01:27:58,060
+Chúng ta đang tải đồ đấy.
+
+1379
+01:27:58,560 --> 01:28:02,730
+Nhanh lên!
+Chúng ta sẽ cất cánh khi hừng đông.
+
+1380
+01:28:05,730 --> 01:28:09,360
+Bọn tớ sẽ làm điều bọn tớ có thể.
+Như trước thôi.
+
+1381
+01:28:09,570 --> 01:28:12,950
+Cậu sẽ luôn là bạn của tớ, Sam ạ.
+
+1382
+01:28:13,410 --> 01:28:15,240
+Tớ phải đi đây.
+
+1383
+01:28:29,800 --> 01:28:31,930
+Nhiều năm sau, họ sẽ hỏi chúng ta...
+
+1384
+01:28:32,840 --> 01:28:35,640
+"Các anh đã ở đâu
+khi chúng xâm chiếm hành tinh này?"
+
+1385
+01:28:36,890 --> 01:28:38,770
+Và chúng ta sẽ nói...
+
+1386
+01:28:40,480 --> 01:28:42,650
+"Chúng tôi chỉ biết đứng bên mà theo dõi".
+
+1387
+01:28:44,270 --> 01:28:46,520
+<i>6:30 SÁNG</i>
+
+1388
+01:28:47,940 --> 01:28:49,360
+TUYỆT MẬT
+NEST
+
+1389
+01:28:56,160 --> 01:28:59,250
+Cô phải xem đây như một sự cộng tác.
+
+1390
+01:28:59,580 --> 01:29:02,920
+Cô phải đứng về phe tiến bộ
+nếu muốn là một phần của lịch sử.
+
+1391
+01:29:16,100 --> 01:29:18,890
+<i>Bảy, sáu, năm,</i>
+
+1392
+01:29:18,970 --> 01:29:21,770
+<i>bốn, ba, hai,</i>
+
+1393
+01:29:21,850 --> 01:29:23,560
+<i>một, không.</i>
+
+1394
+01:29:31,610 --> 01:29:34,570
+<i>Kéo van đi nào, CAPCOM.</i>
+<i>Chuyến bay tăng cường.</i>
+
+1395
+01:29:34,660 --> 01:29:36,490
+<i>- Đi đi, đoàn bay.</i>
+<i>- Rõ.</i>
+
+1396
+01:29:51,510 --> 01:29:53,380
+Muốn có câu trả lời thì anh có rồi đó.
+
+1397
+01:29:53,470 --> 01:29:57,050
+<i>Tôi luôn có điều tôi muốn, Sam.</i>
+<i>Chúng tôi chỉ muốn chắc chắn thôi.</i>
+
+1398
+01:29:57,140 --> 01:29:58,390
+Chắc chắn gì?
+
+1399
+01:29:58,470 --> 01:29:59,850
+Họ sẽ ra đi trong hòa bình.
+
+1400
+01:30:04,770 --> 01:30:06,940
+Theo dõi một vật thể đang tiếp cận.
+
+1401
+01:30:09,570 --> 01:30:12,280
+<i>- Nhắc lại đi.</i>
+- Đang lần theo một vật thể đang bay tới.
+
+1402
+01:31:03,830 --> 01:31:05,540
+Giờ chúng ta đều làm việc cho Decepticon.
+
+1403
+01:31:06,290 --> 01:31:10,880
+<i>THÀNH PHỐ CHICAGO,
+BANG ILLINOIS</i>
+
+1404
+01:31:12,090 --> 01:31:16,470
+Tôi cần hai người giúp. Tên đứng đầu đám
+con người ủng hộ chúng đang giữ Carly.
+
+1405
+01:31:16,550 --> 01:31:18,720
+Tôi muốn cô ngồi xuống. Đừng cử động.
+
+1406
+01:31:19,680 --> 01:31:21,430
+Theo tôi.
+
+1407
+01:31:22,300 --> 01:31:24,010
+Tôi thấy ông ta đang đến.
+
+1408
+01:31:27,600 --> 01:31:31,770
+Cuộc gọi được thực hiện trên đường.
+Tôi hack vào máy ảnh điện thoại đây.
+
+1409
+01:31:31,900 --> 01:31:34,150
+Đó! Đấy là hình ảnh
+truyền trực tiếp từ camera.
+
+1410
+01:31:34,320 --> 01:31:36,320
+Đâu đó. Đợi đã. Để tôi định vị đã.
+
+1411
+01:31:38,280 --> 01:31:40,780
+Khu điện thoại Chicago. Đấy, tìm ra rồi.
+
+1412
+01:31:40,870 --> 01:31:43,490
+Cao ốc Trump, Chicago. Tầng mái bên dưới.
+
+1413
+01:31:43,580 --> 01:31:44,620
+Đi thôi.
+
+1414
+01:31:46,950 --> 01:31:48,710
+- Tôi cũng đi.
+- Cậu chắc chứ?
+
+1415
+01:31:49,000 --> 01:31:51,630
+Cô ấy chỉ cố giúp tôi
+và tôi có thể đến trong 15 giờ.
+
+1416
+01:31:51,710 --> 01:31:53,460
+Cậu sẽ không phải đi một mình đâu.
+
+1417
+01:31:56,710 --> 01:31:58,970
+Tôi vẫn còn bạn bè trong NEST ở nhiều nơi.
+
+1418
+01:31:59,050 --> 01:32:02,090
+Tôi sẽ tập hợp họ,
+tìm ra bạn gái cậu và tóm gã đó.
+
+1419
+01:32:02,180 --> 01:32:03,470
+Sao anh lại giúp tôi?
+
+1420
+01:32:03,930 --> 01:32:06,890
+Vì thằng khốn đó cũng đã giết bạn bè tôi.
+
+1421
+01:32:06,970 --> 01:32:11,060
+<i>SUPERFUND
+TƯƠNG LAI CỦA MARKETING</i>
+
+1422
+01:32:23,280 --> 01:32:26,790
+Họ nói cần tài nguyên của chúng ta
+để xây dựng lại hành tinh.
+
+1423
+01:32:26,870 --> 01:32:29,910
+Ừ, nhưng thật ra
+chỉ cần một tài nguyên đặc biệt.
+
+1424
+01:32:30,290 --> 01:32:32,370
+Mà chỉ riêng hành tinh chúng ta có.
+
+1425
+01:32:33,830 --> 01:32:35,210
+Loài người ư?
+
+1426
+01:32:37,130 --> 01:32:41,470
+Cô thông minh lắm. Họ không thể
+xây dựng lại mà không có nô lệ.
+
+1427
+01:32:41,630 --> 01:32:45,010
+Có bao nhiêu hành tinh
+sẵn sàng cho họ sáu tỷ công nhân?
+
+1428
+01:32:45,100 --> 01:32:48,390
+Ý anh là sao?
+Chúng ta đâu chở người đến đó được.
+
+1429
+01:32:49,100 --> 01:32:51,890
+Không. Họ sẽ đưa hành tinh của họ đến đây.
+
+1430
+01:32:57,360 --> 01:32:58,730
+Lạy Chúa.
+
+1431
+01:32:59,940 --> 01:33:01,740
+Sentinel làm gì ở đây thế?
+
+1432
+01:33:01,820 --> 01:33:05,620
+Xem kìa. Họ đang rải
+hàng trăm cây cột xung quanh địa cầu.
+
+1433
+01:33:05,700 --> 01:33:08,290
+Trong vài giờ nữa,
+họ sẽ bắn chúng lên quỹ đạo
+
+1434
+01:33:08,370 --> 01:33:11,460
+và đem Cybertron vào bầu khí quyển.
+
+1435
+01:33:11,540 --> 01:33:13,750
+Cái màu đỏ kiểm soát những cái còn lại.
+
+1436
+01:33:13,830 --> 01:33:16,090
+Nếu ông ta kích hoạt nó
+thì mọi thứ bắt đầu.
+
+1437
+01:33:16,170 --> 01:33:20,170
+Cút đi, loài sâu bọ.
+Việc của mày xong rồi.
+
+1438
+01:33:20,260 --> 01:33:22,590
+Vâng, thưa Ngài. Đúng là thằng khốn.
+
+1439
+01:33:26,850 --> 01:33:30,140
+- Chính anh muốn chuyện này xảy ra.
+- Tôi chỉ muốn được sống sót.
+
+1440
+01:33:30,220 --> 01:33:32,940
+Cô nghĩ tôi muốn chuyện này à?
+Tôi thừa kế vị khách hàng này.
+
+1441
+01:33:33,020 --> 01:33:37,440
+Và khi chúng ta đều trở thành nô lệ,
+chúng vẫn cần một thủ lĩnh con người.
+
+1442
+01:33:37,520 --> 01:33:40,030
+Đừng có rủa tôi.
+Cô muốn sống ư? Hãy nghe lời tôi.
+
+1443
+01:33:56,830 --> 01:34:01,510
+Đến lúc bọn nô lệ Trái Đất
+công nhận chủ nhân của mình rồi.
+
+1444
+01:34:01,760 --> 01:34:03,300
+Phong tỏa thành phố.
+
+1445
+01:34:58,810 --> 01:35:01,150
+Gọi bọn chó phía sau!
+
+1446
+01:35:02,520 --> 01:35:04,780
+Chắc chúng chưa nói cho anh nghe vụ này.
+
+1447
+01:35:04,860 --> 01:35:06,570
+Cô tưởng tôi được dự mọi cuộc họp ư?
+
+1448
+01:35:07,200 --> 01:35:08,700
+Tôi sẽ được an toàn.
+
+1449
+01:35:09,370 --> 01:35:10,950
+Họ bảo tôi sẽ được an toàn.
+
+1450
+01:35:22,090 --> 01:35:23,210
+Đi thôi!
+
+1451
+01:35:23,590 --> 01:35:24,710
+NHÀ NGHỈ PACKARD
+
+1452
+01:35:29,840 --> 01:35:31,510
+Lúc nãy chúng ta có tín hiệu.
+
+1453
+01:35:32,010 --> 01:35:33,430
+Nó không còn hoạt động.
+
+1454
+01:35:39,020 --> 01:35:42,150
+<i>Đây là tin báo khẩn cấp.</i>
+
+1455
+01:35:47,440 --> 01:35:50,610
+<i>Chicago đã bị tổng tấn công.</i>
+
+1456
+01:36:01,460 --> 01:36:02,880
+Nhầm đường rồi!
+
+1457
+01:36:03,960 --> 01:36:06,170
+Ra khỏi đây mau! Quay lại đi!
+
+1458
+01:36:17,220 --> 01:36:19,850
+<i>Có một nhóm phi thuyền ở quanh Chicago.</i>
+
+1459
+01:36:19,940 --> 01:36:23,770
+Máy bay ném bom tầm xa
+của chúng ta bị đẩy lui khỏi bầu trời.
+
+1460
+01:36:23,860 --> 01:36:26,480
+<i>Họ không thể vượt qua</i>
+<i>hàng phòng thủ trên không của kẻ thù.</i>
+
+1461
+01:36:26,570 --> 01:36:31,410
+<i>Vệ tinh của chúng ta bị nhiễu.</i>
+<i>Chúng ta không theo dõi kẻ thù được.</i>
+
+1462
+01:36:31,530 --> 01:36:34,830
+<i>Các đội NEST phải tạm chờ</i>
+<i>tại Căn cứ Không quân Grissom.</i>
+
+1463
+01:36:34,910 --> 01:36:36,450
+Mười phút nữa sẽ tới vùng tham chiến.
+
+1464
+01:36:36,540 --> 01:36:40,960
+<i>Đặc Vụ đang cố gắng vào trong thành phố</i>
+<i>và bộ binh đang chờ ở vòng ngoài.</i>
+
+1465
+01:36:41,040 --> 01:36:46,130
+Xin lỗi! Thật vô lý!
+Chúng ta không thể thấy gì trong đó sao?
+
+1466
+01:36:46,210 --> 01:36:47,960
+Chúng cứ bắn hạ các thiết bị do thám.
+
+1467
+01:36:48,050 --> 01:36:49,670
+<i>Chúng muốn ta không thể theo dõi.</i>
+
+1468
+01:36:49,760 --> 01:36:52,630
+<i>Nhưng ta có một số</i>
+<i>máy bay do thám mini mà có thể thử.</i>
+
+1469
+01:36:52,720 --> 01:36:56,220
+Ai điều khiển đám máy bay đó đến
+
+1470
+01:36:56,310 --> 01:36:59,680
+cao ốc Trump được không?
+Nhóc Witwickety đang đến Chicago.
+
+1471
+01:36:59,770 --> 01:37:04,230
+Có một tên con người
+đang phục vụ Decepticon ở đó!
+
+1472
+01:37:04,310 --> 01:37:05,900
+Gì chứ tôi biết thằng nhóc chính là
+
+1473
+01:37:05,980 --> 01:37:09,280
+trung tâm thu hút tin dữ
+về người ngoài hành tinh.
+
+1474
+01:37:49,780 --> 01:37:51,150
+Chúa ơi.
+
+1475
+01:37:51,740 --> 01:37:53,990
+<i>Chúng ta đến đây
+để tìm cô ấy giữa chỗ đó à?</i>
+
+1476
+01:37:54,110 --> 01:37:55,280
+<i>ĐÈN ĐỎ DỪNG LẠI</i>
+
+1477
+01:37:55,360 --> 01:37:56,660
+Có thật là phải vào đó không, Epps?
+
+1478
+01:37:57,120 --> 01:37:58,580
+Tôi không đi đâu.
+
+1479
+01:37:59,620 --> 01:38:00,990
+Không ai vào đó đâu.
+
+1480
+01:38:07,750 --> 01:38:09,090
+Tôi sẽ vào đó.
+
+1481
+01:38:10,500 --> 01:38:12,210
+Có hay không có các anh,
+tôi phải tìm cô ấy.
+
+1482
+01:38:12,800 --> 01:38:14,970
+Cậu sẽ chỉ tự sát thôi, Sam.
+
+1483
+01:38:15,180 --> 01:38:17,850
+Cậu muốn thế à?
+
+1484
+01:38:18,220 --> 01:38:21,010
+Cậu đến đây chỉ để tự sát thôi sao?
+
+1485
+01:38:21,140 --> 01:38:23,100
+- Nghe này.
+- Cô ấy ở đây vì tôi.
+
+1486
+01:38:23,230 --> 01:38:26,310
+- Hiểu không?
+- Nếu cậu có đến được tòa nhà,
+
+1487
+01:38:26,440 --> 01:38:29,610
+dù cô ấy còn sống,
+cậu cũng không tới chỗ cô ấy được!
+
+1488
+01:38:29,690 --> 01:38:31,070
+Anh bảo tôi phải làm sao?
+
+1489
+01:38:32,190 --> 01:38:33,440
+Kết thúc rồi.
+
+1490
+01:38:35,650 --> 01:38:37,410
+Tôi xin lỗi, nhưng kết thúc rồi.
+
+1491
+01:38:38,070 --> 01:38:39,160
+Không.
+
+1492
+01:38:39,530 --> 01:38:41,030
+Đến kìa!
+
+1493
+01:39:28,460 --> 01:39:30,710
+Chúng ta sẽ giết sạch chúng.
+
+1494
+01:39:35,340 --> 01:39:37,630
+Các Wrecker, giết hắn!
+
+1495
+01:39:39,680 --> 01:39:41,350
+Sẽ đau đấy!
+
+1496
+01:39:41,970 --> 01:39:43,510
+Rất đau đấy!
+
+1497
+01:39:49,390 --> 01:39:52,230
+Lãnh đạo của các bạn giờ sẽ hiểu.
+
+1498
+01:39:52,310 --> 01:39:56,030
+Decepticon sẽ không để
+hành tinh các bạn được yên.
+
+1499
+01:39:56,240 --> 01:39:59,530
+Chúng tôi cần khiến cho chúng
+tin rằng chúng tôi đã ra đi.
+
+1500
+01:39:59,740 --> 01:40:02,870
+Hôm nay, nhân danh tự do,
+
+1501
+01:40:03,030 --> 01:40:05,910
+chúng ta sẽ tấn công chúng!
+
+1502
+01:40:28,100 --> 01:40:29,890
+Tôi thấy phi thuyền của mọi người nổ tung!
+
+1503
+01:40:29,980 --> 01:40:35,110
+Chúng tôi chưa bao giờ vào trong đó cả!
+Chúng tôi đã thiết kế nên thứ đó mà?
+
+1504
+01:40:35,190 --> 01:40:38,400
+Chúng tôi nấp trong
+hỏa tiễn phóng đầu tiên.
+
+1505
+01:40:38,490 --> 01:40:41,490
+Rồi rơi xuống Đại Tây Dương,
+đúng như kế hoạch.
+
+1506
+01:40:41,990 --> 01:40:43,280
+Chúng tôi chẳng đi đâu hết.
+
+1507
+01:40:43,370 --> 01:40:46,120
+Đúng thế, không ai trục xuất được bọn tôi.
+
+1508
+01:40:48,540 --> 01:40:52,370
+Autobot sẽ ở đây.
+Bọn tôi sẽ giúp các cậu chiến thắng.
+
+1509
+01:40:52,870 --> 01:40:55,840
+Chúng bao vây thành phố
+và biến nó thành pháo đài,
+
+1510
+01:40:55,960 --> 01:40:59,010
+để không ai thấy chúng
+đang làm gì ở bên trong.
+
+1511
+01:40:59,130 --> 01:41:02,590
+Cơ hội duy nhất là yếu tố bất ngờ.
+
+1512
+01:41:03,140 --> 01:41:04,640
+Tôi biết nên tìm ở đâu rồi!
+
+1513
+01:41:06,720 --> 01:41:09,270
+<i>Máy bay do thám mini</i>
+<i>đang đến gần cao ốc Trump.</i>
+
+1514
+01:41:13,190 --> 01:41:15,440
+Anh nói Sam đang lao vào đó à?
+
+1515
+01:41:15,980 --> 01:41:17,110
+Tội nghiệp thằng nhóc.
+
+1516
+01:41:18,360 --> 01:41:20,490
+Có lẽ còn chẳng có thể đến gần.
+
+1517
+01:41:21,240 --> 01:41:22,700
+Cậu lái thứ này được chứ?
+
+1518
+01:41:24,070 --> 01:41:26,950
+Sao cơ? Tàm tạm à?
+
+1519
+01:41:27,240 --> 01:41:29,660
+Vậy cậu có thể
+tàm tạm lái thứ này. Tệ quá.
+
+1520
+01:41:31,870 --> 01:41:33,330
+Bọn này sẽ ở ngay sau cậu.
+
+1521
+01:41:40,130 --> 01:41:41,720
+Chúng ta vào thôi!
+
+1522
+01:42:06,820 --> 01:42:09,330
+Thành phố đã được bảo vệ.
+
+1523
+01:42:09,410 --> 01:42:12,330
+Loài người không thể ngăn chặn chúng ta.
+
+1524
+01:42:12,410 --> 01:42:14,750
+Khi chiều đến...
+
+1525
+01:42:14,830 --> 01:42:18,210
+những cây cột còn lại
+sẽ sẵn sàng phóng vào vị trí.
+
+1526
+01:42:18,290 --> 01:42:23,130
+Đây là chiến thắng mà ta đã hứa
+với ngươi từ nhiều năm trước,
+
+1527
+01:42:23,220 --> 01:42:28,430
+nơi mà chúng ta có thể
+cùng nhau dựng xây lại Cybertron!
+
+1528
+01:42:28,510 --> 01:42:31,100
+Ta đã hạ cố hợp tác cùng ngươi
+
+1529
+01:42:32,140 --> 01:42:34,520
+để hành tinh chúng ta còn có thể tồn tại!
+
+1530
+01:42:34,850 --> 01:42:37,900
+Ta sẽ không bao giờ làm việc cho ngươi!
+
+1531
+01:42:38,520 --> 01:42:42,150
+Tốt hơn hết là ngươi
+nên nhớ điểm khác biệt đó.
+
+1532
+01:43:03,000 --> 01:43:05,760
+Chờ đợi chán thật.
+
+1533
+01:43:09,470 --> 01:43:10,680
+Cô ấy đâu?
+
+1534
+01:43:11,300 --> 01:43:12,640
+Cô ấy đâu?!
+
+1535
+01:43:13,850 --> 01:43:15,270
+Cậu cũng gan đấy.
+
+1536
+01:43:27,110 --> 01:43:28,530
+Không, Sam!
+
+1537
+01:43:30,240 --> 01:43:34,290
+Không!
+
+1538
+01:43:38,420 --> 01:43:39,620
+Carly!
+
+1539
+01:43:41,210 --> 01:43:42,340
+Carly!
+
+1540
+01:43:44,800 --> 01:43:46,260
+Nhảy đi!
+
+1541
+01:44:20,250 --> 01:44:22,330
+Bee! Bắn đi!!!
+
+1542
+01:44:23,080 --> 01:44:24,210
+Bee!
+
+1543
+01:44:46,940 --> 01:44:49,150
+Autobot! Chúng còn sống!
+
+1544
+01:44:49,950 --> 01:44:53,160
+- Họ ở đây, còn sống!
+- Decepticon, bảo vệ cây cột!
+
+1545
+01:44:54,700 --> 01:44:59,250
+Nâng cầu lên! Tìm chúng!
+
+1546
+01:45:14,510 --> 01:45:15,640
+Sam.
+
+1547
+01:45:17,510 --> 01:45:18,720
+Anh đã tìm ra em.
+
+1548
+01:45:18,810 --> 01:45:20,270
+Anh sẽ đi theo em mọi nơi.
+
+1549
+01:45:32,570 --> 01:45:35,200
+- Hình thành vòng phòng thủ!
+- Nhanh lên!
+
+1550
+01:45:35,280 --> 01:45:36,530
+Cậu điên rồi.
+
+1551
+01:45:37,990 --> 01:45:39,700
+Cái gì thế? Phe ta à?
+
+1552
+01:45:40,160 --> 01:45:43,290
+Đó là máy bay do thám.
+Stone, xem còn hoạt động không.
+
+1553
+01:45:43,790 --> 01:45:45,000
+Còn năng lượng.
+
+1554
+01:45:45,080 --> 01:45:46,630
+Trung tâm, nghe tôi không?
+
+1555
+01:45:47,040 --> 01:45:49,500
+Các anh xoay được không?
+Làm gì đó được không?
+
+1556
+01:45:49,710 --> 01:45:51,090
+Có tín hiệu gì đó.
+
+1557
+01:45:51,170 --> 01:45:52,800
+- Có Epps rồi!
+- <i>Xoay được không?</i>
+
+1558
+01:45:52,880 --> 01:45:54,550
+<i>Nào! Hoạt động đi!</i>
+
+1559
+01:45:54,680 --> 01:45:56,090
+Mở âm lượng to lên!
+
+1560
+01:45:56,180 --> 01:45:57,600
+Thằng nhóc!
+
+1561
+01:45:57,680 --> 01:46:00,520
+<i>Các anh xoay lại hay làm gì đó không?</i>
+
+1562
+01:46:01,640 --> 01:46:04,480
+Đúng, đúng! Họ thấy chúng ta.
+
+1563
+01:46:04,560 --> 01:46:06,310
+<i>Chicago là khởi điểm.</i>
+
+1564
+01:46:06,480 --> 01:46:08,730
+<i>- Các anh nghe không? Hiểu không?</i>
+<i>- </i>Witwicky<i>.</i>
+
+1565
+01:46:08,860 --> 01:46:11,900
+<i>Sentinel Prime có những cây cột</i>
+<i>để tạo cầu không gian.</i>
+
+1566
+01:46:11,990 --> 01:46:15,070
+Chúng đang ở đỉnh tòa nhà
+thuộc sở hữu của Hotchkiss Gould.
+
+1567
+01:46:15,160 --> 01:46:17,950
+<i>Cột điều khiển nằm ở vòm đông nam.</i>
+
+1568
+01:46:18,030 --> 01:46:21,870
+<i>Các vị phải phá hủy cây cột đó</i>
+<i>nếu không họ sẽ đem Cybertron đến đây.</i>
+
+1569
+01:46:22,080 --> 01:46:23,790
+- <i>Hiểu chứ?</i>
+- Gì cơ?
+
+1570
+01:46:24,250 --> 01:46:27,580
+Cho tôi tọa độ GPS tòa nhà
+và máy bay đó! Nhanh lên!
+
+1571
+01:46:28,340 --> 01:46:30,590
+Định lượng các chỉ số.
+Rút ngắn chuỗi tấn công.
+
+1572
+01:46:30,670 --> 01:46:32,380
+Hẹn gặp ở đường nhựa, năm phút nữa.
+
+1573
+01:46:33,010 --> 01:46:34,090
+Được rồi!
+
+1574
+01:46:35,380 --> 01:46:37,800
+Phải đi trước khi
+máy bay chiến đấu phát giác.
+
+1575
+01:46:38,050 --> 01:46:40,310
+Hãy đợi đến khi chúng tôi mở đường.
+
+1576
+01:46:40,470 --> 01:46:42,270
+- Đi nào.
+- Ratchet, yểm trợ trên cao.
+
+1577
+01:46:44,020 --> 01:46:46,480
+Hỏa tiễn có bắn hạ được cây cột không?
+
+1578
+01:46:46,560 --> 01:46:49,520
+Chúng ta cách đến tám dãy nhà.
+Phải đến gần hơn nữa.
+
+1579
+01:46:49,610 --> 01:46:52,110
+Không cần đến gần mà cao hơn nữa.
+Chúng ta cần nhìn rõ.
+
+1580
+01:46:52,230 --> 01:46:55,740
+Nó bên kia sông. Sẽ rất khó để lẻn đến đó.
+
+1581
+01:46:55,990 --> 01:46:57,490
+Chúng ta chỉ có một phát đạn thôi.
+
+1582
+01:46:58,070 --> 01:46:59,740
+Một phát là đủ rồi.
+
+1583
+01:47:01,240 --> 01:47:03,450
+Chúng ta cần thấy tòa nhà đó từ mặt đất.
+
+1584
+01:47:03,540 --> 01:47:08,040
+Bảo NSA gửi thông số máy quay
+trong khu vực. Biết đâu còn hoạt động.
+
+1585
+01:47:08,120 --> 01:47:10,500
+Đèn giao thông. ATM. Bất kỳ thứ gì.
+
+1586
+01:47:11,170 --> 01:47:13,510
+Nghe này. Các anh muốn phản công à?
+
+1587
+01:47:14,260 --> 01:47:18,050
+Chúng ta chỉ còn cách mặc đồ bay vào.
+Đó là cách duy nhất tiếp cận.
+
+1588
+01:47:18,760 --> 01:47:21,720
+Tôi không hứa tất cả đều sẽ sống sót,
+nhưng nếu các anh sẵn lòng,
+
+1589
+01:47:22,560 --> 01:47:24,470
+thì thế giới đang cần đến các anh.
+
+1590
+01:47:25,140 --> 01:47:27,390
+Bọn tôi sẽ tự lo cho mình, thưa sếp.
+
+1591
+01:47:30,150 --> 01:47:31,110
+Ai nữa?
+
+1592
+01:47:31,400 --> 01:47:32,570
+Có tôi đây!
+
+1593
+01:47:34,940 --> 01:47:38,780
+Tướng Morshower, yêu cầu
+đánh lạc hướng ở phía nam thành phố.
+
+1594
+01:47:38,860 --> 01:47:41,200
+<i>Chúng tôi sẽ đến phía bắc.</i>
+<i>Dồn chúng về đông.</i>
+
+1595
+01:47:57,920 --> 01:48:00,470
+Autobot chiến thắng!
+
+1596
+01:48:32,630 --> 01:48:35,420
+Một tên Decepticon đáng sợ!
+
+1597
+01:48:35,500 --> 01:48:39,510
+Chúng lấy mất thùng xe của tôi rồi.
+Tôi cần nó để bay được.
+
+1598
+01:48:39,800 --> 01:48:42,300
+Shockwave không thể săn đuổi cả bọn.
+
+1599
+01:48:43,050 --> 01:48:46,060
+Các Wrecker, chúng ta cần đánh lạc hướng.
+
+1600
+01:48:46,140 --> 01:48:48,890
+- Chiến thôi!
+- Đúng rồi đấy.
+
+1601
+01:48:49,770 --> 01:48:52,690
+Chúng ta sẽ đi vòng đến tòa nhà kính đó.
+
+1602
+01:48:52,770 --> 01:48:54,980
+Chúng ta sẽ lên đủ cao để bắn hỏa tiễn
+
+1603
+01:48:55,060 --> 01:48:56,730
+khi các cậu thu hút hỏa lực. Đi nào!
+
+1604
+01:48:56,940 --> 01:49:00,990
+Khoan! Không được đi
+mà chưa có đồ tác chiến đô thị của tôi.
+
+1605
+01:49:01,110 --> 01:49:02,780
+Đi thôi, Que! Nào!
+
+1606
+01:49:02,910 --> 01:49:04,950
+Dùng để quất kẻ thù rất ngon!
+
+1607
+01:49:05,120 --> 01:49:06,870
+- Cái gì đây?
+- Bom dính.
+
+1608
+01:49:07,410 --> 01:49:09,250
+Nổ trong 30 giây.
+
+1609
+01:49:09,790 --> 01:49:11,330
+Găng bám, để leo trèo.
+
+1610
+01:49:12,580 --> 01:49:14,210
+Đi thôi! Di chuyển đi nào!
+
+1611
+01:49:14,500 --> 01:49:16,250
+Nhanh lên! Đi đi!
+
+1612
+01:49:22,050 --> 01:49:23,890
+- Đi nào!
+- Đi thôi!
+
+1613
+01:49:34,600 --> 01:49:35,900
+Ôi! Ôi!
+
+1614
+01:49:35,980 --> 01:49:37,860
+Đi thôi!
+
+1615
+01:49:44,490 --> 01:49:46,370
+- Này, các cậu đi đâu thế?
+- Không!
+
+1616
+01:49:46,570 --> 01:49:48,580
+Dừng lại! Đừng đi!
+
+1617
+01:49:48,700 --> 01:49:50,250
+Các cậu không được bỏ lại một robot!
+
+1618
+01:49:51,200 --> 01:49:52,370
+Ối, tên Shockwave kìa!
+
+1619
+01:49:57,380 --> 01:49:59,300
+- Lên cầu thang đi!
+- Epps, lối này!
+
+1620
+01:49:59,420 --> 01:50:00,590
+Đi thôi!
+
+1621
+01:50:01,510 --> 01:50:03,050
+<i>Rẽ phải.</i>
+
+1622
+01:50:03,420 --> 01:50:04,800
+<i>Phát hiện kẻ địch.</i>
+
+1623
+01:50:09,680 --> 01:50:11,810
+Có một tên ở bên trái,
+
+1624
+01:50:11,930 --> 01:50:13,230
+một tên ở bên phải.
+
+1625
+01:50:13,430 --> 01:50:15,480
+Chúng ta sẽ dùng cao ốc Willis để ẩn nấp!
+
+1626
+01:50:15,560 --> 01:50:17,400
+Khi đạt cao độ thì nhảy ngay!
+
+1627
+01:50:17,980 --> 01:50:20,020
+Có nhiều máy bay địch quá!
+
+1628
+01:50:22,820 --> 01:50:24,700
+<i>Cấp cứu! Máy bay sắp rơi.</i>
+
+1629
+01:50:25,820 --> 01:50:27,070
+<i>Coi chừng bên trên!</i>
+
+1630
+01:50:30,950 --> 01:50:32,790
+Cố lên nào.
+
+1631
+01:50:42,210 --> 01:50:44,470
+<i>- Mục tiêu bên trái.</i>
+<i>- Được rồi. Thấy rồi.</i>
+
+1632
+01:50:44,720 --> 01:50:46,550
+<i>Thời gian đến mục tiêu: 20 giây.</i>
+
+1633
+01:50:46,680 --> 01:50:48,850
+Đi thôi anh em!
+
+1634
+01:50:49,300 --> 01:50:51,850
+- Nhớ bám sát nhau!
+<i>- Sạch rồi. Quay lại đây.</i>
+
+1635
+01:50:52,060 --> 01:50:53,930
+Tập trung vào.
+
+1636
+01:50:58,980 --> 01:51:00,860
+<i>Nguy hiểm ở trên, hướng sáu giờ!</i>
+
+1637
+01:51:01,070 --> 01:51:02,190
+Lũ châu chấu!
+
+1638
+01:51:02,530 --> 01:51:03,900
+<i>Coi chừng! Rẽ phải!</i>
+
+1639
+01:51:06,030 --> 01:51:08,910
+<i>- Coi chừng!</i>
+<i>- Chết tiệt!</i>
+
+1640
+01:51:11,280 --> 01:51:12,450
+<i>Coi chừng!</i>
+
+1641
+01:51:12,580 --> 01:51:13,950
+Nhảy ra đi!
+
+1642
+01:51:14,040 --> 01:51:16,330
+- Mọi người ra hết đi!
+- Nhảy đi!
+
+1643
+01:51:22,800 --> 01:51:25,720
+- Ra đi!
+- Tôi bị kẹt rồi!
+
+1644
+01:51:26,130 --> 01:51:27,680
+<i>Tail, đưa họ ra ngay đi.</i>
+
+1645
+01:51:28,680 --> 01:51:30,180
+Cứu với!
+
+1646
+01:51:50,110 --> 01:51:52,240
+<i>Tách ra đi. Mỗi người một hướng.</i>
+
+1647
+01:52:12,930 --> 01:52:14,850
+Rẽ trái!
+
+1648
+01:52:15,810 --> 01:52:17,520
+Còn 180m.
+
+1649
+01:52:32,870 --> 01:52:34,740
+Hướng sáu giờ kìa!
+
+1650
+01:52:34,910 --> 01:52:38,500
+- Hắn sau lưng kìa!
+- Coi chừng!
+
+1651
+01:52:42,290 --> 01:52:43,460
+Rẽ phải!
+
+1652
+01:52:48,970 --> 01:52:50,130
+Có nhà phía trước!
+
+1653
+01:52:50,300 --> 01:52:51,680
+Xỏ kim mau!
+
+1654
+01:53:01,690 --> 01:53:03,440
+Bung dù đi!
+
+1655
+01:53:06,190 --> 01:53:08,400
+- Lên đủ cao rồi!
+- Leo mệt chết đi được!
+
+1656
+01:53:08,480 --> 01:53:10,450
+- Đi qua đây mau!
+- Đến ngay.
+
+1657
+01:53:15,990 --> 01:53:17,700
+Lắp đặt hỏa tiễn đi!
+
+1658
+01:53:18,660 --> 01:53:20,870
+- Chúng đến kìa.
+- Báo cáo tình trạng vũ khí!
+
+1659
+01:53:20,960 --> 01:53:23,500
+Hai chín khẩu diệt robot.
+Hai mươi khẩu xuyên robot.
+
+1660
+01:53:25,210 --> 01:53:27,550
+Kia kìa. Vòm tòa nhà đó đấy.
+
+1661
+01:53:28,460 --> 01:53:30,050
+Vì anh em ta.
+
+1662
+01:53:30,920 --> 01:53:32,880
+Đừng để chuyến đi này công cốc.
+
+1663
+01:53:35,260 --> 01:53:36,300
+Chúa ơi.
+
+1664
+01:53:37,350 --> 01:53:38,470
+Tòa nhà này...
+
+1665
+01:53:38,680 --> 01:53:40,680
+- Tòa nhà kìa!
+- Chết tiệt!
+
+1666
+01:53:44,440 --> 01:53:46,480
+Chúng đang bắn về tòa nhà!
+
+1667
+01:53:49,280 --> 01:53:51,030
+- Không hay rồi.
+- Sao?
+
+1668
+01:53:51,150 --> 01:53:54,280
+- Tòa nhà này không vững.
+- Nếu chúng ta bỏ cuộc,
+
+1669
+01:53:54,490 --> 01:53:56,490
+thì chẳng còn gì nữa, ta sẽ chết hết.
+
+1670
+01:53:56,570 --> 01:53:58,790
+Đúng chứ? Mục tiêu của anh đấy. Bắn đi!
+
+1671
+01:53:58,870 --> 01:54:02,250
+Tôi không quan tâm tòa nhà
+có sập hay không. Tôi đau tim quá.
+
+1672
+01:54:03,330 --> 01:54:05,080
+Tòa nhà đang sập đấy!
+
+1673
+01:54:05,170 --> 01:54:06,670
+- Bám chắc lấy!
+- Yểm trợ!
+
+1674
+01:54:10,670 --> 01:54:12,340
+Giơ tay che đầu!
+
+1675
+01:54:24,230 --> 01:54:25,440
+Ổn rồi! Ngưng rồi!
+
+1676
+01:54:25,810 --> 01:54:27,480
+Các anh nhìn kìa!
+
+1677
+01:54:27,770 --> 01:54:30,690
+- Chúng đến đấy!
+- Nấp mau!
+
+1678
+01:54:48,130 --> 01:54:49,170
+Đừng cử động!
+
+1679
+01:54:58,550 --> 01:55:00,970
+Đừng... cử động.
+
+1680
+01:55:05,520 --> 01:55:06,390
+Đi mau
+
+1681
+01:55:14,190 --> 01:55:16,200
+- Chạy mau!
+- Yểm trợ.
+
+1682
+01:55:18,990 --> 01:55:20,030
+Bắn cửa kính!
+
+1683
+01:55:20,530 --> 01:55:21,990
+Nhảy qua cửa sổ!
+
+1684
+01:55:29,330 --> 01:55:30,710
+Nhảy đi!
+
+1685
+01:55:46,230 --> 01:55:47,350
+Chúng ta chết mất!
+
+1686
+01:55:51,400 --> 01:55:53,400
+Sam, em không dừng được!
+
+1687
+01:55:53,480 --> 01:55:55,150
+Bắn cửa kính đi!
+
+1688
+01:55:56,990 --> 01:55:58,200
+Sam!
+
+1689
+01:56:21,180 --> 01:56:22,350
+Sam!
+
+1690
+01:56:27,980 --> 01:56:29,810
+Không!
+
+1691
+01:56:47,700 --> 01:56:49,500
+Mọi người không sao chứ?!
+
+1692
+01:56:50,000 --> 01:56:50,960
+Ổn chứ?
+
+1693
+01:56:51,170 --> 01:56:52,420
+Cái quái gì thế?
+
+1694
+01:56:58,920 --> 01:57:00,970
+- Con quỷ đó đang nhìn tôi kìa!
+- Hả?
+
+1695
+01:57:14,190 --> 01:57:16,440
+Nó đi cùng một con Decepticon còn xấu hơn!
+
+1696
+01:57:16,520 --> 01:57:17,730
+Lui lại!
+
+1697
+01:57:36,170 --> 01:57:39,880
+- Tìm lối thoát đi! Cầu thang bị chặn rồi!
+- Chúng ta kẹt rồi!
+
+1698
+01:57:40,170 --> 01:57:42,090
+Làm sao ra ngoài đây? Nào!
+
+1699
+01:57:42,300 --> 01:57:47,430
+Chúa ơi, xin cho con sống qua cơn này.
+Chỉ cần sống sót, con sẽ làm người tốt.
+
+1700
+01:57:56,190 --> 01:57:57,730
+Đi mau! Phải đi mau!
+
+1701
+01:57:57,820 --> 01:58:00,070
+Sao bọn Decepticon
+toàn được chơi hàng xịn thế nhỉ?
+
+1702
+01:58:00,150 --> 01:58:01,860
+- Đi thôi!
+- Ta sắp bị thịt rồi!
+
+1703
+01:58:41,280 --> 01:58:43,780
+- Cố lên!
+- Đưa tay đây!
+
+1704
+01:58:44,070 --> 01:58:45,400
+- Đu sang!
+- Tóm được rồi!
+
+1705
+01:58:45,610 --> 01:58:46,700
+Chúa ơi!
+
+1706
+01:58:47,410 --> 01:58:49,530
+Anh sẽ đưa em qua cửa thoát hiểm!
+
+1707
+01:59:07,550 --> 01:59:08,590
+Sam!
+
+1708
+01:59:09,600 --> 01:59:11,350
+Ta phải đi thôi!
+
+1709
+01:59:20,190 --> 01:59:21,360
+Đi đi! Đi nào!
+
+1710
+01:59:24,780 --> 01:59:26,990
+Ta đến đây!
+
+1711
+02:00:22,630 --> 02:00:24,840
+- Optimus!
+- Lũ Wrecker!
+
+1712
+02:00:25,170 --> 02:00:26,300
+Bọn này đến đây!
+
+1713
+02:00:27,670 --> 02:00:30,180
+Decepticon trên khắp thế giới,
+
+1714
+02:00:30,680 --> 02:00:32,510
+phóng cột mau.
+
+1715
+02:01:03,500 --> 02:01:05,960
+Chúng ta bị lạc rồi!
+
+1716
+02:01:06,050 --> 02:01:07,590
+Lúc nào cũng bị bỏ rơi.
+
+1717
+02:01:12,430 --> 02:01:14,180
+Đã đến lúc chơi mạnh tay rồi.
+
+1718
+02:01:14,260 --> 02:01:16,010
+Sắp có đổ máu đây.
+
+1719
+02:01:23,900 --> 02:01:26,440
+Mọi thứ bắt đầu rồi kìa! Thấy không?
+
+1720
+02:01:29,280 --> 02:01:30,490
+Coi chừng!
+
+1721
+02:01:38,910 --> 02:01:40,830
+Sam và Carly đâu rồi?
+
+1722
+02:01:43,080 --> 02:01:44,710
+Mình đi lối này đi.
+
+1723
+02:01:51,920 --> 02:01:55,510
+Tôi chỉ giao cho cậu một việc
+mà cậu cũng làm không xong?!
+
+1724
+02:01:55,590 --> 02:01:59,350
+Tôi chẳng hề nghĩ sẽ bị
+bọn ngoài hành tinh đuổi giết!
+
+1725
+02:01:59,430 --> 02:02:03,980
+Rồi phải lẩn trốn quanh chỗ này chỗ kia
+và mấy thứ chết tiệt khác! Khỉ gió!
+
+1726
+02:02:04,900 --> 02:02:06,440
+Tôi đang cố kiềm chế đây.
+
+1727
+02:02:10,230 --> 02:02:12,570
+Sướng thật! Chỉ có ta với ngươi thôi!
+
+1728
+02:02:12,740 --> 02:02:13,700
+Carly!
+
+1729
+02:02:18,910 --> 02:02:20,490
+Nhanh! Chạy mau!
+
+1730
+02:02:23,750 --> 02:02:26,330
+Hắn chỉ đuổi theo anh thôi,
+chứ không đuổi em.
+
+1731
+02:02:26,420 --> 02:02:27,840
+Chạy đi!
+
+1732
+02:02:29,090 --> 02:02:30,920
+Ngươi chẳng trốn được đâu, cậu bé!
+
+1733
+02:02:33,880 --> 02:02:35,380
+- Chạy mau
+- Ta rất thích
+
+1734
+02:02:35,470 --> 02:02:38,720
+nhìn đám sâu bọ chúng mày bỏ chạy!
+
+1735
+02:02:38,800 --> 02:02:40,010
+- Sam!
+- Chạy mau!
+
+1736
+02:02:45,690 --> 02:02:48,440
+Ta tưởng ngươi hợp tác với bọn ta chứ?!
+
+1737
+02:02:52,030 --> 02:02:54,610
+Không! Sam!
+
+1738
+02:03:03,870 --> 02:03:05,210
+Mắt của ta!
+
+1739
+02:03:17,760 --> 02:03:19,140
+Mắt của ta!
+
+1740
+02:03:22,140 --> 02:03:24,100
+Nhắm vào tên Decepticon!
+
+1741
+02:03:27,440 --> 02:03:28,600
+CẨN THẬN
+
+1742
+02:03:31,150 --> 02:03:32,270
+Sam!
+
+1743
+02:03:37,320 --> 02:03:40,570
+- Lenox, anh phải cứu Sam! Cứu anh ấy đi!
+- Cậu ta làm gì thế?!
+
+1744
+02:03:44,160 --> 02:03:45,910
+Cầu mong nó hiệu nghiệm!
+
+1745
+02:03:46,080 --> 02:03:48,250
+Súng xuyên phá!
+
+1746
+02:04:00,680 --> 02:04:03,310
+Ta không thấy gì hết!
+
+1747
+02:04:03,470 --> 02:04:04,720
+- Sam!
+- Nó trên tay tôi!
+
+1748
+02:04:04,890 --> 02:04:08,520
+- Cầm dao mau! Dao!
+- Đang cố đây.
+
+1749
+02:04:10,150 --> 02:04:11,860
+Chúa ơi! Bom sẽ...
+
+1750
+02:04:12,560 --> 02:04:14,110
+Bọn loài người vô dụng!
+
+1751
+02:04:14,230 --> 02:04:16,110
+- Còn 20 giây là bom nổ!
+- Bom nào?
+
+1752
+02:04:16,190 --> 02:04:18,820
+Thấy quả bom kia chứ? Cắt đi!
+
+1753
+02:04:18,990 --> 02:04:20,990
+Được rồi! Còn bao lâu?
+
+1754
+02:04:22,370 --> 02:04:24,660
+Tao sẽ cho chúng mày biết tay!
+
+1755
+02:04:37,130 --> 02:04:39,010
+Tao sẽ giết...
+
+1756
+02:04:55,940 --> 02:04:57,480
+Hắn chết rồi.
+
+1757
+02:04:59,860 --> 02:05:02,030
+Này! Cậu ta sẽ đi cùng
+Autobot còn lại và gặp
+
+1758
+02:05:02,110 --> 02:05:03,570
+- ở bờ sông.
+- Được.
+
+1759
+02:05:32,350 --> 02:05:35,440
+Nó hút tớ vào! Không còn cách nào hết!
+
+1760
+02:05:36,400 --> 02:05:38,650
+Ôi loạn cả rồi...
+
+1761
+02:05:39,320 --> 02:05:41,070
+Chúng ta phải vượt qua sông.
+
+1762
+02:05:41,950 --> 02:05:43,450
+Thấy không? Cô ấy bảo cột điều khiển
+
+1763
+02:05:43,610 --> 02:05:44,990
+- ở vòm thứ nhất.
+- Ừ.
+
+1764
+02:05:45,740 --> 02:05:47,830
+Đi nào! Đi thôi!
+
+1765
+02:05:48,910 --> 02:05:50,790
+<i>Tên lửa Tomahawk đang bay đến.</i>
+
+1766
+02:05:51,750 --> 02:05:53,120
+<i>Còn khoảng 20 phút.</i>
+
+1767
+02:05:53,250 --> 02:05:54,790
+Tôi vào được máy quay giao thông rồi.
+
+1768
+02:05:56,130 --> 02:05:58,050
+<i>Bốn Autobot đã bị bắt.</i>
+
+1769
+02:05:58,460 --> 02:06:00,380
+Chúa ơi. Chúng ta vô dụng quá.
+
+1770
+02:06:00,460 --> 02:06:04,890
+Dù sắp có chuyện gì thì nhịp năng lượng
+cũng nhanh hơn rồi, nó sắp xảy ra rồi.
+
+1771
+02:06:04,970 --> 02:06:06,720
+<i>Không thấy dấu hiệu của Optimus.</i>
+
+1772
+02:06:07,470 --> 02:06:09,560
+Làm sao chúng ta hạ cầu xuống?
+
+1773
+02:06:10,770 --> 02:06:12,730
+Tản ra. Kiểm tra đi.
+
+1774
+02:06:14,310 --> 02:06:15,560
+Epps!
+
+1775
+02:06:15,650 --> 02:06:17,650
+Epps, tìm cậu mãi. Cậu sao rồi?
+
+1776
+02:06:17,860 --> 02:06:22,360
+Rút lui chán quá. Tệ hơn là chúng ta
+không thể qua sông để đến tòa nhà,
+
+1777
+02:06:22,780 --> 02:06:24,320
+Autobot ở trên lầu thì bị bao vây.
+
+1778
+02:06:30,990 --> 02:06:32,540
+Xoay camera quanh đi.
+
+1779
+02:06:32,620 --> 02:06:34,670
+Qua phải. Đúng rồi.
+
+1780
+02:06:35,290 --> 02:06:37,460
+Thử vào phòng điều khiển cây cầu xem.
+
+1781
+02:06:39,290 --> 02:06:41,760
+Họ làm gì thế? Họ cứ đứng đó mãi.
+
+1782
+02:06:41,840 --> 02:06:45,680
+Dutch, cậu xem hack được
+vào cây cầu không.
+
+1783
+02:06:46,470 --> 02:06:48,390
+Thưa sếp, lính SEAL đến rồi.
+
+1784
+02:06:48,720 --> 02:06:51,680
+- Tốt quá! Lực lượng thế nào?
+- Mười lính SEAL được giao
+
+1785
+02:06:51,930 --> 02:06:53,430
+- định vị Tomahawk. 15.
+- Bao lâu?
+
+1786
+02:06:53,640 --> 02:06:54,770
+Các ngươi là tù binh!
+
+1787
+02:06:54,890 --> 02:06:56,850
+Bình tĩnh. Bọn này đầu hàng rồi mà.
+
+1788
+02:06:58,310 --> 02:06:59,690
+Tránh xa ta ra.
+
+1789
+02:07:00,230 --> 02:07:01,980
+Tránh xa ta ra!
+
+1790
+02:07:02,530 --> 02:07:05,650
+Các anh cần đạn 40 ly
+và lựu đạn. Nhớ bắn tự động.
+
+1791
+02:07:05,740 --> 02:07:09,410
+Chấn động sẽ làm tắt mạch của chúng.
+Xạ thủ nhắm vào mắt.
+
+1792
+02:07:09,490 --> 02:07:12,290
+Mục tiêu của các anh
+ở trên tòa nhà, cái vòm đó.
+
+1793
+02:07:12,370 --> 02:07:15,210
+Các người tận số rồi, Autobot ạ.
+
+1794
+02:07:15,290 --> 02:07:17,710
+Đơn giản là các người không hiểu
+
+1795
+02:07:17,790 --> 02:07:22,250
+thiểu số thì phải phục tùng đa số.
+
+1796
+02:07:22,420 --> 02:07:24,880
+Kích hoạt cây cầu.
+
+1797
+02:07:36,520 --> 02:07:38,270
+Chúng đang vui mừng vụ gì đó.
+
+1798
+02:07:38,440 --> 02:07:40,480
+Bọn mình đang
+ở ngay trung tâm tàu của chúng.
+
+1799
+02:07:40,560 --> 02:07:42,360
+Cho chúng du ngoạn một chút thôi.
+
+1800
+02:07:42,940 --> 02:07:45,490
+Bọn mình sẽ quậy tưng con tàu lên.
+
+1801
+02:07:45,570 --> 02:07:48,360
+Đây là một đoạn mã nhị phân 128K.
+
+1802
+02:07:49,240 --> 02:07:50,660
+Khó đấy.
+
+1803
+02:07:51,070 --> 02:07:54,580
+Nhưng với tôi thì dễ ợt.
+Tôi vào được rồi. Hạ cầu.
+
+1804
+02:07:55,540 --> 02:07:58,540
+Cầu đang hạ kìa!
+Thần linh đang phù hộ cho chúng ta rồi!
+
+1805
+02:07:58,750 --> 02:07:59,670
+Đi thôi!
+
+1806
+02:08:00,710 --> 02:08:05,090
+Giờ thì cô phải nói
+"Có anh thật tốt quá, anh Seymour ạ".
+
+1807
+02:08:05,630 --> 02:08:07,970
+- Giỏi lắm, Dutch.
+- <i>Danke schoen.</i>
+
+1808
+02:08:13,970 --> 02:08:15,520
+Tránh ra!
+
+1809
+02:08:40,540 --> 02:08:43,590
+Nhanh lên!
+Chúng đang kích hoạt những cây cột!
+
+1810
+02:08:44,420 --> 02:08:47,010
+Tù binh à? Ông canh giữ tù binh à?
+
+1811
+02:08:47,090 --> 02:08:48,630
+Tôi không hiểu.
+
+1812
+02:08:48,720 --> 02:08:50,510
+Cần dạy cho chúng biết lễ độ.
+
+1813
+02:08:50,590 --> 02:08:53,260
+Đây trước là công việc,
+nhưng giờ đã trở thành chuyện cá nhân.
+
+1814
+02:08:54,970 --> 02:09:00,310
+Ta hiểu rồi. Không cần tù binh.
+Chỉ cần chiến lợi phẩm.
+
+1815
+02:09:00,690 --> 02:09:04,480
+Bee, tôi nghĩ chúng sắp giết chúng ta.
+
+1816
+02:09:05,480 --> 02:09:08,780
+- Ngươi. Đến giờ chết rồi.
+- Đợi đã!
+
+1817
+02:09:08,860 --> 02:09:11,240
+Bọn tôi đầu hàng mà! Bọn tôi là tù binh.
+
+1818
+02:09:11,320 --> 02:09:12,200
+Đi mau!
+
+1819
+02:09:12,280 --> 02:09:17,160
+Từ từ thương lượng nhé?
+Chúng ta là bạn tốt mà!
+
+1820
+02:09:19,710 --> 02:09:20,790
+Sao...
+
+1821
+02:09:28,840 --> 02:09:30,920
+Tạm biệt nhé, người bạn cũ.
+
+1822
+02:09:32,050 --> 02:09:34,180
+Giờ ngươi là của ta.
+
+1823
+02:09:46,900 --> 02:09:48,070
+Buông ra!
+
+1824
+02:09:49,150 --> 02:09:50,530
+- Phải giúp cậu ấy.
+- Hả?
+
+1825
+02:09:50,990 --> 02:09:52,030
+Anh làm gì vậy?
+
+1826
+02:09:52,900 --> 02:09:56,320
+- Anh phải giúp cậu ấy.
+- Sam, không được đâu.
+
+1827
+02:10:03,870 --> 02:10:05,210
+Quay lại đi.
+
+1828
+02:10:15,010 --> 02:10:17,220
+Chúng ta đã khiến chúng phải vất vả.
+
+1829
+02:10:33,400 --> 02:10:36,990
+- Thành công rồi, Brains!
+- Phá tan con tàu thôi!
+
+1830
+02:11:15,360 --> 02:11:18,240
+- Đời mình vui quá rồi, Brains.
+- Ừ, giờ chết thôi.
+
+1831
+02:11:32,920 --> 02:11:33,920
+Nào.
+
+1832
+02:11:34,590 --> 02:11:37,800
+Ối! Được rồi! Tất cả theo chúng tôi!
+
+1833
+02:11:37,970 --> 02:11:40,800
+Các anh, theo đội bộ binh đó! Đi mau!
+
+1834
+02:11:40,890 --> 02:11:42,010
+Đi nào!
+
+1835
+02:11:42,100 --> 02:11:44,430
+Epps, tầng 3! Chúng ta phải lên tầng 45!
+
+1836
+02:11:49,730 --> 02:11:51,570
+Hai xạ thủ, tại đây!
+
+1837
+02:11:52,770 --> 02:11:54,190
+Được rồi, sẵn sàng!
+
+1838
+02:11:55,860 --> 02:11:57,570
+Chúng ta sẽ nhảy sau ba phút nữa!
+
+1839
+02:12:01,200 --> 02:12:02,950
+Đóng quân lại ở đây.
+
+1840
+02:12:07,160 --> 02:12:08,210
+Đóng quân đi.
+
+1841
+02:12:10,250 --> 02:12:15,170
+Tôi ở tầng dưới. Chúng ta có năm mục tiêu
+và Shockwave ngay bên dưới.
+
+1842
+02:12:15,260 --> 02:12:16,840
+<i>Chuẩn bị nhảy!</i>
+
+1843
+02:12:16,920 --> 02:12:19,130
+Đi nào! Sẵn sàng, sẵn sàng.
+
+1844
+02:12:31,980 --> 02:12:32,900
+Nhảy!
+
+1845
+02:12:44,030 --> 02:12:46,120
+Xạ thủ, bắn mù mắt chúng.
+
+1846
+02:12:49,370 --> 02:12:51,630
+Đội phá giáp, chuẩn bị gài mìn.
+
+1847
+02:12:59,090 --> 02:13:00,470
+Nổ đi!
+
+1848
+02:13:37,550 --> 02:13:39,340
+Đừng bắn khi chưa có lệnh!
+
+1849
+02:13:49,180 --> 02:13:50,230
+Đi nào!
+
+1850
+02:13:52,980 --> 02:13:54,690
+Tốt lắm, cậu bé!
+
+1851
+02:13:54,770 --> 02:13:55,940
+Bắn đi!
+
+1852
+02:14:07,780 --> 02:14:09,620
+- Trúng rồi!
+- Ừ!
+
+1853
+02:14:10,580 --> 02:14:12,160
+Hắn chạy kìa!
+
+1854
+02:14:14,580 --> 02:14:16,750
+Autobot, tấn công!
+
+1855
+02:14:21,840 --> 02:14:23,880
+Oanh tạc cây cầu đó mau!
+
+1856
+02:14:27,640 --> 02:14:30,220
+Giờ thế giới này là của chúng ta!
+
+1857
+02:14:30,810 --> 02:14:32,890
+Bắt đầu chuyển giao!
+
+1858
+02:14:44,740 --> 02:14:47,740
+Ôi Chúa ơi.
+
+1859
+02:15:01,420 --> 02:15:02,420
+Optimus!
+
+1860
+02:15:38,420 --> 02:15:40,630
+Chết đi!
+
+1861
+02:15:47,680 --> 02:15:48,890
+Không!
+
+1862
+02:16:00,520 --> 02:16:02,440
+Xuống đây mau, Sentinel!
+
+1863
+02:16:02,650 --> 02:16:04,030
+Optimus...
+
+1864
+02:16:04,650 --> 02:16:07,030
+cậu mất thứ bậc của mình rồi!
+
+1865
+02:16:13,700 --> 02:16:17,370
+Ta đã đem Cybertron,
+quê hương cậu đến đây.
+
+1866
+02:16:18,210 --> 02:16:20,960
+Thế mà cậu vẫn chọn loài người.
+
+1867
+02:16:21,540 --> 02:16:25,550
+Chính anh đã dạy tôi,
+tự do là quyền của mọi người.
+
+1868
+02:16:28,970 --> 02:16:31,180
+Ta sẽ kích hoạt lại cây cột đó!
+
+1869
+02:16:31,300 --> 02:16:33,930
+Vậy anh phải bước qua xác tôi đã!
+
+1870
+02:16:37,560 --> 02:16:39,350
+- Anh phải giúp họ.
+- Đừng!
+
+1871
+02:16:39,600 --> 02:16:41,350
+Em ở yên đây. Thôi nào.
+
+1872
+02:16:41,650 --> 02:16:43,570
+- Em không sao đâu. Anh hứa.
+- Hứa chứ?
+
+1873
+02:16:43,650 --> 02:16:44,860
+Anh phải đến cây cột đó.
+
+1874
+02:16:47,240 --> 02:16:49,030
+Tấn công cây cột đi!
+
+1875
+02:16:49,450 --> 02:16:50,910
+Chúng ta có Autobot!
+
+1876
+02:17:02,750 --> 02:17:03,920
+Đi nào!
+
+1877
+02:17:08,170 --> 02:17:10,130
+Viện binh đến!
+
+1878
+02:17:10,260 --> 02:17:12,930
+Tàu Decepticon, bắn Optimus mau!
+
+1879
+02:17:17,720 --> 02:17:20,690
+Chúng ta đang bị bắn!
+Tôi cần đám Tomahawk ngay!
+
+1880
+02:17:20,770 --> 02:17:22,230
+<i>Đợt đầu tiên đang đến.</i>
+
+1881
+02:17:27,900 --> 02:17:30,400
+Chúng ta phải yểm trợ cho Optimus!
+
+1882
+02:17:44,710 --> 02:17:48,000
+Các Decepticon! Kích hoạt cây cột đi!
+
+1883
+02:17:48,760 --> 02:17:50,840
+Khởi động lại cây cột đó!
+
+1884
+02:17:51,130 --> 02:17:52,510
+Kích hoạt cây cột.
+
+1885
+02:17:53,430 --> 02:17:57,850
+Tôi không thể ngăn chúng!
+Bọn tàu bay giam chân chúng ta rồi!
+
+1886
+02:17:57,970 --> 02:17:59,060
+Không!
+
+1887
+02:17:59,520 --> 02:18:02,270
+Đang đến, mười giây nữa!
+Nguy hiểm đến gần!
+
+1888
+02:18:02,560 --> 02:18:04,560
+Mark, Lima, Echo, Echo, 14250!
+
+1889
+02:18:04,650 --> 02:18:06,610
+- Liên hệ thành công.
+<i>- Xác định mục tiêu.</i>
+
+1890
+02:18:06,860 --> 02:18:08,230
+Đã ngắm được mục tiêu.
+
+1891
+02:18:36,260 --> 02:18:38,470
+- Dylan! Đợi đã!
+- Không!
+
+1892
+02:18:41,060 --> 02:18:42,520
+Khỉ thật! Dylan!
+
+1893
+02:18:43,520 --> 02:18:45,020
+Dừng lại!
+
+1894
+02:18:45,650 --> 02:18:46,600
+Không!
+
+1895
+02:18:47,270 --> 02:18:49,400
+Anh không thể làm thế! Được chứ?
+
+1896
+02:18:49,980 --> 02:18:51,940
+Chỉ có một tương lai cho tao.
+
+1897
+02:19:15,590 --> 02:19:19,640
+Cybertron cuối cùng...
+
+1898
+02:19:20,810 --> 02:19:23,060
+cũng được cứu.
+
+1899
+02:19:30,820 --> 02:19:34,820
+Ngươi đến để đầu hàng chăng?
+
+1900
+02:19:35,450 --> 02:19:38,110
+- Có đáng không?
+- Dĩ nhiên.
+
+1901
+02:19:38,200 --> 02:19:42,450
+Ông làm mọi thứ để đưa Sentinel trở lại
+và giờ hắn nắm mọi quyền năng.
+
+1902
+02:19:42,540 --> 02:19:44,160
+Thật đáng thương.
+
+1903
+02:19:44,250 --> 02:19:47,250
+Đồ nô lệ, ngươi dám lên lớp ta sao?
+
+1904
+02:19:47,460 --> 02:19:51,380
+Decepticon đã chiếm được Trái Đất
+nhưng thủ lĩnh lại không phải là ông!
+
+1905
+02:19:51,460 --> 02:19:55,840
+Sẽ là ta! Luôn luôn là ta.
+
+1906
+02:19:56,220 --> 02:19:57,970
+Chẳng mấy chốc...
+
+1907
+02:19:58,340 --> 02:20:00,010
+ông cũng sẽ chẳng khác gì...
+
+1908
+02:20:00,260 --> 02:20:02,430
+một tên sai vặt của Sentinel.
+
+1909
+02:20:10,150 --> 02:20:11,560
+Hỏa tiễn!
+
+1910
+02:20:12,440 --> 02:20:13,610
+Tuyệt!
+
+1911
+02:20:26,290 --> 02:20:27,660
+Mày chọn phe rồi hả?
+
+1912
+02:20:28,460 --> 02:20:29,620
+Thế thì chọn sai rồi.
+
+1913
+02:20:36,590 --> 02:20:39,630
+Optimus, cậu lúc nào
+cũng là người dũng cảm nhất.
+
+1914
+02:20:42,800 --> 02:20:45,520
+Nhưng lại chẳng bao giờ quả quyết!
+
+1915
+02:20:47,770 --> 02:20:50,770
+Hành tinh của chúng ta sẽ sống!
+
+1916
+02:20:51,190 --> 02:20:52,270
+Không!
+
+1917
+02:21:02,450 --> 02:21:06,290
+Chúng ta từng là thần thánh.
+Tất cả chúng ta. Nhưng ở đây...
+
+1918
+02:21:06,700 --> 02:21:07,950
+Làm ơn đi!
+
+1919
+02:21:08,620 --> 02:21:11,040
+... sẽ chỉ có một vị thần mà thôi!
+
+1920
+02:21:21,880 --> 02:21:25,350
+Đây là hành tinh của ta!
+
+1921
+02:21:36,610 --> 02:21:38,480
+Tao vừa cứu cả một thế giới.
+
+1922
+02:21:38,570 --> 02:21:41,740
+Mày nghĩ mày là anh hùng à?
+
+1923
+02:21:41,820 --> 02:21:44,200
+Không. Tôi chỉ là một giao liên thôi.
+
+1924
+02:21:51,460 --> 02:21:53,420
+Cây cột vẫn còn kết nối!
+
+1925
+02:21:54,540 --> 02:21:56,000
+Tiến tới đi, mọi người!
+
+1926
+02:21:56,500 --> 02:21:57,800
+- Bee!
+- Đi qua đi!
+
+1927
+02:21:57,880 --> 02:22:00,090
+- Chiến nào!
+- Cây cột vẫn còn kết nối!
+
+1928
+02:22:00,380 --> 02:22:02,430
+Phá cây cột đi!
+
+1929
+02:22:26,700 --> 02:22:30,160
+Giờ chúng ta tạm đình chiến.
+
+1930
+02:22:30,370 --> 02:22:33,710
+Ta chỉ cần trở về ngôi thủ lĩnh.
+
+1931
+02:22:34,120 --> 02:22:35,670
+Hơn nữa...
+
+1932
+02:22:35,960 --> 02:22:39,960
+không có ta
+thì ngươi còn là gì chứ, Prime?
+
+1933
+02:22:40,050 --> 02:22:42,420
+Phải thử mới biết.
+
+1934
+02:23:04,200 --> 02:23:07,240
+Optimus, tất cả những gì tôi muốn là
+
+1935
+02:23:07,320 --> 02:23:09,910
+chủng tộc ta sống sót.
+
+1936
+02:23:10,080 --> 02:23:14,410
+Cậu phải hiểu lý do tôi lại phản bội.
+
+1937
+02:23:14,620 --> 02:23:17,080
+Anh không phản bội tôi.
+
+1938
+02:23:17,290 --> 02:23:19,960
+Anh đã phản bội lại chính bản thân mình.
+
+1939
+02:23:20,130 --> 02:23:21,710
+Không, Optimus!
+
+1940
+02:24:17,980 --> 02:24:19,060
+Sam.
+
+1941
+02:24:58,770 --> 02:24:59,980
+Em yêu anh.
+
+1942
+02:25:00,440 --> 02:25:01,520
+Anh yêu em.
+
+1943
+02:25:02,560 --> 02:25:04,270
+Anh chỉ cần em thôi.
+
+1944
+02:25:04,400 --> 02:25:06,570
+Anh sẽ làm mọi thứ để bù đắp. Anh hứa.
+
+1945
+02:25:07,570 --> 02:25:09,150
+Mong là anh sẽ giữ lời.
+
+1946
+02:25:10,490 --> 02:25:11,820
+Đừng bao giờ xa em.
+
+1947
+02:25:12,280 --> 02:25:13,450
+Anh hứa.
+
+1948
+02:25:19,830 --> 02:25:20,920
+Nhẫn à?
+
+1949
+02:25:28,840 --> 02:25:30,510
+Em thích chiếc xe này đấy.
+
+1950
+02:25:30,630 --> 02:25:32,430
+Này, từ từ thôi anh bạn.
+
+1951
+02:25:32,970 --> 02:25:34,600
+Làm gì mà máu thế?
+
+1952
+02:25:35,350 --> 02:25:37,180
+Tớ chỉ có ý tốt thôi mà.
+
+1953
+02:25:38,930 --> 02:25:40,230
+<i>Trong bất cứ cuộc chiến nào,</i>
+
+1954
+02:25:40,520 --> 02:25:43,190
+<i>cũng luôn có khoảng lặng</i>
+<i>giữa những cơn bão.</i>
+
+1955
+02:25:44,060 --> 02:25:45,400
+Chiến đấu cừ lắm.
+
+1956
+02:25:45,480 --> 02:25:47,820
+<i>Sẽ có ngày chúng ta mất lòng tin.</i>
+
+1957
+02:25:48,440 --> 02:25:51,110
+<i>Sẽ có ngày đồng minh</i>
+<i>của chúng ta phản bội.</i>
+
+1958
+02:25:51,950 --> 02:25:56,120
+<i>Nhưng chúng ta sẽ không</i>
+<i>từ bỏ hành tinh này</i>
+
+1959
+02:25:56,410 --> 02:25:57,790
+<i>và cư dân tại đây.</i>
+
+1960
+02:26:20,350 --> 02:26:24,020
+Anh gọi đây là khởi đầu
+của một tương lai tươi đẹp.
+
+1961
+02:26:25,560 --> 02:26:26,440
+Bắt lấy hắn.
+
+1962
+02:26:27,770 --> 02:26:28,730
+Bị bắt cũng đáng!
+
+1963
+02:26:28,900 --> 02:26:31,070
+- Đưa đi!
+- Anh sẽ vào tù vì tình yêu!
+
+1964
+02:26:31,440 --> 02:26:33,490
+Nhanh nào, bắt tôi đi! Tôi muốn bị bắt!
+
+1965
+02:26:33,990 --> 02:26:36,200
+- Luật sư của tôi giỏi nhất.
+- Bắt tôi đi!
+

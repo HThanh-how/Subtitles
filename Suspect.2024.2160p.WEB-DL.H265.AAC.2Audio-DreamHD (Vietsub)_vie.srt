@@ -1,0 +1,5710 @@
+1
+00:00:00,000 --> 00:00:10,000
+<font size="20" color="#fdfd00"><b>Phim do zinzuno remux và upload</b></font>
+
+2
+00:01:39,920 --> 00:01:39,980
+<font size="20" color="#fdfd00"><b>Anh cảnh sát, tôi đến báo án.</b></font>
+
+3
+00:01:39,980 --> 00:01:42,210
+<font size="20" color="#fdfd00"><b>[Đồn cảnh sát]</b></font>
+
+4
+00:01:42,210 --> 00:01:43,170
+<font size="20" color="#fdfd00"><b>Vụ án gì thế?</b></font>
+
+5
+00:01:43,170 --> 00:01:44,000
+<font size="20" color="#fdfd00"><b>À không phải,</b></font>
+
+6
+00:01:44,420 --> 00:01:45,570
+<font size="20" color="#fdfd00"><b>nên nói là đến</b></font>
+
+7
+00:01:46,200 --> 00:01:47,330
+<font size="20" color="#fdfd00"><b>để kể chuyện.</b></font>
+
+8
+00:01:49,170 --> 00:01:51,080
+<font size="20" color="#fdfd00"><b>Nghi ngờ có án mạng ở đường số 6,</b></font>
+
+9
+00:01:51,080 --> 00:01:53,150
+<font size="20" color="#fdfd00"><b>cảnh sát tuần tra gần đó mau đến hỗ trợ.</b></font>
+
+10
+00:01:56,170 --> 00:01:58,070
+<font size="20" color="#fdfd00"><b>[Hai tiếng trước]</b></font>
+
+11
+00:02:53,090 --> 00:02:54,820
+<font size="20" color="#fdfd00"><b>Không phải tôi hại chết cậu đâu.</b></font>
+
+12
+00:03:08,290 --> 00:03:09,040
+<font size="20" color="#fdfd00"><b>Cuối cùng,</b></font>
+
+13
+00:03:09,360 --> 00:03:11,060
+<font size="20" color="#fdfd00"><b>thẩm phán Quỷ đã xử tử tội phạm.</b></font>
+
+14
+00:03:12,320 --> 00:03:16,090
+<font size="20" color="#fdfd00"><b>[Thần Thám Siêu Phàm]</b></font>
+
+15
+00:03:22,010 --> 00:03:23,010
+<font size="20" color="#fdfd00"><b>Nạn nhân là Colin,</b></font>
+
+16
+00:03:23,090 --> 00:03:24,950
+<font size="20" color="#fdfd00"><b>Chủ tịch một công ty truyền thông.</b></font>
+
+17
+00:03:24,960 --> 00:03:25,510
+<font size="20" color="#fdfd00"><b>Tư liệu cho biết,</b></font>
+
+18
+00:03:25,510 --> 00:03:25,790
+<font size="20" color="#fdfd00"><b>[Tên: Colin]</b></font>
+
+19
+00:03:25,790 --> 00:03:27,710
+<font size="20" color="#fdfd00"><b>anh ta từng dính vào một vụ kiện
+liên quan đến mạng người</b></font>
+
+20
+00:03:27,710 --> 00:03:29,350
+<font size="20" color="#fdfd00"><b>nhưng cuối cùng không bị định tội.</b></font>
+
+21
+00:03:29,350 --> 00:03:31,120
+<font size="20" color="#fdfd00"><b>Vào đêm 26 tháng 10 khi xảy ra vụ án,</b></font>
+
+22
+00:03:31,120 --> 00:03:33,160
+<font size="20" color="#fdfd00"><b>khoảng hai tiếng sau khi nạn nhân bị hại,</b></font>
+
+23
+00:03:33,160 --> 00:03:34,850
+<font size="20" color="#fdfd00"><b>nghi phạm đến đồn cảnh sát
+khai báo và tự thú.</b></font>
+
+24
+00:03:34,850 --> 00:03:36,790
+<font size="20" color="#fdfd00"><b>Chúng tôi vội đến địa điểm gây án
+mà nghi phạm cung cấp,</b></font>
+
+25
+00:03:36,790 --> 00:03:38,510
+<font size="20" color="#fdfd00"><b>đúng là đã phát hiện ra thi thể của Colin.</b></font>
+
+26
+00:03:38,510 --> 00:03:39,510
+<font size="20" color="#fdfd00"><b>Nghi phạm Châu Mỹ.</b></font>
+
+27
+00:03:39,740 --> 00:03:39,920
+<font size="20" color="#fdfd00"><b>[Tên: Châu Mỹ]</b></font>
+
+28
+00:03:39,920 --> 00:03:41,720
+<font size="20" color="#fdfd00"><b>Làm việc tại một công ty trò chơi,</b></font>
+
+29
+00:03:41,830 --> 00:03:43,160
+<font size="20" color="#fdfd00"><b>đã bị chúng tôi bắt giam,</b></font>
+
+30
+00:03:43,160 --> 00:03:46,420
+<font size="20" color="#fdfd00"><b>hiện chưa phát hiện ra liên kết gì
+giữa nghi phạm và nạn nhân.</b></font>
+
+31
+00:03:47,300 --> 00:03:47,960
+<font size="20" color="#fdfd00"><b>Xin lỗi,</b></font>
+
+32
+00:03:49,840 --> 00:03:50,740
+<font size="20" color="#fdfd00"><b>nói tới đâu rồi?</b></font>
+
+33
+00:03:51,840 --> 00:03:53,760
+<font size="20" color="#fdfd00"><b>Chúng tôi đã điều tra địa điểm gây án,</b></font>
+
+34
+00:03:53,760 --> 00:03:55,760
+<font size="20" color="#fdfd00"><b>và các khu vực xung quanh,
+nhà của nghi phạm</b></font>
+
+35
+00:03:55,760 --> 00:03:56,760
+<font size="20" color="#fdfd00"><b>và các nơi liên quan,</b></font>
+
+36
+00:03:56,760 --> 00:03:58,620
+<font size="20" color="#fdfd00"><b>không tìm ra chứng cứ
+hành hung nào của nghi phạm.</b></font>
+
+37
+00:03:58,620 --> 00:04:00,370
+<font size="20" color="#fdfd00"><b>Chúng tôi cũng đã điều tra, thẩm vấn sơ bộ</b></font>
+
+38
+00:04:00,370 --> 00:04:02,540
+<font size="20" color="#fdfd00"><b>về người thân và đồng nghiệp của nghi phạm,</b></font>
+
+39
+00:04:02,540 --> 00:04:04,070
+<font size="20" color="#fdfd00"><b>cũng chẳng có gì bất thường.</b></font>
+
+40
+00:04:04,210 --> 00:04:05,260
+<font size="20" color="#fdfd00"><b>Dù chúng tôi thẩm vấn thế nào,</b></font>
+
+41
+00:04:05,260 --> 00:04:06,280
+<font size="20" color="#fdfd00"><b>nghi phạm đều kiên quyết nói mình đã dùng</b></font>
+
+42
+00:04:06,280 --> 00:04:06,800
+<font size="20" color="#fdfd00"><b>[Châu Mỹ]</b></font>
+
+43
+00:04:06,800 --> 00:04:08,090
+<font size="20" color="#fdfd00"><b>một sức mạnh siêu nhiên,</b></font>
+
+44
+00:04:08,090 --> 00:04:10,300
+<font size="20" color="#fdfd00"><b>triệu hồi thẩm phán quỷ địa ngục,</b></font>
+
+45
+00:04:10,540 --> 00:04:11,960
+<font size="20" color="#fdfd00"><b>xử tử tội phạm Colin.</b></font>
+
+46
+00:04:12,080 --> 00:04:13,710
+<font size="20" color="#fdfd00"><b>Cô ta còn nói thẩm phán quỷ địa ngục này</b></font>
+
+47
+00:04:13,710 --> 00:04:15,010
+<font size="20" color="#fdfd00"><b>sẽ tiếp tục đến nhân gian</b></font>
+
+48
+00:04:15,010 --> 00:04:16,710
+<font size="20" color="#fdfd00"><b>trừng phạt những tội phạm khác.</b></font>
+
+49
+00:04:16,710 --> 00:04:17,600
+<font size="20" color="#fdfd00"><b>Chúng tôi đã làm
+giám định tâm thần cho nghi phạm,</b></font>
+
+50
+00:04:17,600 --> 00:04:18,510
+<font size="20" color="#fdfd00"><b>[Châu Mỹ]</b></font>
+
+51
+00:04:18,510 --> 00:04:19,340
+<font size="20" color="#fdfd00"><b>kết quả là bình thường.</b></font>
+
+52
+00:04:19,340 --> 00:04:20,340
+<font size="20" color="#fdfd00"><b>Cho đến hiện tại,</b></font>
+
+53
+00:04:20,340 --> 00:04:22,350
+<font size="20" color="#fdfd00"><b>cô ta không chịu
+nói chuyện với cảnh sát nữa,</b></font>
+
+54
+00:04:22,350 --> 00:04:22,630
+<font size="20" color="#fdfd00"><b>[Châu Mỹ]</b></font>
+
+55
+00:04:22,630 --> 00:04:23,630
+<font size="20" color="#fdfd00"><b>chỉ đưa ra một yêu cầu.</b></font>
+
+56
+00:04:23,630 --> 00:04:24,690
+<font size="20" color="#fdfd00"><b>Nói vấn đề chính đi.</b></font>
+
+57
+00:04:25,540 --> 00:04:26,940
+<font size="20" color="#fdfd00"><b>Là muốn gặp Quách Văn Bân.</b></font>
+
+58
+00:04:28,100 --> 00:04:29,750
+<font size="20" color="#fdfd00"><b>[Quách Văn Bân]</b></font>
+
+59
+00:04:29,750 --> 00:04:30,460
+<font size="20" color="#fdfd00"><b>Quách Văn Bân,</b></font>
+
+60
+00:04:30,460 --> 00:04:32,320
+<font size="20" color="#fdfd00"><b>nguyên thanh tra cao cấp
+tổ tội phạm hình sự.</b></font>
+
+61
+00:04:32,320 --> 00:04:34,540
+<font size="20" color="#fdfd00"><b>Hai năm trước,
+anh ta và em trai Quách Văn Thành</b></font>
+
+62
+00:04:34,540 --> 00:04:36,710
+<font size="20" color="#fdfd00"><b>hợp tác điều tra
+một vụ án giết người hàng loạt.</b></font>
+
+63
+00:04:36,710 --> 00:04:39,040
+<font size="20" color="#fdfd00"><b>Anh ta đã tận mắt chứng kiến
+em trai gặp nạn trong quá trình điều tra.</b></font>
+
+64
+00:04:39,040 --> 00:04:40,830
+<font size="20" color="#fdfd00"><b>Sau đó làm việc cực kỳ điên cuồng,</b></font>
+
+65
+00:04:40,830 --> 00:04:42,830
+<font size="20" color="#fdfd00"><b>nhiều lần bị tố cáo liên lụy đến cả tổ,</b></font>
+
+66
+00:04:42,880 --> 00:04:43,760
+<font size="20" color="#fdfd00"><b>về sau đã chủ động xin nghỉ việc,</b></font>
+
+67
+00:04:43,760 --> 00:04:44,710
+<font size="20" color="#fdfd00"><b>rời khỏi đội cảnh sát.</b></font>
+
+68
+00:04:44,710 --> 00:04:47,020
+<font size="20" color="#fdfd00"><b>Người này hoàn toàn không đáng tin.</b></font>
+
+69
+00:04:47,540 --> 00:04:49,470
+<font size="20" color="#fdfd00"><b>Tôi biết anh có thành kiến với anh ta</b></font>
+
+70
+00:04:49,550 --> 00:04:51,810
+<font size="20" color="#fdfd00"><b>nhưng đừng giải quyết việc bằng tình cảm.</b></font>
+
+71
+00:04:54,760 --> 00:04:57,570
+<font size="20" color="#fdfd00"><b>Quách Văn Bân mắc hội chứng
+trí nhớ siêu phàm cực kỳ hiếm gặp,</b></font>
+
+72
+00:04:57,570 --> 00:04:57,830
+<font size="20" color="#fdfd00"><b>có thể nhớ hết mọi chuyện đã từng trải qua.</b></font>
+
+73
+00:04:57,830 --> 00:05:00,010
+<font size="20" color="#fdfd00"><b>[Hội chứng trí nhớ siêu phàm]
+[Tỉ lệ phá án phía cảnh sát đạt 94%]</b></font>
+
+74
+00:05:00,010 --> 00:05:01,470
+<font size="20" color="#fdfd00"><b>Năng lực nhìn qua là nhớ này</b></font>
+
+75
+00:05:01,590 --> 00:05:03,950
+<font size="20" color="#fdfd00"><b>cũng đã giúp phía cảnh sát
+phá được nhiều vụ án kỳ lạ.</b></font>
+
+76
+00:05:03,950 --> 00:05:05,680
+<font size="20" color="#fdfd00"><b>Nếu anh không có cách nào tốt hơn</b></font>
+
+77
+00:05:05,790 --> 00:05:07,050
+<font size="20" color="#fdfd00"><b>thì để tôi đi tìm anh ta.</b></font>
+
+78
+00:05:16,210 --> 00:05:18,540
+<font size="20" color="#fdfd00"><b>Đêm ngày 26 tháng 10
+đã xảy ra một vụ án mạng,</b></font>
+
+79
+00:05:18,540 --> 00:05:19,750
+<font size="20" color="#fdfd00"><b>cái chết của nạn nhân rất kỳ lạ.</b></font>
+
+80
+00:05:19,750 --> 00:05:20,800
+<font size="20" color="#fdfd00"><b>Theo tin tức,</b></font>
+
+81
+00:05:20,800 --> 00:05:22,830
+<font size="20" color="#fdfd00"><b>nạn nhân kinh doanh
+một công ty truyền thông,</b></font>
+
+82
+00:05:22,830 --> 00:05:24,080
+<font size="20" color="#fdfd00"><b>mối quan hệ xã hội phức tạp.</b></font>
+
+83
+00:05:24,080 --> 00:05:26,370
+<font size="20" color="#fdfd00"><b>Hiện tại đã có một nghi phạm
+đến đồn cảnh sát tự thú,</b></font>
+
+84
+00:05:26,370 --> 00:05:28,700
+<font size="20" color="#fdfd00"><b>phía cảnh sát đang tiến hành điều tra thêm.</b></font>
+
+85
+00:05:40,060 --> 00:05:40,610
+<font size="20" color="#fdfd00"><b>Này.</b></font>
+
+86
+00:05:51,090 --> 00:05:51,790
+<font size="20" color="#fdfd00"><b>Chà,</b></font>
+
+87
+00:05:53,510 --> 00:05:55,130
+<font size="20" color="#fdfd00"><b>xem ra cũng dữ dội đấy.</b></font>
+
+88
+00:05:56,290 --> 00:05:57,950
+<font size="20" color="#fdfd00"><b>Uống một mình mà không gọi tôi.</b></font>
+
+89
+00:05:58,450 --> 00:06:00,370
+<font size="20" color="#fdfd00"><b>Tôi cai rượu được một năm lẻ mười tháng rồi,</b></font>
+
+90
+00:06:00,370 --> 00:06:01,510
+<font size="20" color="#fdfd00"><b>bày mấy bình rượu này ở đây</b></font>
+
+91
+00:06:01,510 --> 00:06:03,910
+<font size="20" color="#fdfd00"><b>chỉ để nhắc nhở bản thân
+tôi đã từng say thôi.</b></font>
+
+92
+00:06:05,340 --> 00:06:06,540
+<font size="20" color="#fdfd00"><b>Nói chuyện chính nhé.</b></font>
+
+93
+00:06:06,920 --> 00:06:07,920
+<font size="20" color="#fdfd00"><b>Nghi phạm Châu Mỹ,</b></font>
+
+94
+00:06:08,130 --> 00:06:10,130
+<font size="20" color="#fdfd00"><b>có gan báo trước vụ án giết người này,</b></font>
+
+95
+00:06:10,370 --> 00:06:12,420
+<font size="20" color="#fdfd00"><b>chứng tỏ nạn nhân tiếp theo rất có khả năng</b></font>
+
+96
+00:06:12,420 --> 00:06:13,920
+<font size="20" color="#fdfd00"><b>đã nằm trong quyền kiểm soát của cô ta.</b></font>
+
+97
+00:06:13,920 --> 00:06:15,960
+<font size="20" color="#fdfd00"><b>Bây giờ nghi phạm
+chỉ đích danh muốn gặp anh,</b></font>
+
+98
+00:06:15,960 --> 00:06:17,220
+<font size="20" color="#fdfd00"><b>rõ ràng là nhắm tới anh.</b></font>
+
+99
+00:06:17,920 --> 00:06:19,980
+<font size="20" color="#fdfd00"><b>Chỉ cần anh về đội giải quyết vụ án này,</b></font>
+
+100
+00:06:20,010 --> 00:06:21,040
+<font size="20" color="#fdfd00"><b>giúp tôi thăng chức</b></font>
+
+101
+00:06:21,040 --> 00:06:22,440
+<font size="20" color="#fdfd00"><b>thì tôi sẽ có quyền cho anh</b></font>
+
+102
+00:06:23,910 --> 00:06:26,110
+<font size="20" color="#fdfd00"><b>tiếp tục điều tra vụ án em trai anh bị hại.</b></font>
+
+103
+00:07:18,960 --> 00:07:22,630
+<font size="20" color="#fdfd00"><b>[Lệnh truy nã]</b></font>
+
+104
+00:07:24,000 --> 00:07:25,010
+<font size="20" color="#fdfd00"><b>Điều tra thêm tư liệu của cô nhi viện đi.</b></font>
+
+105
+00:07:25,010 --> 00:07:25,590
+<font size="20" color="#fdfd00"><b>Vâng.</b></font>
+
+106
+00:07:28,670 --> 00:07:29,210
+<font size="20" color="#fdfd00"><b>A lô.</b></font>
+
+107
+00:07:30,050 --> 00:07:30,580
+<font size="20" color="#fdfd00"><b>Được.</b></font>
+
+108
+00:07:31,480 --> 00:07:33,370
+<font size="20" color="#fdfd00"><b>[Vinh quang cảnh sát]</b></font>
+
+109
+00:07:36,870 --> 00:07:38,460
+<font size="20" color="#fdfd00"><b>Quách Văn Bân về rồi.</b></font>
+
+110
+00:07:42,000 --> 00:07:43,800
+<font size="20" color="#fdfd00"><b>Mau nhìn đi, Quách Văn Bân về rồi.</b></font>
+
+111
+00:07:49,550 --> 00:07:50,130
+<font size="20" color="#fdfd00"><b>Này.</b></font>
+
+112
+00:07:51,160 --> 00:07:52,290
+<font size="20" color="#fdfd00"><b>Không phải của tôi à?</b></font>
+
+113
+00:07:52,510 --> 00:07:53,700
+<font size="20" color="#fdfd00"><b>Bây giờ là của anh rồi.</b></font>
+
+114
+00:07:58,410 --> 00:08:00,250
+<font size="20" color="#fdfd00"><b>Đứng ở đây làm gì? Làm việc đi.</b></font>
+
+115
+00:08:01,910 --> 00:08:03,000
+<font size="20" color="#fdfd00"><b>Chào mừng trở lại.</b></font>
+
+116
+00:08:03,550 --> 00:08:04,570
+<font size="20" color="#fdfd00"><b>Anh cố lên nhé,</b></font>
+
+117
+00:08:05,450 --> 00:08:06,780
+<font size="20" color="#fdfd00"><b>đừng để tôi gánh tội nữa.</b></font>
+
+118
+00:08:06,840 --> 00:08:07,590
+<font size="20" color="#fdfd00"><b>Anh yên tâm,</b></font>
+
+119
+00:08:07,590 --> 00:08:08,450
+<font size="20" color="#fdfd00"><b>tội của tôi lớn lắm,</b></font>
+
+120
+00:08:08,450 --> 00:08:09,720
+<font size="20" color="#fdfd00"><b>anh vốn không gánh nổi.</b></font>
+
+121
+00:08:17,260 --> 00:08:18,990
+<font size="20" color="#fdfd00"><b>Đồ đạc của nạn nhân ở đây hết rồi.</b></font>
+
+122
+00:08:19,980 --> 00:08:20,670
+<font size="20" color="#fdfd00"><b>[Có vết máu ở đầu gối]</b></font>
+
+123
+00:08:21,390 --> 00:08:22,100
+<font size="20" color="#fdfd00"><b>[Áo bị mòn]</b></font>
+
+124
+00:08:22,830 --> 00:08:23,590
+<font size="20" color="#fdfd00"><b>[Đế giày dính sơn]</b></font>
+
+125
+00:09:16,010 --> 00:09:16,310
+<font size="20" color="#fdfd00"><b>Cô gái tự sát bằng dây xích sắt.</b></font>
+
+126
+00:09:16,310 --> 00:09:17,560
+<font size="20" color="#fdfd00"><b>[Cô gái giảm cân treo cổ tự sát]</b></font>
+
+127
+00:09:28,290 --> 00:09:29,670
+<font size="20" color="#fdfd00"><b>Nên tôi suy đoán nạn nhân</b></font>
+
+128
+00:09:29,670 --> 00:09:31,130
+<font size="20" color="#fdfd00"><b>bị tông xe trước,</b></font>
+
+129
+00:09:31,130 --> 00:09:31,910
+<font size="20" color="#fdfd00"><b>sau đó</b></font>
+
+130
+00:09:32,550 --> 00:09:33,870
+<font size="20" color="#fdfd00"><b>đã tạo thành</b></font>
+
+131
+00:09:35,000 --> 00:09:36,790
+<font size="20" color="#fdfd00"><b>vết thương ngoài da trên chân anh ta.</b></font>
+
+132
+00:09:36,790 --> 00:09:39,390
+<font size="20" color="#fdfd00"><b>Ôi trời, cổ phiếu hôm nay
+lại giảm rồi, khỉ thật.</b></font>
+
+133
+00:09:39,610 --> 00:09:41,570
+<font size="20" color="#fdfd00"><b>Sau đó hung thủ dùng dây xích sắt</b></font>
+
+134
+00:09:41,590 --> 00:09:42,420
+<font size="20" color="#fdfd00"><b>siết chết nạn nhân</b></font>
+
+135
+00:09:42,420 --> 00:09:44,160
+<font size="20" color="#fdfd00"><b>rồi treo lên lan can tầng ba,</b></font>
+
+136
+00:09:44,190 --> 00:09:45,950
+<font size="20" color="#fdfd00"><b>làm cho giống như anh ta tự sát.</b></font>
+
+137
+00:09:46,090 --> 00:09:46,910
+<font size="20" color="#fdfd00"><b>Còn nữa,</b></font>
+
+138
+00:09:47,710 --> 00:09:48,910
+<font size="20" color="#fdfd00"><b>dây xích sắt này…</b></font>
+
+139
+00:09:50,180 --> 00:09:52,810
+<font size="20" color="#fdfd00"><b>A lô, cái gì? Cổ phiếu đó rớt giá rồi hả?</b></font>
+
+140
+00:09:52,850 --> 00:09:53,710
+<font size="20" color="#fdfd00"><b>Đúng, đúng, đúng,</b></font>
+
+141
+00:09:53,710 --> 00:09:55,650
+<font size="20" color="#fdfd00"><b>bảy tám chín, bảy tám chín, mua thêm đi,</b></font>
+
+142
+00:09:55,650 --> 00:09:56,110
+<font size="20" color="#fdfd00"><b>mua vào…</b></font>
+
+143
+00:09:57,650 --> 00:09:58,050
+<font size="20" color="#fdfd00"><b>Này!</b></font>
+
+144
+00:09:58,080 --> 00:09:58,610
+<font size="20" color="#fdfd00"><b>Cô nói đi.</b></font>
+
+145
+00:09:58,810 --> 00:09:59,780
+<font size="20" color="#fdfd00"><b>Trời ạ.</b></font>
+
+146
+00:09:59,950 --> 00:10:01,140
+<font size="20" color="#fdfd00"><b>Phán đoán của tôi thì khác,</b></font>
+
+147
+00:10:01,140 --> 00:10:02,270
+<font size="20" color="#fdfd00"><b>e là sẽ làm anh sợ đấy.</b></font>
+
+148
+00:10:02,880 --> 00:10:03,850
+<font size="20" color="#fdfd00"><b>Cô cứ nói đi.</b></font>
+
+149
+00:10:04,160 --> 00:10:04,790
+<font size="20" color="#fdfd00"><b>Này,</b></font>
+
+150
+00:10:05,170 --> 00:10:06,700
+<font size="20" color="#fdfd00"><b>cô có nhìn rõ được không đấy?</b></font>
+
+151
+00:10:12,710 --> 00:10:14,620
+<font size="20" color="#fdfd00"><b>Trên cổ nạn nhân có hai vết hằn hình khóa,</b></font>
+
+152
+00:10:14,620 --> 00:10:16,050
+<font size="20" color="#fdfd00"><b>chỉ có một vết là khép kín.</b></font>
+
+153
+00:10:17,300 --> 00:10:17,910
+<font size="20" color="#fdfd00"><b>Đúng là</b></font>
+
+154
+00:10:17,960 --> 00:10:20,690
+<font size="20" color="#fdfd00"><b>rất thường gặp
+trong những vụ án ngụy tạo cái chết,</b></font>
+
+155
+00:10:21,870 --> 00:10:22,730
+<font size="20" color="#fdfd00"><b>nhưng</b></font>
+
+156
+00:10:22,870 --> 00:10:25,130
+<font size="20" color="#fdfd00"><b>tự sát cũng tạo thành dấu vết như thế được.</b></font>
+
+157
+00:10:27,350 --> 00:10:27,760
+<font size="20" color="#fdfd00"><b>Này,</b></font>
+
+158
+00:10:27,790 --> 00:10:28,880
+<font size="20" color="#fdfd00"><b>cô làm gì thế hả?</b></font>
+
+159
+00:10:28,960 --> 00:10:29,910
+<font size="20" color="#fdfd00"><b>Này, này, này,</b></font>
+
+160
+00:10:30,300 --> 00:10:32,100
+<font size="20" color="#fdfd00"><b>người ta đang phân tích vụ án đó,</b></font>
+
+161
+00:10:32,280 --> 00:10:33,460
+<font size="20" color="#fdfd00"><b>anh có thể phối hợp chút không?</b></font>
+
+162
+00:10:33,460 --> 00:10:34,080
+<font size="20" color="#fdfd00"><b>Tôi còn chưa tố cáo anh</b></font>
+
+163
+00:10:34,080 --> 00:10:36,080
+<font size="20" color="#fdfd00"><b>chơi cổ phiếu trong giờ làm việc đấy.</b></font>
+
+164
+00:10:38,850 --> 00:10:40,210
+<font size="20" color="#fdfd00"><b>Điều cô nói lúc nãy cũng có lý,</b></font>
+
+165
+00:10:40,210 --> 00:10:42,010
+<font size="20" color="#fdfd00"><b>nhưng cô có bằng chứng không?</b></font>
+
+166
+00:10:42,050 --> 00:10:42,720
+<font size="20" color="#fdfd00"><b>Buông ra.</b></font>
+
+167
+00:10:44,260 --> 00:10:45,710
+<font size="20" color="#fdfd00"><b>Đó chỉ là suy nghĩ của cô,</b></font>
+
+168
+00:10:45,820 --> 00:10:47,010
+<font size="20" color="#fdfd00"><b>chứng cứ đâu?</b></font>
+
+169
+00:10:47,700 --> 00:10:49,840
+<font size="20" color="#fdfd00"><b>Bản năng sinh tồn của anh ta
+đã cho ra đáp án.</b></font>
+
+170
+00:10:49,840 --> 00:10:52,110
+<font size="20" color="#fdfd00"><b>Nếu nạn nhân bị siết cổ chết</b></font>
+
+171
+00:10:52,130 --> 00:10:54,770
+<font size="20" color="#fdfd00"><b>thì phần cổ sẽ để lại
+dấu vết vùng vẫy từ hai tay.</b></font>
+
+172
+00:10:55,170 --> 00:10:56,170
+<font size="20" color="#fdfd00"><b>Nhưng anh nhìn đi,</b></font>
+
+173
+00:10:56,830 --> 00:10:59,160
+<font size="20" color="#fdfd00"><b>phần cổ của Colin chỉ có vết ngấn hình khóa.</b></font>
+
+174
+00:10:59,470 --> 00:11:00,600
+<font size="20" color="#fdfd00"><b>Có lẽ anh sẽ phán đoán</b></font>
+
+175
+00:11:00,680 --> 00:11:02,710
+<font size="20" color="#fdfd00"><b>lúc đó nạn nhân
+đang trong trạng thái vô thức,</b></font>
+
+176
+00:11:02,710 --> 00:11:03,810
+<font size="20" color="#fdfd00"><b>không có năng lực phản kháng.</b></font>
+
+177
+00:11:03,810 --> 00:11:05,270
+<font size="20" color="#fdfd00"><b>Nhưng tình hình thực tế</b></font>
+
+178
+00:11:05,290 --> 00:11:07,910
+<font size="20" color="#fdfd00"><b>là ngoài cơ thể nạn nhân
+không có vết thương chí mạng nào.</b></font>
+
+179
+00:11:07,910 --> 00:11:10,030
+<font size="20" color="#fdfd00"><b>Trong cơ thể cũng không phát hiện
+thuốc gây mê Ether,</b></font>
+
+180
+00:11:10,030 --> 00:11:13,230
+<font size="20" color="#fdfd00"><b>rượu, chất gây nghiện
+hay bất kì thuốc gây ảo giác nào khác.</b></font>
+
+181
+00:11:13,490 --> 00:11:15,200
+<font size="20" color="#fdfd00"><b>Vậy ngoài vết thương ở cổ ra,</b></font>
+
+182
+00:11:15,230 --> 00:11:16,570
+<font size="20" color="#fdfd00"><b>cô giải thích những vết thương khác thế nào?</b></font>
+
+183
+00:11:16,570 --> 00:11:18,400
+<font size="20" color="#fdfd00"><b>Những vết thương anh nhìn thấy</b></font>
+
+184
+00:11:18,420 --> 00:11:19,880
+<font size="20" color="#fdfd00"><b>có một phần là do bị tông xe,</b></font>
+
+185
+00:11:19,890 --> 00:11:20,830
+<font size="20" color="#fdfd00"><b>còn một phần khác</b></font>
+
+186
+00:11:21,250 --> 00:11:24,250
+<font size="20" color="#fdfd00"><b>là do nạn nhân phát điên
+rồi va chạm lung tung tạo thành.</b></font>
+
+187
+00:11:27,290 --> 00:11:28,140
+<font size="20" color="#fdfd00"><b>Chờ chút nhé.</b></font>
+
+188
+00:11:30,780 --> 00:11:32,470
+<font size="20" color="#fdfd00"><b>[Rách cơ][Vỡ mạch máu nghiêm trọng]</b></font>
+
+189
+00:11:32,680 --> 00:11:33,860
+<font size="20" color="#fdfd00"><b>[Gãy xương]</b></font>
+
+190
+00:11:34,580 --> 00:11:36,000
+<font size="20" color="#fdfd00"><b>[Giám định vết xước đồ vật,
+chấn thương khi ngã]</b></font>
+
+191
+00:11:36,030 --> 00:11:36,940
+<font size="20" color="#fdfd00"><b>[Giám định vết xước đồ vật, chấn thương
+khi ngã, không có dấu vân tay khác]</b></font>
+
+192
+00:11:36,940 --> 00:11:38,270
+<font size="20" color="#fdfd00"><b>Những điều trên đã nói rõ</b></font>
+
+193
+00:11:38,430 --> 00:11:40,050
+<font size="20" color="#fdfd00"><b>nạn nhân vốn không phải bị giết,</b></font>
+
+194
+00:11:40,050 --> 00:11:40,800
+<font size="20" color="#fdfd00"><b>mà là tự sát.</b></font>
+
+195
+00:11:40,960 --> 00:11:41,830
+<font size="20" color="#fdfd00"><b>Cũng tức là</b></font>
+
+196
+00:11:41,940 --> 00:11:44,090
+<font size="20" color="#fdfd00"><b>có khả năng nạn nhân đã bị một loại</b></font>
+
+197
+00:11:44,100 --> 00:11:46,030
+<font size="20" color="#fdfd00"><b>sức mạnh siêu nhiên nào đó khống chế</b></font>
+
+198
+00:11:46,190 --> 00:11:47,280
+<font size="20" color="#fdfd00"><b>và tự sát bị động.</b></font>
+
+199
+00:11:47,290 --> 00:11:48,570
+<font size="20" color="#fdfd00"><b>Ý của cô là</b></font>
+
+200
+00:11:48,610 --> 00:11:50,220
+<font size="20" color="#fdfd00"><b>cô cũng tin có thẩm phán Quỷ?</b></font>
+
+201
+00:11:50,730 --> 00:11:52,360
+<font size="20" color="#fdfd00"><b>Tôi tin khoa học</b></font>
+
+202
+00:11:52,450 --> 00:11:54,070
+<font size="20" color="#fdfd00"><b>không thể đưa ra tất cả đáp án,</b></font>
+
+203
+00:11:54,240 --> 00:11:55,120
+<font size="20" color="#fdfd00"><b>giống như việc</b></font>
+
+204
+00:11:55,150 --> 00:11:58,100
+<font size="20" color="#fdfd00"><b>pháp luật không thể định đoạt
+tất cả thiện ác.</b></font>
+
+205
+00:12:12,640 --> 00:12:14,860
+<font size="20" color="#fdfd00"><b>Anh chính là Quách Văn Bân,
+người mắc hội chứng trí nhớ siêu phàm sao?</b></font>
+
+206
+00:12:14,860 --> 00:12:15,990
+<font size="20" color="#fdfd00"><b>Gọi tôi là Mỹ là được.</b></font>
+
+207
+00:12:16,040 --> 00:12:17,270
+<font size="20" color="#fdfd00"><b>Cuối cùng cũng gặp được anh rồi,</b></font>
+
+208
+00:12:17,270 --> 00:12:19,450
+<font size="20" color="#fdfd00"><b>trông anh cởi mở hơn tưởng tượng của tôi.</b></font>
+
+209
+00:12:19,450 --> 00:12:21,110
+<font size="20" color="#fdfd00"><b>Cô nghĩ tôi mắc bệnh tâm thần à?</b></font>
+
+210
+00:12:21,200 --> 00:12:23,150
+<font size="20" color="#fdfd00"><b>Cô hiểu biết bao nhiêu
+về hội chứng trí nhớ siêu phàm?</b></font>
+
+211
+00:12:23,150 --> 00:12:25,570
+<font size="20" color="#fdfd00"><b>Có thể nhớ vô cùng rõ ràng về mỗi người,</b></font>
+
+212
+00:12:25,770 --> 00:12:28,120
+<font size="20" color="#fdfd00"><b>mỗi chuyện, mỗi chi tiết từng gặp.</b></font>
+
+213
+00:12:28,440 --> 00:12:30,330
+<font size="20" color="#fdfd00"><b>Trên thế giới không quá một trăm người</b></font>
+
+214
+00:12:30,330 --> 00:12:31,530
+<font size="20" color="#fdfd00"><b>mắc hội chứng như anh,</b></font>
+
+215
+00:12:31,730 --> 00:12:34,260
+<font size="20" color="#fdfd00"><b>liệu anh có từng nghĩ
+đây là ơn do trời ban chưa?</b></font>
+
+216
+00:12:35,150 --> 00:12:36,850
+<font size="20" color="#fdfd00"><b>Xem ra cô đã tìm hiểu rất nhiều.</b></font>
+
+217
+00:12:37,120 --> 00:12:38,070
+<font size="20" color="#fdfd00"><b>Sự thật thì</b></font>
+
+218
+00:12:39,100 --> 00:12:40,430
+<font size="20" color="#fdfd00"><b>cũng được coi là ơn trên.</b></font>
+
+219
+00:12:42,040 --> 00:12:44,630
+<font size="20" color="#fdfd00"><b>Tôi nhớ anh thi đậu cảnh sát vào năm 2012,</b></font>
+
+220
+00:12:45,720 --> 00:12:46,930
+<font size="20" color="#fdfd00"><b>không bao lâu sau,</b></font>
+
+221
+00:12:46,950 --> 00:12:50,030
+<font size="20" color="#fdfd00"><b>em trai sinh đôi của anh
+cũng trở thành thẩm phán thực tập.</b></font>
+
+222
+00:12:50,030 --> 00:12:51,270
+<font size="20" color="#fdfd00"><b>Vốn hai người</b></font>
+
+223
+00:12:51,310 --> 00:12:53,070
+<font size="20" color="#fdfd00"><b>có thể tha hồ phát huy tài năng,</b></font>
+
+224
+00:12:53,960 --> 00:12:55,090
+<font size="20" color="#fdfd00"><b>nhưng thật đáng tiếc,</b></font>
+
+225
+00:12:55,090 --> 00:12:57,750
+<font size="20" color="#fdfd00"><b>anh tận mắt nhìn thấy
+em trai chết trước mặt mình,</b></font>
+
+226
+00:12:57,770 --> 00:13:00,370
+<font size="20" color="#fdfd00"><b>nhưng lại không nhớ được
+hình dáng của hung thủ.</b></font>
+
+227
+00:13:01,160 --> 00:13:02,760
+<font size="20" color="#fdfd00"><b>Chắc là anh rất tự trách</b></font>
+
+228
+00:13:03,300 --> 00:13:04,830
+<font size="20" color="#fdfd00"><b>và hối hận muốn chết lắm nhỉ?</b></font>
+
+229
+00:13:05,750 --> 00:13:07,150
+<font size="20" color="#fdfd00"><b>Tôi đã chết một lần rồi,</b></font>
+
+230
+00:13:07,830 --> 00:13:09,970
+<font size="20" color="#fdfd00"><b>tiếc là ông trời không lấy cái mạng này.</b></font>
+
+231
+00:13:12,750 --> 00:13:13,880
+<font size="20" color="#fdfd00"><b>Cô hiểu tôi quá,</b></font>
+
+232
+00:13:14,070 --> 00:13:16,070
+<font size="20" color="#fdfd00"><b>nhưng tôi lại chẳng hiểu cô chút nào.</b></font>
+
+233
+00:13:20,230 --> 00:13:20,910
+<font size="20" color="#fdfd00"><b>Cảm ơn.</b></font>
+
+234
+00:13:29,170 --> 00:13:30,650
+<font size="20" color="#fdfd00"><b>Chắc là anh rất muốn biết</b></font>
+
+235
+00:13:31,230 --> 00:13:32,510
+<font size="20" color="#fdfd00"><b>tại sao thẩm phán Quỷ</b></font>
+
+236
+00:13:33,060 --> 00:13:34,530
+<font size="20" color="#fdfd00"><b>lại giết chết Colin nhỉ?</b></font>
+
+237
+00:13:35,110 --> 00:13:36,350
+<font size="20" color="#fdfd00"><b>Tôi nhớ ba năm trước</b></font>
+
+238
+00:13:36,380 --> 00:13:38,600
+<font size="20" color="#fdfd00"><b>có một cô gái tin vào quảng cáo giảm cân
+một cách mù quáng,</b></font>
+
+239
+00:13:38,600 --> 00:13:40,000
+<font size="20" color="#fdfd00"><b>kết quả cân chưa giảm được</b></font>
+
+240
+00:13:40,050 --> 00:13:41,570
+<font size="20" color="#fdfd00"><b>đã bị trầm cảm rồi tự sát.</b></font>
+
+241
+00:13:42,120 --> 00:13:44,450
+<font size="20" color="#fdfd00"><b>Về sau xưởng thuốc
+bị tố cáo dẫn đến phá sản,</b></font>
+
+242
+00:13:44,890 --> 00:13:46,930
+<font size="20" color="#fdfd00"><b>mà Colin - người thiết kế quảng cáo này</b></font>
+
+243
+00:13:46,930 --> 00:13:49,470
+<font size="20" color="#fdfd00"><b>chẳng phải chịu
+bất cứ trách nhiệm pháp luật nào.</b></font>
+
+244
+00:13:49,470 --> 00:13:50,610
+<font size="20" color="#fdfd00"><b>Có phải cô giết Colin</b></font>
+
+245
+00:13:50,740 --> 00:13:52,400
+<font size="20" color="#fdfd00"><b>để trả thù cho cô gái kia không?</b></font>
+
+246
+00:13:53,740 --> 00:13:54,700
+<font size="20" color="#fdfd00"><b>Phải thì đã sao?</b></font>
+
+247
+00:13:54,810 --> 00:13:56,410
+<font size="20" color="#fdfd00"><b>Tất cả tội phạm đều phải chết,</b></font>
+
+248
+00:14:00,180 --> 00:14:02,040
+<font size="20" color="#fdfd00"><b>Colin không phải người cuối cùng.</b></font>
+
+249
+00:14:02,100 --> 00:14:03,700
+<font size="20" color="#fdfd00"><b>Thẩm phán Quỷ đến từ địa ngục,</b></font>
+
+250
+00:14:04,850 --> 00:14:06,310
+<font size="20" color="#fdfd00"><b>trò chơi sắp bắt đầu rồi.</b></font>
+
+251
+00:14:11,970 --> 00:14:14,430
+<font size="20" color="#fdfd00"><b>Anh đã xem bức tranh tiên đoán
+tôi gửi rồi chứ?</b></font>
+
+252
+00:14:14,850 --> 00:14:16,140
+<font size="20" color="#fdfd00"><b>Từ khi chúng ta gặp mặt</b></font>
+
+253
+00:14:16,600 --> 00:14:18,130
+<font size="20" color="#fdfd00"><b>đã bắt đầu đếm ngược rồi.</b></font>
+
+254
+00:14:19,970 --> 00:14:21,200
+<font size="20" color="#fdfd00"><b>Mười giờ tối nay,</b></font>
+
+255
+00:14:21,400 --> 00:14:23,730
+<font size="20" color="#fdfd00"><b>thẩm phán Quỷ sẽ giết tội phạm trong tranh.</b></font>
+
+256
+00:14:24,300 --> 00:14:25,890
+<font size="20" color="#fdfd00"><b>Nếu anh hành động nhanh chóng,</b></font>
+
+257
+00:14:25,890 --> 00:14:27,820
+<font size="20" color="#fdfd00"><b>biết đâu sẽ được tận mắt chứng kiến.</b></font>
+
+258
+00:14:31,810 --> 00:14:33,250
+<font size="20" color="#fdfd00"><b>Cô có tài năng hội họa đấy,</b></font>
+
+259
+00:14:33,940 --> 00:14:36,340
+<font size="20" color="#fdfd00"><b>tưởng chừng đơn giản
+mà lại ẩn chứa chi tiết.</b></font>
+
+260
+00:14:37,180 --> 00:14:39,240
+<font size="20" color="#fdfd00"><b>Hay là cung cấp thêm chút thông tin đi.</b></font>
+
+261
+00:14:40,430 --> 00:14:42,990
+<font size="20" color="#fdfd00"><b>Cỗ xe ngựa của Eos
+chạy qua đỉnh vòm nhân gian,</b></font>
+
+262
+00:14:43,400 --> 00:14:45,060
+<font size="20" color="#fdfd00"><b>muốn ngắm nhìn người nàng yêu.</b></font>
+
+263
+00:14:45,350 --> 00:14:47,060
+<font size="20" color="#fdfd00"><b>Nhưng người nàng yêu vì bị bệnh tật đeo bám,</b></font>
+
+264
+00:14:47,060 --> 00:14:49,140
+<font size="20" color="#fdfd00"><b>đã từ bỏ lời thề để được trường sinh</b></font>
+
+265
+00:14:49,140 --> 00:14:51,540
+<font size="20" color="#fdfd00"><b>và đã mục nát
+trong quan tài gỗ cao quý từ lâu.</b></font>
+
+266
+00:14:59,330 --> 00:15:00,510
+<font size="20" color="#fdfd00"><b>[Đồn cảnh sát]</b></font>
+
+267
+00:15:00,510 --> 00:15:02,120
+<font size="20" color="#fdfd00"><b>Cô đã xem tin hot mới đăng chưa?</b></font>
+
+268
+00:15:02,120 --> 00:15:02,940
+<font size="20" color="#fdfd00"><b>Đương nhiên là xem rồi.</b></font>
+
+269
+00:15:02,940 --> 00:15:03,180
+<font size="20" color="#fdfd00"><b>[Tên: Colin]</b></font>
+
+270
+00:15:03,180 --> 00:15:04,680
+<font size="20" color="#fdfd00"><b>Colin chết là đáng,</b></font>
+
+271
+00:15:04,710 --> 00:15:06,310
+<font size="20" color="#fdfd00"><b>thẩm phán Quỷ thay trời hành đạo,</b></font>
+
+272
+00:15:06,310 --> 00:15:08,570
+<font size="20" color="#fdfd00"><b>lượt xem của tin tức này đã lên hàng triệu.</b></font>
+
+273
+00:15:09,180 --> 00:15:10,600
+<font size="20" color="#fdfd00"><b>Lên top tìm kiếm luôn rồi.</b></font>
+
+274
+00:15:10,600 --> 00:15:12,140
+<font size="20" color="#fdfd00"><b>Đằng sau vụ án có nỗi oan.</b></font>
+
+275
+00:15:12,680 --> 00:15:15,010
+<font size="20" color="#fdfd00"><b>Anh xem, có nhiều người
+đứng về phía thẩm phán Quỷ lắm,</b></font>
+
+276
+00:15:15,010 --> 00:15:17,070
+<font size="20" color="#fdfd00"><b>lần này cảnh sát Hoàng lại đau đầu rồi.</b></font>
+
+277
+00:15:20,970 --> 00:15:23,500
+<font size="20" color="#fdfd00"><b>Tin tức này do một phóng viên viết.</b></font>
+
+278
+00:15:24,060 --> 00:15:25,010
+<font size="20" color="#fdfd00"><b>Anh ta đã thừa nhận</b></font>
+
+279
+00:15:25,010 --> 00:15:26,980
+<font size="20" color="#fdfd00"><b>mình và nghi phạm có giao dịch một lần
+trên trang web đen</b></font>
+
+280
+00:15:26,980 --> 00:15:28,040
+<font size="20" color="#fdfd00"><b>vào hai tuần trước,</b></font>
+
+281
+00:15:28,350 --> 00:15:30,270
+<font size="20" color="#fdfd00"><b>sắp đặt thời gian đăng tin trước</b></font>
+
+282
+00:15:30,270 --> 00:15:31,070
+<font size="20" color="#fdfd00"><b>và cả nội dung.</b></font>
+
+283
+00:15:32,010 --> 00:15:32,800
+<font size="20" color="#fdfd00"><b>Không cần điều tra nữa,</b></font>
+
+284
+00:15:32,800 --> 00:15:34,390
+<font size="20" color="#fdfd00"><b>chắc chắn là Châu Mỹ
+muốn giết bao nhiêu người</b></font>
+
+285
+00:15:34,390 --> 00:15:36,980
+<font size="20" color="#fdfd00"><b>thì sẽ mua chuộc bấy nhiêu phóng viên
+đăng tin giúp cô ta.</b></font>
+
+286
+00:15:36,980 --> 00:15:37,720
+<font size="20" color="#fdfd00"><b>Đúng thế.</b></font>
+
+287
+00:15:38,140 --> 00:15:39,640
+<font size="20" color="#fdfd00"><b>Bây giờ người ta trở thành</b></font>
+
+288
+00:15:39,640 --> 00:15:40,900
+<font size="20" color="#fdfd00"><b>anh hùng trong bóng tối</b></font>
+
+289
+00:15:41,110 --> 00:15:42,720
+<font size="20" color="#fdfd00"><b>dưới danh nghĩa công lý và chính nghĩa,</b></font>
+
+290
+00:15:42,720 --> 00:15:44,540
+<font size="20" color="#fdfd00"><b>giảm bớt niềm tin của người dân
+với cảnh sát chúng ta,</b></font>
+
+291
+00:15:44,540 --> 00:15:45,870
+<font size="20" color="#fdfd00"><b>anh nói xem phải làm sao?</b></font>
+
+292
+00:15:46,060 --> 00:15:48,060
+<font size="20" color="#fdfd00"><b>Sáu tiếng nữa là kẻ đó lại giết người,</b></font>
+
+293
+00:15:48,350 --> 00:15:49,610
+<font size="20" color="#fdfd00"><b>anh có nắm được gì chưa?</b></font>
+
+294
+00:15:49,930 --> 00:15:50,780
+<font size="20" color="#fdfd00"><b>Có chứ,</b></font>
+
+295
+00:15:51,170 --> 00:15:52,100
+<font size="20" color="#fdfd00"><b>anh tin không?</b></font>
+
+296
+00:15:53,390 --> 00:15:54,450
+<font size="20" color="#fdfd00"><b>Hài hước ghê,</b></font>
+
+297
+00:15:54,850 --> 00:15:57,310
+<font size="20" color="#fdfd00"><b>chuyện nghiêm trọng lắm đấy, anh biết không?</b></font>
+
+298
+00:15:57,470 --> 00:15:58,890
+<font size="20" color="#fdfd00"><b>Không phải tôi mời anh về để chơi đâu,</b></font>
+
+299
+00:15:58,890 --> 00:16:00,470
+<font size="20" color="#fdfd00"><b>nói cho anh biết, nghiêm túc vào.</b></font>
+
+300
+00:16:00,470 --> 00:16:01,560
+<font size="20" color="#fdfd00"><b>Nếu làm hỏng vụ án này,</b></font>
+
+301
+00:16:01,560 --> 00:16:03,350
+<font size="20" color="#fdfd00"><b>lập tức sẽ có người thay thế
+vị trí của tôi đấy, anh biết không?</b></font>
+
+302
+00:16:03,350 --> 00:16:05,350
+<font size="20" color="#fdfd00"><b>Đỉnh cao cuộc đời tôi chỉ thiếu chức này,</b></font>
+
+303
+00:16:05,350 --> 00:16:06,260
+<font size="20" color="#fdfd00"><b>đừng hại tôi,</b></font>
+
+304
+00:16:06,260 --> 00:16:07,640
+<font size="20" color="#fdfd00"><b>không là tôi đánh anh nhừ tử đó.</b></font>
+
+305
+00:16:07,640 --> 00:16:09,310
+<font size="20" color="#fdfd00"><b>Cảnh sát Hoàng, nếu anh rảnh</b></font>
+
+306
+00:16:09,310 --> 00:16:11,040
+<font size="20" color="#fdfd00"><b>thì nên đi khám bệnh tâm thần đi.</b></font>
+
+307
+00:16:11,210 --> 00:16:12,010
+<font size="20" color="#fdfd00"><b>Báo cáo.</b></font>
+
+308
+00:16:12,010 --> 00:16:12,930
+<font size="20" color="#fdfd00"><b>Cảnh sát Hoàng, cảnh sát Quách.</b></font>
+
+309
+00:16:12,930 --> 00:16:14,260
+<font size="20" color="#fdfd00"><b>Rồi, dừng lại. Đúng rồi,</b></font>
+
+310
+00:16:14,400 --> 00:16:15,390
+<font size="20" color="#fdfd00"><b>để tôi giới thiệu.</b></font>
+
+311
+00:16:15,390 --> 00:16:16,970
+<font size="20" color="#fdfd00"><b>Đây là Lưu Chí Vỹ, trợ thủ của anh,</b></font>
+
+312
+00:16:16,970 --> 00:16:18,370
+<font size="20" color="#fdfd00"><b>còn đây là cảnh sát Quách.</b></font>
+
+313
+00:16:18,810 --> 00:16:19,720
+<font size="20" color="#fdfd00"><b>Này, này, này,</b></font>
+
+314
+00:16:20,010 --> 00:16:21,660
+<font size="20" color="#fdfd00"><b>anh kiếm người giám sát tôi cũng được,</b></font>
+
+315
+00:16:21,660 --> 00:16:23,790
+<font size="20" color="#fdfd00"><b>nhưng đừng kêu tôi làm bố trông trẻ chứ.</b></font>
+
+316
+00:16:23,890 --> 00:16:25,260
+<font size="20" color="#fdfd00"><b>Học hỏi cảnh sát Quách nhiều vào nhé.</b></font>
+
+317
+00:16:25,260 --> 00:16:25,680
+<font size="20" color="#fdfd00"><b>Vâng.</b></font>
+
+318
+00:16:25,950 --> 00:16:27,680
+<font size="20" color="#fdfd00"><b>Đừng có ngơ ngác cả ngày như thế.</b></font>
+
+319
+00:16:35,410 --> 00:16:37,670
+<font size="20" color="#fdfd00"><b>Lúc nãy cậu ngơ ra, mấp máy định nói gì thế?</b></font>
+
+320
+00:16:38,050 --> 00:16:39,850
+<font size="20" color="#fdfd00"><b>- Tôi đến để…
+- Được rồi, được rồi.</b></font>
+
+321
+00:17:15,900 --> 00:17:17,360
+<font size="20" color="#fdfd00"><b>Cứu với.</b></font>
+
+322
+00:17:28,770 --> 00:17:29,980
+<font size="20" color="#fdfd00"><b>Cứu với.</b></font>
+
+323
+00:17:35,600 --> 00:17:37,370
+<font size="20" color="#fdfd00"><b>Nói, có phải do mày làm không?</b></font>
+
+324
+00:17:46,640 --> 00:17:48,640
+<font size="20" color="#fdfd00"><b>Có phải mày đã giết em trai tao không?</b></font>
+
+325
+00:17:48,910 --> 00:17:51,640
+<font size="20" color="#fdfd00"><b>Đóng thang máy lại,
+không liên quan đến các người.</b></font>
+
+326
+00:19:23,570 --> 00:19:26,280
+<font size="20" color="#fdfd00"><b>Cỗ xe ngựa của Eos
+chạy qua đỉnh vòm nhân gian,</b></font>
+
+327
+00:19:26,300 --> 00:19:28,140
+<font size="20" color="#fdfd00"><b>muốn ngắm nhìn người nàng yêu.</b></font>
+
+328
+00:19:28,170 --> 00:19:29,900
+<font size="20" color="#fdfd00"><b>Nhưng người nàng yêu vì bị bệnh tật đeo bám,</b></font>
+
+329
+00:19:29,900 --> 00:19:31,780
+<font size="20" color="#fdfd00"><b>đã từ bỏ lời thề để được trường sinh</b></font>
+
+330
+00:19:32,320 --> 00:19:34,720
+<font size="20" color="#fdfd00"><b>và đã mục nát
+trong quan tài gỗ cao quý từ lâu.</b></font>
+
+331
+00:19:47,610 --> 00:19:48,850
+<font size="20" color="#fdfd00"><b>Chà anh bạn cũ,</b></font>
+
+332
+00:19:48,850 --> 00:19:49,600
+<font size="20" color="#fdfd00"><b>vào tiềm thức</b></font>
+
+333
+00:19:49,600 --> 00:19:50,990
+<font size="20" color="#fdfd00"><b>tìm tôi lấy manh mối sao?</b></font>
+
+334
+00:20:01,260 --> 00:20:04,220
+<font size="20" color="#fdfd00"><b>Cũng có tình nghĩa bạn bè,
+không cần ra tay nặng như vậy,</b></font>
+
+335
+00:20:04,220 --> 00:20:05,840
+<font size="20" color="#fdfd00"><b>ác như vậy đâu.</b></font>
+
+336
+00:20:07,680 --> 00:20:10,850
+<font size="20" color="#fdfd00"><b>Không chính nghĩa, không trật tự,
+không đạo đức, không tín ngưỡng</b></font>
+
+337
+00:20:10,850 --> 00:20:12,600
+<font size="20" color="#fdfd00"><b>là châm ngôn của tôi.</b></font>
+
+338
+00:20:13,470 --> 00:20:15,000
+<font size="20" color="#fdfd00"><b>Đừng nói tôi không giúp anh.</b></font>
+
+339
+00:20:17,600 --> 00:20:19,760
+<font size="20" color="#fdfd00"><b>Eos là nữ thần trong thần thoại Hy Lạp</b></font>
+
+340
+00:20:19,760 --> 00:20:22,270
+<font size="20" color="#fdfd00"><b>bị hoàng tử ở nhân gian bỏ rơi.</b></font>
+
+341
+00:20:24,760 --> 00:20:26,390
+<font size="20" color="#fdfd00"><b>Nữ thần bình minh Eos</b></font>
+
+342
+00:20:27,220 --> 00:20:29,260
+<font size="20" color="#fdfd00"><b>là người bị bỏ rơi</b></font>
+
+343
+00:20:29,360 --> 00:20:30,890
+<font size="20" color="#fdfd00"><b>trong thần thoại Hy Lạp?</b></font>
+
+344
+00:20:32,350 --> 00:20:33,410
+<font size="20" color="#fdfd00"><b>Một không một không</b></font>
+
+345
+00:20:35,320 --> 00:20:36,480
+<font size="20" color="#fdfd00"><b>tức là gì?</b></font>
+
+346
+00:20:37,010 --> 00:20:38,220
+<font size="20" color="#fdfd00"><b>Là ngày tháng.</b></font>
+
+347
+00:20:44,930 --> 00:20:46,430
+<font size="20" color="#fdfd00"><b>Tôi đến để giúp anh đấy,</b></font>
+
+348
+00:20:46,640 --> 00:20:48,300
+<font size="20" color="#fdfd00"><b>thế mà còn chẳng thèm chào hỏi,</b></font>
+
+349
+00:20:48,680 --> 00:20:50,410
+<font size="20" color="#fdfd00"><b>chẳng hiểu đối nhân xử thế gì cả.</b></font>
+
+350
+00:20:55,490 --> 00:20:56,850
+<font size="20" color="#fdfd00"><b>Có thể giết người từ xa,</b></font>
+
+351
+00:20:57,430 --> 00:20:58,630
+<font size="20" color="#fdfd00"><b>lần này anh phải</b></font>
+
+352
+00:20:59,390 --> 00:21:00,650
+<font size="20" color="#fdfd00"><b>đối mặt với một cao thủ.</b></font>
+
+353
+00:21:01,680 --> 00:21:02,970
+<font size="20" color="#fdfd00"><b>Tôi sẽ xem xem</b></font>
+
+354
+00:21:03,130 --> 00:21:04,930
+<font size="20" color="#fdfd00"><b>lần này anh thua thảm hại thế nào.</b></font>
+
+355
+00:21:05,390 --> 00:21:07,710
+<font size="20" color="#fdfd00"><b>Đến lúc đó, anh đừng chỉ biết khóc,</b></font>
+
+356
+00:21:08,100 --> 00:21:09,240
+<font size="20" color="#fdfd00"><b>chỉ biết uống say,</b></font>
+
+357
+00:21:11,010 --> 00:21:12,380
+<font size="20" color="#fdfd00"><b>thậm chí là tự sát.</b></font>
+
+358
+00:21:17,820 --> 00:21:18,980
+<font size="20" color="#fdfd00"><b>Ăn miếng trả miếng,</b></font>
+
+359
+00:21:19,930 --> 00:21:22,330
+<font size="20" color="#fdfd00"><b>cảm giác nghi thức
+khi theo đuổi sự phán xét.</b></font>
+
+360
+00:21:22,850 --> 00:21:25,180
+<font size="20" color="#fdfd00"><b>Colin bị giết vì anh ta từng hại chết người,</b></font>
+
+361
+00:21:26,100 --> 00:21:28,770
+<font size="20" color="#fdfd00"><b>vậy mục tiêu tiếp theo
+hẳn cũng từng hại chết người.</b></font>
+
+362
+00:21:28,770 --> 00:21:30,610
+<font size="20" color="#fdfd00"><b>Thẩm phán Quỷ trong bức tranh này</b></font>
+
+363
+00:21:32,770 --> 00:21:34,860
+<font size="20" color="#fdfd00"><b>lột da róc xương người đàn ông kia.</b></font>
+
+364
+00:21:35,060 --> 00:21:37,640
+<font size="20" color="#fdfd00"><b>Trước đây chắc người đàn ông đó
+cũng đã từng dùng cách như vậy</b></font>
+
+365
+00:21:37,640 --> 00:21:39,060
+<font size="20" color="#fdfd00"><b>để hại người khác.</b></font>
+
+366
+00:21:40,250 --> 00:21:41,130
+<font size="20" color="#fdfd00"><b>Nếu</b></font>
+
+367
+00:21:41,460 --> 00:21:42,860
+<font size="20" color="#fdfd00"><b>anh ta đã tàn nhẫn như vậy,</b></font>
+
+368
+00:21:43,970 --> 00:21:45,430
+<font size="20" color="#fdfd00"><b>tại sao anh còn giúp anh ta?</b></font>
+
+369
+00:21:46,300 --> 00:21:47,550
+<font size="20" color="#fdfd00"><b>Tôi tuyên phán</b></font>
+
+370
+00:21:48,560 --> 00:21:50,310
+<font size="20" color="#fdfd00"><b>tội phạm đáng chết.</b></font>
+
+371
+00:21:51,820 --> 00:21:52,850
+<font size="20" color="#fdfd00"><b>Tôi chỉ muốn biết</b></font>
+
+372
+00:21:53,470 --> 00:21:55,230
+<font size="20" color="#fdfd00"><b>cô ta đã giết người từ xa thế nào.</b></font>
+
+373
+00:22:04,220 --> 00:22:05,470
+<font size="20" color="#fdfd00"><b>Ngày 10 tháng 10.</b></font>
+
+374
+00:22:06,560 --> 00:22:07,890
+<font size="20" color="#fdfd00"><b>Cậu ấm.</b></font>
+
+375
+00:22:08,620 --> 00:22:10,000
+<font size="20" color="#fdfd00"><b>Anh ta chính là hoàng tử.</b></font>
+
+376
+00:22:11,400 --> 00:22:12,510
+<font size="20" color="#fdfd00"><b>Hoàng tử làm sai</b></font>
+
+377
+00:22:13,640 --> 00:22:15,170
+<font size="20" color="#fdfd00"><b>thì cũng phải chịu phạt chứ.</b></font>
+
+378
+00:22:15,300 --> 00:22:16,760
+<font size="20" color="#fdfd00"><b>Anh không biết anh ta ở đâu,</b></font>
+
+379
+00:22:17,390 --> 00:22:19,990
+<font size="20" color="#fdfd00"><b>vậy hội chứng trí nhớ siêu phàm
+của anh có ích gì?</b></font>
+
+380
+00:22:27,620 --> 00:22:28,810
+<font size="20" color="#fdfd00"><b>[Cậu ấm mắc bệnh tâm thần
+tông chết bạn gái mang thai]</b></font>
+
+381
+00:22:37,260 --> 00:22:38,760
+<font size="20" color="#fdfd00"><b>Lại vào không gian giấc mơ rồi à?</b></font>
+
+382
+00:22:38,760 --> 00:22:40,960
+<font size="20" color="#fdfd00"><b>Giấc mơ đúng là một lối dẫn vào tiềm thức,</b></font>
+
+383
+00:22:41,810 --> 00:22:43,510
+<font size="20" color="#fdfd00"><b>nhưng anh cố ngủ bằng cách uống thuốc</b></font>
+
+384
+00:22:43,510 --> 00:22:46,310
+<font size="20" color="#fdfd00"><b>để bước vào tiềm thức của mình
+thì rất nguy hiểm đấy.</b></font>
+
+385
+00:22:49,510 --> 00:22:50,900
+<font size="20" color="#fdfd00"><b>Ôi nóng quá.</b></font>
+
+386
+00:22:52,470 --> 00:22:53,570
+<font size="20" color="#fdfd00"><b>Có lúc</b></font>
+
+387
+00:22:53,960 --> 00:22:55,390
+<font size="20" color="#fdfd00"><b>tiềm thức có thể nhìn thấy</b></font>
+
+388
+00:22:55,390 --> 00:22:57,050
+<font size="20" color="#fdfd00"><b>những sự thật mà đôi mắt bỏ qua.</b></font>
+
+389
+00:22:59,180 --> 00:22:59,960
+<font size="20" color="#fdfd00"><b>Thế nào?</b></font>
+
+390
+00:23:00,260 --> 00:23:02,660
+<font size="20" color="#fdfd00"><b>Lần này lại tìm thấy manh mối gì
+bị bỏ qua rồi?</b></font>
+
+391
+00:23:07,730 --> 00:23:09,390
+<font size="20" color="#fdfd00"><b>Đừng dùng cách này phá án nữa,</b></font>
+
+392
+00:23:09,390 --> 00:23:12,790
+<font size="20" color="#fdfd00"><b>không thì sớm muộn anh cũng
+bị rối loạn chức năng thần kinh não.</b></font>
+
+393
+00:23:12,900 --> 00:23:15,180
+<font size="20" color="#fdfd00"><b>Dừng ngay lập tức và để tôi chữa trị,</b></font>
+
+394
+00:23:15,180 --> 00:23:16,240
+<font size="20" color="#fdfd00"><b>tôi có thể giúp anh.</b></font>
+
+395
+00:23:16,890 --> 00:23:17,490
+<font size="20" color="#fdfd00"><b>Được thôi.</b></font>
+
+396
+00:23:18,510 --> 00:23:19,440
+<font size="20" color="#fdfd00"><b>Vậy bây giờ</b></font>
+
+397
+00:23:20,940 --> 00:23:22,670
+<font size="20" color="#fdfd00"><b>cô xem bức tranh này giúp tôi đi.</b></font>
+
+398
+00:23:28,970 --> 00:23:31,270
+<font size="20" color="#fdfd00"><b>Nét vẽ của bức tranh sạch sẽ và dứt khoát,</b></font>
+
+399
+00:23:31,430 --> 00:23:33,760
+<font size="20" color="#fdfd00"><b>chứng tỏ người này quyết đoán, kiên định,</b></font>
+
+400
+00:23:34,260 --> 00:23:35,560
+<font size="20" color="#fdfd00"><b>có năng lực chịu áp lực tốt,</b></font>
+
+401
+00:23:35,560 --> 00:23:37,220
+<font size="20" color="#fdfd00"><b>ý thức bảo vệ bản thân cũng cao.</b></font>
+
+402
+00:23:38,600 --> 00:23:40,000
+<font size="20" color="#fdfd00"><b>Nhưng anh nhìn chỗ này đi,</b></font>
+
+403
+00:23:40,430 --> 00:23:41,890
+<font size="20" color="#fdfd00"><b>lúc vẽ thẩm phán Quỷ,</b></font>
+
+404
+00:23:42,350 --> 00:23:43,720
+<font size="20" color="#fdfd00"><b>cô ta dùng khá nhiều nét đứt,</b></font>
+
+405
+00:23:43,720 --> 00:23:45,640
+<font size="20" color="#fdfd00"><b>tức là khi ấy cô ta khá lo lắng,</b></font>
+
+406
+00:23:46,110 --> 00:23:48,220
+<font size="20" color="#fdfd00"><b>muốn trốn tránh nhưng lại không trốn được,</b></font>
+
+407
+00:23:48,220 --> 00:23:50,700
+<font size="20" color="#fdfd00"><b>trong lòng tràn ngập mâu thuẫn và nỗi sợ.</b></font>
+
+408
+00:23:52,430 --> 00:23:54,220
+<font size="20" color="#fdfd00"><b>Cô ta dám đi tự thú</b></font>
+
+409
+00:23:54,220 --> 00:23:55,570
+<font size="20" color="#fdfd00"><b>thì còn sợ gì nữa?</b></font>
+
+410
+00:23:57,310 --> 00:23:58,970
+<font size="20" color="#fdfd00"><b>Nội tâm con người phức tạp lắm,</b></font>
+
+411
+00:23:59,140 --> 00:23:59,970
+<font size="20" color="#fdfd00"><b>anh nhìn thấy</b></font>
+
+412
+00:23:59,970 --> 00:24:02,010
+<font size="20" color="#fdfd00"><b>một mặt cô ta khao khát
+được người khác tôn kính,</b></font>
+
+413
+00:24:02,010 --> 00:24:03,940
+<font size="20" color="#fdfd00"><b>biết đâu ở một mặt khác cô ta lại muốn</b></font>
+
+414
+00:24:04,060 --> 00:24:05,120
+<font size="20" color="#fdfd00"><b>bị ngăn cản thì sao?</b></font>
+
+415
+00:24:05,720 --> 00:24:06,310
+<font size="20" color="#fdfd00"><b>Ừ.</b></font>
+
+416
+00:24:07,640 --> 00:24:08,310
+<font size="20" color="#fdfd00"><b>Ừ.</b></font>
+
+417
+00:24:11,040 --> 00:24:11,670
+<font size="20" color="#fdfd00"><b>Cảm ơn cô.</b></font>
+
+418
+00:24:11,960 --> 00:24:12,680
+<font size="20" color="#fdfd00"><b>Không có gì.</b></font>
+
+419
+00:24:14,950 --> 00:24:16,060
+<font size="20" color="#fdfd00"><b>Hẹn gặp lại lần sau.</b></font>
+
+420
+00:24:19,060 --> 00:24:19,720
+<font size="20" color="#fdfd00"><b>Chí Vỹ,</b></font>
+
+421
+00:24:19,720 --> 00:24:21,380
+<font size="20" color="#fdfd00"><b>cậu có nhớ vụ tai nạn giao thông</b></font>
+
+422
+00:24:21,810 --> 00:24:23,100
+<font size="20" color="#fdfd00"><b>vào nửa tháng trước,</b></font>
+
+423
+00:24:23,100 --> 00:24:25,680
+<font size="20" color="#fdfd00"><b>là một cậu ấm
+tông chết một cô gái 19 tuổi không?</b></font>
+
+424
+00:24:27,390 --> 00:24:28,850
+<font size="20" color="#fdfd00"><b>Ồ, đó là vụ án của tổ bọn tôi.</b></font>
+
+425
+00:24:29,430 --> 00:24:30,430
+<font size="20" color="#fdfd00"><b>Không biết tại sao</b></font>
+
+426
+00:24:30,760 --> 00:24:31,690
+<font size="20" color="#fdfd00"><b>đều không công bố</b></font>
+
+427
+00:24:31,970 --> 00:24:34,420
+<font size="20" color="#fdfd00"><b>thân phận của kẻ gây án
+với nội bộ và bên ngoài.</b></font>
+
+428
+00:24:34,420 --> 00:24:35,560
+<font size="20" color="#fdfd00"><b>[Thai phụ tử vong vì tai nạn giao thông,
+xác phân từng khúc, tan xương nát thịt]</b></font>
+
+429
+00:24:35,980 --> 00:24:38,760
+<font size="20" color="#fdfd00"><b>[Cậu ấm mắc bệnh tâm thần
+tông chết bạn gái mang thai]</b></font>
+
+430
+00:24:38,760 --> 00:24:40,060
+<font size="20" color="#fdfd00"><b>Cấp bậc của Mã Thang Đạt</b></font>
+
+431
+00:24:40,180 --> 00:24:42,180
+<font size="20" color="#fdfd00"><b>làm gì được điều tra những kẻ giàu có này.</b></font>
+
+432
+00:24:42,180 --> 00:24:42,850
+<font size="20" color="#fdfd00"><b>Chí Vỹ,</b></font>
+
+433
+00:24:43,110 --> 00:24:44,890
+<font size="20" color="#fdfd00"><b>cậu lập tức điều tra sao kê ngân hàng</b></font>
+
+434
+00:24:44,890 --> 00:24:46,260
+<font size="20" color="#fdfd00"><b>trong vòng ba tháng
+của người thân nạn nhân.</b></font>
+
+435
+00:24:46,260 --> 00:24:46,760
+<font size="20" color="#fdfd00"><b>Vâng.</b></font>
+
+436
+00:24:46,780 --> 00:24:48,240
+<font size="20" color="#fdfd00"><b>Vậy bây giờ chúng ta đi đâu?</b></font>
+
+437
+00:24:48,350 --> 00:24:49,680
+<font size="20" color="#fdfd00"><b>Bệnh viện trên đỉnh núi.</b></font>
+
+438
+00:24:52,560 --> 00:24:53,260
+<font size="20" color="#fdfd00"><b>Không còn nhiều thời gian nữa,</b></font>
+
+439
+00:24:53,260 --> 00:24:54,120
+<font size="20" color="#fdfd00"><b>phải nhanh lên.</b></font>
+
+440
+00:24:55,090 --> 00:24:56,890
+<font size="20" color="#fdfd00"><b>Thưa anh, đến giờ uống thuốc rồi.</b></font>
+
+441
+00:24:58,680 --> 00:24:59,890
+<font size="20" color="#fdfd00"><b>Tra được sao kê ngân hàng rồi ạ,</b></font>
+
+442
+00:24:59,890 --> 00:25:01,510
+<font size="20" color="#fdfd00"><b>người thân nạn nhân đã nhận tiền.</b></font>
+
+443
+00:25:01,510 --> 00:25:02,220
+<font size="20" color="#fdfd00"><b>Đúng là phải giàu có</b></font>
+
+444
+00:25:02,220 --> 00:25:03,970
+<font size="20" color="#fdfd00"><b>mới ở nổi trong bệnh viện thế này.</b></font>
+
+445
+00:25:03,970 --> 00:25:05,930
+<font size="20" color="#fdfd00"><b>Nhưng chúng ta không biết ở phòng nào.</b></font>
+
+446
+00:25:05,930 --> 00:25:07,060
+<font size="20" color="#fdfd00"><b>Người yêu của nữ thần bình minh</b></font>
+
+447
+00:25:07,060 --> 00:25:07,850
+<font size="20" color="#fdfd00"><b>đương nhiên phải ở</b></font>
+
+448
+00:25:07,850 --> 00:25:10,380
+<font size="20" color="#fdfd00"><b>tại phòng VIP có thể
+nhìn thấy mặt trời mọc rồi.</b></font>
+
+449
+00:25:23,100 --> 00:25:23,890
+<font size="20" color="#fdfd00"><b>Cảnh sát.</b></font>
+
+450
+00:25:25,470 --> 00:25:27,680
+<font size="20" color="#fdfd00"><b>Tôi đã giải thích rất rõ
+với cấp trên của các anh rồi.</b></font>
+
+451
+00:25:27,680 --> 00:25:30,100
+<font size="20" color="#fdfd00"><b>Peter mắc chứng rối loạn lưỡng cực,</b></font>
+
+452
+00:25:30,760 --> 00:25:33,310
+<font size="20" color="#fdfd00"><b>anh ấy đã gây ra tai nạn ngoài ý muốn
+trong trạng thái</b></font>
+
+453
+00:25:33,310 --> 00:25:34,930
+<font size="20" color="#fdfd00"><b>hoàn toàn mất khả năng kiểm soát.</b></font>
+
+454
+00:25:34,930 --> 00:25:36,720
+<font size="20" color="#fdfd00"><b>Gì… gì mà rối loạn lưỡng cực?</b></font>
+
+455
+00:25:36,910 --> 00:25:38,570
+<font size="20" color="#fdfd00"><b>Giả bệnh thì cứ nói là giả bệnh.</b></font>
+
+456
+00:25:39,140 --> 00:25:41,220
+<font size="20" color="#fdfd00"><b>Dùng tiền mua chuộc
+để hòa giải với người thân nạn nhân,</b></font>
+
+457
+00:25:41,220 --> 00:25:42,330
+<font size="20" color="#fdfd00"><b>thực chất</b></font>
+
+458
+00:25:42,560 --> 00:25:44,970
+<font size="20" color="#fdfd00"><b>nạn nhân là bạn gái của sếp anh.</b></font>
+
+459
+00:25:46,970 --> 00:25:49,140
+<font size="20" color="#fdfd00"><b>Trông anh thế này
+có vẻ bị tôi nói trúng tim đen rồi.</b></font>
+
+460
+00:25:49,140 --> 00:25:51,070
+<font size="20" color="#fdfd00"><b>Các người nói chuyện cẩn thận chút.</b></font>
+
+461
+00:25:52,720 --> 00:25:53,600
+<font size="20" color="#fdfd00"><b>Qua hai phút nữa</b></font>
+
+462
+00:25:53,600 --> 00:25:54,810
+<font size="20" color="#fdfd00"><b>là các anh thất nghiệp hết đấy.</b></font>
+
+463
+00:25:54,810 --> 00:25:56,070
+<font size="20" color="#fdfd00"><b>Có lệnh khám xét không?</b></font>
+
+464
+00:25:57,450 --> 00:25:58,450
+<font size="20" color="#fdfd00"><b>Đương nhiên là có.</b></font>
+
+465
+00:26:24,220 --> 00:26:24,810
+<font size="20" color="#fdfd00"><b>Cẩn thận.</b></font>
+
+466
+00:27:42,600 --> 00:27:44,680
+<font size="20" color="#fdfd00"><b>Nạn nhân lần trước là Chủ tịch công ty,</b></font>
+
+467
+00:27:44,680 --> 00:27:46,200
+<font size="20" color="#fdfd00"><b>lần này lại là một cậu ấm.</b></font>
+
+468
+00:27:46,270 --> 00:27:47,510
+<font size="20" color="#fdfd00"><b>Các cậu đã xem báo mạng chưa?</b></font>
+
+469
+00:27:47,510 --> 00:27:49,410
+<font size="20" color="#fdfd00"><b>Hai người bọn họ đúng là đáng chết.</b></font>
+
+470
+00:27:49,480 --> 00:27:51,180
+<font size="20" color="#fdfd00"><b>Nói thế thì thẩm phán Quỷ
+đã thay trời hành đạo,</b></font>
+
+471
+00:27:51,180 --> 00:27:52,980
+<font size="20" color="#fdfd00"><b>tôi hơi tôn sùng người đó rồi đấy.</b></font>
+
+472
+00:28:06,680 --> 00:28:08,880
+<font size="20" color="#fdfd00"><b>Sếp anh sử dụng thuốc an thần lâu rồi sao?</b></font>
+
+473
+00:28:09,280 --> 00:28:10,010
+<font size="20" color="#fdfd00"><b>Đúng thế.</b></font>
+
+474
+00:28:21,680 --> 00:28:23,060
+<font size="20" color="#fdfd00"><b>Nào, ký tên đi.</b></font>
+
+475
+00:28:25,350 --> 00:28:26,740
+<font size="20" color="#fdfd00"><b>Cậu ấm tông chết bạn gái,</b></font>
+
+476
+00:28:26,850 --> 00:28:28,520
+<font size="20" color="#fdfd00"><b>thẩm phán Quỷ lại xử tội phạm.</b></font>
+
+477
+00:28:28,680 --> 00:28:31,190
+<font size="20" color="#fdfd00"><b>Tin tức đã lan truyền khắp Internet,</b></font>
+
+478
+00:28:31,270 --> 00:28:33,360
+<font size="20" color="#fdfd00"><b>hơn nữa lượt xem
+thậm chí còn cao hơn lần trước.</b></font>
+
+479
+00:28:33,360 --> 00:28:35,290
+<font size="20" color="#fdfd00"><b>Cô là pháp y đấy, sao mà hóng hớt thế?</b></font>
+
+480
+00:28:37,010 --> 00:28:39,240
+<font size="20" color="#fdfd00"><b>Tay chân và cột sống
+của nạn nhân đều bị gãy vụn,</b></font>
+
+481
+00:28:39,240 --> 00:28:40,440
+<font size="20" color="#fdfd00"><b>nội tạng cũng dập nát.</b></font>
+
+482
+00:28:40,600 --> 00:28:42,310
+<font size="20" color="#fdfd00"><b>Có thể xem như là cùng cách chết</b></font>
+
+483
+00:28:42,310 --> 00:28:44,470
+<font size="20" color="#fdfd00"><b>với cô bạn gái bị anh ta sát hại.</b></font>
+
+484
+00:28:45,180 --> 00:28:45,810
+<font size="20" color="#fdfd00"><b>Cảnh sát Quách,</b></font>
+
+485
+00:28:45,810 --> 00:28:46,510
+<font size="20" color="#fdfd00"><b>chúc mừng anh</b></font>
+
+486
+00:28:46,510 --> 00:28:49,310
+<font size="20" color="#fdfd00"><b>tận mắt chứng kiến
+lời tiên tri của thẩm phán Quỷ.</b></font>
+
+487
+00:28:50,010 --> 00:28:51,970
+<font size="20" color="#fdfd00"><b>Nếu thật sự có thẩm phán Quỷ
+trên thế giới này</b></font>
+
+488
+00:28:51,970 --> 00:28:53,430
+<font size="20" color="#fdfd00"><b>thì không cần cảnh sát nữa.</b></font>
+
+489
+00:28:53,850 --> 00:28:56,510
+<font size="20" color="#fdfd00"><b>Thẩm phán Quỷ đã có
+rất nhiều người hâm mộ rồi đấy.</b></font>
+
+490
+00:28:56,570 --> 00:28:58,570
+<font size="20" color="#fdfd00"><b>Nếu có thêm vài lời tiên tri thành sự thật,</b></font>
+
+491
+00:28:58,570 --> 00:28:59,970
+<font size="20" color="#fdfd00"><b>toàn dân bỏ phiếu xử chết ai</b></font>
+
+492
+00:28:59,970 --> 00:29:01,300
+<font size="20" color="#fdfd00"><b>không chừng sẽ xảy ra đó.</b></font>
+
+493
+00:29:01,430 --> 00:29:03,290
+<font size="20" color="#fdfd00"><b>Đến lúc đó thì có lẽ cảnh sát các anh</b></font>
+
+494
+00:29:03,680 --> 00:29:05,470
+<font size="20" color="#fdfd00"><b>chẳng còn ý nghĩa tồn tại gì nữa.</b></font>
+
+495
+00:29:07,480 --> 00:29:08,810
+<font size="20" color="#fdfd00"><b>Cảnh sát Mã, cảnh sát Mã,</b></font>
+
+496
+00:29:09,140 --> 00:29:11,200
+<font size="20" color="#fdfd00"><b>thẩm phán Quỷ rốt cuộc là người hay ma?</b></font>
+
+497
+00:29:11,930 --> 00:29:13,860
+<font size="20" color="#fdfd00"><b>Rốt cuộc phía cảnh sát các anh
+có phương hướng điều tra không?</b></font>
+
+498
+00:29:13,860 --> 00:29:15,310
+<font size="20" color="#fdfd00"><b>Cảnh sát Mã, cảnh sát Mã.</b></font>
+
+499
+00:29:15,310 --> 00:29:16,140
+<font size="20" color="#fdfd00"><b>Lùi lại, lùi lại.</b></font>
+
+500
+00:29:16,140 --> 00:29:18,310
+<font size="20" color="#fdfd00"><b>Sao cậu lại tự ý hành động
+mà không báo cáo với tôi?</b></font>
+
+501
+00:29:18,310 --> 00:29:19,310
+<font size="20" color="#fdfd00"><b>Cậu đừng tưởng đi theo anh ta</b></font>
+
+502
+00:29:19,310 --> 00:29:20,760
+<font size="20" color="#fdfd00"><b>là có thể tự làm theo ý mình,</b></font>
+
+503
+00:29:20,760 --> 00:29:22,020
+<font size="20" color="#fdfd00"><b>cậu là một cảnh sát đấy.</b></font>
+
+504
+00:29:26,220 --> 00:29:28,100
+<font size="20" color="#fdfd00"><b>Anh có biết nạn nhân có thân phận gì không?</b></font>
+
+505
+00:29:28,100 --> 00:29:30,690
+<font size="20" color="#fdfd00"><b>Anh có từng nghĩ đến việc
+chúng ta sẽ gặp rắc rối lớn cỡ nào chưa?</b></font>
+
+506
+00:29:30,690 --> 00:29:33,060
+<font size="20" color="#fdfd00"><b>Nếu ban đầu anh không sợ phiền phức
+bắt anh ta lại,</b></font>
+
+507
+00:29:33,060 --> 00:29:35,120
+<font size="20" color="#fdfd00"><b>có lẽ hôm nay anh ta đã không phải chết.</b></font>
+
+508
+00:29:36,840 --> 00:29:37,430
+<font size="20" color="#fdfd00"><b>Sở Hy.</b></font>
+
+509
+00:29:37,430 --> 00:29:38,200
+<font size="20" color="#fdfd00"><b>Vâng.</b></font>
+
+510
+00:29:50,390 --> 00:29:51,920
+<font size="20" color="#fdfd00"><b>Hiện trường vụ án của Colin.</b></font>
+
+511
+00:29:58,140 --> 00:30:00,510
+<font size="20" color="#fdfd00"><b>Peter có thói quen đọc tạp chí này lâu rồi,</b></font>
+
+512
+00:30:00,510 --> 00:30:02,400
+<font size="20" color="#fdfd00"><b>poster kiểu này cập nhật mỗi kỳ,</b></font>
+
+513
+00:30:02,510 --> 00:30:04,470
+<font size="20" color="#fdfd00"><b>tòa soạn sẽ gửi thẳng đến cho anh ấy,</b></font>
+
+514
+00:30:04,640 --> 00:30:07,370
+<font size="20" color="#fdfd00"><b>tối nào anh ấy cũng phải
+xem xong tạp chí mới đi ngủ.</b></font>
+
+515
+00:30:10,930 --> 00:30:11,560
+<font size="20" color="#fdfd00"><b>Tạp chí trò chơi.</b></font>
+
+516
+00:30:11,560 --> 00:30:12,800
+<font size="20" color="#fdfd00"><b>[Tên: Châu Mỹ]
+[Chức vụ: Quản lý truyền thông]</b></font>
+
+517
+00:30:12,840 --> 00:30:22,780
+<font size="20" color="#fdfd00"><b>[Thẩm phán Quỷ]</b></font>
+
+518
+00:30:22,860 --> 00:30:23,400
+<font size="20" color="#fdfd00"><b>[Phần một]</b></font>
+
+519
+00:30:23,430 --> 00:30:25,180
+<font size="20" color="#fdfd00"><b>[Chọn ngày 26 tháng 10
+để gắn poster tập thể dục ngoài trời]</b></font>
+
+520
+00:30:25,180 --> 00:30:27,310
+<font size="20" color="#fdfd00"><b>Quả nhiên ngày poster trò chơi được công bố</b></font>
+
+521
+00:30:27,310 --> 00:30:28,570
+<font size="20" color="#fdfd00"><b>là cùng hôm xảy ra vụ án.</b></font>
+
+522
+00:30:32,430 --> 00:30:33,100
+<font size="20" color="#fdfd00"><b>Chào anh,</b></font>
+
+523
+00:30:34,010 --> 00:30:34,770
+<font size="20" color="#fdfd00"><b>tôi là Kevin,</b></font>
+
+524
+00:30:35,570 --> 00:30:35,930
+<font size="20" color="#fdfd00"><b>[Kevin]</b></font>
+
+525
+00:30:35,930 --> 00:30:38,060
+<font size="20" color="#fdfd00"><b>người phụ trách quảng cáo trò chơi này.</b></font>
+
+526
+00:30:38,470 --> 00:30:40,270
+<font size="20" color="#fdfd00"><b>Trước đây cảnh sát cũng từng tới,</b></font>
+
+527
+00:30:40,330 --> 00:30:42,010
+<font size="20" color="#fdfd00"><b>nhưng vì Châu Mỹ không phụ trách dự án này</b></font>
+
+528
+00:30:42,010 --> 00:30:42,640
+<font size="20" color="#fdfd00"><b>nên lúc đó</b></font>
+
+529
+00:30:42,640 --> 00:30:45,010
+<font size="20" color="#fdfd00"><b>tôi không giới thiệu
+những thông tin liên quan đến nó.</b></font>
+
+530
+00:30:45,010 --> 00:30:46,610
+<font size="20" color="#fdfd00"><b>Vậy bây giờ cậu giới thiệu đi.</b></font>
+
+531
+00:30:48,130 --> 00:30:48,760
+<font size="20" color="#fdfd00"><b>Là thế này,</b></font>
+
+532
+00:30:49,890 --> 00:30:51,890
+<font size="20" color="#fdfd00"><b>vì trò chơi này
+chưa được ra mắt trên thị trường,</b></font>
+
+533
+00:30:51,890 --> 00:30:54,180
+<font size="20" color="#fdfd00"><b>chúng tôi đã ký thỏa thuận bảo mật
+với nhà đầu tư,</b></font>
+
+534
+00:30:54,180 --> 00:30:55,510
+<font size="20" color="#fdfd00"><b>e là không được phép nói.</b></font>
+
+535
+00:30:55,940 --> 00:30:57,390
+<font size="20" color="#fdfd00"><b>Cậu nghĩ trò chơi này</b></font>
+
+536
+00:30:57,390 --> 00:30:59,310
+<font size="20" color="#fdfd00"><b>liên quan đến vụ án giết người hàng loạt</b></font>
+
+537
+00:30:59,310 --> 00:31:01,640
+<font size="20" color="#fdfd00"><b>thì còn cơ hội ra mắt trên thị trường không?</b></font>
+
+538
+00:31:04,220 --> 00:31:05,540
+<font size="20" color="#fdfd00"><b>Tôi cũng chỉ biết được</b></font>
+
+539
+00:31:05,760 --> 00:31:07,100
+<font size="20" color="#fdfd00"><b>tình tiết đại khái của trò chơi.</b></font>
+
+540
+00:31:07,100 --> 00:31:07,970
+<font size="20" color="#fdfd00"><b>Đừng nói kết quả,</b></font>
+
+541
+00:31:07,970 --> 00:31:08,970
+<font size="20" color="#fdfd00"><b>để tôi tự đoán.</b></font>
+
+542
+00:31:13,930 --> 00:31:15,590
+<font size="20" color="#fdfd00"><b>Đây là một trò chơi giải câu đố.</b></font>
+
+543
+00:31:15,720 --> 00:31:16,580
+<font size="20" color="#fdfd00"><b>Trò chơi bắt đầu</b></font>
+
+544
+00:31:16,860 --> 00:31:16,930
+<font size="20" color="#fdfd00"><b>khi một kẻ đeo mặt nạ quỷ</b></font>
+
+545
+00:31:16,930 --> 00:31:17,960
+<font size="20" color="#fdfd00"><b>[Thẩm phán Quỷ]</b></font>
+
+546
+00:31:17,960 --> 00:31:20,350
+<font size="20" color="#fdfd00"><b>chuyên giết tội phạm
+xuất hiện trong thành phố.</b></font>
+
+547
+00:31:20,350 --> 00:31:22,100
+<font size="20" color="#fdfd00"><b>Nhân vật chính là một phóng viên,</b></font>
+
+548
+00:31:22,100 --> 00:31:24,780
+<font size="20" color="#fdfd00"><b>giải những câu đố liên quan đến
+kẻ đeo mặt nạ quỷ để qua màn.</b></font>
+
+549
+00:31:24,780 --> 00:31:25,670
+<font size="20" color="#fdfd00"><b>Cuối trò chơi,</b></font>
+
+550
+00:31:26,100 --> 00:31:27,900
+<font size="20" color="#fdfd00"><b>nhân vật chính phát hiện ra kẻ kia</b></font>
+
+551
+00:31:28,080 --> 00:31:30,280
+<font size="20" color="#fdfd00"><b>lại chính là bản thân khi bị quỷ nhập xác.</b></font>
+
+552
+00:31:31,240 --> 00:31:32,040
+<font size="20" color="#fdfd00"><b>Đồng thời,</b></font>
+
+553
+00:31:32,760 --> 00:31:35,620
+<font size="20" color="#fdfd00"><b>cậu ấy gặp được
+hung thủ giết hại người thân của mình.</b></font>
+
+554
+00:31:35,640 --> 00:31:36,600
+<font size="20" color="#fdfd00"><b>Muốn qua màn,</b></font>
+
+555
+00:31:37,650 --> 00:31:39,650
+<font size="20" color="#fdfd00"><b>người chơi buộc phải đưa ra lựa chọn.</b></font>
+
+556
+00:31:42,160 --> 00:31:43,220
+<font size="20" color="#fdfd00"><b>Anh sẽ chọn thế nào?</b></font>
+
+557
+00:31:43,510 --> 00:31:44,510
+<font size="20" color="#fdfd00"><b>Quy phục quỷ thần,</b></font>
+
+558
+00:31:44,580 --> 00:31:45,810
+<font size="20" color="#fdfd00"><b>biến thành kẻ đeo mặt nạ quỷ,</b></font>
+
+559
+00:31:45,810 --> 00:31:47,010
+<font size="20" color="#fdfd00"><b>giết chết hung thủ để trả thù.</b></font>
+
+560
+00:31:47,010 --> 00:31:47,600
+<font size="20" color="#fdfd00"><b>Sai rồi.</b></font>
+
+561
+00:31:49,220 --> 00:31:52,150
+<font size="20" color="#fdfd00"><b>Mượn sức mạnh của quỷ thần
+để giết chết hung thủ trước,</b></font>
+
+562
+00:31:52,350 --> 00:31:53,390
+<font size="20" color="#fdfd00"><b>sau đó tự sát,</b></font>
+
+563
+00:31:53,850 --> 00:31:55,380
+<font size="20" color="#fdfd00"><b>mãi mãi thoát khỏi quỷ thần.</b></font>
+
+564
+00:32:04,480 --> 00:32:06,140
+<font size="20" color="#fdfd00"><b>Tôi là người tuyển Châu Mỹ vào,</b></font>
+
+565
+00:32:06,410 --> 00:32:08,000
+<font size="20" color="#fdfd00"><b>thực ra tôi không thân với cô ta,</b></font>
+
+566
+00:32:08,000 --> 00:32:09,730
+<font size="20" color="#fdfd00"><b>chỉ là lâu lâu có hút thuốc cùng.</b></font>
+
+567
+00:32:15,560 --> 00:32:16,310
+<font size="20" color="#fdfd00"><b>Cậu</b></font>
+
+568
+00:32:16,720 --> 00:32:17,650
+<font size="20" color="#fdfd00"><b>rất phối hợp đấy.</b></font>
+
+569
+00:32:21,470 --> 00:32:22,560
+<font size="20" color="#fdfd00"><b>A lô, bác sĩ Lý,</b></font>
+
+570
+00:32:22,960 --> 00:32:24,290
+<font size="20" color="#fdfd00"><b>cô biết thôi miên không?</b></font>
+
+571
+00:32:25,970 --> 00:32:28,100
+<font size="20" color="#fdfd00"><b>Tôi không phải chuyên gia lĩnh vực này,</b></font>
+
+572
+00:32:28,100 --> 00:32:29,140
+<font size="20" color="#fdfd00"><b>nhưng tôi biết</b></font>
+
+573
+00:32:29,600 --> 00:32:30,860
+<font size="20" color="#fdfd00"><b>ai có thể giúp được anh.</b></font>
+
+574
+00:32:31,970 --> 00:32:36,010
+<font size="20" color="#fdfd00"><b>Âm nhạc thường được sử dụng
+như một mệnh lệnh thôi miên ngầm.</b></font>
+
+575
+00:32:38,390 --> 00:32:39,370
+<font size="20" color="#fdfd00"><b>Em học sinh này,</b></font>
+
+576
+00:32:40,810 --> 00:32:41,640
+<font size="20" color="#fdfd00"><b>em có tin</b></font>
+
+577
+00:32:41,850 --> 00:32:43,310
+<font size="20" color="#fdfd00"><b>mình sẽ bị thôi miên không?</b></font>
+
+578
+00:32:47,220 --> 00:32:48,220
+<font size="20" color="#fdfd00"><b>Thả lỏng bản thân,</b></font>
+
+579
+00:32:48,830 --> 00:32:49,930
+<font size="20" color="#fdfd00"><b>nhắm mắt lại.</b></font>
+
+580
+00:32:52,850 --> 00:32:53,780
+<font size="20" color="#fdfd00"><b>Thả lỏng.</b></font>
+
+581
+00:32:59,140 --> 00:32:59,850
+<font size="20" color="#fdfd00"><b>Ngủ mất rồi.</b></font>
+
+582
+00:33:02,260 --> 00:33:03,720
+<font size="20" color="#fdfd00"><b>Đoạn nhạc lúc nãy</b></font>
+
+583
+00:33:04,440 --> 00:33:07,170
+<font size="20" color="#fdfd00"><b>có thể khiến bạn trở thành
+người giàu có nhất ở đây.</b></font>
+
+584
+00:33:07,430 --> 00:33:08,730
+<font size="20" color="#fdfd00"><b>Bạn không cần tiền nữa,</b></font>
+
+585
+00:33:09,310 --> 00:33:10,770
+<font size="20" color="#fdfd00"><b>bạn sẽ mang ví tiền của mình</b></font>
+
+586
+00:33:11,430 --> 00:33:12,830
+<font size="20" color="#fdfd00"><b>đặt lên trên sân khấu này.</b></font>
+
+587
+00:33:13,430 --> 00:33:14,600
+<font size="20" color="#fdfd00"><b>Nhưng bạn phải nhớ</b></font>
+
+588
+00:33:14,600 --> 00:33:16,720
+<font size="20" color="#fdfd00"><b>chỉ khi đoạn nhạc này vang lên lần nữa,</b></font>
+
+589
+00:33:16,720 --> 00:33:18,390
+<font size="20" color="#fdfd00"><b>bạn mới làm theo lệnh của tôi.</b></font>
+
+590
+00:33:19,470 --> 00:33:20,010
+<font size="20" color="#fdfd00"><b>Đây</b></font>
+
+591
+00:33:20,640 --> 00:33:23,510
+<font size="20" color="#fdfd00"><b>là khế ước của chúng ta.</b></font>
+
+592
+00:33:24,570 --> 00:33:27,140
+<font size="20" color="#fdfd00"><b>Ba, hai, một.</b></font>
+
+593
+00:33:27,890 --> 00:33:28,600
+<font size="20" color="#fdfd00"><b>Tỉnh lại.</b></font>
+
+594
+00:33:30,730 --> 00:33:32,430
+<font size="20" color="#fdfd00"><b>Giống tập kịch sân khấu quá.</b></font>
+
+595
+00:33:32,970 --> 00:33:34,570
+<font size="20" color="#fdfd00"><b>Anh nghiêm túc tí được không?</b></font>
+
+596
+00:33:35,060 --> 00:33:37,180
+<font size="20" color="#fdfd00"><b>Thành quả của tôi và James
+ở phương diện học thuật</b></font>
+
+597
+00:33:37,180 --> 00:33:39,040
+<font size="20" color="#fdfd00"><b>không ít hơn số vụ án anh đã phá đâu.</b></font>
+
+598
+00:33:50,150 --> 00:33:51,470
+<font size="20" color="#fdfd00"><b>[Bài năm: Thôi miên cấp tốc]</b></font>
+
+599
+00:33:51,470 --> 00:33:52,760
+<font size="20" color="#fdfd00"><b>Ôi, đỉnh quá.</b></font>
+
+600
+00:33:53,100 --> 00:33:54,950
+<font size="20" color="#fdfd00"><b>Phải, rõ ràng là thôi miên cô ấy,</b></font>
+
+601
+00:33:55,310 --> 00:33:56,600
+<font size="20" color="#fdfd00"><b>sao chúng ta cũng bị thôi miên vậy?</b></font>
+
+602
+00:33:56,600 --> 00:33:59,760
+<font size="20" color="#fdfd00"><b>Phải, thần kì quá,
+chưa từng có cảm giác này.</b></font>
+
+603
+00:34:00,970 --> 00:34:02,430
+<font size="20" color="#fdfd00"><b>Tôi giới thiệu với mọi người,</b></font>
+
+604
+00:34:02,430 --> 00:34:03,800
+<font size="20" color="#fdfd00"><b>đây là giáo sư James.</b></font>
+
+605
+00:34:03,820 --> 00:34:05,000
+<font size="20" color="#fdfd00"><b>Đây là Quách Văn Bân.</b></font>
+
+606
+00:34:05,260 --> 00:34:07,180
+<font size="20" color="#fdfd00"><b>Anh ấy đang điều tra vụ án thẩm phán Quỷ.</b></font>
+
+607
+00:34:07,180 --> 00:34:09,260
+<font size="20" color="#fdfd00"><b>Tôi có nghe nói về vụ án này.</b></font>
+
+608
+00:34:09,640 --> 00:34:10,430
+<font size="20" color="#fdfd00"><b>Phía cảnh sát</b></font>
+
+609
+00:34:10,810 --> 00:34:12,990
+<font size="20" color="#fdfd00"><b>cũng hỏi tôi chuyện liên quan đến Colin.</b></font>
+
+610
+00:34:12,990 --> 00:34:14,600
+<font size="20" color="#fdfd00"><b>Tuy tôi và Colin là bạn học</b></font>
+
+611
+00:34:15,010 --> 00:34:16,610
+<font size="20" color="#fdfd00"><b>nhưng lâu rồi chúng tôi
+không qua lại với nhau.</b></font>
+
+612
+00:34:16,610 --> 00:34:17,760
+<font size="20" color="#fdfd00"><b>Sao lại không qua lại?</b></font>
+
+613
+00:34:17,760 --> 00:34:20,420
+<font size="20" color="#fdfd00"><b>Có phải vì hành vi của anh ta
+quá bất thường không?</b></font>
+
+614
+00:34:20,460 --> 00:34:22,550
+<font size="20" color="#fdfd00"><b>Anh ta lợi dụng kĩ xảo tâm lý học</b></font>
+
+615
+00:34:22,680 --> 00:34:24,740
+<font size="20" color="#fdfd00"><b>làm việc cho một số công ty thương mại,</b></font>
+
+616
+00:34:25,220 --> 00:34:26,600
+<font size="20" color="#fdfd00"><b>dùng ám thị ác ý</b></font>
+
+617
+00:34:26,600 --> 00:34:28,700
+<font size="20" color="#fdfd00"><b>dụ người tiêu dùng
+tin tưởng mù quáng vào sản phẩm.</b></font>
+
+618
+00:34:28,700 --> 00:34:30,180
+<font size="20" color="#fdfd00"><b>Với tôi mà nói, hành vi này</b></font>
+
+619
+00:34:30,360 --> 00:34:31,900
+<font size="20" color="#fdfd00"><b>không chỉ vô trách nhiệm</b></font>
+
+620
+00:34:32,310 --> 00:34:33,760
+<font size="20" color="#fdfd00"><b>mà hoàn toàn là điều cấm kị.</b></font>
+
+621
+00:34:34,180 --> 00:34:34,680
+<font size="20" color="#fdfd00"><b>Tiếp đi.</b></font>
+
+622
+00:34:37,350 --> 00:34:39,560
+<font size="20" color="#fdfd00"><b>Hay là thế này,
+ngồi xuống từ từ nói chuyện đi.</b></font>
+
+623
+00:34:39,560 --> 00:34:41,160
+<font size="20" color="#fdfd00"><b>Xin lỗi nhé, cứ ngồi tự nhiên.</b></font>
+
+624
+00:34:49,470 --> 00:34:50,310
+<font size="20" color="#fdfd00"><b>Tâm lý học</b></font>
+
+625
+00:34:50,560 --> 00:34:52,680
+<font size="20" color="#fdfd00"><b>là môn khoa học nghiên cứu tiềm thức.</b></font>
+
+626
+00:34:52,680 --> 00:34:53,530
+<font size="20" color="#fdfd00"><b>Thuật thôi miên</b></font>
+
+627
+00:34:53,640 --> 00:34:55,010
+<font size="20" color="#fdfd00"><b>có thể vòng qua cánh cửa ý thức,</b></font>
+
+628
+00:34:55,010 --> 00:34:56,820
+<font size="20" color="#fdfd00"><b>trực tiếp trao đổi với tiềm thức.</b></font>
+
+629
+00:34:57,390 --> 00:34:59,010
+<font size="20" color="#fdfd00"><b>Do đó thuật thôi miên đã trở thành</b></font>
+
+630
+00:34:59,010 --> 00:35:01,870
+<font size="20" color="#fdfd00"><b>cách quan trọng để chữa trị
+cho người mắc bệnh tâm lý.</b></font>
+
+631
+00:35:02,510 --> 00:35:04,640
+<font size="20" color="#fdfd00"><b>Nhà thôi miên cấp cao
+có thể thông qua âm thanh,</b></font>
+
+632
+00:35:04,640 --> 00:35:05,430
+<font size="20" color="#fdfd00"><b>ngôn ngữ cơ thể</b></font>
+
+633
+00:35:05,430 --> 00:35:07,140
+<font size="20" color="#fdfd00"><b>và kĩ thuật ám thị…</b></font>
+
+634
+00:35:07,450 --> 00:35:09,580
+<font size="20" color="#fdfd00"><b>để đặt một mật mã đặc biệt cho bệnh nhân,</b></font>
+
+635
+00:35:10,260 --> 00:35:12,180
+<font size="20" color="#fdfd00"><b>cũng đặt một lệnh cho tiềm thức</b></font>
+
+636
+00:35:12,180 --> 00:35:13,510
+<font size="20" color="#fdfd00"><b>của những bệnh nhân này.</b></font>
+
+637
+00:35:14,100 --> 00:35:16,100
+<font size="20" color="#fdfd00"><b>Khi bệnh nhân nhận được mật mã này,</b></font>
+
+638
+00:35:16,100 --> 00:35:16,760
+<font size="20" color="#fdfd00"><b>khởi động mệnh lệnh,</b></font>
+
+639
+00:35:16,760 --> 00:35:18,780
+<font size="20" color="#fdfd00"><b>sẽ lập tức tiến vào trạng thái thôi miên.</b></font>
+
+640
+00:35:18,780 --> 00:35:19,340
+<font size="20" color="#fdfd00"><b>Tình huống cụ thể</b></font>
+
+641
+00:35:19,340 --> 00:35:21,400
+<font size="20" color="#fdfd00"><b>tin là vừa nãy mọi người cũng thấy rồi.</b></font>
+
+642
+00:35:22,190 --> 00:35:24,350
+<font size="20" color="#fdfd00"><b>Vậy anh có thể thị phạm
+thôi miên tôi tại đây,</b></font>
+
+643
+00:35:24,350 --> 00:35:25,610
+<font size="20" color="#fdfd00"><b>bảo tôi đi tự sát không?</b></font>
+
+644
+00:35:26,310 --> 00:35:27,720
+<font size="20" color="#fdfd00"><b>Xin lỗi, anh ấy đùa thôi.</b></font>
+
+645
+00:35:29,440 --> 00:35:31,090
+<font size="20" color="#fdfd00"><b>Không sao, cảnh sát Quách.</b></font>
+
+646
+00:35:31,390 --> 00:35:32,600
+<font size="20" color="#fdfd00"><b>Anh hiểu lầm thuật thôi miên rồi.</b></font>
+
+647
+00:35:32,600 --> 00:35:32,960
+<font size="20" color="#fdfd00"><b>Thật ra</b></font>
+
+648
+00:35:32,960 --> 00:35:34,640
+<font size="20" color="#fdfd00"><b>không thần thánh như anh nghĩ đâu.</b></font>
+
+649
+00:35:34,640 --> 00:35:35,760
+<font size="20" color="#fdfd00"><b>Bệnh nhân phải</b></font>
+
+650
+00:35:36,100 --> 00:35:38,810
+<font size="20" color="#fdfd00"><b>hết sức tin tưởng ám thị và lời dẫn dắt</b></font>
+
+651
+00:35:38,810 --> 00:35:39,520
+<font size="20" color="#fdfd00"><b>bác sĩ đưa ra</b></font>
+
+652
+00:35:39,720 --> 00:35:40,550
+<font size="20" color="#fdfd00"><b>thì mật mã này</b></font>
+
+653
+00:35:40,550 --> 00:35:42,670
+<font size="20" color="#fdfd00"><b>mới được cấy vào tiềm thức.</b></font>
+
+654
+00:35:42,810 --> 00:35:45,010
+<font size="20" color="#fdfd00"><b>Hơn nữa thôi miên ở các trình độ khác nhau</b></font>
+
+655
+00:35:45,100 --> 00:35:47,010
+<font size="20" color="#fdfd00"><b>sẽ cho ra hiệu quả khác biệt rất lớn.</b></font>
+
+656
+00:35:47,010 --> 00:35:47,770
+<font size="20" color="#fdfd00"><b>Nếu như</b></font>
+
+657
+00:35:48,390 --> 00:35:50,250
+<font size="20" color="#fdfd00"><b>muốn thôi miên một người đi tự sát,</b></font>
+
+658
+00:35:50,430 --> 00:35:51,220
+<font size="20" color="#fdfd00"><b>về lý thuyết</b></font>
+
+659
+00:35:52,600 --> 00:35:53,500
+<font size="20" color="#fdfd00"><b>thì có thể,</b></font>
+
+660
+00:35:53,970 --> 00:35:56,170
+<font size="20" color="#fdfd00"><b>nhưng thao tác trong thực tế,</b></font>
+
+661
+00:35:56,870 --> 00:35:58,620
+<font size="20" color="#fdfd00"><b>dù là nhà thôi miên hàng đầu,</b></font>
+
+662
+00:35:58,720 --> 00:36:00,100
+<font size="20" color="#fdfd00"><b>muốn thành công</b></font>
+
+663
+00:36:02,180 --> 00:36:02,970
+<font size="20" color="#fdfd00"><b>cũng rất khó.</b></font>
+
+664
+00:36:04,600 --> 00:36:05,600
+<font size="20" color="#fdfd00"><b>Anh chỉ đang đối phó thôi.</b></font>
+
+665
+00:36:05,600 --> 00:36:06,760
+<font size="20" color="#fdfd00"><b>Có vẻ như đã trả lời hết</b></font>
+
+666
+00:36:06,760 --> 00:36:08,490
+<font size="20" color="#fdfd00"><b>nhưng lại như chưa trả lời gì cả.</b></font>
+
+667
+00:36:12,030 --> 00:36:13,260
+<font size="20" color="#fdfd00"><b>Xin lỗi cảnh sát Quách.</b></font>
+
+668
+00:36:13,260 --> 00:36:14,120
+<font size="20" color="#fdfd00"><b>Tôi còn phải gặp bệnh nhân.</b></font>
+
+669
+00:36:14,120 --> 00:36:15,920
+<font size="20" color="#fdfd00"><b>Hai người cứ ngồi chơi thong thả.</b></font>
+
+670
+00:36:17,310 --> 00:36:18,350
+<font size="20" color="#fdfd00"><b>Làm phiền rồi, James.</b></font>
+
+671
+00:36:18,350 --> 00:36:19,150
+<font size="20" color="#fdfd00"><b>Ngồi chơi nhé.</b></font>
+
+672
+00:36:27,100 --> 00:36:27,810
+<font size="20" color="#fdfd00"><b>Đi thôi.</b></font>
+
+673
+00:36:40,400 --> 00:36:42,050
+<font size="20" color="#fdfd00"><b>Nhưng tôi nghe nói hung thủ đã tự thú.</b></font>
+
+674
+00:36:42,050 --> 00:36:43,760
+<font size="20" color="#fdfd00"><b>Thế rốt cuộc hung thủ giết người ra sao vậy?</b></font>
+
+675
+00:36:43,760 --> 00:36:45,390
+<font size="20" color="#fdfd00"><b>Lẽ nào thật sự gọi thẩm phán Quỷ
+từ địa ngục đến ư?</b></font>
+
+676
+00:36:45,390 --> 00:36:47,260
+<font size="20" color="#fdfd00"><b>Thẩm phán Quỷ là người
+hay quỷ không quan trọng.</b></font>
+
+677
+00:36:47,260 --> 00:36:48,930
+<font size="20" color="#fdfd00"><b>Nếu cảnh sát
+vẫn không thể ngăn thẩm phán Quỷ</b></font>
+
+678
+00:36:48,930 --> 00:36:50,660
+<font size="20" color="#fdfd00"><b>thì ai còn tin vào pháp luật nữa?</b></font>
+
+679
+00:36:54,920 --> 00:36:56,120
+<font size="20" color="#fdfd00"><b>Thôi miên giết người.</b></font>
+
+680
+00:36:56,720 --> 00:36:57,700
+<font size="20" color="#fdfd00"><b>Tấm poster này</b></font>
+
+681
+00:36:57,760 --> 00:36:59,150
+<font size="20" color="#fdfd00"><b>chính là mật mã thôi miên</b></font>
+
+682
+00:36:59,510 --> 00:37:01,380
+<font size="20" color="#fdfd00"><b>cô thiết lập cho tội phạm của cô.</b></font>
+
+683
+00:37:04,180 --> 00:37:04,710
+<font size="20" color="#fdfd00"><b>Colin,</b></font>
+
+684
+00:37:05,350 --> 00:37:06,980
+<font size="20" color="#fdfd00"><b>anh ta tan làm vào chín giờ tối mỗi ngày,</b></font>
+
+685
+00:37:06,980 --> 00:37:08,640
+<font size="20" color="#fdfd00"><b>ngày nào cũng đi qua một hẻm nhỏ,</b></font>
+
+686
+00:37:08,640 --> 00:37:10,170
+<font size="20" color="#fdfd00"><b>do đó đã thấy tấm poster này.</b></font>
+
+687
+00:37:10,640 --> 00:37:11,350
+<font size="20" color="#fdfd00"><b>Peter,</b></font>
+
+688
+00:37:11,890 --> 00:37:13,220
+<font size="20" color="#fdfd00"><b>mười giờ tối hàng ngày,</b></font>
+
+689
+00:37:13,220 --> 00:37:14,930
+<font size="20" color="#fdfd00"><b>anh ta đều phải uống thuốc đi ngủ.</b></font>
+
+690
+00:37:14,930 --> 00:37:16,250
+<font size="20" color="#fdfd00"><b>Mà trước khi đi ngủ,</b></font>
+
+691
+00:37:16,470 --> 00:37:18,400
+<font size="20" color="#fdfd00"><b>anh ta luôn có thói quen đọc tạp chí.</b></font>
+
+692
+00:37:20,100 --> 00:37:21,140
+<font size="20" color="#fdfd00"><b>Cũng tức là</b></font>
+
+693
+00:37:21,140 --> 00:37:23,220
+<font size="20" color="#fdfd00"><b>hai người bọn họ
+đều có thể thấy tấm poster này</b></font>
+
+694
+00:37:23,220 --> 00:37:25,680
+<font size="20" color="#fdfd00"><b>vào thời gian chỉ định, từ đó bị thôi miên</b></font>
+
+695
+00:37:27,500 --> 00:37:28,560
+<font size="20" color="#fdfd00"><b>rồi hoàn thành việc tự sát</b></font>
+
+696
+00:37:28,560 --> 00:37:31,020
+<font size="20" color="#fdfd00"><b>dựa theo mệnh lệnh tiềm thức</b></font>
+
+697
+00:37:31,390 --> 00:37:32,850
+<font size="20" color="#fdfd00"><b>mà cô đã thiết lập cho họ từ trước.</b></font>
+
+698
+00:37:32,850 --> 00:37:34,260
+<font size="20" color="#fdfd00"><b>Nhưng sao cô biết</b></font>
+
+699
+00:37:34,260 --> 00:37:35,720
+<font size="20" color="#fdfd00"><b>kế hoạch đặt poster?</b></font>
+
+700
+00:37:39,720 --> 00:37:41,270
+<font size="20" color="#fdfd00"><b>Họ tin mình có tội.</b></font>
+
+701
+00:37:43,780 --> 00:37:45,060
+<font size="20" color="#fdfd00"><b>Vì đúng là họ có tội.</b></font>
+
+702
+00:37:46,010 --> 00:37:48,560
+<font size="20" color="#fdfd00"><b>Công ty trò chơi đã gỡ toàn bộ poster</b></font>
+
+703
+00:37:48,560 --> 00:37:50,020
+<font size="20" color="#fdfd00"><b>theo yêu cầu của cảnh sát.</b></font>
+
+704
+00:37:50,390 --> 00:37:51,320
+<font size="20" color="#fdfd00"><b>Không còn mật mã,</b></font>
+
+705
+00:37:51,850 --> 00:37:54,330
+<font size="20" color="#fdfd00"><b>thẩm phán Quỷ của cô có thể về địa ngục rồi.</b></font>
+
+706
+00:37:55,850 --> 00:37:57,710
+<font size="20" color="#fdfd00"><b>Tôi từng đích thân đi đến địa ngục,</b></font>
+
+707
+00:37:59,030 --> 00:38:01,630
+<font size="20" color="#fdfd00"><b>nghĩ rằng nhắm mắt
+sẽ có thể quay về thiên đường.</b></font>
+
+708
+00:38:02,360 --> 00:38:04,560
+<font size="20" color="#fdfd00"><b>Nhưng máu của ma quỷ đã hòa vào người tôi,</b></font>
+
+709
+00:38:05,680 --> 00:38:09,640
+<font size="20" color="#fdfd00"><b>tôi chỉ có thể khóc giữa đàn tế
+đầy hoa đỏ nở rộ.</b></font>
+
+710
+00:38:19,720 --> 00:38:21,120
+<font size="20" color="#fdfd00"><b>Lần này không có thời hạn,</b></font>
+
+711
+00:38:21,480 --> 00:38:23,610
+<font size="20" color="#fdfd00"><b>xem như cảm ơn vì anh mời tôi uống cà phê.</b></font>
+
+712
+00:38:29,230 --> 00:38:30,330
+<font size="20" color="#fdfd00"><b>Không có thời hạn?</b></font>
+
+713
+00:38:32,260 --> 00:38:33,680
+<font size="20" color="#fdfd00"><b>Cô như đang chơi tôi vậy.</b></font>
+
+714
+00:38:34,140 --> 00:38:35,380
+<font size="20" color="#fdfd00"><b>Anh phải nhanh lên.</b></font>
+
+715
+00:38:35,930 --> 00:38:36,930
+<font size="20" color="#fdfd00"><b>Dù gì</b></font>
+
+716
+00:38:36,930 --> 00:38:38,590
+<font size="20" color="#fdfd00"><b>ai cũng có thể là thẩm phán Quỷ.</b></font>
+
+717
+00:38:57,640 --> 00:38:59,300
+<font size="20" color="#fdfd00"><b>Ai cũng có thể là thẩm phán Quỷ.</b></font>
+
+718
+00:39:00,720 --> 00:39:01,640
+<font size="20" color="#fdfd00"><b>Cảnh sát Quách.</b></font>
+
+719
+00:39:01,880 --> 00:39:04,410
+<font size="20" color="#fdfd00"><b>Trên mạng xuất hiện
+rất nhiều poster trò chơi.</b></font>
+
+720
+00:39:14,390 --> 00:39:15,850
+<font size="20" color="#fdfd00"><b>Thảo nào không có thời hạn.</b></font>
+
+721
+00:39:16,430 --> 00:39:17,390
+<font size="20" color="#fdfd00"><b>Vì số poster này</b></font>
+
+722
+00:39:17,390 --> 00:39:19,720
+<font size="20" color="#fdfd00"><b>có thể thôi miên kẻ tội đồ tiếp theo
+bất cứ lúc nào.</b></font>
+
+723
+00:39:19,720 --> 00:39:20,710
+<font size="20" color="#fdfd00"><b>Đáng ghét quá.</b></font>
+
+724
+00:39:21,180 --> 00:39:22,890
+<font size="20" color="#fdfd00"><b>Hung thủ lại lợi dụng
+sự theo dõi của công chúng</b></font>
+
+725
+00:39:22,890 --> 00:39:24,150
+<font size="20" color="#fdfd00"><b>để mượn dao giết người.</b></font>
+
+726
+00:39:26,470 --> 00:39:27,930
+<font size="20" color="#fdfd00"><b>Đừng bị tội phạm kích động.</b></font>
+
+727
+00:39:27,930 --> 00:39:28,470
+<font size="20" color="#fdfd00"><b>Vâng.</b></font>
+
+728
+00:39:29,560 --> 00:39:30,440
+<font size="20" color="#fdfd00"><b>Cậu có nhận thấy</b></font>
+
+729
+00:39:30,560 --> 00:39:31,620
+<font size="20" color="#fdfd00"><b>lời tiên tri lần này</b></font>
+
+730
+00:39:32,150 --> 00:39:33,470
+<font size="20" color="#fdfd00"><b>có gì khác trước không?</b></font>
+
+731
+00:39:34,180 --> 00:39:34,850
+<font size="20" color="#fdfd00"><b>Trước đây,</b></font>
+
+732
+00:39:35,120 --> 00:39:37,780
+<font size="20" color="#fdfd00"><b>dùng thần thoại Hy Lạp ẩn dụ
+cảnh ngộ của nạn nhân.</b></font>
+
+733
+00:39:38,470 --> 00:39:40,400
+<font size="20" color="#fdfd00"><b>Lần này cô ta dùng ngôi thứ nhất.</b></font>
+
+734
+00:39:47,680 --> 00:39:50,310
+<font size="20" color="#fdfd00"><b>Vậy lời tiên tri lần này
+liên quan đến cô ta ư?</b></font>
+
+735
+00:39:52,760 --> 00:39:53,390
+<font size="20" color="#fdfd00"><b>Châu Mỹ.</b></font>
+
+736
+00:39:55,000 --> 00:39:55,430
+<font size="20" color="#fdfd00"><b>[Tường nghệ thuật hồi nhỏ của Châu Mỹ]</b></font>
+
+737
+00:39:55,430 --> 00:39:56,430
+<font size="20" color="#fdfd00"><b>Trong nhà cô ta.</b></font>
+
+738
+00:39:57,120 --> 00:39:59,510
+<font size="20" color="#fdfd00"><b>[Bằng khen]</b></font>
+
+739
+00:39:59,510 --> 00:40:02,220
+<font size="20" color="#fdfd00"><b>Từ nhỏ con gái tôi
+đã vừa ngoan vừa học giỏi,</b></font>
+
+740
+00:40:02,620 --> 00:40:04,350
+<font size="20" color="#fdfd00"><b>các mối quan hệ vẫn luôn rất tốt,</b></font>
+
+741
+00:40:05,010 --> 00:40:06,900
+<font size="20" color="#fdfd00"><b>luôn là một người bình dị dễ gần.</b></font>
+
+742
+00:40:07,080 --> 00:40:07,720
+<font size="20" color="#fdfd00"><b>[Ảnh tập thể năm 2009,
+lớp 10/2 Trung học Gelod]</b></font>
+
+743
+00:40:07,720 --> 00:40:09,210
+<font size="20" color="#fdfd00"><b>Sao lại thành ra thế này?</b></font>
+
+744
+00:40:10,640 --> 00:40:11,300
+<font size="20" color="#fdfd00"><b>Nhìn vào năm thì</b></font>
+
+745
+00:40:11,300 --> 00:40:12,100
+<font size="20" color="#fdfd00"><b>[Ảnh tập thể năm 2010,
+lớp 10/4 Trung học Gelod]</b></font>
+
+746
+00:40:12,100 --> 00:40:12,750
+<font size="20" color="#fdfd00"><b>con gái ông học hai năm lớp mười.</b></font>
+
+747
+00:40:12,750 --> 00:40:14,010
+<font size="20" color="#fdfd00"><b>[Ảnh tập thể năm 2009,
+lớp 10/2 Trung học Gelod]</b></font>
+
+748
+00:40:14,010 --> 00:40:15,390
+<font size="20" color="#fdfd00"><b>Ảnh chụp chung sau năm ấy</b></font>
+
+749
+00:40:16,390 --> 00:40:18,140
+<font size="20" color="#fdfd00"><b>cô ấy không chỉ dời từ chính giữa</b></font>
+
+750
+00:40:18,140 --> 00:40:19,180
+<font size="20" color="#fdfd00"><b>sang đứng bên cạnh</b></font>
+
+751
+00:40:19,550 --> 00:40:20,760
+<font size="20" color="#fdfd00"><b>mà còn rất không vui.</b></font>
+
+752
+00:40:30,880 --> 00:40:32,280
+<font size="20" color="#fdfd00"><b>Từ sau năm ấy</b></font>
+
+753
+00:40:32,420 --> 00:40:34,820
+<font size="20" color="#fdfd00"><b>cô ấy không còn
+chụp chung với mọi người nữa.</b></font>
+
+754
+00:40:34,970 --> 00:40:36,180
+<font size="20" color="#fdfd00"><b>Cả những bằng khen này</b></font>
+
+755
+00:40:36,180 --> 00:40:37,510
+<font size="20" color="#fdfd00"><b>đều là trước khi lưu ban.</b></font>
+
+756
+00:40:38,970 --> 00:40:40,630
+<font size="20" color="#fdfd00"><b>Vậy rốt cuộc năm mà cô ấy lưu ban</b></font>
+
+757
+00:40:41,180 --> 00:40:42,310
+<font size="20" color="#fdfd00"><b>đã xảy ra chuyện gì?</b></font>
+
+758
+00:40:46,010 --> 00:40:47,220
+<font size="20" color="#fdfd00"><b>Vì con gái tôi bị bệnh</b></font>
+
+759
+00:40:47,640 --> 00:40:48,860
+<font size="20" color="#fdfd00"><b>nên đã nghỉ học một năm.</b></font>
+
+760
+00:40:48,860 --> 00:40:49,490
+<font size="20" color="#fdfd00"><b>Bệnh gì?</b></font>
+
+761
+00:40:55,320 --> 00:40:57,720
+<font size="20" color="#fdfd00"><b>Ông là trưởng khoa Ngoại đức cao vọng trọng,</b></font>
+
+762
+00:40:57,930 --> 00:40:59,180
+<font size="20" color="#fdfd00"><b>lẽ nào ông định bảo tôi là</b></font>
+
+763
+00:40:59,180 --> 00:41:01,310
+<font size="20" color="#fdfd00"><b>ông không biết con gái mình bị bệnh gì ư?</b></font>
+
+764
+00:41:08,810 --> 00:41:11,010
+<font size="20" color="#fdfd00"><b>Chỉ có tình yêu mới có thể
+bồi dưỡng con người.</b></font>
+
+765
+00:41:11,010 --> 00:41:13,340
+<font size="20" color="#fdfd00"><b>Vụ trẻ em mất tích
+ở cô nhi viện Thiên Đường.</b></font>
+
+766
+00:41:14,700 --> 00:41:16,690
+<font size="20" color="#fdfd00"><b>[Ân Tiểu Vân]</b></font>
+
+767
+00:41:16,800 --> 00:41:18,890
+<font size="20" color="#fdfd00"><b>[Chỉ có tình yêu
+mới có thể bồi dưỡng con người]</b></font>
+
+768
+00:41:18,890 --> 00:41:19,810
+<font size="20" color="#fdfd00"><b>Từ từ.</b></font>
+
+769
+00:41:26,060 --> 00:41:27,720
+<font size="20" color="#fdfd00"><b>Cô ấy là tình nguyện viên ở đây,</b></font>
+
+770
+00:41:27,810 --> 00:41:29,060
+<font size="20" color="#fdfd00"><b>bình thường rất ít nói</b></font>
+
+771
+00:41:29,390 --> 00:41:30,720
+<font size="20" color="#fdfd00"><b>nhưng tính tình tốt lắm.</b></font>
+
+772
+00:41:31,260 --> 00:41:33,590
+<font size="20" color="#fdfd00"><b>Các em nhỏ chỗ chúng tôi
+đều rất thích cô ấy.</b></font>
+
+773
+00:41:33,890 --> 00:41:35,130
+<font size="20" color="#fdfd00"><b>Cả số ảnh này</b></font>
+
+774
+00:41:35,390 --> 00:41:36,810
+<font size="20" color="#fdfd00"><b>cũng là cô ấy chụp hộ.</b></font>
+
+775
+00:41:41,840 --> 00:41:44,440
+<font size="20" color="#fdfd00"><b>Đây là danh sách tình nguyện viên
+của chúng tôi.</b></font>
+
+776
+00:41:50,860 --> 00:41:52,560
+<font size="20" color="#fdfd00"><b>Tôi đoán cô ấy dùng tài liệu giả,</b></font>
+
+777
+00:41:52,560 --> 00:41:53,430
+<font size="20" color="#fdfd00"><b>vì khi cảnh sát điều tra</b></font>
+
+778
+00:41:53,430 --> 00:41:54,970
+<font size="20" color="#fdfd00"><b>vụ mất tích xảy ra ở đây</b></font>
+
+779
+00:41:54,970 --> 00:41:56,310
+<font size="20" color="#fdfd00"><b>đều không phát hiện cô ấy.</b></font>
+
+780
+00:41:56,310 --> 00:41:57,100
+<font size="20" color="#fdfd00"><b>Ý anh là</b></font>
+
+781
+00:41:58,470 --> 00:42:00,390
+<font size="20" color="#fdfd00"><b>cô ấy liên quan đến Tiểu Vân</b></font>
+
+782
+00:42:00,680 --> 00:42:02,080
+<font size="20" color="#fdfd00"><b>mất tích ở chỗ chúng tôi ư?</b></font>
+
+783
+00:42:06,350 --> 00:42:07,950
+<font size="20" color="#fdfd00"><b>Đây là lịch sử của cô nhi viện.</b></font>
+
+784
+00:42:09,700 --> 00:42:10,390
+<font size="20" color="#fdfd00"><b>[Cô nhi viện]</b></font>
+
+785
+00:42:14,060 --> 00:42:15,810
+<font size="20" color="#fdfd00"><b>[Địa chỉ: Số 2-301 đường Shintoku quận Dana]</b></font>
+
+786
+00:42:15,850 --> 00:42:17,090
+<font size="20" color="#fdfd00"><b>[Địa chỉ: Số 2-13-68
+đường Wil quận Second Street]</b></font>
+
+787
+00:42:17,610 --> 00:42:19,410
+<font size="20" color="#fdfd00"><b>Các cô chuyển đến đây bao lâu rồi?</b></font>
+
+788
+00:42:20,310 --> 00:42:21,020
+<font size="20" color="#fdfd00"><b>Mười năm.</b></font>
+
+789
+00:42:21,970 --> 00:42:23,170
+<font size="20" color="#fdfd00"><b>Có từng đổi tên không?</b></font>
+
+790
+00:42:23,470 --> 00:42:25,560
+<font size="20" color="#fdfd00"><b>Trước đây tên là Ái Thành,</b></font>
+
+791
+00:42:25,560 --> 00:42:27,820
+<font size="20" color="#fdfd00"><b>giờ đổi tên thành cô nhi viện Thiên Đường.</b></font>
+
+792
+00:42:28,380 --> 00:42:29,100
+<font size="20" color="#fdfd00"><b>Viện trưởng.</b></font>
+
+793
+00:42:29,100 --> 00:42:30,800
+<font size="20" color="#fdfd00"><b>Người nhận nuôi cô định gặp hôm nay</b></font>
+
+794
+00:42:30,800 --> 00:42:31,850
+<font size="20" color="#fdfd00"><b>đang đợi bên ngoài rồi.</b></font>
+
+795
+00:42:31,850 --> 00:42:32,640
+<font size="20" color="#fdfd00"><b>Được.</b></font>
+
+796
+00:42:33,180 --> 00:42:34,390
+<font size="20" color="#fdfd00"><b>Anh ngồi một lát đã,</b></font>
+
+797
+00:42:34,390 --> 00:42:35,390
+<font size="20" color="#fdfd00"><b>tí nữa tôi lại đến.</b></font>
+
+798
+00:42:44,900 --> 00:42:46,530
+<font size="20" color="#fdfd00"><b>[Viện trưởng cô nhi viện Ái Thành,
+Bào Vũ Minh bị tình nghi quấy rối trẻ vị thành niên]</b></font>
+
+799
+00:42:46,900 --> 00:42:47,060
+<font size="20" color="#fdfd00"><b>[Viện trưởng cô nhi viện Ái Thành, Bào Vũ Minh bị tình nghi
+quấy rối trẻ vị thành niên, không đủ chứng cứ, phóng thích vô tội]</b></font>
+
+800
+00:42:47,060 --> 00:42:50,270
+<font size="20" color="#fdfd00"><b>Bào Vũ Minh là người
+thoát khỏi chế tài của pháp luật.</b></font>
+
+801
+00:42:53,680 --> 00:42:57,060
+<font size="20" color="#fdfd00"><b>Tôi từng đích thân đi đến địa ngục,</b></font>
+
+802
+00:42:57,600 --> 00:43:02,310
+<font size="20" color="#fdfd00"><b>nghĩ rằng nhắm mắt
+sẽ có thể quay về thiên đường.</b></font>
+
+803
+00:43:03,760 --> 00:43:05,100
+<font size="20" color="#fdfd00"><b>Nhưng máu của ma quỷ</b></font>
+
+804
+00:43:05,100 --> 00:43:06,430
+<font size="20" color="#fdfd00"><b>đã hòa vào người tôi,</b></font>
+
+805
+00:43:06,760 --> 00:43:11,410
+<font size="20" color="#fdfd00"><b>tôi chỉ có thể khóc giữa đàn tế
+đầy hoa đỏ nở rộ.</b></font>
+
+806
+00:43:18,180 --> 00:43:18,640
+<font size="20" color="#fdfd00"><b>Chí Vỹ.</b></font>
+
+807
+00:43:19,330 --> 00:43:20,510
+<font size="20" color="#fdfd00"><b>Tôi nghi ngờ mục tiêu tiếp theo</b></font>
+
+808
+00:43:20,510 --> 00:43:22,850
+<font size="20" color="#fdfd00"><b>là cựu viện trưởng cô nhi viện Ái Thành,
+Bào Vũ Minh.</b></font>
+
+809
+00:43:22,850 --> 00:43:24,310
+<font size="20" color="#fdfd00"><b>Lập tức điều tra địa chỉ nhà anh ta,</b></font>
+
+810
+00:43:24,310 --> 00:43:26,240
+<font size="20" color="#fdfd00"><b>rất có thể anh ta đang gặp nguy hiểm.</b></font>
+
+811
+00:43:55,000 --> 00:43:57,730
+<font size="20" color="#fdfd00"><b>Tôi thành tâm sám hối
+cho tội lỗi mình đã phạm phải.</b></font>
+
+812
+00:43:57,820 --> 00:43:59,800
+<font size="20" color="#fdfd00"><b>Mong thần linh đày tôi xuống địa ngục</b></font>
+
+813
+00:43:59,800 --> 00:44:01,360
+<font size="20" color="#fdfd00"><b>để tôi mãi mãi bị giày vò.</b></font>
+
+814
+00:44:08,310 --> 00:44:09,170
+<font size="20" color="#fdfd00"><b>Cảnh sát Quách,</b></font>
+
+815
+00:44:09,610 --> 00:44:10,890
+<font size="20" color="#fdfd00"><b>xem ra trước khi tự sát</b></font>
+
+816
+00:44:11,220 --> 00:44:12,060
+<font size="20" color="#fdfd00"><b>nạn nhân đã dùng băng dính</b></font>
+
+817
+00:44:12,060 --> 00:44:13,640
+<font size="20" color="#fdfd00"><b>bịt kín tất cả cánh cửa.</b></font>
+
+818
+00:44:20,220 --> 00:44:20,890
+<font size="20" color="#fdfd00"><b>Phải.</b></font>
+
+819
+00:44:22,430 --> 00:44:23,510
+<font size="20" color="#fdfd00"><b>Nhưng khi tôi vào,</b></font>
+
+820
+00:44:24,380 --> 00:44:26,980
+<font size="20" color="#fdfd00"><b>tôi không hề cảm nhận được
+độ dính của băng dính.</b></font>
+
+821
+00:44:27,210 --> 00:44:27,940
+<font size="20" color="#fdfd00"><b>Cậu xem.</b></font>
+
+822
+00:44:30,350 --> 00:44:31,310
+<font size="20" color="#fdfd00"><b>Cũng tức là</b></font>
+
+823
+00:44:32,060 --> 00:44:33,510
+<font size="20" color="#fdfd00"><b>trước khi tôi vào</b></font>
+
+824
+00:44:34,640 --> 00:44:36,640
+<font size="20" color="#fdfd00"><b>có người đã đến đây, phát hiện thi thể</b></font>
+
+825
+00:44:38,010 --> 00:44:38,910
+<font size="20" color="#fdfd00"><b>sớm hơn tôi.</b></font>
+
+826
+00:44:42,310 --> 00:44:44,170
+<font size="20" color="#fdfd00"><b>Nạn nhân tự sát bằng cách đốt than,</b></font>
+
+827
+00:44:44,220 --> 00:44:45,880
+<font size="20" color="#fdfd00"><b>chết do trúng độc cacbon oxit.</b></font>
+
+828
+00:44:46,680 --> 00:44:47,770
+<font size="20" color="#fdfd00"><b>Suy đoán sơ bộ, thời gian tử vong</b></font>
+
+829
+00:44:47,770 --> 00:44:49,230
+<font size="20" color="#fdfd00"><b>vào khoảng hai tuần trước.</b></font>
+
+830
+00:44:49,310 --> 00:44:50,960
+<font size="20" color="#fdfd00"><b>Khi ấy căn phòng này</b></font>
+
+831
+00:44:51,220 --> 00:44:52,330
+<font size="20" color="#fdfd00"><b>toàn khói là khói,</b></font>
+
+832
+00:44:53,180 --> 00:44:55,240
+<font size="20" color="#fdfd00"><b>giống cách chết trong tranh tiên tri.</b></font>
+
+833
+00:44:58,960 --> 00:44:59,270
+<font size="20" color="#fdfd00"><b>[Thông tin bệnh nhân]</b></font>
+
+834
+00:44:59,270 --> 00:45:01,360
+<font size="20" color="#fdfd00"><b>[Giấy chẩn đoán]</b></font>
+
+835
+00:45:06,530 --> 00:45:07,790
+<font size="20" color="#fdfd00"><b>[Báo cáo chứng tử]</b></font>
+
+836
+00:45:07,840 --> 00:45:08,700
+<font size="20" color="#fdfd00"><b>[Lạc Hải Hà]</b></font>
+
+837
+00:45:08,870 --> 00:45:10,340
+<font size="20" color="#fdfd00"><b>[Nghề nghiệp: Giáo viên]
+[Họ tên người nhà: Bào Vũ Minh]</b></font>
+
+838
+00:45:10,510 --> 00:45:11,860
+<font size="20" color="#fdfd00"><b>[Tim bệnh nhân ngừng đập
+lúc 5 giờ 32 phút sáng nay, đã tử vong]</b></font>
+
+839
+00:45:17,220 --> 00:45:18,080
+<font size="20" color="#fdfd00"><b>Cảnh sát Quách,</b></font>
+
+840
+00:45:18,310 --> 00:45:20,020
+<font size="20" color="#fdfd00"><b>hàng xóm phản ánh đều không khác là bao.</b></font>
+
+841
+00:45:20,020 --> 00:45:21,880
+<font size="20" color="#fdfd00"><b>Vợ Bào Vũ Minh mắc bệnh hiểm nghèo,</b></font>
+
+842
+00:45:22,260 --> 00:45:23,590
+<font size="20" color="#fdfd00"><b>qua đời vào tháng trước,</b></font>
+
+843
+00:45:23,870 --> 00:45:26,180
+<font size="20" color="#fdfd00"><b>hơn mười năm nay đều là
+Bào Vũ Minh đích thân chăm sóc,</b></font>
+
+844
+00:45:26,180 --> 00:45:27,580
+<font size="20" color="#fdfd00"><b>tình cảm vợ chồng rất tốt.</b></font>
+
+845
+00:45:27,610 --> 00:45:28,160
+<font size="20" color="#fdfd00"><b>Với lại,</b></font>
+
+846
+00:45:28,970 --> 00:45:30,760
+<font size="20" color="#fdfd00"><b>vừa giám định xong bút tích di thư,</b></font>
+
+847
+00:45:30,760 --> 00:45:32,160
+<font size="20" color="#fdfd00"><b>là nét chữ của Bào Vũ Minh.</b></font>
+
+848
+00:45:32,900 --> 00:45:34,260
+<font size="20" color="#fdfd00"><b>Nhưng cách gây án này</b></font>
+
+849
+00:45:34,830 --> 00:45:36,890
+<font size="20" color="#fdfd00"><b>không hề giống phong cách của Châu Mỹ.</b></font>
+
+850
+00:45:40,950 --> 00:45:41,720
+<font size="20" color="#fdfd00"><b>[Bào Vũ Minh]</b></font>
+
+851
+00:45:41,720 --> 00:45:43,650
+<font size="20" color="#fdfd00"><b>Đi hóa nghiệm xem vệt nước này là gì.</b></font>
+
+852
+00:45:44,010 --> 00:45:44,660
+<font size="20" color="#fdfd00"><b>Vâng.</b></font>
+
+853
+00:45:48,730 --> 00:45:52,190
+<font size="20" color="#fdfd00"><b>Cảnh sát Quách, kết quả hóa nghiệm
+cho thấy vệt nước là nước mắt.</b></font>
+
+854
+00:45:53,810 --> 00:45:55,410
+<font size="20" color="#fdfd00"><b>Xem như tôi bị cô thuyết phục.</b></font>
+
+855
+00:45:55,930 --> 00:45:57,890
+<font size="20" color="#fdfd00"><b>Đúng là đám người ấy rất đáng chết.</b></font>
+
+856
+00:46:00,270 --> 00:46:01,000
+<font size="20" color="#fdfd00"><b>Cô thắng rồi.</b></font>
+
+857
+00:46:01,440 --> 00:46:02,780
+<font size="20" color="#fdfd00"><b>Vẫn chưa kết thúc đâu.</b></font>
+
+858
+00:46:05,970 --> 00:46:07,500
+<font size="20" color="#fdfd00"><b>Sao cô lại kích động như vậy?</b></font>
+
+859
+00:46:12,130 --> 00:46:13,830
+<font size="20" color="#fdfd00"><b>Một người bị thôi miên tự sát</b></font>
+
+860
+00:46:14,210 --> 00:46:16,660
+<font size="20" color="#fdfd00"><b>sẽ không khóc khi viết di thư.</b></font>
+
+861
+00:46:17,560 --> 00:46:18,470
+<font size="20" color="#fdfd00"><b>Bào Vũ Minh</b></font>
+
+862
+00:46:18,560 --> 00:46:20,400
+<font size="20" color="#fdfd00"><b>thật lòng sám hối rồi tự sát.</b></font>
+
+863
+00:46:21,010 --> 00:46:22,220
+<font size="20" color="#fdfd00"><b>Cô không đặt thời hạn</b></font>
+
+864
+00:46:22,760 --> 00:46:24,760
+<font size="20" color="#fdfd00"><b>không phải vì ai cũng là thẩm phán Quỷ</b></font>
+
+865
+00:46:24,890 --> 00:46:26,510
+<font size="20" color="#fdfd00"><b>mà vì khi cô tìm đến anh ta,</b></font>
+
+866
+00:46:27,140 --> 00:46:28,140
+<font size="20" color="#fdfd00"><b>anh ta đã chết rồi.</b></font>
+
+867
+00:46:34,680 --> 00:46:36,370
+<font size="20" color="#fdfd00"><b>Một cô gái con ngoan trò giỏi,</b></font>
+
+868
+00:46:37,360 --> 00:46:38,760
+<font size="20" color="#fdfd00"><b>rốt cuộc đã có chuyện gì</b></font>
+
+869
+00:46:38,970 --> 00:46:40,140
+<font size="20" color="#fdfd00"><b>xảy ra với cô</b></font>
+
+870
+00:46:41,010 --> 00:46:42,670
+<font size="20" color="#fdfd00"><b>mà lại khiến bản tính cô vặn vẹo,</b></font>
+
+871
+00:46:42,670 --> 00:46:43,870
+<font size="20" color="#fdfd00"><b>báo thù xã hội như vậy?</b></font>
+
+872
+00:46:48,180 --> 00:46:49,260
+<font size="20" color="#fdfd00"><b>Người cô muốn giết</b></font>
+
+873
+00:46:49,260 --> 00:46:50,390
+<font size="20" color="#fdfd00"><b>đã chết cả rồi.</b></font>
+
+874
+00:46:51,770 --> 00:46:53,430
+<font size="20" color="#fdfd00"><b>Rốt cuộc cô muốn giết bao nhiêu người</b></font>
+
+875
+00:46:53,430 --> 00:46:54,470
+<font size="20" color="#fdfd00"><b>mới thỏa mãn đây?</b></font>
+
+876
+00:46:54,490 --> 00:46:56,500
+<font size="20" color="#fdfd00"><b>Tôi đã bảo là vẫn chưa kết thúc.</b></font>
+
+877
+00:47:07,630 --> 00:47:08,080
+<font size="20" color="#fdfd00"><b>[Ân Tiểu Vân]</b></font>
+
+878
+00:47:09,330 --> 00:47:11,780
+<font size="20" color="#fdfd00"><b>Không phải thẩm phán Quỷ
+đại diện cho chính nghĩa ư?</b></font>
+
+879
+00:47:11,780 --> 00:47:13,620
+<font size="20" color="#fdfd00"><b>Sao lần này lại hại một cô bé?</b></font>
+
+880
+00:47:17,100 --> 00:47:18,700
+<font size="20" color="#fdfd00"><b>Sao cô lại căng thẳng như vậy?</b></font>
+
+881
+00:47:21,180 --> 00:47:22,840
+<font size="20" color="#fdfd00"><b>Anh chỉ có 12 tiếng.</b></font>
+
+882
+00:47:24,010 --> 00:47:25,750
+<font size="20" color="#fdfd00"><b>Tốt nhất anh hãy tìm ra nó</b></font>
+
+883
+00:47:26,560 --> 00:47:28,490
+<font size="20" color="#fdfd00"><b>trước khi mặt trời mọc vào ngày mai.</b></font>
+
+884
+00:47:33,930 --> 00:47:35,350
+<font size="20" color="#fdfd00"><b>Rốt cuộc Bào Vũ Minh có phải
+tội phạm tấn công tình dục không?</b></font>
+
+885
+00:47:35,350 --> 00:47:37,960
+<font size="20" color="#fdfd00"><b>Phán quyết của thẩm phán Quỷ,
+tôi thấy không sai đâu.</b></font>
+
+886
+00:47:37,960 --> 00:47:38,970
+<font size="20" color="#fdfd00"><b>Giấu bao nhiêu năm</b></font>
+
+887
+00:47:38,970 --> 00:47:40,070
+<font size="20" color="#fdfd00"><b>mà cảnh sát lại không tra được.</b></font>
+
+888
+00:47:40,070 --> 00:47:41,610
+<font size="20" color="#fdfd00"><b>Họ chưa từng điều tra kĩ.</b></font>
+
+889
+00:47:41,610 --> 00:47:42,930
+<font size="20" color="#fdfd00"><b>Bao nhiêu tội phạm
+ung dung ngoài vòng pháp luật,</b></font>
+
+890
+00:47:42,930 --> 00:47:44,390
+<font size="20" color="#fdfd00"><b>nghĩ đến là thấy sợ.</b></font>
+
+891
+00:47:44,390 --> 00:47:46,510
+<font size="20" color="#fdfd00"><b>Sự an toàn của công dân
+không hề được bảo đảm.</b></font>
+
+892
+00:47:46,510 --> 00:47:48,100
+<font size="20" color="#fdfd00"><b>Cảnh sát từ chức tập thể luôn cho rồi.</b></font>
+
+893
+00:47:48,100 --> 00:47:50,010
+<font size="20" color="#fdfd00"><b>Tôi thấy vẫn nên tin vào cảnh sát.</b></font>
+
+894
+00:47:50,010 --> 00:47:51,070
+<font size="20" color="#fdfd00"><b>Tin kiểu gì đây?</b></font>
+
+895
+00:47:51,070 --> 00:47:52,010
+<font size="20" color="#fdfd00"><b>Tôi nghe nói</b></font>
+
+896
+00:47:52,010 --> 00:47:53,820
+<font size="20" color="#fdfd00"><b>vị cảnh sát chịu trách nhiệm
+điều tra vụ thẩm phán Quỷ</b></font>
+
+897
+00:47:53,820 --> 00:47:55,060
+<font size="20" color="#fdfd00"><b>từng vì điều tra vụ án giết người</b></font>
+
+898
+00:47:55,060 --> 00:47:56,720
+<font size="20" color="#fdfd00"><b>mà liên lụy em trai bị hung thủ báo thù.</b></font>
+
+899
+00:47:56,720 --> 00:47:58,010
+<font size="20" color="#fdfd00"><b>Đến người thân còn không bảo vệ nổi,</b></font>
+
+900
+00:47:58,010 --> 00:48:00,940
+<font size="20" color="#fdfd00"><b>càng không thể trông mong
+anh ta có thể bảo vệ chúng ta.</b></font>
+
+901
+00:48:01,470 --> 00:48:03,830
+<font size="20" color="#fdfd00"><b>Tiểu Vân mất tích ngày 25 tháng 10,</b></font>
+
+902
+00:48:04,820 --> 00:48:06,880
+<font size="20" color="#fdfd00"><b>cũng là một ngày trước khi Colin chết.</b></font>
+
+903
+00:48:07,470 --> 00:48:10,220
+<font size="20" color="#fdfd00"><b>Không phát hiện poster trò chơi
+ở hiện trường mất tích.</b></font>
+
+904
+00:48:10,220 --> 00:48:12,220
+<font size="20" color="#fdfd00"><b>Camera giám sát trong cô nhi viện
+và khu vực xung quanh</b></font>
+
+905
+00:48:12,220 --> 00:48:14,280
+<font size="20" color="#fdfd00"><b>đều không quay được cô bé và nghi phạm.</b></font>
+
+906
+00:48:15,310 --> 00:48:16,570
+<font size="20" color="#fdfd00"><b>Lần này không có câu đố.</b></font>
+
+907
+00:48:17,580 --> 00:48:19,710
+<font size="20" color="#fdfd00"><b>Liệu Tiểu Vân có lành ít dữ nhiều không?</b></font>
+
+908
+00:48:21,560 --> 00:48:22,360
+<font size="20" color="#fdfd00"><b>Thu dọn đồ đạc,</b></font>
+
+909
+00:48:22,960 --> 00:48:24,350
+<font size="20" color="#fdfd00"><b>từ giờ nhóm chúng tôi sẽ</b></font>
+
+910
+00:48:24,350 --> 00:48:26,100
+<font size="20" color="#fdfd00"><b>phụ trách vụ thẩm phán Quỷ
+giết người hàng loạt</b></font>
+
+911
+00:48:26,100 --> 00:48:26,890
+<font size="20" color="#fdfd00"><b>và vụ trẻ em mất tích</b></font>
+
+912
+00:48:26,890 --> 00:48:28,220
+<font size="20" color="#fdfd00"><b>ở cô nhi viện Thiên Đường.</b></font>
+
+913
+00:48:28,220 --> 00:48:28,990
+<font size="20" color="#fdfd00"><b>Này, làm gì vậy?</b></font>
+
+914
+00:48:28,990 --> 00:48:30,590
+<font size="20" color="#fdfd00"><b>Tôi chưa nhận được mệnh lệnh.</b></font>
+
+915
+00:48:31,810 --> 00:48:32,750
+<font size="20" color="#fdfd00"><b>Anh chưa phá đủ à?</b></font>
+
+916
+00:48:32,890 --> 00:48:34,350
+<font size="20" color="#fdfd00"><b>Đã có hai người chết rồi,</b></font>
+
+917
+00:48:34,350 --> 00:48:35,470
+<font size="20" color="#fdfd00"><b>bây giờ lại có thêm một đứa trẻ.</b></font>
+
+918
+00:48:35,470 --> 00:48:36,380
+<font size="20" color="#fdfd00"><b>Trẻ con đấy.</b></font>
+
+919
+00:48:36,550 --> 00:48:37,640
+<font size="20" color="#fdfd00"><b>Giao vụ án cho anh</b></font>
+
+920
+00:48:37,640 --> 00:48:39,370
+<font size="20" color="#fdfd00"><b>sẽ chỉ hại chết nhiều người hơn.</b></font>
+
+921
+00:48:39,430 --> 00:48:40,850
+<font size="20" color="#fdfd00"><b>Vụ án hai năm trước, nếu không phải tại anh</b></font>
+
+922
+00:48:40,850 --> 00:48:42,580
+<font size="20" color="#fdfd00"><b>thì sao em trai anh lại chết chứ?</b></font>
+
+923
+00:48:43,680 --> 00:48:45,430
+<font size="20" color="#fdfd00"><b>Anh biết phục hồi răng
+tốn bao nhiêu tiền không?</b></font>
+
+924
+00:48:45,430 --> 00:48:46,010
+<font size="20" color="#fdfd00"><b>Hả?</b></font>
+
+925
+00:48:50,020 --> 00:48:50,510
+<font size="20" color="#fdfd00"><b>Này.</b></font>
+
+926
+00:48:57,080 --> 00:48:58,100
+<font size="20" color="#fdfd00"><b>Đừng đánh nữa, cảnh sát Mã.</b></font>
+
+927
+00:48:58,100 --> 00:48:59,890
+<font size="20" color="#fdfd00"><b>Người mình mà, đừng đánh nữa.</b></font>
+
+928
+00:48:59,970 --> 00:49:01,220
+<font size="20" color="#fdfd00"><b>Đừng đánh nữa, cảnh sát Quách.</b></font>
+
+929
+00:49:01,220 --> 00:49:02,510
+<font size="20" color="#fdfd00"><b>Người mình mà, cảnh sát Quách.</b></font>
+
+930
+00:49:02,510 --> 00:49:03,430
+<font size="20" color="#fdfd00"><b>Người mình mà.</b></font>
+
+931
+00:49:03,470 --> 00:49:04,120
+<font size="20" color="#fdfd00"><b>Cảnh sát Quách.</b></font>
+
+932
+00:49:04,120 --> 00:49:04,810
+<font size="20" color="#fdfd00"><b>Này.</b></font>
+
+933
+00:49:05,260 --> 00:49:05,990
+<font size="20" color="#fdfd00"><b>Hai người,</b></font>
+
+934
+00:49:07,390 --> 00:49:08,420
+<font size="20" color="#fdfd00"><b>ai đánh giỏi hơn?</b></font>
+
+935
+00:49:09,210 --> 00:49:10,420
+<font size="20" color="#fdfd00"><b>Đánh với tôi này.</b></font>
+
+936
+00:49:13,100 --> 00:49:13,900
+<font size="20" color="#fdfd00"><b>Quách Văn Bân.</b></font>
+
+937
+00:49:19,230 --> 00:49:20,560
+<font size="20" color="#fdfd00"><b>Chỉ biết đánh nhau thôi.</b></font>
+
+938
+00:49:29,630 --> 00:49:31,230
+<font size="20" color="#fdfd00"><b>Tôi còn tưởng anh đã thay đổi,</b></font>
+
+939
+00:49:31,470 --> 00:49:32,180
+<font size="20" color="#fdfd00"><b>kết quả lại không hề.</b></font>
+
+940
+00:49:32,180 --> 00:49:33,400
+<font size="20" color="#fdfd00"><b>Có gì cần thay đổi ư?</b></font>
+
+941
+00:49:36,120 --> 00:49:37,720
+<font size="20" color="#fdfd00"><b>Thiếu nữ treo cổ tự sát,</b></font>
+
+942
+00:49:37,740 --> 00:49:39,600
+<font size="20" color="#fdfd00"><b>thai phụ bị xe tông chết,</b></font>
+
+943
+00:49:40,540 --> 00:49:41,940
+<font size="20" color="#fdfd00"><b>tất cả đều là người vô tội.</b></font>
+
+944
+00:49:42,110 --> 00:49:44,040
+<font size="20" color="#fdfd00"><b>Anh cũng mong có người có thể đứng ra</b></font>
+
+945
+00:49:44,150 --> 00:49:47,550
+<font size="20" color="#fdfd00"><b>trừng phạt những tên hung thủ
+hại chết người vô tội phải không?</b></font>
+
+946
+00:49:52,290 --> 00:49:54,010
+<font size="20" color="#fdfd00"><b>Đúng rồi, anh có nhớ lần đầu</b></font>
+
+947
+00:49:54,010 --> 00:49:55,310
+<font size="20" color="#fdfd00"><b>anh tiếp nhận vụ án giết người,</b></font>
+
+948
+00:49:55,310 --> 00:49:56,560
+<font size="20" color="#fdfd00"><b>tôi đã nói gì với anh không?</b></font>
+
+949
+00:49:56,560 --> 00:49:57,620
+<font size="20" color="#fdfd00"><b>Có phải mấy lời kiểu</b></font>
+
+950
+00:49:57,710 --> 00:50:00,260
+<font size="20" color="#fdfd00"><b>đừng bị hung thủ chọc giận,</b></font>
+
+951
+00:50:00,260 --> 00:50:02,660
+<font size="20" color="#fdfd00"><b>nếu không sẽ ngày càng
+cách xa sự thật không?</b></font>
+
+952
+00:50:03,100 --> 00:50:04,260
+<font size="20" color="#fdfd00"><b>Nhớ dai thật đấy.</b></font>
+
+953
+00:50:06,890 --> 00:50:09,760
+<font size="20" color="#fdfd00"><b>Nhưng vừa nãy tôi bị cảnh sát chọc giận.</b></font>
+
+954
+00:50:16,520 --> 00:50:18,930
+<font size="20" color="#fdfd00"><b>[Thăm nom nhiều năm, bố mẹ là ai?]</b></font>
+
+955
+00:50:19,040 --> 00:50:20,540
+<font size="20" color="#fdfd00"><b>[Ân Tiểu Vân]</b></font>
+
+956
+00:50:20,630 --> 00:50:21,720
+<font size="20" color="#fdfd00"><b>[Ân Tiểu Vân, sinh năm 2010]</b></font>
+
+957
+00:50:21,720 --> 00:50:22,930
+<font size="20" color="#fdfd00"><b>Vào đúng năm ấy.</b></font>
+
+958
+00:50:24,460 --> 00:50:25,930
+<font size="20" color="#fdfd00"><b>[Nghỉ học một năm]</b></font>
+
+959
+00:50:26,120 --> 00:50:29,770
+<font size="20" color="#fdfd00"><b>[Ảnh tập thể năm 2009,
+lớp 10/2 Trung học Gelod]</b></font>
+
+960
+00:50:29,820 --> 00:50:31,090
+<font size="20" color="#fdfd00"><b>[Nghỉ học một năm]</b></font>
+
+961
+00:50:35,510 --> 00:50:36,350
+<font size="20" color="#fdfd00"><b>Đau thương.</b></font>
+
+962
+00:50:38,180 --> 00:50:39,100
+<font size="20" color="#fdfd00"><b>Sợ hãi.</b></font>
+
+963
+00:50:50,710 --> 00:50:53,460
+<font size="20" color="#fdfd00"><b>Người bị hại cũng có thể là kẻ giết người.</b></font>
+
+964
+00:50:53,460 --> 00:50:55,880
+<font size="20" color="#fdfd00"><b>Kẻ giết người cũng có thể là người bị hại.</b></font>
+
+965
+00:51:07,760 --> 00:51:10,100
+<font size="20" color="#fdfd00"><b>Năm lớp mười, có lẽ Châu Mỹ</b></font>
+
+966
+00:51:11,000 --> 00:51:13,750
+<font size="20" color="#fdfd00"><b>đã phải làm mẹ đơn thân.</b></font>
+
+967
+00:51:14,550 --> 00:51:16,080
+<font size="20" color="#fdfd00"><b>Có thể là phát hiện muộn quá,</b></font>
+
+968
+00:51:16,290 --> 00:51:17,750
+<font size="20" color="#fdfd00"><b>không kịp phá thai.</b></font>
+
+969
+00:51:17,850 --> 00:51:19,990
+<font size="20" color="#fdfd00"><b>Năm cô ấy bị bệnh, nghỉ học mà ông nói,</b></font>
+
+970
+00:51:20,230 --> 00:51:20,980
+<font size="20" color="#fdfd00"><b>thật ra</b></font>
+
+971
+00:51:22,220 --> 00:51:23,400
+<font size="20" color="#fdfd00"><b>là để sinh con.</b></font>
+
+972
+00:51:24,940 --> 00:51:25,890
+<font size="20" color="#fdfd00"><b>Tiếc là</b></font>
+
+973
+00:51:26,430 --> 00:51:27,910
+<font size="20" color="#fdfd00"><b>sau khi đứa bé này ra đời,</b></font>
+
+974
+00:51:28,920 --> 00:51:30,290
+<font size="20" color="#fdfd00"><b>các người thấy rất xấu hổ</b></font>
+
+975
+00:51:30,470 --> 00:51:31,890
+<font size="20" color="#fdfd00"><b>nên đã nhẫn tâm</b></font>
+
+976
+00:51:32,010 --> 00:51:33,870
+<font size="20" color="#fdfd00"><b>đưa đứa bé này, cũng tức là Tiểu Vân</b></font>
+
+977
+00:51:34,020 --> 00:51:35,730
+<font size="20" color="#fdfd00"><b>đến cô nhi viện Thiên Đường.</b></font>
+
+978
+00:51:36,900 --> 00:51:39,930
+<font size="20" color="#fdfd00"><b>Tóm lại bây giờ trong lòng tôi
+đã không còn đứa con gái này nữa.</b></font>
+
+979
+00:51:39,930 --> 00:51:41,180
+<font size="20" color="#fdfd00"><b>Bây giờ cậu muốn thế nào?</b></font>
+
+980
+00:51:41,180 --> 00:51:42,470
+<font size="20" color="#fdfd00"><b>Bây giờ không chỉ nói chuyện con gái ông,</b></font>
+
+981
+00:51:42,470 --> 00:51:43,930
+<font size="20" color="#fdfd00"><b>Tiểu Vân cũng mất tích rồi.</b></font>
+
+982
+00:51:44,600 --> 00:51:47,060
+<font size="20" color="#fdfd00"><b>Ông nhất thời sĩ diện,
+hại cả hai người bọn họ.</b></font>
+
+983
+00:51:47,930 --> 00:51:49,850
+<font size="20" color="#fdfd00"><b>Ngoài mặt vờ như mình rất cao quý,</b></font>
+
+984
+00:51:49,850 --> 00:51:51,380
+<font size="20" color="#fdfd00"><b>nhưng ông lại thấp kém nhất.</b></font>
+
+985
+00:51:52,260 --> 00:51:53,720
+<font size="20" color="#fdfd00"><b>Ông chỉ còn mỗi cái vỏ thôi.</b></font>
+
+986
+00:52:04,440 --> 00:52:06,840
+<font size="20" color="#fdfd00"><b>Để được nói chuyện
+với Tiểu Vân thêm một câu,</b></font>
+
+987
+00:52:08,600 --> 00:52:10,000
+<font size="20" color="#fdfd00"><b>nhìn con bé thêm một chút,</b></font>
+
+988
+00:52:11,180 --> 00:52:13,470
+<font size="20" color="#fdfd00"><b>hễ có thời gian là tôi lại đến cô nhi viện.</b></font>
+
+989
+00:52:15,510 --> 00:52:18,310
+<font size="20" color="#fdfd00"><b>Nhưng mãi mà tôi không có dũng khí
+nói cho con bé biết</b></font>
+
+990
+00:52:20,650 --> 00:52:22,320
+<font size="20" color="#fdfd00"><b>tôi chính là mẹ nó.</b></font>
+
+991
+00:52:24,510 --> 00:52:26,330
+<font size="20" color="#fdfd00"><b>Vì con gái cô bị uy hiếp</b></font>
+
+992
+00:52:26,600 --> 00:52:29,220
+<font size="20" color="#fdfd00"><b>nên cô bị ép dùng thân phận
+hung thủ để tự thú.</b></font>
+
+993
+00:52:31,520 --> 00:52:33,980
+<font size="20" color="#fdfd00"><b>Hung thủ gửi video
+Tiểu Vân bị bắt cóc cho tôi,</b></font>
+
+994
+00:52:36,890 --> 00:52:38,680
+<font size="20" color="#fdfd00"><b>nói tôi biết nên nói gì,</b></font>
+
+995
+00:52:39,270 --> 00:52:40,440
+<font size="20" color="#fdfd00"><b>nên làm gì.</b></font>
+
+996
+00:52:42,970 --> 00:52:44,300
+<font size="20" color="#fdfd00"><b>Nghe giọng nói của cô ta,</b></font>
+
+997
+00:52:46,260 --> 00:52:48,060
+<font size="20" color="#fdfd00"><b>có lẽ là một người phụ nữ trẻ tuổi.</b></font>
+
+998
+00:52:56,930 --> 00:52:58,930
+<font size="20" color="#fdfd00"><b>Bây giờ Tiểu Vân vẫn nằm trong tay họ.</b></font>
+
+999
+00:53:01,260 --> 00:53:02,560
+<font size="20" color="#fdfd00"><b>Tôi chỉ mong rằng</b></font>
+
+1000
+00:53:03,640 --> 00:53:05,430
+<font size="20" color="#fdfd00"><b>trước khi họ hại Tiểu Vân,</b></font>
+
+1001
+00:53:06,720 --> 00:53:08,310
+<font size="20" color="#fdfd00"><b>các anh có thể tìm ra con bé.</b></font>
+
+1002
+00:53:09,200 --> 00:53:11,060
+<font size="20" color="#fdfd00"><b>Thật sự chỉ còn sáu tiếng nữa thôi.</b></font>
+
+1003
+00:53:11,160 --> 00:53:13,890
+<font size="20" color="#fdfd00"><b>Tôi xin anh.</b></font>
+
+1004
+00:53:14,410 --> 00:53:16,610
+<font size="20" color="#fdfd00"><b>Tôi xin anh hãy cứu con bé.</b></font>
+
+1005
+00:53:17,360 --> 00:53:20,440
+<font size="20" color="#fdfd00"><b>Tiểu Vân không có lỗi gì hết,
+đều là lỗi của tôi.</b></font>
+
+1006
+00:53:20,440 --> 00:53:22,860
+<font size="20" color="#fdfd00"><b>Tôi xin anh, tôi có thể làm mọi chuyện.</b></font>
+
+1007
+00:53:22,880 --> 00:53:24,860
+<font size="20" color="#fdfd00"><b>Tôi chịu trách nhiệm gì cũng được.</b></font>
+
+1008
+00:53:28,890 --> 00:53:32,070
+<font size="20" color="#fdfd00"><b>Tôi xin anh, tôi xin anh.</b></font>
+
+1009
+00:53:51,600 --> 00:53:52,260
+<font size="20" color="#fdfd00"><b>Chí Vỹ.</b></font>
+
+1010
+00:53:54,970 --> 00:53:55,830
+<font size="20" color="#fdfd00"><b>Cảnh sát Quách.</b></font>
+
+1011
+00:53:56,220 --> 00:53:58,150
+<font size="20" color="#fdfd00"><b>Tôi đã tìm được tài liệu anh cần rồi.</b></font>
+
+1012
+00:53:59,740 --> 00:54:00,090
+<font size="20" color="#fdfd00"><b>Chắc là Dorothy này.</b></font>
+
+1013
+00:54:00,090 --> 00:54:00,870
+<font size="20" color="#fdfd00"><b>[Dorothy]</b></font>
+
+1014
+00:54:01,270 --> 00:54:03,180
+<font size="20" color="#fdfd00"><b>Trong ghi chép khách ghé thăm
+mấy ngày trước khi Tiểu Vân mất tích,</b></font>
+
+1015
+00:54:03,180 --> 00:54:05,180
+<font size="20" color="#fdfd00"><b>tên của cô ta xuất hiện rất nhiều lần.</b></font>
+
+1016
+00:54:06,220 --> 00:54:07,820
+<font size="20" color="#fdfd00"><b>Dorothy chắc chắn là tên giả.</b></font>
+
+1017
+00:54:08,680 --> 00:54:10,010
+<font size="20" color="#fdfd00"><b>Tìm được tất cả xe</b></font>
+
+1018
+00:54:10,180 --> 00:54:12,480
+<font size="20" color="#fdfd00"><b>ra vào cô nhi viện
+hôm Tiểu Vân mất tích chưa?</b></font>
+
+1019
+00:54:12,480 --> 00:54:13,010
+<font size="20" color="#fdfd00"><b>Đều ở đây.</b></font>
+
+1020
+00:54:14,680 --> 00:54:16,810
+<font size="20" color="#fdfd00"><b>Chủ xe không có ấn tượng gì với Tiểu Vân,</b></font>
+
+1021
+00:54:16,810 --> 00:54:18,930
+<font size="20" color="#fdfd00"><b>nhưng trong camera hành trình
+của mấy chiếc xe,</b></font>
+
+1022
+00:54:18,930 --> 00:54:20,790
+<font size="20" color="#fdfd00"><b>phát hiện có kẻ hành tung đáng ngờ.</b></font>
+
+1023
+00:54:22,160 --> 00:54:22,820
+<font size="20" color="#fdfd00"><b>Chí Vỹ,</b></font>
+
+1024
+00:54:23,720 --> 00:54:25,720
+<font size="20" color="#fdfd00"><b>tôi rất thích bộ dáng ngu ngơ của cậu.</b></font>
+
+1025
+00:54:34,980 --> 00:54:35,660
+<font size="20" color="#fdfd00"><b>Tạm dừng.</b></font>
+
+1026
+00:54:36,680 --> 00:54:37,560
+<font size="20" color="#fdfd00"><b>Phát lại.</b></font>
+
+1027
+00:54:52,680 --> 00:54:55,480
+<font size="20" color="#fdfd00"><b>Tôi từng gặp người này.</b></font>
+
+1028
+00:54:58,640 --> 00:54:59,500
+<font size="20" color="#fdfd00"><b>Cảnh sát Quách.</b></font>
+
+1029
+00:54:59,840 --> 00:55:01,010
+<font size="20" color="#fdfd00"><b>Chắc là anh biết rõ</b></font>
+
+1030
+00:55:01,560 --> 00:55:02,780
+<font size="20" color="#fdfd00"><b>là một bác sĩ,</b></font>
+
+1031
+00:55:02,890 --> 00:55:05,740
+<font size="20" color="#fdfd00"><b>tôi không thể tiết lộ
+thông tin riêng tư của bệnh nhân.</b></font>
+
+1032
+00:55:05,740 --> 00:55:07,970
+<font size="20" color="#fdfd00"><b>Là bác sĩ, dù anh không thể cứu người</b></font>
+
+1033
+00:55:08,130 --> 00:55:09,970
+<font size="20" color="#fdfd00"><b>thì cũng không được gián tiếp
+giúp bệnh nhân của anh</b></font>
+
+1034
+00:55:09,970 --> 00:55:10,760
+<font size="20" color="#fdfd00"><b>giết người.</b></font>
+
+1035
+00:55:12,890 --> 00:55:14,810
+<font size="20" color="#fdfd00"><b>Nếu tôi đăng tin này lên mạng,</b></font>
+
+1036
+00:55:14,810 --> 00:55:17,010
+<font size="20" color="#fdfd00"><b>anh sẽ lên top tìm kiếm, sẽ thành KOL,</b></font>
+
+1037
+00:55:17,310 --> 00:55:20,010
+<font size="20" color="#fdfd00"><b>thậm chí học sinh của anh
+sẽ yêu cầu lấy chủ đề này</b></font>
+
+1038
+00:55:20,040 --> 00:55:21,040
+<font size="20" color="#fdfd00"><b>để làm nghiên cứu.</b></font>
+
+1039
+00:55:21,930 --> 00:55:23,930
+<font size="20" color="#fdfd00"><b>Vả lại anh còn bị tình nghi phạm tội.</b></font>
+
+1040
+00:55:44,070 --> 00:55:45,160
+<font size="20" color="#fdfd00"><b>Bệnh án anh cần</b></font>
+
+1041
+00:55:45,310 --> 00:55:46,060
+<font size="20" color="#fdfd00"><b>đều ở đây.</b></font>
+
+1042
+00:56:18,900 --> 00:56:20,400
+<font size="20" color="#fdfd00"><b>Anh ngất xỉu ở nhà James,</b></font>
+
+1043
+00:56:21,180 --> 00:56:22,580
+<font size="20" color="#fdfd00"><b>anh ấy gọi tôi đến đón anh.</b></font>
+
+1044
+00:56:24,850 --> 00:56:26,580
+<font size="20" color="#fdfd00"><b>Tiếp nhận việc điều trị của tôi.</b></font>
+
+1045
+00:56:29,310 --> 00:56:30,440
+<font size="20" color="#fdfd00"><b>Không cần lo cho tôi.</b></font>
+
+1046
+00:56:30,450 --> 00:56:32,260
+<font size="20" color="#fdfd00"><b>Anh muốn uống thuốc ngủ thôi mà,</b></font>
+
+1047
+00:56:32,260 --> 00:56:34,400
+<font size="20" color="#fdfd00"><b>sao nhất định phải đến đây tìm cô ấy?</b></font>
+
+1048
+00:56:36,380 --> 00:56:39,460
+<font size="20" color="#fdfd00"><b>Rõ ràng anh được
+cô ấy chăm sóc rất thoải mái.</b></font>
+
+1049
+00:56:41,130 --> 00:56:42,860
+<font size="20" color="#fdfd00"><b>Tôi không muốn quan tâm đến anh.</b></font>
+
+1050
+00:56:43,350 --> 00:56:45,220
+<font size="20" color="#fdfd00"><b>Tôi chỉ thấy hứng thú với anh ấy.</b></font>
+
+1051
+00:57:16,830 --> 00:57:18,690
+<font size="20" color="#fdfd00"><b>Tôi từng đích thân đi đến địa ngục,</b></font>
+
+1052
+00:57:19,470 --> 00:57:22,120
+<font size="20" color="#fdfd00"><b>nghĩ rằng nhắm mắt
+sẽ có thể quay về thiên đường.</b></font>
+
+1053
+00:57:24,640 --> 00:57:27,330
+<font size="20" color="#fdfd00"><b>Nhưng máu của ma quỷ đã hòa vào người tôi,</b></font>
+
+1054
+00:57:28,220 --> 00:57:31,810
+<font size="20" color="#fdfd00"><b>tôi chỉ có thể khóc giữa đàn tế
+đầy hoa đỏ nở rộ.</b></font>
+
+1055
+00:57:31,810 --> 00:57:33,670
+<font size="20" color="#fdfd00"><b>Câu đố thứ hai không nói đến Châu Mỹ</b></font>
+
+1056
+00:57:33,840 --> 00:57:35,100
+<font size="20" color="#fdfd00"><b>mà là bản thân hung thủ.</b></font>
+
+1057
+00:57:38,780 --> 00:57:39,580
+<font size="20" color="#fdfd00"><b>Bất ngờ không,</b></font>
+
+1058
+00:57:39,650 --> 00:57:40,470
+<font size="20" color="#fdfd00"><b>bạn của tôi?</b></font>
+
+1059
+00:57:40,470 --> 00:57:41,970
+<font size="20" color="#fdfd00"><b>Nữ hoàng của anh về rồi.</b></font>
+
+1060
+00:57:51,890 --> 00:57:53,390
+<font size="20" color="#fdfd00"><b>Anh vô lương tâm quá.</b></font>
+
+1061
+00:57:54,050 --> 00:57:56,980
+<font size="20" color="#fdfd00"><b>Không có tôi, anh và hung thủ
+có thể chơi đến vòng này ư?</b></font>
+
+1062
+00:58:03,430 --> 00:58:04,960
+<font size="20" color="#fdfd00"><b>Anh càng ngày càng máu lạnh.</b></font>
+
+1063
+00:58:16,980 --> 00:58:17,940
+<font size="20" color="#fdfd00"><b>Vẫn chưa chết à?</b></font>
+
+1064
+00:58:26,250 --> 00:58:27,290
+<font size="20" color="#fdfd00"><b>Anh xem anh kìa,</b></font>
+
+1065
+00:58:27,300 --> 00:58:29,430
+<font size="20" color="#fdfd00"><b>tôi giết cậu ta mà anh chẳng làm sao hết.</b></font>
+
+1066
+00:58:30,750 --> 00:58:32,480
+<font size="20" color="#fdfd00"><b>Anh cảm thấy họ đáng chết.</b></font>
+
+1067
+00:58:40,820 --> 00:58:42,360
+<font size="20" color="#fdfd00"><b>Đây chỉ là tiềm thức của tôi.</b></font>
+
+1068
+00:58:42,360 --> 00:58:43,810
+<font size="20" color="#fdfd00"><b>Anh đừng nhàm chán như vậy.</b></font>
+
+1069
+00:58:43,810 --> 00:58:45,230
+<font size="20" color="#fdfd00"><b>Tôi nhàm chán vậy đấy.</b></font>
+
+1070
+00:58:47,700 --> 00:58:49,580
+<font size="20" color="#fdfd00"><b>Cái này đúng là thừa thãi.</b></font>
+
+1071
+00:58:50,650 --> 00:58:51,830
+<font size="20" color="#fdfd00"><b>Nhìn gì mà nhìn?</b></font>
+
+1072
+00:58:52,310 --> 00:58:53,770
+<font size="20" color="#fdfd00"><b>Chưa thấy con lai bao giờ à?</b></font>
+
+1073
+00:58:56,430 --> 00:58:57,720
+<font size="20" color="#fdfd00"><b>Anh vẫn muốn nhìn à?</b></font>
+
+1074
+00:59:20,940 --> 00:59:21,650
+<font size="20" color="#fdfd00"><b>[Giấy chẩn đoán]</b></font>
+
+1075
+00:59:25,230 --> 00:59:27,090
+<font size="20" color="#fdfd00"><b>Bào Vũ Minh dùng cùng một tài khoản</b></font>
+
+1076
+00:59:27,970 --> 00:59:29,380
+<font size="20" color="#fdfd00"><b>để trả tiền chữa trị.</b></font>
+
+1077
+00:59:34,730 --> 00:59:35,860
+<font size="20" color="#fdfd00"><b>Thiếu một chiếc thẻ.</b></font>
+
+1078
+00:59:36,890 --> 00:59:39,350
+<font size="20" color="#fdfd00"><b>Hung thủ đã lấy mất một chiếc thẻ ngân hàng.</b></font>
+
+1079
+00:59:39,350 --> 00:59:40,470
+<font size="20" color="#fdfd00"><b>Anh còn muốn biết gì nữa?</b></font>
+
+1080
+00:59:40,470 --> 00:59:41,930
+<font size="20" color="#fdfd00"><b>Tôi có thể nói cho anh biết.</b></font>
+
+1081
+00:59:42,060 --> 00:59:43,980
+<font size="20" color="#fdfd00"><b>Kể cả chuyện bác sĩ tâm lý của anh</b></font>
+
+1082
+00:59:44,080 --> 00:59:45,680
+<font size="20" color="#fdfd00"><b>có hứng thú với anh hay không.</b></font>
+
+1083
+00:59:46,860 --> 00:59:48,860
+<font size="20" color="#fdfd00"><b>Anh từng gặp hung thủ mà lại không nhớ.</b></font>
+
+1084
+00:59:48,860 --> 00:59:50,900
+<font size="20" color="#fdfd00"><b>Trước đây đã vậy, bây giờ vẫn thế.</b></font>
+
+1085
+00:59:51,180 --> 00:59:53,310
+<font size="20" color="#fdfd00"><b>Anh còn chẳng biết sao mình lại đến đây.</b></font>
+
+1086
+00:59:53,320 --> 00:59:54,970
+<font size="20" color="#fdfd00"><b>Đồ ngốc.</b></font>
+
+1087
+00:59:59,430 --> 01:00:00,810
+<font size="20" color="#fdfd00"><b>Anh ngất xỉu ở nhà James,</b></font>
+
+1088
+01:00:00,920 --> 01:00:02,320
+<font size="20" color="#fdfd00"><b>anh ấy bảo tôi đến đón anh.</b></font>
+
+1089
+01:00:04,750 --> 01:00:06,150
+<font size="20" color="#fdfd00"><b>Gần đây áp lực của anh rất lớn,</b></font>
+
+1090
+01:00:06,150 --> 01:00:07,680
+<font size="20" color="#fdfd00"><b>cần tiếp nhận điều trị ngay.</b></font>
+
+1091
+01:00:07,890 --> 01:00:08,950
+<font size="20" color="#fdfd00"><b>Tôi có thể giúp anh.</b></font>
+
+1092
+01:00:09,680 --> 01:00:10,510
+<font size="20" color="#fdfd00"><b>Điều trị ư?</b></font>
+
+1093
+01:00:12,260 --> 01:00:13,920
+<font size="20" color="#fdfd00"><b>Tôi không ngủ do dùng thuốc ngủ</b></font>
+
+1094
+01:00:14,060 --> 01:00:15,190
+<font size="20" color="#fdfd00"><b>mà là bị cô thôi miên.</b></font>
+
+1095
+01:00:16,390 --> 01:00:17,690
+<font size="20" color="#fdfd00"><b>Tiếng chuông vừa nãy</b></font>
+
+1096
+01:00:17,710 --> 01:00:19,300
+<font size="20" color="#fdfd00"><b>là mật mã cô đặt cho tôi.</b></font>
+
+1097
+01:00:19,960 --> 01:00:22,080
+<font size="20" color="#fdfd00"><b>Cô vẫn luôn xem trộm tiềm thức của tôi.</b></font>
+
+1098
+01:00:22,110 --> 01:00:23,310
+<font size="20" color="#fdfd00"><b>Tôi muốn giúp anh</b></font>
+
+1099
+01:00:23,340 --> 01:00:24,470
+<font size="20" color="#fdfd00"><b>nên mới đi tìm James.</b></font>
+
+1100
+01:00:25,130 --> 01:00:27,850
+<font size="20" color="#fdfd00"><b>Tôi muốn dùng thuật thôi miên
+giúp anh cởi bỏ khúc mắc trong lòng.</b></font>
+
+1101
+01:00:27,850 --> 01:00:29,390
+<font size="20" color="#fdfd00"><b>Nhưng cô chưa được bệnh nhân cho phép,</b></font>
+
+1102
+01:00:29,390 --> 01:00:30,750
+<font size="20" color="#fdfd00"><b>đó gọi là không có y đức.</b></font>
+
+1103
+01:00:31,560 --> 01:00:32,180
+<font size="20" color="#fdfd00"><b>Chú ý nhé.</b></font>
+
+1104
+01:00:39,770 --> 01:00:40,810
+<font size="20" color="#fdfd00"><b>Cảnh sát Quách,</b></font>
+
+1105
+01:00:40,810 --> 01:00:43,540
+<font size="20" color="#fdfd00"><b>tôi tra được thẻ ngân hàng
+anh bảo tôi điều tra rồi.</b></font>
+
+1106
+01:00:45,390 --> 01:00:47,340
+<font size="20" color="#fdfd00"><b>Tôi phát hiện có một người tên Vương Triết</b></font>
+
+1107
+01:00:47,340 --> 01:00:48,840
+<font size="20" color="#fdfd00"><b>chuyển tiền định kỳ cho Bào Vũ Minh.</b></font>
+
+1108
+01:00:48,840 --> 01:00:50,170
+<font size="20" color="#fdfd00"><b>Tôi đã tra được thông tin của ông ta.</b></font>
+
+1109
+01:00:50,170 --> 01:00:50,640
+<font size="20" color="#fdfd00"><b>[Thông tin cá nhân của Vương Triết]</b></font>
+
+1110
+01:00:50,640 --> 01:00:51,350
+<font size="20" color="#fdfd00"><b>Vương Triết,</b></font>
+
+1111
+01:00:51,350 --> 01:00:53,560
+<font size="20" color="#fdfd00"><b>ly dị vào độ tuổi trung niên,
+ở một mình không con cái,</b></font>
+
+1112
+01:00:53,560 --> 01:00:55,620
+<font size="20" color="#fdfd00"><b>là người sáng lập cô nhi viện Ái Thành.</b></font>
+
+1113
+01:00:55,760 --> 01:00:58,130
+<font size="20" color="#fdfd00"><b>Nhưng sau khi Bào Vũ Minh
+gây ra vụ tấn công tình dục,</b></font>
+
+1114
+01:00:58,130 --> 01:01:00,060
+<font size="20" color="#fdfd00"><b>ông ta đã chuyển nhượng cô nhi viện.</b></font>
+
+1115
+01:01:00,680 --> 01:01:01,930
+<font size="20" color="#fdfd00"><b>Đã chuyển nhượng</b></font>
+
+1116
+01:01:01,930 --> 01:01:05,390
+<font size="20" color="#fdfd00"><b>thì sao hàng tháng lại chuyển
+nhiều tiền cho Bào Vũ Minh như vậy?</b></font>
+
+1117
+01:01:10,070 --> 01:01:10,410
+<font size="20" color="#fdfd00"><b>Năm xưa cảnh sát nhận được
+tố cáo nặc danh của bị hại,</b></font>
+
+1118
+01:01:10,410 --> 01:01:12,720
+<font size="20" color="#fdfd00"><b>[Bốn ngón tay]</b></font>
+
+1119
+01:01:12,720 --> 01:01:13,530
+<font size="20" color="#fdfd00"><b>nói là bị người đàn ông che mặt
+dâm ô nhiều năm trong cô nhi viện.</b></font>
+
+1120
+01:01:13,530 --> 01:01:15,430
+<font size="20" color="#fdfd00"><b>[Tố cáo vô hiệu, phóng thích vô tội]</b></font>
+
+1121
+01:01:15,430 --> 01:01:15,710
+<font size="20" color="#fdfd00"><b>Trong quá trình điều tra cảnh sát phát hiện</b></font>
+
+1122
+01:01:15,710 --> 01:01:17,220
+<font size="20" color="#fdfd00"><b>[Lịch sử chuyển tiền - nhận tiền]</b></font>
+
+1123
+01:01:17,220 --> 01:01:19,550
+<font size="20" color="#fdfd00"><b>trong văn phòng của viện trưởng Bào Vũ Minh</b></font>
+
+1124
+01:01:19,620 --> 01:01:19,760
+<font size="20" color="#fdfd00"><b>[Bốn ngón tay]
+[Lịch sử chuyển tiền - nhận tiền]</b></font>
+
+1125
+01:01:19,760 --> 01:01:22,220
+<font size="20" color="#fdfd00"><b>từng có tóc giả
+và đồ lót của trẻ vị thành niên.</b></font>
+
+1126
+01:01:22,510 --> 01:01:24,470
+<font size="20" color="#fdfd00"><b>Qua điều tra, chứng cứ không đủ.</b></font>
+
+1127
+01:01:26,380 --> 01:01:27,850
+<font size="20" color="#fdfd00"><b>Anh ta để chứng cứ quan trọng như vậy</b></font>
+
+1128
+01:01:27,850 --> 01:01:29,180
+<font size="20" color="#fdfd00"><b>trong văn phòng,</b></font>
+
+1129
+01:01:29,640 --> 01:01:30,850
+<font size="20" color="#fdfd00"><b>nhưng từ những vật chứng này</b></font>
+
+1130
+01:01:30,850 --> 01:01:33,350
+<font size="20" color="#fdfd00"><b>lại không tra ra
+bằng chứng thép có thể định tội.</b></font>
+
+1131
+01:01:33,350 --> 01:01:35,640
+<font size="20" color="#fdfd00"><b>Chứng tỏ ngay từ đầu Bào Vũ Minh đã biết</b></font>
+
+1132
+01:01:35,640 --> 01:01:37,770
+<font size="20" color="#fdfd00"><b>cảnh sát không đủ chứng cứ để bắt anh ta.</b></font>
+
+1133
+01:01:40,350 --> 01:01:41,060
+<font size="20" color="#fdfd00"><b>Khoan đã.</b></font>
+
+1134
+01:01:45,930 --> 01:01:46,890
+<font size="20" color="#fdfd00"><b>Vết thương này…</b></font>
+
+1135
+01:01:48,100 --> 01:01:48,890
+<font size="20" color="#fdfd00"><b>Bốn ngón tay…</b></font>
+
+1136
+01:01:50,530 --> 01:01:52,060
+<font size="20" color="#fdfd00"><b>Bào Vũ Minh chỉ là kẻ thế tội,</b></font>
+
+1137
+01:01:52,070 --> 01:01:54,010
+<font size="20" color="#fdfd00"><b>Vương Triết mới là thủ phạm trong vụ dâm ô.</b></font>
+
+1138
+01:01:54,010 --> 01:01:55,440
+<font size="20" color="#fdfd00"><b>Đã kiểm tra đối chiếu hồ sơ bệnh nhân</b></font>
+
+1139
+01:01:55,440 --> 01:01:56,660
+<font size="20" color="#fdfd00"><b>James cử người đưa tới rồi.</b></font>
+
+1140
+01:01:56,660 --> 01:01:57,680
+<font size="20" color="#fdfd00"><b>Họ đều không đáng ngờ.</b></font>
+
+1141
+01:01:57,680 --> 01:01:59,730
+<font size="20" color="#fdfd00"><b>Hung thủ không hề nằm trong xấp hồ sơ.</b></font>
+
+1142
+01:03:01,810 --> 01:03:03,660
+<font size="20" color="#fdfd00"><b>Cách điểm đến số 6 đường Núi Phượng Hoàng</b></font>
+
+1143
+01:03:03,660 --> 01:03:04,530
+<font size="20" color="#fdfd00"><b>[Số 6 đường Núi Phượng Hoàng]</b></font>
+
+1144
+01:03:04,530 --> 01:03:05,410
+<font size="20" color="#fdfd00"><b>còn 500 mét.</b></font>
+
+1145
+01:03:13,390 --> 01:03:16,320
+<font size="20" color="#fdfd00"><b>Mượn sức mạnh của quỷ thần
+để giết chết hung thủ trước,</b></font>
+
+1146
+01:03:16,430 --> 01:03:17,310
+<font size="20" color="#fdfd00"><b>sau đó tự sát,</b></font>
+
+1147
+01:03:17,770 --> 01:03:19,490
+<font size="20" color="#fdfd00"><b>mãi mãi thoát khỏi quỷ thần.</b></font>
+
+1148
+01:04:50,510 --> 01:04:51,180
+<font size="20" color="#fdfd00"><b>Người bị hại</b></font>
+
+1149
+01:04:51,930 --> 01:04:53,060
+<font size="20" color="#fdfd00"><b>ở cô nhi viện Ái Thành</b></font>
+
+1150
+01:04:53,060 --> 01:04:54,390
+<font size="20" color="#fdfd00"><b>vào năm xưa</b></font>
+
+1151
+01:04:54,810 --> 01:04:55,600
+<font size="20" color="#fdfd00"><b>chính là cậu?</b></font>
+
+1152
+01:05:02,410 --> 01:05:04,380
+<font size="20" color="#fdfd00"><b>Khi ma quỷ giày vò tôi,</b></font>
+
+1153
+01:05:05,070 --> 01:05:08,390
+<font size="20" color="#fdfd00"><b>ma quỷ luôn dùng khăn che đôi mắt tôi.</b></font>
+
+1154
+01:05:11,250 --> 01:05:14,650
+<font size="20" color="#fdfd00"><b>Nếu không nhờ ông chuyển phí bịt miệng
+cho Bào Vũ Minh đúng hạn,</b></font>
+
+1155
+01:05:15,120 --> 01:05:16,450
+<font size="20" color="#fdfd00"><b>tôi cũng không biết</b></font>
+
+1156
+01:05:16,890 --> 01:05:18,570
+<font size="20" color="#fdfd00"><b>ông chính là tên ma quỷ ấy.</b></font>
+
+1157
+01:05:20,070 --> 01:05:21,940
+<font size="20" color="#fdfd00"><b>Hắn hại cậu thì là ma quỷ,</b></font>
+
+1158
+01:05:22,950 --> 01:05:24,640
+<font size="20" color="#fdfd00"><b>nhưng cậu giết nhiều người như vậy</b></font>
+
+1159
+01:05:24,640 --> 01:05:25,840
+<font size="20" color="#fdfd00"><b>thì phải gọi là gì đây?</b></font>
+
+1160
+01:05:27,620 --> 01:05:28,950
+<font size="20" color="#fdfd00"><b>Thẩm phán Quỷ.</b></font>
+
+1161
+01:05:30,560 --> 01:05:33,060
+<font size="20" color="#fdfd00"><b>Vốn dĩ cậu tưởng người hại cậu</b></font>
+
+1162
+01:05:33,190 --> 01:05:34,320
+<font size="20" color="#fdfd00"><b>chính là Bào Vũ Minh.</b></font>
+
+1163
+01:05:39,930 --> 01:05:41,350
+<font size="20" color="#fdfd00"><b>Nhưng khi cậu tìm thấy hắn</b></font>
+
+1164
+01:05:41,560 --> 01:05:44,180
+<font size="20" color="#fdfd00"><b>mới phát hiện hắn đã tự sát.</b></font>
+
+1165
+01:05:45,930 --> 01:05:48,850
+<font size="20" color="#fdfd00"><b>Tỉnh lại đi, tỉnh lại đi.</b></font>
+
+1166
+01:05:49,510 --> 01:05:53,680
+<font size="20" color="#fdfd00"><b>Ông đứng dậy, ông đứng dậy, ông đứng dậy đi.</b></font>
+
+1167
+01:05:55,630 --> 01:05:57,360
+<font size="20" color="#fdfd00"><b>Khi ấy chắc chắn cậu rất phẫn nộ.</b></font>
+
+1168
+01:05:58,230 --> 01:06:00,290
+<font size="20" color="#fdfd00"><b>Cậu muốn tìm ra chứng cứ gây án năm xưa.</b></font>
+
+1169
+01:06:01,400 --> 01:06:03,030
+<font size="20" color="#fdfd00"><b>Ai ngờ cậu lại phát hiện</b></font>
+
+1170
+01:06:03,070 --> 01:06:06,000
+<font size="20" color="#fdfd00"><b>một chiếc thẻ ngân hàng hắn dùng
+để nhận phí bịt miệng.</b></font>
+
+1171
+01:06:17,560 --> 01:06:18,780
+<font size="20" color="#fdfd00"><b>Cậu điều tra mãi, điều tra mãi.</b></font>
+
+1172
+01:06:18,780 --> 01:06:19,870
+<font size="20" color="#fdfd00"><b>[Quyền truy cập]</b></font>
+
+1173
+01:06:20,040 --> 01:06:20,430
+<font size="20" color="#fdfd00"><b>[Phù hợp]</b></font>
+
+1174
+01:06:20,430 --> 01:06:20,700
+<font size="20" color="#fdfd00"><b>Cuối cùng cậu cũng điều tra ra Vương Triết.</b></font>
+
+1175
+01:06:20,700 --> 01:06:22,230
+<font size="20" color="#fdfd00"><b>[Vương Triết]</b></font>
+
+1176
+01:06:23,970 --> 01:06:25,430
+<font size="20" color="#fdfd00"><b>Cậu cho rằng thế giới này</b></font>
+
+1177
+01:06:25,430 --> 01:06:27,350
+<font size="20" color="#fdfd00"><b>vốn không có công lý.</b></font>
+
+1178
+01:06:28,830 --> 01:06:30,690
+<font size="20" color="#fdfd00"><b>Lúc cậu nhìn thấy poster trò chơi,</b></font>
+
+1179
+01:06:30,970 --> 01:06:33,310
+<font size="20" color="#fdfd00"><b>dù là câu chuyện hay hình ảnh</b></font>
+
+1180
+01:06:33,310 --> 01:06:35,970
+<font size="20" color="#fdfd00"><b>đều khiến cậu nảy sinh cảm giác
+muốn tham gia vào.</b></font>
+
+1181
+01:06:36,720 --> 01:06:38,120
+<font size="20" color="#fdfd00"><b>Bắt đầu từ khoảnh khắc đó,</b></font>
+
+1182
+01:06:38,560 --> 01:06:39,510
+<font size="20" color="#fdfd00"><b>cậu cho rằng bản thân mình</b></font>
+
+1183
+01:06:39,510 --> 01:06:42,110
+<font size="20" color="#fdfd00"><b>chính là thẩm phán Quỷ
+đại diện cho chính nghĩa,</b></font>
+
+1184
+01:06:42,640 --> 01:06:45,660
+<font size="20" color="#fdfd00"><b>tất cả những kẻ phạm tội
+đều nên do cậu đích thân xét xử.</b></font>
+
+1185
+01:06:50,180 --> 01:06:50,970
+<font size="20" color="#fdfd00"><b>Vì vậy,</b></font>
+
+1186
+01:06:51,270 --> 01:06:53,430
+<font size="20" color="#fdfd00"><b>cậu tiến hành giám sát những người</b></font>
+
+1187
+01:06:53,740 --> 01:06:55,040
+<font size="20" color="#fdfd00"><b>mà cậu cho là tội phạm.</b></font>
+
+1188
+01:07:00,510 --> 01:07:02,850
+<font size="20" color="#fdfd00"><b>Khi cậu có cơ hội thôi miên họ,</b></font>
+
+1189
+01:07:03,550 --> 01:07:05,620
+<font size="20" color="#fdfd00"><b>cậu sẽ đưa mật mã poster trò chơi này</b></font>
+
+1190
+01:07:05,930 --> 01:07:07,580
+<font size="20" color="#fdfd00"><b>vào tiềm thức của họ,</b></font>
+
+1191
+01:07:08,140 --> 01:07:10,600
+<font size="20" color="#fdfd00"><b>khiến họ một khi bước vào
+trạng thái thôi miên</b></font>
+
+1192
+01:07:10,600 --> 01:07:12,560
+<font size="20" color="#fdfd00"><b>thì sẽ tự sát</b></font>
+
+1193
+01:07:12,560 --> 01:07:14,250
+<font size="20" color="#fdfd00"><b>theo mệnh lệnh của cậu.</b></font>
+
+1194
+01:07:16,450 --> 01:07:17,470
+<font size="20" color="#fdfd00"><b>Không có ai</b></font>
+
+1195
+01:07:18,710 --> 01:07:20,350
+<font size="20" color="#fdfd00"><b>tin vào cảnh ngộ của tôi.</b></font>
+
+1196
+01:07:21,180 --> 01:07:21,970
+<font size="20" color="#fdfd00"><b>Không có ai</b></font>
+
+1197
+01:07:23,140 --> 01:07:24,810
+<font size="20" color="#fdfd00"><b>trừng phạt đám tội phạm này.</b></font>
+
+1198
+01:07:26,460 --> 01:07:28,000
+<font size="20" color="#fdfd00"><b>Lúc đó tôi nghĩ</b></font>
+
+1199
+01:07:28,680 --> 01:07:31,320
+<font size="20" color="#fdfd00"><b>người bị che mắt thật sự không phải tôi</b></font>
+
+1200
+01:07:32,840 --> 01:07:37,110
+<font size="20" color="#fdfd00"><b>mà là những kẻ luôn miệng
+nói về pháp luật và chính nghĩa.</b></font>
+
+1201
+01:07:40,180 --> 01:07:41,910
+<font size="20" color="#fdfd00"><b>Tiểu Vân thì sao? Tiểu Vân ở đâu?</b></font>
+
+1202
+01:07:41,930 --> 01:07:43,730
+<font size="20" color="#fdfd00"><b>Tiểu Vân và Châu Mỹ làm gì sai chứ?</b></font>
+
+1203
+01:07:46,350 --> 01:07:47,600
+<font size="20" color="#fdfd00"><b>Nếu không phải ban đầu</b></font>
+
+1204
+01:07:49,030 --> 01:07:50,430
+<font size="20" color="#fdfd00"><b>bị bố mẹ bỏ rơi</b></font>
+
+1205
+01:07:51,010 --> 01:07:53,180
+<font size="20" color="#fdfd00"><b>thì tôi sẽ không bị ác ma giày vò.</b></font>
+
+1206
+01:07:53,890 --> 01:07:56,890
+<font size="20" color="#fdfd00"><b>Tiểu Vân và tôi đều là đứa trẻ bị vứt bỏ.</b></font>
+
+1207
+01:07:57,560 --> 01:07:59,490
+<font size="20" color="#fdfd00"><b>Bố mẹ vứt bỏ con cái</b></font>
+
+1208
+01:07:59,970 --> 01:08:01,140
+<font size="20" color="#fdfd00"><b>cũng có tội.</b></font>
+
+1209
+01:08:19,840 --> 01:08:20,640
+<font size="20" color="#fdfd00"><b>Nói.</b></font>
+
+1210
+01:08:20,760 --> 01:08:22,090
+<font size="20" color="#fdfd00"><b>Có phải do mày làm không?</b></font>
+
+1211
+01:08:22,260 --> 01:08:24,260
+<font size="20" color="#fdfd00"><b>Có phải mày đã giết em trai tao không?</b></font>
+
+1212
+01:08:25,240 --> 01:08:27,020
+<font size="20" color="#fdfd00"><b>Lần đầu tiên gặp nhau,</b></font>
+
+1213
+01:08:27,520 --> 01:08:29,060
+<font size="20" color="#fdfd00"><b>tôi đã nhìn thấu anh rồi.</b></font>
+
+1214
+01:08:29,350 --> 01:08:32,070
+<font size="20" color="#fdfd00"><b>Đóng thang máy lại,
+không liên quan đến các người.</b></font>
+
+1215
+01:08:32,210 --> 01:08:33,550
+<font size="20" color="#fdfd00"><b>Chúng ta giống nhau.</b></font>
+
+1216
+01:08:34,430 --> 01:08:37,350
+<font size="20" color="#fdfd00"><b>Chỉ có anh hiểu được
+cực khổ mà tôi gặp phải.</b></font>
+
+1217
+01:08:37,900 --> 01:08:40,720
+<font size="20" color="#fdfd00"><b>Tất cả vận hạn đều bắt đầu từ đây.</b></font>
+
+1218
+01:08:41,000 --> 01:08:44,520
+<font size="20" color="#fdfd00"><b>Nơi này chính là địa ngục của tôi.</b></font>
+
+1219
+01:09:20,110 --> 01:09:21,650
+<font size="20" color="#fdfd00"><b>Chào thầy.</b></font>
+
+1220
+01:09:43,760 --> 01:09:46,590
+<font size="20" color="#fdfd00"><b>Đứa bé mất tích
+trong bức tranh tiên tri thứ ba</b></font>
+
+1221
+01:09:47,500 --> 01:09:48,560
+<font size="20" color="#fdfd00"><b>không phải Tiểu Vân</b></font>
+
+1222
+01:09:48,980 --> 01:09:49,680
+<font size="20" color="#fdfd00"><b>mà là cậu,</b></font>
+
+1223
+01:09:50,070 --> 01:09:51,070
+<font size="20" color="#fdfd00"><b>Kevin.</b></font>
+
+1224
+01:10:09,460 --> 01:10:10,740
+<font size="20" color="#fdfd00"><b>Quá muộn rồi.</b></font>
+
+1225
+01:10:11,140 --> 01:10:13,110
+<font size="20" color="#fdfd00"><b>Không ai cứu được nó nữa.</b></font>
+
+1226
+01:10:44,530 --> 01:10:47,980
+<font size="20" color="#fdfd00"><b>Colin, Peter, Bào Vũ Minh, Vương Triết.</b></font>
+
+1227
+01:10:48,180 --> 01:10:50,380
+<font size="20" color="#fdfd00"><b>Bọn chúng đều là tội phạm, đều đáng chết.</b></font>
+
+1228
+01:10:50,760 --> 01:10:53,140
+<font size="20" color="#fdfd00"><b>Nhưng pháp luật
+trừng phạt bọn chúng thế nào?</b></font>
+
+1229
+01:10:53,140 --> 01:10:54,060
+<font size="20" color="#fdfd00"><b>Không có.</b></font>
+
+1230
+01:10:56,430 --> 01:10:58,430
+<font size="20" color="#fdfd00"><b>Điều này có công bằng, có chính nghĩa</b></font>
+
+1231
+01:10:58,810 --> 01:10:59,760
+<font size="20" color="#fdfd00"><b>với những người</b></font>
+
+1232
+01:10:59,760 --> 01:11:00,900
+<font size="20" color="#fdfd00"><b>vô tội kia không?</b></font>
+
+1233
+01:11:15,140 --> 01:11:16,520
+<font size="20" color="#fdfd00"><b>Anh cũng là tội phạm.</b></font>
+
+1234
+01:11:17,900 --> 01:11:19,510
+<font size="20" color="#fdfd00"><b>Người em trai thẩm phán kia của anh bị giết,</b></font>
+
+1235
+01:11:19,510 --> 01:11:21,030
+<font size="20" color="#fdfd00"><b>tại sao anh ở hiện trường</b></font>
+
+1236
+01:11:21,190 --> 01:11:22,730
+<font size="20" color="#fdfd00"><b>lại không cứu được anh ta?</b></font>
+
+1237
+01:11:23,140 --> 01:11:25,100
+<font size="20" color="#fdfd00"><b>Rõ ràng anh nhìn thấy hung thủ,</b></font>
+
+1238
+01:11:25,130 --> 01:11:26,650
+<font size="20" color="#fdfd00"><b>tại sao lại không nhớ ra?</b></font>
+
+1239
+01:11:27,220 --> 01:11:29,430
+<font size="20" color="#fdfd00"><b>Hội chứng trí nhớ siêu phàm
+của anh có tác dụng gì?</b></font>
+
+1240
+01:11:29,430 --> 01:11:33,140
+<font size="20" color="#fdfd00"><b>Anh chỉ là một tên vô dụng
+bị sợ hãi làm hỏng mất não.</b></font>
+
+1241
+01:11:33,680 --> 01:11:35,400
+<font size="20" color="#fdfd00"><b>Anh nói xem tại sao cậu ấy lại chết?</b></font>
+
+1242
+01:11:35,400 --> 01:11:37,370
+<font size="20" color="#fdfd00"><b>Cả Cục cảnh sát đều không điều tra ra à?</b></font>
+
+1243
+01:11:37,370 --> 01:11:38,530
+<font size="20" color="#fdfd00"><b>Chỉ có mỗi anh đau lòng nhất chắc?</b></font>
+
+1244
+01:11:38,530 --> 01:11:39,430
+<font size="20" color="#fdfd00"><b>Cậu ấy cũng là anh em của tôi đấy.</b></font>
+
+1245
+01:11:39,430 --> 01:11:41,010
+<font size="20" color="#fdfd00"><b>Đỉnh cao cuộc đời tôi chỉ thiếu chức này,</b></font>
+
+1246
+01:11:41,010 --> 01:11:41,680
+<font size="20" color="#fdfd00"><b>đừng hại tôi,</b></font>
+
+1247
+01:11:41,680 --> 01:11:42,390
+<font size="20" color="#fdfd00"><b>không là tôi đánh anh nhừ tử đó.</b></font>
+
+1248
+01:11:42,390 --> 01:11:43,720
+<font size="20" color="#fdfd00"><b>Tôi cầu xin anh.</b></font>
+
+1249
+01:11:43,950 --> 01:11:46,430
+<font size="20" color="#fdfd00"><b>Thẩm phán Quỷ đã có
+rất nhiều người hâm mộ rồi đấy.</b></font>
+
+1250
+01:11:46,430 --> 01:11:48,470
+<font size="20" color="#fdfd00"><b>Nếu có thêm vài lời tiên tri thành sự thật,</b></font>
+
+1251
+01:11:48,470 --> 01:11:49,640
+<font size="20" color="#fdfd00"><b>toàn dân bỏ phiếu xử chết ai</b></font>
+
+1252
+01:11:49,640 --> 01:11:50,700
+<font size="20" color="#fdfd00"><b>không chừng sẽ xảy ra đó.</b></font>
+
+1253
+01:11:50,700 --> 01:11:52,150
+<font size="20" color="#fdfd00"><b>Đến lúc đó thì có lẽ cảnh sát các anh</b></font>
+
+1254
+01:11:52,150 --> 01:11:53,930
+<font size="20" color="#fdfd00"><b>chẳng còn ý nghĩa tồn tại gì nữa.</b></font>
+
+1255
+01:11:54,260 --> 01:11:57,370
+<font size="20" color="#fdfd00"><b>Ngay cả người thân bảo vệ chính nghĩa
+tôi còn không bảo vệ được,</b></font>
+
+1256
+01:11:57,370 --> 01:11:58,820
+<font size="20" color="#fdfd00"><b>sao tôi vẫn còn sống?</b></font>
+
+1257
+01:12:03,510 --> 01:12:05,310
+<font size="20" color="#fdfd00"><b>Tôi sống có ý nghĩa gì?</b></font>
+
+1258
+01:12:05,390 --> 01:12:07,450
+<font size="20" color="#fdfd00"><b>Rốt cuộc tôi đang kiên trì làm điều gì?</b></font>
+
+1259
+01:12:07,970 --> 01:12:08,590
+<font size="20" color="#fdfd00"><b>Anh.</b></font>
+
+1260
+01:12:11,930 --> 01:12:13,660
+<font size="20" color="#fdfd00"><b>Tuy em không còn trên đời này nữa</b></font>
+
+1261
+01:12:13,820 --> 01:12:15,310
+<font size="20" color="#fdfd00"><b>nhưng tín ngưỡng của em</b></font>
+
+1262
+01:12:15,310 --> 01:12:16,910
+<font size="20" color="#fdfd00"><b>vẫn cần anh tiếp tục kiên trì.</b></font>
+
+1263
+01:12:31,990 --> 01:12:33,270
+<font size="20" color="#fdfd00"><b>Tôi không giống cậu.</b></font>
+
+1264
+01:12:33,940 --> 01:12:35,870
+<font size="20" color="#fdfd00"><b>Trong mắt cậu chỉ nhìn thấy thù hận,</b></font>
+
+1265
+01:12:36,100 --> 01:12:36,850
+<font size="20" color="#fdfd00"><b>bây giờ cậu</b></font>
+
+1266
+01:12:36,880 --> 01:12:38,830
+<font size="20" color="#fdfd00"><b>chỉ là một tên ác quỷ.</b></font>
+
+1267
+01:13:19,220 --> 01:13:20,180
+<font size="20" color="#fdfd00"><b>Tại sao phải chấp nhận</b></font>
+
+1268
+01:13:20,180 --> 01:13:22,100
+<font size="20" color="#fdfd00"><b>chính nghĩa mà bản thân vốn không tin tưởng?</b></font>
+
+1269
+01:13:22,100 --> 01:13:23,500
+<font size="20" color="#fdfd00"><b>Chúng ta mới là đồng loại.</b></font>
+
+1270
+01:14:08,150 --> 01:14:08,950
+<font size="20" color="#fdfd00"><b>Anh tỉnh rồi à?</b></font>
+
+1271
+01:14:09,260 --> 01:14:10,480
+<font size="20" color="#fdfd00"><b>Sao tôi lại ở đây?</b></font>
+
+1272
+01:14:11,300 --> 01:14:12,570
+<font size="20" color="#fdfd00"><b>Anh không nhớ gì thật à?</b></font>
+
+1273
+01:14:13,740 --> 01:14:15,350
+<font size="20" color="#fdfd00"><b>Anh đã hôn mê hơn ba tháng rồi.</b></font>
+
+1274
+01:14:20,310 --> 01:14:22,140
+<font size="20" color="#fdfd00"><b>Anh và Kevin bị ngã từ trên lầu xuống.</b></font>
+
+1275
+01:14:22,140 --> 01:14:23,690
+<font size="20" color="#fdfd00"><b>[Phá vụ án thẩm phán Quỷ]</b></font>
+
+1276
+01:14:26,280 --> 01:14:27,820
+<font size="20" color="#fdfd00"><b>[Một mặt là giám đốc công ty,
+một mặt là thẩm phán Quỷ]</b></font>
+
+1277
+01:14:27,860 --> 01:14:29,850
+<font size="20" color="#fdfd00"><b>[Hiện trường Vương Triết bị báo thù
+vô cùng thê thảm]</b></font>
+
+1278
+01:14:30,510 --> 01:14:31,370
+<font size="20" color="#fdfd00"><b>Kevin chết rồi.</b></font>
+
+1279
+01:14:37,140 --> 01:14:38,070
+<font size="20" color="#fdfd00"><b>Uống cốc nước đi.</b></font>
+
+1280
+01:14:38,310 --> 01:14:39,440
+<font size="20" color="#fdfd00"><b>Vậy Tiểu Vân thì sao?</b></font>
+
+1281
+01:14:40,360 --> 01:14:41,620
+<font size="20" color="#fdfd00"><b>Kevin chết rồi</b></font>
+
+1282
+01:14:42,070 --> 01:14:43,470
+<font size="20" color="#fdfd00"><b>thì sao cứu được Tiểu Vân?</b></font>
+
+1283
+01:14:47,860 --> 01:14:48,800
+<font size="20" color="#fdfd00"><b>Có lẽ</b></font>
+
+1284
+01:14:51,300 --> 01:14:52,170
+<font size="20" color="#fdfd00"><b>Kevin nói đúng.</b></font>
+
+1285
+01:14:54,490 --> 01:14:55,700
+<font size="20" color="#fdfd00"><b>Thế giới này</b></font>
+
+1286
+01:14:57,150 --> 01:14:58,670
+<font size="20" color="#fdfd00"><b>cần thẩm phán Quỷ thật.</b></font>
+
+1287
+01:15:01,000 --> 01:15:03,660
+<font size="20" color="#fdfd00"><b>Tuệ Lan sẽ không cho tôi uống nước lạnh.</b></font>
+
+1288
+01:15:05,310 --> 01:15:06,910
+<font size="20" color="#fdfd00"><b>Em trai tôi từng nói với tôi rằng</b></font>
+
+1289
+01:15:06,910 --> 01:15:09,440
+<font size="20" color="#fdfd00"><b>chính nghĩa phải được thể hiện
+bằng pháp luật.</b></font>
+
+1290
+01:15:09,780 --> 01:15:10,600
+<font size="20" color="#fdfd00"><b>Mà điều này</b></font>
+
+1291
+01:15:10,680 --> 01:15:12,010
+<font size="20" color="#fdfd00"><b>cũng là niềm tin của tôi.</b></font>
+
+1292
+01:15:22,140 --> 01:15:23,470
+<font size="20" color="#fdfd00"><b>Nếu thông minh,</b></font>
+
+1293
+01:15:24,370 --> 01:15:25,720
+<font size="20" color="#fdfd00"><b>dũng cảm,</b></font>
+
+1294
+01:15:25,850 --> 01:15:26,940
+<font size="20" color="#fdfd00"><b>có tình yêu,</b></font>
+
+1295
+01:15:28,140 --> 01:15:29,320
+<font size="20" color="#fdfd00"><b>cho dù đi chân đất</b></font>
+
+1296
+01:15:29,830 --> 01:15:31,740
+<font size="20" color="#fdfd00"><b>cũng có thể quay về nơi ấm áp nhất.</b></font>
+
+1297
+01:15:58,160 --> 01:16:00,420
+<font size="20" color="#fdfd00"><b>Ác ma biến tôi thành ác ma.</b></font>
+
+1298
+01:16:00,950 --> 01:16:02,560
+<font size="20" color="#fdfd00"><b>Địa ngục mới thuộc về tôi.</b></font>
+
+1299
+01:16:03,110 --> 01:16:04,990
+<font size="20" color="#fdfd00"><b>Anh khác tôi.</b></font>
+
+1300
+01:16:13,450 --> 01:16:15,430
+<font size="20" color="#fdfd00"><b>Tôi giải thoát rồi.</b></font>
+
+1301
+01:16:47,460 --> 01:16:49,360
+<font size="20" color="#fdfd00"><b>Cảnh sát Quách, bây giờ anh thấy thế nào?</b></font>
+
+1302
+01:16:49,360 --> 01:16:50,320
+<font size="20" color="#fdfd00"><b>Tôi không sao thật mà.</b></font>
+
+1303
+01:16:50,320 --> 01:16:51,180
+<font size="20" color="#fdfd00"><b>Cảnh sát Quách.</b></font>
+
+1304
+01:16:52,140 --> 01:16:53,140
+<font size="20" color="#fdfd00"><b>Anh không sao chứ?</b></font>
+
+1305
+01:16:53,840 --> 01:16:54,440
+<font size="20" color="#fdfd00"><b>Không sao.</b></font>
+
+1306
+01:16:55,570 --> 01:16:57,000
+<font size="20" color="#fdfd00"><b>Cốc cà phê này là của anh.</b></font>
+
+1307
+01:17:09,380 --> 01:17:10,240
+<font size="20" color="#fdfd00"><b>Cảnh sát Quách.</b></font>
+
+1308
+01:17:14,840 --> 01:17:15,430
+<font size="20" color="#fdfd00"><b>Tiểu Vân.</b></font>
+
+1309
+01:17:16,290 --> 01:17:17,150
+<font size="20" color="#fdfd00"><b>Vẫn kịp.</b></font>
+
+1310
+01:17:18,190 --> 01:17:19,140
+<font size="20" color="#fdfd00"><b>Tổ A lên xe.</b></font>
+
+1311
+01:17:19,140 --> 01:17:20,130
+<font size="20" color="#fdfd00"><b>Lên xe, mau.</b></font>
+
+1312
+01:17:26,320 --> 01:17:27,180
+<font size="20" color="#fdfd00"><b>Cảnh sát Quách.</b></font>
+
+1313
+01:17:27,220 --> 01:17:28,020
+<font size="20" color="#fdfd00"><b>Bây giờ đi đâu?</b></font>
+
+1314
+01:17:28,310 --> 01:17:30,930
+<font size="20" color="#fdfd00"><b>Dorothy, thông minh, dũng cảm,</b></font>
+
+1315
+01:17:31,520 --> 01:17:33,350
+<font size="20" color="#fdfd00"><b>tình yêu, cho dù có đi chân đất</b></font>
+
+1316
+01:17:33,350 --> 01:17:35,310
+<font size="20" color="#fdfd00"><b>cũng có thể trở về nơi ấm áp nhất.</b></font>
+
+1317
+01:17:35,980 --> 01:17:38,060
+<font size="20" color="#fdfd00"><b>Không có nơi nào ấm áp như ở nhà.</b></font>
+
+1318
+01:17:38,730 --> 01:17:41,120
+<font size="20" color="#fdfd00"><b>Châu Mỹ bị Kevin lừa rồi.</b></font>
+
+1319
+01:17:41,560 --> 01:17:44,020
+<font size="20" color="#fdfd00"><b>Thực ra Tiểu Vân vẫn luôn bị nhốt
+ở nhà Châu Mỹ.</b></font>
+
+1320
+01:22:06,850 --> 01:22:08,710
+<font size="20" color="#fdfd00"><b>Kevin giết Vương Triết để báo thù.</b></font>
+
+1321
+01:22:09,790 --> 01:22:12,520
+<font size="20" color="#fdfd00"><b>Nhưng Colin và Peter
+không liên quan gì đến cậu ta.</b></font>
+
+1322
+01:22:13,100 --> 01:22:15,790
+<font size="20" color="#fdfd00"><b>Hơn nữa không ai biết
+tội ác mà hai người họ đã gây ra.</b></font>
+
+1323
+01:22:15,790 --> 01:22:18,120
+<font size="20" color="#fdfd00"><b>Vậy tại sao Kevin lại phát hiện ra bọn họ?</b></font>
+
+1324
+01:22:19,060 --> 01:22:20,390
+<font size="20" color="#fdfd00"><b>Quan trọng nhất là</b></font>
+
+1325
+01:22:20,390 --> 01:22:21,850
+<font size="20" color="#fdfd00"><b>Kevin là bệnh nhân của anh.</b></font>
+
+1326
+01:22:21,990 --> 01:22:23,310
+<font size="20" color="#fdfd00"><b>Thuật thôi miên của cậu ta</b></font>
+
+1327
+01:22:23,310 --> 01:22:24,380
+<font size="20" color="#fdfd00"><b>là do anh dạy.</b></font>
+
+1328
+01:22:26,170 --> 01:22:27,470
+<font size="20" color="#fdfd00"><b>Vậy nên anh cho rằng</b></font>
+
+1329
+01:22:27,490 --> 01:22:29,290
+<font size="20" color="#fdfd00"><b>tôi liên quan đến những vụ án này?</b></font>
+
+1330
+01:22:30,420 --> 01:22:32,280
+<font size="20" color="#fdfd00"><b>Anh lợi dụng vấn đề tâm lý của cậu ta</b></font>
+
+1331
+01:22:32,360 --> 01:22:33,850
+<font size="20" color="#fdfd00"><b>để ám thị và xúi giục,</b></font>
+
+1332
+01:22:33,930 --> 01:22:35,190
+<font size="20" color="#fdfd00"><b>khiến cậu ta tin rằng</b></font>
+
+1333
+01:22:35,210 --> 01:22:37,020
+<font size="20" color="#fdfd00"><b>mình chính là vị thần
+đại diện cho chính nghĩa.</b></font>
+
+1334
+01:22:37,020 --> 01:22:38,770
+<font size="20" color="#fdfd00"><b>Anh thấy chướng mắt</b></font>
+
+1335
+01:22:38,790 --> 01:22:40,390
+<font size="20" color="#fdfd00"><b>với việc mà Colin và Peter làm</b></font>
+
+1336
+01:22:40,780 --> 01:22:42,890
+<font size="20" color="#fdfd00"><b>nhưng anh lại sợ làm bẩn tay mình</b></font>
+
+1337
+01:22:43,060 --> 01:22:44,360
+<font size="20" color="#fdfd00"><b>nên bảo Kevin làm.</b></font>
+
+1338
+01:22:44,720 --> 01:22:46,320
+<font size="20" color="#fdfd00"><b>Thế thì anh sạch sẽ hơn nhiều.</b></font>
+
+1339
+01:22:47,670 --> 01:22:50,870
+<font size="20" color="#fdfd00"><b>Cảnh sát Quách, trí tưởng tượng của anh
+phong phú thật đấy.</b></font>
+
+1340
+01:22:52,840 --> 01:22:55,500
+<font size="20" color="#fdfd00"><b>Tôi sẵn sàng hợp tác với cảnh sát,
+hỗ trợ điều tra.</b></font>
+
+1341
+01:22:56,140 --> 01:22:57,540
+<font size="20" color="#fdfd00"><b>Nếu có chứng cứ…</b></font>
+
+1342
+01:22:58,230 --> 01:22:59,020
+<font size="20" color="#fdfd00"><b>Sẽ có thôi.</b></font>
+
+1343
+01:22:59,710 --> 01:23:00,730
+<font size="20" color="#fdfd00"><b>Nhất định sẽ có.</b></font>
+
+1344
+01:23:23,100 --> 01:23:24,660
+<font size="20" color="#fdfd00"><b>Qua điều tra sơ bộ của phía cảnh sát,</b></font>
+
+1345
+01:23:24,660 --> 01:23:25,930
+<font size="20" color="#fdfd00"><b>xác nhận thân phận người chết là
+thẩm phán Quách Văn Thành.</b></font>
+
+1346
+01:23:25,930 --> 01:23:27,970
+<font size="20" color="#fdfd00"><b>[Phá vụ án thẩm phán Quỷ!
+Cảnh sát xác nhận thân phận người chết]</b></font>
+
+1347
+01:23:27,970 --> 01:23:29,140
+<font size="20" color="#fdfd00"><b>Có quan hệ anh em</b></font>
+
+1348
+01:23:29,140 --> 01:23:31,720
+<font size="20" color="#fdfd00"><b>với cảnh sát Quách Văn Bân
+thuộc tổ Hình sự đã hỗ trợ điều tra</b></font>
+
+1349
+01:23:31,720 --> 01:23:33,180
+<font size="20" color="#fdfd00"><b>vụ án giết người hàng loạt.</b></font>
+
+1350
+01:23:33,320 --> 01:23:36,560
+<font size="20" color="#fdfd00"><b>Nghi ngờ nạn nhân bị hung thủ
+trong vụ án giết người hàng loạt giết hại.</b></font>
+
+1351
+01:23:36,560 --> 01:23:39,020
+<font size="20" color="#fdfd00"><b>Đến giờ thân phận của hung thủ
+vẫn là một ẩn số.</b></font>
+
+1352
+01:24:31,220 --> 01:24:33,150
+<font size="20" color="#fdfd00"><b>Anh có nghĩ đến chuyện
+chuyển đến nơi gần một chút không?</b></font>
+
+1353
+01:24:33,150 --> 01:24:34,570
+<font size="20" color="#fdfd00"><b>Điều hòa còn không có.</b></font>
+
+1354
+01:24:35,010 --> 01:24:36,180
+<font size="20" color="#fdfd00"><b>Nào nếm thử cái này đi.</b></font>
+
+1355
+01:24:36,180 --> 01:24:37,810
+<font size="20" color="#fdfd00"><b>Quán ngon mới phát hiện gần đây đấy.</b></font>
+
+1356
+01:24:37,810 --> 01:24:38,870
+<font size="20" color="#fdfd00"><b>Tan làm sớm vậy sao?</b></font>
+
+1357
+01:24:39,890 --> 01:24:41,290
+<font size="20" color="#fdfd00"><b>Tuần sau là lễ biểu dương.</b></font>
+
+1358
+01:24:42,810 --> 01:24:44,460
+<font size="20" color="#fdfd00"><b>Tôi sẽ không quên anh em đâu.</b></font>
+
+1359
+01:24:44,680 --> 01:24:46,510
+<font size="20" color="#fdfd00"><b>Tôi định thành lập một tổ chuyên án mới.</b></font>
+
+1360
+01:24:46,510 --> 01:24:47,440
+<font size="20" color="#fdfd00"><b>Do anh phụ trách.</b></font>
+
+1361
+01:24:47,790 --> 01:24:48,670
+<font size="20" color="#fdfd00"><b>Anh vất vả rồi.</b></font>
+
+1362
+01:24:51,140 --> 01:24:52,270
+<font size="20" color="#fdfd00"><b>Mọi người đều vất vả.</b></font>
+
+1363
+01:24:58,680 --> 01:24:59,140
+<font size="20" color="#fdfd00"><b>Này.</b></font>
+
+1364
+01:25:00,960 --> 01:25:02,560
+<font size="20" color="#fdfd00"><b>Chuyện đồng ý với tôi thì sao?</b></font>
+
+1365
+01:25:03,050 --> 01:25:03,910
+<font size="20" color="#fdfd00"><b>Không quên đâu.</b></font>
+
+1366
+01:25:21,690 --> 01:25:22,810
+<font size="20" color="#fdfd00"><b>Chắc anh biết</b></font>
+
+1367
+01:25:22,950 --> 01:25:24,740
+<font size="20" color="#fdfd00"><b>tình trạng của anh lúc đó rất tệ.</b></font>
+
+1368
+01:25:25,040 --> 01:25:26,500
+<font size="20" color="#fdfd00"><b>Lúc đó tôi không đưa cho anh</b></font>
+
+1369
+01:25:26,770 --> 01:25:28,500
+<font size="20" color="#fdfd00"><b>là mong anh không xảy ra chuyện.</b></font>
+
+1370
+01:25:32,230 --> 01:25:34,690
+<font size="20" color="#fdfd00"><b>Trên hung khí này
+không có dấu vết của hung thủ</b></font>
+
+1371
+01:25:36,620 --> 01:25:38,350
+<font size="20" color="#fdfd00"><b>nhưng có lẽ có ký ức của anh.</b></font>
+
+1372
+01:25:46,520 --> 01:25:47,260
+<font size="20" color="#fdfd00"><b>Ba.</b></font>
+
+1373
+01:25:48,610 --> 01:25:49,560
+<font size="20" color="#fdfd00"><b>Hai.</b></font>
+
+1374
+01:25:50,820 --> 01:25:51,730
+<font size="20" color="#fdfd00"><b>Một.</b></font>
+

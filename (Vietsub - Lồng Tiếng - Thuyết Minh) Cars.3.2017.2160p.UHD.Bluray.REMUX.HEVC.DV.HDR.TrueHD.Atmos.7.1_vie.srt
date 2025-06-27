@@ -1,0 +1,6231 @@
+1
+00:00:47,310 --> 00:00:49,820
+<font size="20">OK. Ta đến đây.</font>
+
+2
+00:00:49,820 --> 00:00:53,990
+<font size="20">Tập trung. Tốc độ. Ta là tốc độ.</font>
+
+3
+00:00:55,860 --> 00:00:58,200
+<font size="20">Một kẻ chiến thắng. 42 người chiến bại.</font>
+
+4
+00:00:58,200 --> 00:01:00,790
+<font size="20">Ta sẽ bắt các kẻ chiến bại làm bữa điểm tâm.</font>
+
+5
+00:01:03,290 --> 00:01:04,410
+<font size="20">Có phải ta từng nói như vậy không?</font>
+
+6
+00:01:04,620 --> 00:01:06,040
+<font size="20">Có thưa ngài... Ngài đã từng nói thế.</font>
+
+7
+00:01:06,080 --> 00:01:08,710
+<font size="20">Chắc vậy rồi. Ngài luôn nói thế mà.</font>
+
+8
+00:01:08,750 --> 00:01:10,210
+<font size="20">Mater! Anh làm gì ở đây!</font>
+
+9
+00:01:10,210 --> 00:01:12,670
+<font size="20">À, ta không muốn anh bạn cô đơn.</font>
+
+10
+00:01:13,300 --> 00:01:17,050
+<font size="20">Cảm ơn nhưng tôi đang chuẩn bị
+cho một cuộc đua.</font>
+
+11
+00:01:17,260 --> 00:01:18,340
+<font size="20">Tôi cần yên tĩnh.</font>
+
+12
+00:01:18,470 --> 00:01:20,260
+<font size="20">Được rồi. Anh sẽ toại nguyện mà anh bạn.</font>
+
+13
+00:01:22,060 --> 00:01:23,980
+<font size="20">Nghe này mấy anh bạn.</font>
+
+14
+00:01:23,980 --> 00:01:28,310
+<font size="20">Người bạn thân của tôi Lightning McQueen
+cần yên tĩnh. Tuyệt đối yên tĩnh.</font>
+
+15
+00:01:30,400 --> 00:01:31,770
+<font size="20">Okay, đúng thế mà.</font>
+
+16
+00:01:33,940 --> 00:01:36,240
+<font size="20">Cuộc đua. Một cuộc đua thực sự.</font>
+
+17
+00:01:38,070 --> 00:01:41,120
+<font size="20">Huh! Không chỉ là cuộc đua,
+cũng không phải là buổi lái xe vào ngày Chủ nhật.
+<font color="#000000">Sunday Drive: phát sinh đầu tiên ở Mỹ và Úc, tìm kiếm niềm vui và sự nhàn hạ vào ngày Chủ nhật
+thường là buổi chiều. Trong cuộc đua này không cần đích đến cũng không cần tăng tốc.</font></font>
+
+18
+00:01:41,120 --> 00:01:43,700
+<font size="20">Đua xe là phải 500 vòng.</font>
+
+19
+00:01:43,750 --> 00:01:46,710
+<font size="20">Mỗi người phải chiến đấu vượt lên từng vòng</font>
+
+20
+00:01:46,750 --> 00:01:49,670
+<font size="20">chiến thắng từng inch một.</font>
+
+21
+00:01:50,340 --> 00:01:51,460
+<font size="20">Cuộc đua đó là như thế.</font>
+
+22
+00:01:52,630 --> 00:01:55,550
+<font size="20">Tôi không cần phải tranh cãi với Doc Hudson.</font>
+
+23
+00:01:56,220 --> 00:01:58,510
+<font size="20">Sự thật là thế. Là thế mà.</font>
+
+24
+00:02:00,850 --> 00:02:03,720
+<font size="20">- Này Tia chớp. Anh sẵn sàng chưa?
+- Oh, yeah.</font>
+
+25
+00:02:03,770 --> 00:02:04,890
+<font size="20">Tia chớp đã sẵn sàng.</font>
+
+26
+00:02:07,850 --> 00:02:09,850
+<font size="20">Chiến thắng này dành cho ông, Doc Hudson.</font>
+
+27
+00:02:22,370 --> 00:02:25,790
+<font size="20">CARS 3</font>
+
+28
+00:02:28,750 --> 00:02:30,420
+<font size="20">Cố lên nào Đề can.</font>
+
+29
+00:02:30,750 --> 00:02:33,630
+<font size="20">Sẽ thắng mà, tiến lên McQueen.</font>
+
+30
+00:02:35,340 --> 00:02:38,130
+<font size="20">McQueen Tia chớp.</font>
+
+31
+00:02:44,430 --> 00:02:48,390
+<font size="20">- Này Cal, đèn xi nhan anh sáng kìa.
+- Sao? Không, nó chỉ... Này.</font>
+
+32
+00:02:49,190 --> 00:02:50,850
+<font size="20">Đèn của anh mới cháy.</font>
+
+33
+00:02:50,900 --> 00:02:51,980
+<font size="20">Ở lại sau đi Cal.</font>
+
+34
+00:03:07,080 --> 00:03:10,330
+<font size="20">Vào trạm tiếp tế giờ này là McQueen
+Bobby Swift và Cal Weathers.</font>
+
+35
+00:03:10,580 --> 00:03:12,710
+<font size="20">Nhìn ba anh này vui thật. Phải không Darrell?</font>
+
+36
+00:03:12,710 --> 00:03:15,590
+<font size="20">Anh biết không Bob, tôi không thể nói
+vui hay không khi thấy họ vào và ra đường đua.</font>
+
+37
+00:03:20,220 --> 00:03:24,800
+<font size="20">- Rửa xe đi Cal.
+- Không, anh mới cần rửa đó Macqueen.</font>
+
+38
+00:03:24,850 --> 00:03:26,140
+<font size="20">Đưa họ trở lại đi.</font>
+
+39
+00:03:41,530 --> 00:03:44,740
+<font size="20">Tia chớp, anh phải tập trung như thế nào
+trên đường đua để địch lại Bobby và Cal?</font>
+
+40
+00:03:45,070 --> 00:03:46,990
+<font size="20">Điểm then chốt là chúng tôi phải tôn trọng lẫn nhau.</font>
+
+41
+00:03:47,240 --> 00:03:49,000
+<font size="20">Mấy anh chàng này cũng có hạng lắm đấy.</font>
+
+42
+00:03:50,540 --> 00:03:51,870
+<font size="20">Chúc mừng bánh ngọt.</font>
+
+43
+00:03:53,080 --> 00:03:54,540
+<font size="20">Oh, bọn họ phải trả giá.</font>
+
+44
+00:04:03,800 --> 00:04:05,090
+<font size="20">Đi đi Dinoco!</font>
+
+45
+00:04:05,720 --> 00:04:07,010
+<font size="20">Chiến thắng ngoạn mục ngày hôm nay Cal.</font>
+
+46
+00:04:07,260 --> 00:04:10,850
+<font size="20">Cảm ơn Shannon, họ đua tuyệt vời... Này, này.</font>
+
+47
+00:04:11,600 --> 00:04:12,890
+<font size="20">- Guido!!
+- Trạm bảo dưỡng...</font>
+
+48
+00:04:13,310 --> 00:04:15,190
+<font size="20">- Ha ha thôi im đi.
+- Thật vui...</font>
+
+49
+00:04:23,030 --> 00:04:23,860
+<font size="20">Tốc độ 196km/giờ. Thật tuyệt.</font>
+
+50
+00:04:23,910 --> 00:04:25,780
+<font size="20">Giữ phong độ thế nhé anh bạn.</font>
+
+51
+00:04:35,250 --> 00:04:37,130
+<font size="20">Có phải nhà tài trợ của tôi
+hạnh phúc ngày hôm nay không nhỉ?</font>
+
+52
+00:04:37,340 --> 00:04:41,260
+<font size="20">Đừng vui chiến thắng nữa.
+Đã hết chắn bùn để bán rồi.</font>
+
+53
+00:04:41,380 --> 00:04:42,630
+<font size="20">McQueen Tia chớp!</font>
+
+54
+00:04:42,670 --> 00:04:45,010
+<font size="20">Này, Tex bự...
+đối thủ ưa thích của tôi đâu rồi?</font>
+
+55
+00:04:45,010 --> 00:04:50,310
+<font size="20">Chỉ cần anh nói, tôi sẽ loại một người trong đội Dinoco
+và thay anh vào.</font>
+
+56
+00:04:50,310 --> 00:04:52,310
+<font size="20">Anh biết là tôi nghe phải không.
+Tôi ở ngay đây.</font>
+
+57
+00:04:52,310 --> 00:04:54,770
+<font size="20">Chào Cal, hẹn gặp tuần sau.</font>
+
+58
+00:04:54,810 --> 00:04:56,270
+<font size="20">Hoặc không.</font>
+
+59
+00:04:56,480 --> 00:04:58,690
+<font size="20">Oh thôi mà, tôi đùa đấy.</font>
+
+60
+00:04:58,770 --> 00:05:00,020
+<font size="20">Xoay tròn đi anh bạn.</font>
+
+61
+00:05:01,860 --> 00:05:03,030
+<font size="20">Hẹn gặp lại anh bạn nữa nhé.</font>
+
+62
+00:05:07,320 --> 00:05:10,790
+<font size="20">Một tay đua khác trong tốp 80.
+McQueen và Swift đang so kè nhau.</font>
+
+63
+00:05:10,950 --> 00:05:12,790
+<font size="20">Cảnh sau đó đẹp không Boby?</font>
+
+64
+00:05:13,200 --> 00:05:14,370
+<font size="20">Tốt hơn anh đừng có nổ,</font>
+
+65
+00:05:14,410 --> 00:05:15,500
+<font size="20">tôi sẽ vượt qua ngay đây.</font>
+
+66
+00:05:15,500 --> 00:05:19,090
+<font size="20">Cờ đã phất, đây là vòng đua cuối.
+McQueen đang dẫn đầu.</font>
+
+67
+00:05:20,710 --> 00:05:22,840
+<font size="20">OK, để xem anh được gì.</font>
+
+68
+00:05:32,720 --> 00:05:35,350
+<font size="20">Oh, Jackson Storm về đích trước.</font>
+
+69
+00:05:35,390 --> 00:05:38,520
+<font size="20">Một nỗi buồn to lớn. Cả Tia chớp
+lẩn Bobby đều không thấy hắn qua mặt.</font>
+
+70
+00:05:38,900 --> 00:05:40,150
+<font size="20">Khởi đầu nhanh là một chuyện</font>
+
+71
+00:05:40,150 --> 00:05:44,530
+<font size="20">nhưng chưa thấy ai cán đích đến
+với tốc độ và sức mạnh như thế.</font>
+
+72
+00:05:44,530 --> 00:05:48,160
+<font size="20">Kể từ lúc chàng trai trẻ Tia chớp McQueen
+xuất hiện lần đầu tiên.</font>
+
+73
+00:05:48,160 --> 00:05:51,530
+<font size="20">Này Bobby, ai vậy? Đó là....</font>
+
+74
+00:05:51,530 --> 00:05:54,580
+<font size="20">- Jackson Storm.
+- Yeah anh ta là một lính mới.</font>
+
+75
+00:05:58,620 --> 00:06:01,630
+<font size="20">Cảm ơn, tôi đánh giá cao chuyện đó.
+Cảm ơn rất nhiều. Cảm ơn.</font>
+
+76
+00:06:02,590 --> 00:06:06,340
+<font size="20">Này, Jackson Storm hả? Hôm nay đua giỏi lắm.</font>
+
+77
+00:06:06,340 --> 00:06:08,050
+<font size="20">Wow, cảm ơn anh McQueen.</font>
+
+78
+00:06:08,090 --> 00:06:11,430
+<font size="20">Anh biết không lời nào tả nổi niềm vui
+cuối cùng tôi cũng thắng anh đâu.</font>
+
+79
+00:06:11,760 --> 00:06:16,810
+<font size="20">Oh cảm ơn, chờ chút
+anh mới nói "gặp" hay "thắng"?</font>
+
+80
+00:06:17,690 --> 00:06:18,770
+<font size="20">- Tôi nghĩ anh nghe rõ mà.
+- Cái gì?</font>
+
+81
+00:06:19,480 --> 00:06:22,060
+<font size="20">Macqueen ở kia kìa. Storm,
+chụp vài tấm hình nhé?</font>
+
+82
+00:06:22,060 --> 00:06:23,320
+<font size="20">Yeah yeah, chụp đi. Chụp một bức hình đi.</font>
+
+83
+00:06:23,320 --> 00:06:24,730
+<font size="20">Các anh biết không. Chụp cả ngàn bức hình đi.</font>
+
+84
+00:06:24,730 --> 00:06:28,490
+<font size="20">Vì nhà vô địch này là tấm gương sáng
+trong nhiều năm cho tôi mà.</font>
+
+85
+00:06:28,650 --> 00:06:30,740
+<font size="20">Ý tôi là rất nhiều năm.</font>
+
+86
+00:06:30,740 --> 00:06:32,780
+<font size="20">Phải, tôi yêu anh chàng này.</font>
+
+87
+00:06:37,160 --> 00:06:38,830
+<font size="20">Tôi nghĩ tôi đã chọc giận anh ta rồi.</font>
+
+88
+00:06:48,670 --> 00:06:51,220
+<font size="20">Chào mừng đã quay lại Chick's Pics cùng Chick Hicks</font>
+
+89
+00:06:51,220 --> 00:06:55,810
+<font size="20">Tôi là người dẫn chương trình, quán quân Piston Cup
+trước đây và mãi mãi Chick Hicks.</font>
+
+90
+00:06:56,720 --> 00:06:57,730
+<font size="20">Anh tân binh Jackson Storm</font>
+
+91
+00:06:57,770 --> 00:07:01,770
+<font size="20">đã đóng sập cánh cửa trước Tia chớp McQueen.</font>
+
+92
+00:07:01,770 --> 00:07:06,650
+<font size="20">Oh, có gì vui bằng chính tôi đánh bại McQueen.</font>
+
+93
+00:07:06,690 --> 00:07:07,690
+<font size="20">Oh, khoan. Tôi có thể.</font>
+
+94
+00:07:08,740 --> 00:07:12,030
+<font size="20">Nói về tôi như thế đủ rồi.
+Giờ người giải thích cho quí vị</font>
+
+95
+00:07:12,110 --> 00:07:14,830
+<font size="20">là người phân tích số liệu chuyên nghiệp,
+cô Natalie Certain.</font>
+
+96
+00:07:14,870 --> 00:07:19,540
+<font size="20">Rất vui khi đến đây Chick và thực ra tôi thích
+thuật ngữ chuyên gia phân tích thống kê hơn.</font>
+
+97
+00:07:19,580 --> 00:07:22,580
+<font size="20">Được, vậy anh lính mới</font>
+
+98
+00:07:22,580 --> 00:07:25,840
+<font size="20">Jackson Storm đầy bí ẩn này là ai?
+Và tại sao anh ta lại nhanh vậy?</font>
+
+99
+00:07:25,840 --> 00:07:28,550
+<font size="20">Không có gì bí ẩn nếu nghiên cứu dữ liệu,
+anh Hicks.</font>
+
+100
+00:07:28,590 --> 00:07:32,640
+<font size="20">Jackson Storm là thành viên thế hệ kế tiếp
+các tay đua công nghệ cao.</font>
+
+101
+00:07:32,640 --> 00:07:34,550
+<font size="20">Không giống các cựu binh của ngày hôm qua.</font>
+
+102
+00:07:34,970 --> 00:07:37,890
+<font size="20">Oh đám lão làng như anh chàng này ha ha.</font>
+
+103
+00:07:37,970 --> 00:07:39,100
+<font size="20">Um... Đúng rồi.</font>
+
+104
+00:07:39,980 --> 00:07:42,900
+<font size="20">Phải Storm đạt tốc độ cao nhất
+bằng cách khai thác các con số.</font>
+
+105
+00:07:42,900 --> 00:07:46,650
+<font size="20">Dĩ nhiên tôi nói đến dữ liệu đua xe:
+áp lực lốp, sức cản không khí</font>
+
+106
+00:07:46,650 --> 00:07:48,150
+<font size="20">việc phân bố trọng lượng, khí động lực học</font>
+
+107
+00:07:48,190 --> 00:07:52,070
+<font size="20">và thế hệ mới như Storm sẽ chiếm lợi thế.</font>
+
+108
+00:07:52,070 --> 00:07:53,950
+<font size="20">Thế giới đua xe đã thay đổi.</font>
+
+109
+00:07:53,990 --> 00:07:57,580
+<font size="20">Và nếu vậy thì bạn tôi, Tia chớp
+sắp về vườn rồi.</font>
+
+110
+00:07:57,620 --> 00:07:58,700
+<font size="20">Đúng không, Certain?</font>
+
+111
+00:07:58,700 --> 00:08:01,040
+<font size="20">Vâng nếu có điều gì chắc chắn, Chick</font>
+
+112
+00:08:01,040 --> 00:08:05,080
+<font size="20">thì mùa giải lần này sẽ càng hấp dẫn hơn.</font>
+
+113
+00:08:06,420 --> 00:08:07,130
+<font size="20">Tôi nói anh nghe, Darrell</font>
+
+114
+00:08:07,130 --> 00:08:09,380
+<font size="20">Jackson Storm chắc chắn đã gây tác động mạnh.</font>
+
+115
+00:08:09,420 --> 00:08:12,800
+<font size="20">Đã có thêm sáu tân binh thế hệ mới này
+ra đường đua</font>
+
+116
+00:08:12,800 --> 00:08:15,470
+<font size="20">với sáu cựu binh phải lui về vườn
+để dọn đường cho họ.</font>
+
+117
+00:08:15,470 --> 00:08:18,060
+<font size="20">Chào nhà vô địch.
+Huyền thoại sống hôm nay thế nào?</font>
+
+118
+00:08:19,310 --> 00:08:21,890
+<font size="20">- Vẫn còn sống nhăn, cảm ơn.
+- Giờ, tôi sẽ đánh giá cao.</font>
+
+119
+00:08:21,930 --> 00:08:25,900
+<font size="20">Không thể tin được là tôi cùng đua
+với Tia chớp McQueen trong mùa giải anh ta giải nghệ.</font>
+
+120
+00:08:25,900 --> 00:08:27,360
+<font size="20">Anh nói gì vậy?</font>
+
+121
+00:08:27,980 --> 00:08:30,230
+<font size="20">Sao... cờ phất...
+Chúc may mắn nhà vô địch.</font>
+
+122
+00:08:30,940 --> 00:08:32,110
+<font size="20">Anh sẽ cần nó đó.</font>
+
+123
+00:08:38,780 --> 00:08:42,040
+<font size="20">Lý do khiến Storm và thế hệ mới
+trở nên hiệu quả hơn</font>
+
+124
+00:08:42,160 --> 00:08:46,080
+<font size="20">họ có khả năng giữ được đường đua tối ưu
+ở mỗi vòng đơn.</font>
+
+125
+00:08:46,170 --> 00:08:47,210
+<font size="20">Chiến thắng thứ ba cho chàng tân binh.</font>
+
+126
+00:08:47,250 --> 00:08:51,170
+<font size="20">Storms thuộc đẳng cấp riêng cho mình
+và lý do quan trọng là</font>
+
+127
+00:08:51,170 --> 00:08:53,760
+<font size="20">được huấn luyện với máy mô phỏng thế hệ mới nhất.</font>
+
+128
+00:08:53,760 --> 00:08:57,140
+<font size="20">Những cỗ máy này tạo ra trải nghiệm
+đua xe rất thật</font>
+
+129
+00:08:57,340 --> 00:08:59,260
+<font size="20">khiến các tay đua không cần ra ngoài nữa.</font>
+
+130
+00:09:00,100 --> 00:09:03,430
+<font size="20">Storms có khả năng giữ đường chạy
+mà chúng tôi chưa từng thấy.</font>
+
+131
+00:09:03,480 --> 00:09:05,350
+<font size="20">Bốn lần liên tiếp... đùa với tôi à?</font>
+
+132
+00:09:05,440 --> 00:09:07,400
+<font size="20">Hệ số cản thấp hơn 2%.</font>
+
+133
+00:09:07,440 --> 00:09:08,520
+<font size="20">Oh! Thật là một kết thúc!!</font>
+
+134
+00:09:08,900 --> 00:09:10,480
+<font size="20">Lực nén tăng 5%.</font>
+
+135
+00:09:10,820 --> 00:09:11,940
+<font size="20">Số 7 may mắn.</font>
+
+136
+00:09:11,980 --> 00:09:14,490
+<font size="20">Tốc độ cao nhất 1.2%.</font>
+
+137
+00:09:14,610 --> 00:09:15,490
+<font size="20">Thật tuyệt!</font>
+
+138
+00:09:17,160 --> 00:09:20,830
+<font size="20">Quán quân cup Piston, Chick Hicks
+tôi cùng tay đua khiến tất cả phải hít khói.</font>
+
+139
+00:09:21,330 --> 00:09:24,500
+<font size="20">Jackson Storm. Lại dễ dàng thắng catchow</font>
+
+140
+00:09:24,500 --> 00:09:28,630
+<font size="20">hay để tôi nói kaboos vì anh ta lúc nào cũng về sau.
+Có phải không?</font>
+
+141
+00:09:28,630 --> 00:09:31,800
+<font size="20">Không, không, không, Chick
+McQueen là cựu binh quán quân láu cá.</font>
+
+142
+00:09:31,960 --> 00:09:34,590
+<font size="20">Chuyên gia lớn tuổi của làng thể thao, anh biết chứ?</font>
+
+143
+00:09:35,260 --> 00:09:36,760
+<font size="20">Tôi phải cố hết sức mới thắng được.</font>
+
+144
+00:09:37,550 --> 00:09:39,850
+<font size="20">Oh, chắc là cậu đùa rồi.</font>
+
+145
+00:09:40,970 --> 00:09:44,180
+<font size="20">Anh định sẽ thay đổi thế nào
+để McQueen vượt lên lại?</font>
+
+146
+00:09:44,180 --> 00:09:46,060
+<font size="20">Xem nào, chúng ta thử cách tập mới.
+hay anh ta chuẩn bị về hưu?</font>
+
+147
+00:09:46,060 --> 00:09:49,650
+<font size="20">Thôi nào các bạn, đừng phản ứng quá mức,
+chỉ là sa sút chút ít thôi mà.</font>
+
+148
+00:09:49,690 --> 00:09:50,980
+<font size="20">Tuần tới tôi sẽ thắng.</font>
+
+149
+00:09:51,020 --> 00:09:52,610
+<font size="20">OK, vậy đủ rồi.</font>
+
+150
+00:09:52,610 --> 00:09:53,190
+<font size="20">Miễn bình luận nhé.</font>
+
+151
+00:09:53,190 --> 00:09:55,610
+<font size="20">Cả về chuyện Cal Weathers nghỉ hưu sao?</font>
+
+152
+00:09:55,610 --> 00:09:56,240
+<font size="20">Khoan, gì cơ?</font>
+
+153
+00:09:56,240 --> 00:09:58,530
+<font size="20">Cal Weathers đã cắt hợp đồng với Lightyears.</font>
+
+154
+00:10:00,830 --> 00:10:03,040
+<font size="20">Không, không bình luận kể cả chuyện đó.</font>
+
+155
+00:10:08,080 --> 00:10:09,540
+<font size="20">Này, Cal.</font>
+
+156
+00:10:10,380 --> 00:10:13,880
+<font size="20">Này, nghỉ hưu sao?
+Có chuyện gì vậy?</font>
+
+157
+00:10:16,130 --> 00:10:19,470
+<font size="20">Anh bạn, tôi đã hỏi chú tôi
+làm sao biết khi nào mình nên nghỉ.</font>
+
+158
+00:10:20,090 --> 00:10:21,430
+<font size="20">Biết ông ấy nói sao không?</font>
+
+159
+00:10:22,760 --> 00:10:24,310
+<font size="20">Đám trẻ con sẽ cho con biết.</font>
+
+160
+00:10:29,940 --> 00:10:31,440
+<font size="20">Chúng ta đã từng vui vẻ bên nhau.</font>
+
+161
+00:10:32,400 --> 00:10:34,280
+<font size="20">Chắc tôi sẽ luôn nhớ về chuyện đó.</font>
+
+162
+00:10:35,690 --> 00:10:36,690
+<font size="20">Yeah.</font>
+
+163
+00:10:43,950 --> 00:10:45,450
+<font size="20">Thay đổi còn nhiều phía trước, Chick.</font>
+
+164
+00:10:45,620 --> 00:10:50,210
+<font size="20">Mỗi tuần lại thấy các tay đua cựu binh
+lại nghỉ hưu giống Cal Weathers đêm nay.</font>
+
+165
+00:10:50,330 --> 00:10:55,840
+<font size="20">hoặc bị đuổi để dọn chỗ cho các tay đua
+trẻ hơn, nhanh hơn và vẫn chưa kết thúc đâu.</font>
+
+166
+00:10:56,590 --> 00:11:00,550
+<font size="20">Chào người hâm mộ,
+chào mừng đến với chặng đua Los Angeles 500.</font>
+
+167
+00:11:01,090 --> 00:11:03,760
+<font size="20">Chặng cuối cùng của Cup Piston năm nay.</font>
+
+168
+00:11:05,430 --> 00:11:06,180
+<font size="20">Không thể làm vậy.</font>
+
+169
+00:11:06,220 --> 00:11:08,180
+<font size="20">Tôi đã đua cho các vị gần 10 năm rồi.</font>
+
+170
+00:11:08,850 --> 00:11:09,640
+<font size="20">Xin lỗi Brick.</font>
+
+171
+00:11:09,690 --> 00:11:10,480
+<font size="20">Tôi đã quyết rồi.</font>
+
+172
+00:11:10,480 --> 00:11:12,860
+<font size="20">Tôi sẽ đưa số của anh cho người mới.</font>
+
+173
+00:11:12,900 --> 00:11:14,270
+<font size="20">Năm ngoái tôi thắng hai lần.</font>
+
+174
+00:11:14,270 --> 00:11:15,690
+<font size="20">Môn thể thao cũ rích.</font>
+
+175
+00:11:15,730 --> 00:11:17,070
+<font size="20">Này Bobby,</font>
+
+176
+00:11:17,610 --> 00:11:19,780
+<font size="20">anh có biết chuyện gì xảy ra với Brick không?</font>
+
+177
+00:11:21,990 --> 00:11:23,950
+<font size="20">Này... khoan! Cậu đâu phải Bobby.</font>
+
+178
+00:11:25,160 --> 00:11:26,660
+<font size="20">Tôi tên Danny, ông anh.</font>
+
+179
+00:11:38,130 --> 00:11:41,050
+<font size="20">Này nhà vô địch, bạn anh đi đâu hết rồi?</font>
+
+180
+00:11:43,800 --> 00:11:46,970
+<font size="20">Kiểm tra lốp lần cuối khi Storm
+tiến vào vị trí hàng đầu.</font>
+
+181
+00:11:48,600 --> 00:11:50,850
+<font size="20">Hãy kết thúc mùa giải với một vòng ra trò nào.</font>
+
+182
+00:12:06,330 --> 00:12:08,830
+<font size="20">Có vậy chứ anh bạn!</font>
+
+183
+00:12:17,960 --> 00:12:21,720
+<font size="20">40 vòng rồi và người dẫn đầu là Jackson Storm
+đang tiến về trạm bảo dưỡng</font>
+
+184
+00:12:22,090 --> 00:12:23,340
+<font size="20">với McQueen nối đuôi theo sau.</font>
+
+185
+00:12:23,680 --> 00:12:25,890
+<font size="20">Bảo dưỡng nhanh có thể tạo sự khác biệt</font>
+
+186
+00:12:26,260 --> 00:12:27,640
+<font size="20">giữa người thắng và kẻ thua.</font>
+
+187
+00:12:27,970 --> 00:12:29,810
+<font size="20">Nhanh lên, nhanh lên, tôi phải ra ngoài đó.</font>
+
+188
+00:12:30,180 --> 00:12:32,310
+<font size="20">Tôi phải trở ra đó trước anh ta.</font>
+
+189
+00:12:32,690 --> 00:12:34,350
+<font size="20">Guido.... nhanh lên.</font>
+
+190
+00:12:36,060 --> 00:12:38,230
+<font size="20">MacQueen bảo dưỡng nhanh ghê!</font>
+
+191
+00:12:39,190 --> 00:12:42,900
+<font size="20">Trời, anh ta đã vượt lên dẫn đầu.
+Nhưng có giữ được không?</font>
+
+192
+00:12:48,160 --> 00:12:49,410
+<font size="20">Này McQueen, anh có sao không?</font>
+
+193
+00:12:50,290 --> 00:12:51,870
+<font size="20">Nghe này, đừng lo gì hết, anh bạn.</font>
+
+194
+00:12:52,000 --> 00:12:52,910
+<font size="20">Anh đã đua rất hay.</font>
+
+195
+00:12:53,290 --> 00:12:54,370
+<font size="20">Tận hưởng những ngày nghỉ hưu nhé?</font>
+
+196
+00:12:54,750 --> 00:12:56,000
+<font size="20">Storm đã lấy lại ngôi đầu.</font>
+
+197
+00:12:56,330 --> 00:12:58,790
+<font size="20">Không thể tin được! McQueen đang bị lu mờ.</font>
+
+198
+00:12:59,130 --> 00:13:00,710
+<font size="20">McQueen đang lu mờ.</font>
+
+199
+00:13:01,050 --> 00:13:02,670
+<font size="20">Nhanh chóng lu mờ.</font>
+
+200
+00:13:03,050 --> 00:13:06,840
+<font size="20">Không...không... không... không.</font>
+
+201
+00:13:08,140 --> 00:13:09,560
+<font size="20">Không.</font>
+
+202
+00:14:04,440 --> 00:14:05,780
+<font size="20">Chào mừng trở lại phần bình luận của Piston Cup.</font>
+
+203
+00:14:06,150 --> 00:14:09,160
+<font size="20">Suốt ngày chúng ta chỉ nói về đua xe.</font>
+
+204
+00:14:09,530 --> 00:14:10,370
+<font size="20">Bắt đầu thôi nào.</font>
+
+205
+00:14:10,740 --> 00:14:12,790
+<font size="20">Mở đầu dĩ nhiên nói về Tia chớp McQueen.</font>
+
+206
+00:14:13,160 --> 00:14:14,540
+<font size="20">Khi mùa giải chỉ còn hai tuần là tới</font>
+
+207
+00:14:14,870 --> 00:14:16,500
+<font size="20">vẫn chưa có thông báo chính thức nào.</font>
+
+208
+00:14:16,830 --> 00:14:19,630
+<font size="20">Nhưng với việc xe số 95 đang bước vào
+năm tệ nhất sự nghiệp.</font>
+
+209
+00:14:19,960 --> 00:14:21,540
+<font size="20">Đừng bắn người đưa tin nhé quí vị.</font>
+
+210
+00:14:21,880 --> 00:14:26,380
+<font size="20">Tôi cho là hợp lý khi giả định Tia chớp McQueen
+đã qua thời hoàng kim.</font>
+
+211
+00:14:26,720 --> 00:14:30,180
+<font size="20">Trong khi đó Jackson Storm có vẻ còn nhanh hơn.</font>
+
+212
+00:14:39,520 --> 00:14:40,400
+<font size="20">Xe số 6 và số 12</font>
+
+213
+00:14:40,770 --> 00:14:42,980
+<font size="20">đang tranh nhau vị trí dẫn đầu.</font>
+
+214
+00:14:43,360 --> 00:14:44,650
+<font size="20">Nhưng khoan, anh ta kìa.</font>
+
+215
+00:14:44,980 --> 00:14:48,240
+<font size="20">Đó là Hudson Hornet huyền thoại
+đang tìm cách vượt lên.</font>
+
+216
+00:14:48,570 --> 00:14:50,910
+<font size="20">Hôm nay anh có chiến thuật gì đây?</font>
+
+217
+00:14:51,370 --> 00:14:55,330
+<font size="20">Và hãy xem kìa, chỉ với một động tác
+anh ta đã vượt lên.</font>
+
+218
+00:14:55,660 --> 00:14:58,330
+<font size="20">Chiếc Hornet đã vươn lên dẫn đầu.</font>
+
+219
+00:14:59,500 --> 00:15:00,830
+<font size="20">Bỏ lại tất cả phía sau.</font>
+
+220
+00:15:01,170 --> 00:15:03,920
+<font size="20">Một nhóm đang ngửi khói.</font>
+
+221
+00:15:04,250 --> 00:15:05,670
+<font size="20">Không thể tin được.</font>
+
+222
+00:15:06,000 --> 00:15:07,420
+<font size="20">Oh không, có vấn đề rồi.</font>
+
+223
+00:15:07,760 --> 00:15:09,380
+<font size="20">Hudson Hornet đã mất kiểm soát.</font>
+
+224
+00:15:09,720 --> 00:15:13,220
+<font size="20">Hudson Hornet đã mất kiểm soát.</font>
+
+225
+00:15:15,350 --> 00:15:19,180
+<font size="20">Cảnh tượng lẽ ra phải rất hân hoan,
+giờ đã thành thảm kịch thưa quý vị.</font>
+
+226
+00:15:19,560 --> 00:15:22,100
+<font size="20">Trong khi chờ tin tức về tình hình của
+Hudson Hornets</font>
+
+227
+00:15:22,440 --> 00:15:26,230
+<font size="20">Sau tai nạn thảm khốc như vậy
+chỉ có thể hy vọng</font>
+
+228
+00:15:26,610 --> 00:15:28,280
+<font size="20">đây chưa phải là giải đua cuối cùng của anh.</font>
+
+229
+00:15:33,490 --> 00:15:35,410
+<font size="20">Khi cuối cùng được ráp lại xong</font>
+
+230
+00:15:35,740 --> 00:15:38,700
+<font size="20">tôi trở lại hy vọng được chào đón ra trò,
+biết họ nói sao không?</font>
+
+231
+00:15:39,580 --> 00:15:44,040
+<font size="20">Tôi đã hết thời, phải nhường chỗ cho tân binh
+đang chờ phía sau.</font>
+
+232
+00:15:45,880 --> 00:15:47,960
+<font size="20">Tôi còn nhiều trò hay.</font>
+
+233
+00:15:48,300 --> 00:15:50,510
+<font size="20">Mà không còn cơ hội để trình diễn nữa.</font>
+
+234
+00:16:00,100 --> 00:16:06,110
+<font size="20">Tai nạn! Hudson Hornet nghỉ đến hết mùa.</font>
+
+235
+00:16:07,820 --> 00:16:09,490
+<font size="20">Chào anh.</font>
+
+236
+00:16:09,940 --> 00:16:11,240
+<font size="20">Chào, Sal.</font>
+
+237
+00:16:11,570 --> 00:16:13,410
+<font size="20">Anh thấy sao rồi?</font>
+
+238
+00:16:14,490 --> 00:16:16,030
+<font size="20">Yeah, tốt rồi.</font>
+
+239
+00:16:16,410 --> 00:16:18,990
+<font size="20">Cực kỳ tốt.</font>
+
+240
+00:16:19,370 --> 00:16:21,620
+<font size="20">Anh lại nghĩ về Doc nữa sao?</font>
+
+241
+00:16:22,250 --> 00:16:23,750
+<font size="20">Yeah,</font>
+
+242
+00:16:24,920 --> 00:16:27,670
+<font size="20">em biết là họ nói với ông ấy
+là ông ấy đã hết thời rồi.</font>
+
+243
+00:16:28,000 --> 00:16:29,840
+<font size="20">Ông ấy không quyết định được..</font>
+
+244
+00:16:30,800 --> 00:16:32,930
+<font size="20">Anh không muốn chuyện của Doc</font>
+
+245
+00:16:33,300 --> 00:16:34,340
+<font size="20">lại xảy ra cho anh.</font>
+
+246
+00:16:34,680 --> 00:16:36,260
+<font size="20">Nhưng nó chưa xảy ra cho anh mà.</font>
+
+247
+00:16:36,640 --> 00:16:41,350
+<font size="20">Chưa, nhưng anh không thể ra đó
+và đua y hệt như trước. Sẽ thua mất.</font>
+
+248
+00:16:41,680 --> 00:16:44,100
+<font size="20">Vậy thay đổi đi. Thử chiêu mới đi.</font>
+
+249
+00:16:44,480 --> 00:16:45,310
+<font size="20">Anh cũng không chắc Sally.</font>
+
+250
+00:16:45,650 --> 00:16:47,230
+<font size="20">Đừng sợ thất bại.</font>
+
+251
+00:16:47,560 --> 00:16:49,270
+<font size="20">Mà hãy sợ không có cơ hội.</font>
+
+252
+00:16:49,610 --> 00:16:52,240
+<font size="20">Anh có cơ hội. Doc thì không.</font>
+
+253
+00:16:52,610 --> 00:16:55,610
+<font size="20">Và anh có thể nắm bắt nó
+hoặc làm điều anh đang làm.</font>
+
+254
+00:16:55,950 --> 00:16:58,740
+<font size="20">Ngồi ở đây hàng tháng</font>
+
+255
+00:16:59,080 --> 00:17:01,370
+<font size="20">và nhân tiện, em thích việc anh làm
+với nơi này.</font>
+
+256
+00:17:01,750 --> 00:17:05,250
+<font size="20">Ý em là ánh sáng như phim kinh dị
+và cả máy lọc khí mùi xạ hương.</font>
+
+257
+00:17:05,620 --> 00:17:08,210
+<font size="20">Và đừng để người khác bảo anh là
+anh không hợp với lớp sơn đó</font>
+
+258
+00:17:08,540 --> 00:17:11,630
+<font size="20">bởi vì wow, em chưa bao giờ
+thấy anh quyến rũ hơn.</font>
+
+259
+00:17:11,960 --> 00:17:14,300
+<font size="20">Và giờ thì em đã vào đây
+được vài phút rồi, mùi hôi</font>
+
+260
+00:17:14,630 --> 00:17:15,720
+<font size="20">có vẻ em đã quen rồi.</font>
+
+261
+00:17:16,050 --> 00:17:18,970
+<font size="20">Được rồi Sal, anh hiểu rồi. Hiểu rồi.</font>
+
+262
+00:17:19,600 --> 00:17:23,390
+<font size="20">Em nhớ anh Tia chớp. Bọn em nhớ anh.</font>
+
+263
+00:17:27,770 --> 00:17:30,150
+<font size="20">Thử chiêu mới xem, huh?</font>
+
+264
+00:17:31,320 --> 00:17:32,690
+<font size="20">Hiệu nghiệm rồi cô Sally.</font>
+
+265
+00:17:33,070 --> 00:17:36,200
+<font size="20">Cô làm cậu ta hiểu tài thuyết phục
+như luật sư của cô chưa?</font>
+
+266
+00:17:36,570 --> 00:17:38,120
+<font size="20">Cậu ta sẵn sàng bắt đầu tập chưa?</font>
+
+267
+00:17:38,490 --> 00:17:41,160
+<font size="20">Nào, anh chàng hắc búa, hôi hám.</font>
+
+268
+00:17:42,370 --> 00:17:45,160
+<font size="20">Rồi, Mater, tôi sẵn sàng.</font>
+
+269
+00:17:46,540 --> 00:17:48,920
+<font size="20">Tôi sẽ quyết khi nào mình nghỉ hưu.</font>
+
+270
+00:17:49,290 --> 00:17:50,380
+<font size="20">Em đã mong là anh nói vậy.</font>
+
+271
+00:17:50,750 --> 00:17:51,630
+<font size="20">Được rồi, nhưng anh có ý này.</font>
+
+272
+00:17:51,960 --> 00:17:54,420
+<font size="20">Và anh cần nói chuyện với Rusty và Dusty,
+được chứ?</font>
+
+273
+00:17:54,760 --> 00:17:58,840
+<font size="20">Oh, tôi sẽ bắt họ nghe còi.
+Phải, bắt họ nghe còi.</font>
+
+274
+00:17:59,930 --> 00:18:03,270
+<font size="20">Oops, phải ách xì cái đã.</font>
+
+275
+00:18:06,980 --> 00:18:08,230
+<font size="20">Tôi không có nướu.</font>
+
+276
+00:18:08,600 --> 00:18:10,650
+<font size="20">Này, tôi sẽ làm được.</font>
+
+277
+00:18:12,320 --> 00:18:13,650
+<font size="20">Tôi hắt xì được rồi.</font>
+
+278
+00:18:14,030 --> 00:18:15,740
+<font size="20">Này, cậu ta bị kẹt số.</font>
+
+279
+00:18:21,450 --> 00:18:23,620
+<font size="20">Cậu cần có đường xe vòng tròn.</font>
+
+280
+00:18:24,120 --> 00:18:25,910
+<font size="20">Các cậu cần lê cái mông rỉ sét xuống đi.</font>
+
+281
+00:18:26,290 --> 00:18:28,080
+<font size="20">Tôi đã pha mấy ly mời các cậu đây.</font>
+
+282
+00:18:28,420 --> 00:18:30,880
+<font size="20">Yeah, bom chắn bùn</font>
+
+283
+00:18:31,210 --> 00:18:34,090
+<font size="20">xuống còn nhanh hơn cái thang máy
+đầy xe thùng nữa.</font>
+
+284
+00:18:34,630 --> 00:18:37,260
+<font size="20">Rusty và Dusty, này các cậu.</font>
+
+285
+00:18:37,630 --> 00:18:39,760
+<font size="20">Trông mới quá, gặp anh mừng quá Tia chớp.</font>
+
+286
+00:18:40,090 --> 00:18:41,300
+<font size="20">Cảm ơn mọi người.</font>
+
+287
+00:18:42,050 --> 00:18:43,310
+<font size="20">Đông đủ hết rồi.</font>
+
+288
+00:18:43,680 --> 00:18:45,770
+<font size="20">Xin lỗi anh bạn,
+cậu có muốn cuộc gọi này riêng tư không?</font>
+
+289
+00:18:46,100 --> 00:18:48,140
+<font size="20">Không Mater. Vậy là được rồi.</font>
+
+290
+00:18:48,520 --> 00:18:51,190
+<font size="20">Nghe này, cảm ơn mọi người...
+vì đã luôn hỗ trợ tôi.</font>
+
+291
+00:18:51,560 --> 00:18:53,070
+<font size="20">Phải mất ít lâu tôi mới phác thảo ra được,</font>
+
+292
+00:18:53,440 --> 00:18:56,440
+<font size="20">nhưng tôi biết bây giờ là lúc
+để tôi thay đổi vài điều.</font>
+
+293
+00:18:56,820 --> 00:18:58,700
+<font size="20">Thay đổi! Thay đổi kiểu gì?</font>
+
+294
+00:18:59,070 --> 00:19:01,370
+<font size="20">Không dễ chống lại thay đổi, anh bạn.</font>
+
+295
+00:19:01,740 --> 00:19:03,580
+<font size="20">- Đúng vậy, Fillmore.
+- Vậy sao?</font>
+
+296
+00:19:03,950 --> 00:19:06,080
+<font size="20">Nên tôi có một thông báo quan trọng đây.</font>
+
+297
+00:19:06,450 --> 00:19:08,910
+<font size="20">Tôi đã suy nghĩ rất kỹ càng.</font>
+
+298
+00:19:09,250 --> 00:19:10,870
+<font size="20">Cũng đã đong đếm cảm xúc</font>
+
+299
+00:19:11,250 --> 00:19:13,420
+<font size="20">và cân nhắc tất cả các chọn lựa.</font>
+
+300
+00:19:13,790 --> 00:19:16,960
+<font size="20">Và cuối cùng đi đến quyết định...</font>
+
+301
+00:19:17,460 --> 00:19:18,920
+<font size="20">Anh muốn tiếp tục đua xe à?</font>
+
+302
+00:19:19,260 --> 00:19:22,590
+<font size="20">- Anh đùa à?
+- Dĩ nhiên là tôi muốn đua tiếp.</font>
+
+303
+00:19:24,260 --> 00:19:27,680
+<font size="20">Chờ một chút..., chờ một chút...
+Tôi biết rõ từ lâu mà.</font>
+
+304
+00:19:28,020 --> 00:19:30,440
+<font size="20">Các anh, tôi đang nói về việc biến đây
+thành mùa giải số một của mình.</font>
+
+305
+00:19:30,770 --> 00:19:32,060
+<font size="20">Chúng tôi hy vọng anh sẽ nói thế.</font>
+
+306
+00:19:32,400 --> 00:19:34,480
+<font size="20">Vấn đề là muốn nhanh hơn Storm</font>
+
+307
+00:19:34,820 --> 00:19:35,980
+<font size="20">tôi cần tập luyện như cậu ta.</font>
+
+308
+00:19:36,360 --> 00:19:37,070
+<font size="20">Chúng tôi nghe anh, anh bạn.</font>
+
+309
+00:19:37,440 --> 00:19:38,900
+<font size="20">Tia chớp, chúng tôi muốn anh lên đường ngay</font>
+
+310
+00:19:39,240 --> 00:19:40,200
+<font size="20">vào sáng mai.</font>
+
+311
+00:19:40,530 --> 00:19:46,240
+<font size="20">Để anh ra ngoài và xem công trình mới toanh
+Trung tâm đua xe Rusty.</font>
+
+312
+00:19:46,620 --> 00:19:49,040
+<font size="20">Khoan, cái gì? Trung tâm đua xe Rusteze?</font>
+
+313
+00:19:49,410 --> 00:19:51,210
+<font size="20">Yeah, có dầy đủ mọi công nghệ</font>
+
+314
+00:19:51,580 --> 00:19:53,460
+<font size="20">mà bọn trẻ đang luyện tập thời nay.</font>
+
+315
+00:19:53,830 --> 00:19:55,420
+<font size="20">Chúng tôi sẽ gởi cho Mack đầy đủ chỉ dẫn.</font>
+
+316
+00:19:55,790 --> 00:19:57,550
+<font size="20">Giờ thì làm thôi, được chứ?</font>
+
+317
+00:19:57,920 --> 00:19:58,670
+<font size="20">OK.</font>
+
+318
+00:19:59,050 --> 00:20:00,840
+<font size="20">Được.</font>
+
+319
+00:20:02,630 --> 00:20:04,430
+<font size="20">Các bạn cũng đi, chúng ta đặt thêm lốp thôi.</font>
+
+320
+00:20:04,800 --> 00:20:07,600
+<font size="20">Này, McQueen cậu không thể đua
+với nước sơn như thế.</font>
+
+321
+00:20:07,970 --> 00:20:10,100
+<font size="20">Mau lên, đi thôi.</font>
+
+322
+00:20:12,890 --> 00:20:15,360
+<font size="20">Parfum Moon, anh lại làm đẹp như thế.</font>
+
+323
+00:20:15,730 --> 00:20:19,820
+<font size="20">Giống như Cestin Chapel có bánh.</font>
+
+324
+00:20:20,150 --> 00:20:22,780
+<font size="20">Tôi tới hạ cậu đây Storm.</font>
+
+325
+00:20:29,830 --> 00:20:33,170
+<font size="20">Mừng anh quay lại, trông anh khác quá.</font>
+
+326
+00:20:33,540 --> 00:20:34,420
+<font size="20">Rõ ràng mà.</font>
+
+327
+00:20:34,750 --> 00:20:35,380
+<font size="20">Anh có vẻ sẵn sàng rồi.</font>
+
+328
+00:20:35,630 --> 00:20:38,630
+<font size="20">Khoan. Xin lỗi. Xin lỗi.
+Cho qua với.</font>
+
+329
+00:20:39,000 --> 00:20:41,210
+<font size="20">Ra hạ gục đám tân binh đó đi.</font>
+
+330
+00:20:41,590 --> 00:20:42,220
+<font size="20">Được rồi, tạm biệt,</font>
+
+331
+00:20:42,550 --> 00:20:43,680
+<font size="20">hẹn gặp cậu ở bên kia.</font>
+
+332
+00:20:44,050 --> 00:20:45,260
+<font size="20">Hẹn gặp mọi người ở Florida.</font>
+
+333
+00:20:45,590 --> 00:20:46,470
+<font size="20">Tạm biệt McQueen.</font>
+
+334
+00:20:46,800 --> 00:20:47,550
+<font size="20">Đừng quên gọi tôi đó.</font>
+
+335
+00:20:47,890 --> 00:20:49,810
+<font size="20">Chúc may mắn ở trường.</font>
+
+336
+00:20:50,600 --> 00:20:52,100
+<font size="20">Này Sal,</font>
+
+337
+00:20:52,480 --> 00:20:53,560
+<font size="20">cảm ơn nhé.</font>
+
+338
+00:20:53,890 --> 00:20:54,940
+<font size="20">Đừng khách sáo.</font>
+
+339
+00:20:55,310 --> 00:20:55,900
+<font size="20">Chúc may mắn.</font>
+
+340
+00:20:56,020 --> 00:20:56,650
+<font size="20">Yêu em.</font>
+
+341
+00:20:56,770 --> 00:20:57,810
+<font size="20">Yêu anh hơn.</font>
+
+342
+00:20:58,150 --> 00:21:00,860
+<font size="20">Rusteze, chúng ta đến đây.</font>
+
+343
+00:21:01,190 --> 00:21:02,820
+<font size="20">Giờ là lúc lên đường.</font>
+
+344
+00:21:53,330 --> 00:21:56,620
+<font size="20">Trung tâm đua xe Rusteze.</font>
+
+345
+00:22:10,850 --> 00:22:11,930
+<font size="20">McQueen! McQueen!</font>
+
+346
+00:22:12,260 --> 00:22:14,520
+<font size="20">Anh thấy kỷ lục mới nhất mà Storm lập chưa?</font>
+
+347
+00:22:14,890 --> 00:22:17,350
+<font size="20">Anh đã nghĩ về chuyện về hưu chưa?</font>
+
+348
+00:22:17,690 --> 00:22:20,610
+<font size="20">Đủ rồi, không hỏi thêm, xin lỗi.</font>
+
+349
+00:22:21,570 --> 00:22:23,690
+<font size="20">Tránh đường nào! Tránh đường nào!</font>
+
+350
+00:22:24,570 --> 00:22:27,650
+<font size="20">Không, không, không. Bye bye.</font>
+
+351
+00:22:29,320 --> 00:22:31,740
+<font size="20">Anh có tin được không?</font>
+
+352
+00:22:45,300 --> 00:22:46,380
+<font size="20">Rất đẹp, đúng không?</font>
+
+353
+00:22:46,720 --> 00:22:47,420
+<font size="20">Chào mọi người.</font>
+
+354
+00:22:47,800 --> 00:22:48,430
+<font size="20">Anh nghĩ sao nào?</font>
+
+355
+00:22:48,760 --> 00:22:49,380
+<font size="20">Tôi nghĩ sao ư?</font>
+
+356
+00:22:49,720 --> 00:22:50,550
+<font size="20">Thật không thể tin nổi.</font>
+
+357
+00:22:50,890 --> 00:22:54,470
+<font size="20">Yeah, đó là một nơi ấm cúng, khiêm tốn
+và hơi nhỏ.</font>
+
+358
+00:22:55,180 --> 00:22:56,350
+<font size="20">Các anh, sao các anh làm được vậy?</font>
+
+359
+00:22:56,680 --> 00:22:57,480
+<font size="20">Anh muốn nói</font>
+
+360
+00:22:57,850 --> 00:23:00,400
+<font size="20">- hay để em nói?
+- Thôi, em nói đi. Cứ nói đi.</font>
+
+361
+00:23:00,730 --> 00:23:03,060
+<font size="20">Bọn tôi đã bán Rusteze.</font>
+
+362
+00:23:03,480 --> 00:23:04,650
+<font size="20">Gì cơ?</font>
+
+363
+00:23:04,980 --> 00:23:07,900
+<font size="20">Sao, anh nghĩ hai thằng cà khịa như bọn em
+lại làm được việc này à...</font>
+
+364
+00:23:08,240 --> 00:23:09,200
+<font size="20">Các anh bán Rusteze?</font>
+
+365
+00:23:09,570 --> 00:23:10,160
+<font size="20">Toàn tin tốt.</font>
+
+366
+00:23:10,490 --> 00:23:14,740
+<font size="20">Bọn tôi nhận ra là anh cần một thứ
+mà bọn tôi không cho anh được.</font>
+
+367
+00:23:15,490 --> 00:23:17,040
+<font size="20">Cảm giác như lúc đó đúng với bọn tôi.</font>
+
+368
+00:23:17,330 --> 00:23:19,410
+<font size="20">Bọn tôi hết trẻ và bảnh trai như vẻ ngoài rồi.</font>
+
+369
+00:23:19,870 --> 00:23:21,880
+<font size="20">Oh, thật vậy. Còn anh bạn Sterling này</font>
+
+370
+00:23:21,880 --> 00:23:24,540
+<font size="20">có mọi thứ công nghệ cao mà anh cần.</font>
+
+371
+00:23:24,880 --> 00:23:27,300
+<font size="20">Mọi thứ mà chúng tôi muốn cho anh mà không thể.</font>
+
+372
+00:23:27,420 --> 00:23:29,590
+<font size="20">Whoa, whoa, Sterling! Ai là Sterling?</font>
+
+373
+00:23:29,970 --> 00:23:31,550
+<font size="20">Lightning McQueen!</font>
+
+374
+00:23:31,890 --> 00:23:33,510
+<font size="20">Cậu chạy nhanh ghê đấy.</font>
+
+375
+00:23:33,850 --> 00:23:34,970
+<font size="20">Nhà tài trợ mới của cậu.</font>
+
+376
+00:23:35,310 --> 00:23:38,390
+<font size="20">Anh ta là Vua chắn bùn vùng bờ biển phía đông.</font>
+
+377
+00:23:38,770 --> 00:23:40,980
+<font size="20">Chào mừng đến Trung tâm Đua xe Rusteze.</font>
+
+378
+00:23:41,310 --> 00:23:45,230
+<font size="20">Cậu không biết tôi mong chờ giây phút này
+cỡ nào đâu.</font>
+
+379
+00:23:45,610 --> 00:23:46,780
+<font size="20">Cảm ơn ông...</font>
+
+380
+00:23:47,610 --> 00:23:48,860
+<font size="20">Thôi đừng kêu ông. Gọi Sterling được rồi.</font>
+
+381
+00:23:48,900 --> 00:23:51,360
+<font size="20">Tôi đã là người hâm mộ cậu từ lâu
+và sẽ là nhà tài trợ cho cậu.</font>
+
+382
+00:23:51,740 --> 00:23:52,740
+<font size="20">Thật tuyệt biết bao.</font>
+
+383
+00:23:53,110 --> 00:23:55,030
+<font size="20">Tôi biết ơn Rusty và Dusty mãi không hết.</font>
+
+384
+00:23:55,410 --> 00:23:56,660
+<font size="20">Những người rất khó đàm phán.</font>
+
+385
+00:23:56,990 --> 00:23:59,540
+<font size="20">Oh-ho, Ông quá khen. Cứ nói tiếp đi.</font>
+
+386
+00:23:59,910 --> 00:24:02,210
+<font size="20">Dù sao thì tôi chỉ muốn chào hỏi thôi.</font>
+
+387
+00:24:02,580 --> 00:24:04,170
+<font size="20">Cứ ở lại bao lâu cũng được.</font>
+
+388
+00:24:04,540 --> 00:24:07,210
+<font size="20">Cửa luôn rộng mở thưa quí vị.</font>
+
+389
+00:24:08,550 --> 00:24:10,260
+<font size="20">Thấy chưa?</font>
+
+390
+00:24:18,810 --> 00:24:23,100
+<font size="20">Chắc chắn tôi sẽ nhớ lúc đua cho hai anh.</font>
+
+391
+00:24:24,350 --> 00:24:28,320
+<font size="20">Anh biết đấy, anh đã cho chúng tôi
+nhiều kỷ niệm đẹp, Tia chớp.</font>
+
+392
+00:24:28,690 --> 00:24:30,150
+<font size="20">Những kỷ niệm làm chúng tôi nhớ mãi.</font>
+
+393
+00:24:30,490 --> 00:24:33,200
+<font size="20">Wow, hay đấy.</font>
+
+394
+00:24:34,240 --> 00:24:34,990
+<font size="20">Này Tia chớp,</font>
+
+395
+00:24:35,320 --> 00:24:37,200
+<font size="20">dù anh làm gì. Đừng lái như thằng em tôi.</font>
+
+396
+00:24:37,530 --> 00:24:40,000
+<font size="20">Đừng lái như thằng em tôi.</font>
+
+397
+00:25:07,270 --> 00:25:08,770
+<font size="20">Sao, cậu thích không?</font>
+
+398
+00:25:09,150 --> 00:25:11,360
+<font size="20">Oh, chào ông Sterling.</font>
+
+399
+00:25:13,320 --> 00:25:15,490
+<font size="20">Sự nghiệp của tôi treo đầy trên tường.</font>
+
+400
+00:25:16,410 --> 00:25:18,160
+<font size="20">Thật tốt khi có cả Doc.</font>
+
+401
+00:25:18,530 --> 00:25:20,910
+<font size="20">Dĩ nhiên rồi. Sư phụ của anh mà.</font>
+
+402
+00:25:21,240 --> 00:25:24,330
+<font size="20">Mất đi ông ấy để lại khoảng trống lớn
+trong làng thể thao.</font>
+
+403
+00:25:24,660 --> 00:25:26,420
+<font size="20">Yeah.</font>
+
+404
+00:25:27,880 --> 00:25:30,630
+<font size="20">- Bình đựng bụi à?
+- Bụi thiêng đó.</font>
+
+405
+00:25:30,960 --> 00:25:34,340
+<font size="20">Mỗi chiếc bình đều chứa bụi
+từ những đường đua Doc đã từng đua.</font>
+
+406
+00:25:34,670 --> 00:25:36,260
+<font size="20">Giải quốc tế ở Florida, Thunder Hollow</font>
+
+407
+00:25:36,630 --> 00:25:41,850
+<font size="20">Fireball Beach của chúng ta, ngay ngoài kia.</font>
+
+408
+00:25:43,480 --> 00:25:44,100
+<font size="20">Này, có phải...</font>
+
+409
+00:25:44,430 --> 00:25:45,940
+<font size="20">một chút nhựa đường từ Glen Ellyn.</font>
+
+410
+00:25:46,310 --> 00:25:48,270
+<font size="20">Trận thắng đầu tiên của tôi.</font>
+
+411
+00:25:48,810 --> 00:25:50,440
+<font size="20">Ông hâm mộ tôi ghê thật.</font>
+
+412
+00:25:50,820 --> 00:25:54,440
+<font size="20">Và là người hâm mộ trong tương lai của cậu.</font>
+
+413
+00:25:54,820 --> 00:25:56,820
+<font size="20">Cậu đã sẵn sàng chưa?</font>
+
+414
+00:25:57,280 --> 00:25:58,410
+<font size="20">Chắc chắn rồi.</font>
+
+415
+00:25:58,780 --> 00:26:03,040
+<font size="20">Trước hết phải cho cậu một bộ cánh
+hợp thời trang hơn đã.</font>
+
+416
+00:26:11,630 --> 00:26:12,710
+<font size="20">Wow.</font>
+
+417
+00:26:12,750 --> 00:26:14,670
+<font size="20">Một bộ cánh điện tử.</font>
+
+418
+00:26:15,050 --> 00:26:17,010
+<font size="20">Với nó, bọn tôi có thể theo dõi tốc độ
+và dấu hiệu sinh tồn cho cậu.</font>
+
+419
+00:26:18,260 --> 00:26:19,340
+<font size="20">Nó có điện thoại không?</font>
+
+420
+00:26:19,720 --> 00:26:23,310
+<font size="20">Đừng có khùng như vậy chứ.
+Xe đua không dùng điện thoại.</font>
+
+421
+00:26:24,220 --> 00:26:25,930
+<font size="20">Wow... không tệ nhỉ?</font>
+
+422
+00:26:26,560 --> 00:26:27,730
+<font size="20">Cái này thật ấn tượng.</font>
+
+423
+00:26:28,060 --> 00:26:31,560
+<font size="20">Trung tâm này đã trở thành điểm đến hấp dẫn
+cho các tay đua trẻ</font>
+
+424
+00:26:31,900 --> 00:26:33,070
+<font size="20">tập luyện để một ngày trở thành đội của ta.</font>
+
+425
+00:26:33,400 --> 00:26:36,190
+<font size="20">Và là nơi cậu tập luyện đến khi
+cậu lên đường tới Florida.</font>
+
+426
+00:26:36,530 --> 00:26:41,450
+<font size="20">Máy chạy, đường hầm gió, thực tế ảo</font>
+
+427
+00:26:42,120 --> 00:26:42,950
+<font size="20">vẫn đang vận hành.</font>
+
+428
+00:26:43,330 --> 00:26:46,000
+<font size="20">Và trung tâm thể hình tốt nhất
+mà không một ai tưởng tượng nổi.</font>
+
+429
+00:26:46,330 --> 00:26:48,040
+<font size="20">Khoan! Khoan!</font>
+
+430
+00:26:48,370 --> 00:26:50,630
+<font size="20">Đó là máy mô phỏng à?</font>
+
+431
+00:26:51,000 --> 00:26:51,580
+<font size="20">Oh, yes.</font>
+
+432
+00:26:51,920 --> 00:26:53,960
+<font size="20">Lightning McQueen, xin giới thiệu tới cậu</font>
+
+433
+00:26:54,300 --> 00:26:55,920
+<font size="20">thiết bị mô phỏng đua xe tương tác</font>
+
+434
+00:26:56,300 --> 00:26:58,380
+<font size="20">giá nhiều triệu đô la.</font>
+
+435
+00:26:58,720 --> 00:27:03,100
+<font size="20">Máy XDL 24 GTS Mark C.</font>
+
+436
+00:27:02,550 --> 00:27:04,510
+<font size="20">Máy XDL!</font>
+
+437
+00:27:07,890 --> 00:27:11,400
+<font size="20">Jaxon Storm cũng thèm mẫu này lắm.</font>
+
+438
+00:27:19,650 --> 00:27:22,280
+<font size="20">Y như trên đường đua thật,
+nên hãy dành thời gian mà tập.</font>
+
+439
+00:27:22,620 --> 00:27:23,910
+<font size="20">Okay, lên máy chạy đi nào.</font>
+
+440
+00:27:24,280 --> 00:27:25,700
+<font size="20">Mau lên, hãy cho biết anh tiếp nhận được gì.</font>
+
+441
+00:27:26,040 --> 00:27:27,450
+<font size="20">Wow, cũng khá nhanh!</font>
+
+442
+00:27:27,790 --> 00:27:28,410
+<font size="20">Tay đua là ai?</font>
+
+443
+00:27:28,620 --> 00:27:30,040
+<font size="20">Không, không, không. Cô ấy không phải tay đua.</font>
+
+444
+00:27:30,370 --> 00:27:32,210
+<font size="20">Cô ấy là huấn luyện viên. Cruz Ramirez</font>
+
+445
+00:27:32,540 --> 00:27:33,880
+<font size="20">Huấn luyện viên giỏi nhất trong nghề ngày.</font>
+
+446
+00:27:34,340 --> 00:27:36,630
+<font size="20">Sẵn sàng gặp nó, hiểu nó và đánh bại nó chưa?</font>
+
+447
+00:27:37,010 --> 00:27:39,470
+<font size="20">Được rồi, bật bộ biến thiên động cơ.</font>
+
+448
+00:27:39,800 --> 00:27:41,970
+<font size="20">Tôi thích không khí ở đây.</font>
+
+449
+00:27:42,300 --> 00:27:44,300
+<font size="20">Chúng tôi gọi cô ấy là nhạc trưởng động lực.</font>
+
+450
+00:27:44,640 --> 00:27:46,010
+<font size="20">Cậu hơi căng thẳng rồi đó, Ronald.</font>
+
+451
+00:27:46,390 --> 00:27:48,060
+<font size="20">Không, không, ổn mà, ổn mà.</font>
+
+452
+00:27:48,390 --> 00:27:49,520
+<font size="20">Thực hiện bài tập đi.</font>
+
+453
+00:27:49,850 --> 00:27:55,440
+<font size="20">Tôi là một đám mây bông.
+Tôi là một đám mây bông. Tôi là...</font>
+
+454
+00:27:56,230 --> 00:27:56,980
+<font size="20">Đúng rồi đó.</font>
+
+455
+00:27:56,650 --> 00:27:57,230
+<font size="20">Cậu là đám mây.</font>
+
+456
+00:27:57,480 --> 00:27:58,110
+<font size="20">Im đi Kurt.</font>
+
+457
+00:27:58,400 --> 00:28:01,030
+<font size="20">Lũ bọ đến kìa, sẵn sàng chưa?</font>
+
+458
+00:28:03,700 --> 00:28:05,530
+<font size="20">Lần này tôi sẽ mở mắt.</font>
+
+459
+00:28:05,870 --> 00:28:10,620
+<font size="20">Cậu phải nhìn đường đi. Oh, không.
+Lại nhớ nhà sao?</font>
+
+460
+00:28:14,880 --> 00:28:16,920
+<font size="20">Santa Cecilia, quê hương tôi.</font>
+
+461
+00:28:17,090 --> 00:28:17,880
+<font size="20">Thắng vì họ d9i..</font>
+
+462
+00:28:17,920 --> 00:28:21,260
+<font size="20">Wow, cô ấy dạy cho các tay đua trẻ
+vượt qua trở ngại của chính họ.</font>
+
+463
+00:28:21,260 --> 00:28:23,300
+<font size="20">Điều chỉnh riêng cho từng người.</font>
+
+464
+00:28:23,640 --> 00:28:25,510
+<font size="20">Giờ cô ấy làm việc với cậu.</font>
+
+465
+00:28:25,550 --> 00:28:26,720
+<font size="20">Đi nào, đi nào.</font>
+
+466
+00:28:26,760 --> 00:28:28,060
+<font size="20">Các cậu phải vượt qua cái này</font>
+
+467
+00:28:28,430 --> 00:28:30,480
+<font size="20">thì khi cơ hội xuất hiện, các cậu
+mới nắm được.</font>
+
+468
+00:28:30,850 --> 00:28:33,480
+<font size="20">- Chào Cruz.
+- Oh, chào ông Sterling</font>
+
+469
+00:28:33,810 --> 00:28:35,060
+<font size="20">Tôi muốn giới thiệu cho cô</font>
+
+470
+00:28:35,400 --> 00:28:36,020
+<font size="20">McQueen Tia chớp.</font>
+
+471
+00:28:36,270 --> 00:28:37,440
+<font size="20">Nghe nói cô là nhạc trưởng.</font>
+
+472
+00:28:37,820 --> 00:28:40,610
+<font size="20">Ông Sterling, ông nói
+McQueen Tia chớp có mặt ở đây sao?</font>
+
+473
+00:28:40,990 --> 00:28:43,110
+<font size="20">Vì tôi không thấy anh ấy ở đâu hết.</font>
+
+474
+00:28:43,490 --> 00:28:45,070
+<font size="20">Uh, nhưng anh ấy ở ngay đây mà.</font>
+
+475
+00:28:45,450 --> 00:28:46,370
+<font size="20">Cô không thấy anh ta sao?</font>
+
+476
+00:28:46,740 --> 00:28:47,870
+<font size="20">Không, vẫn không thấy.</font>
+
+477
+00:28:48,200 --> 00:28:49,790
+<font size="20">Ngay trước mặt cô đó.</font>
+
+478
+00:28:50,120 --> 00:28:51,250
+<font size="20">Đó là McQueen Tia chớp.</font>
+
+479
+00:28:51,580 --> 00:28:53,040
+<font size="20">Hắn rõ ràng là kẻ mạo danh.</font>
+
+480
+00:28:53,410 --> 00:28:54,870
+<font size="20">Hắn già và sắp rớt ra...</font>
+
+481
+00:28:55,210 --> 00:28:55,630
+<font size="20">Này.</font>
+
+482
+00:28:55,630 --> 00:28:56,710
+<font size="20">... với lốp xe nhão.</font>
+
+483
+00:28:57,040 --> 00:28:57,670
+<font size="20">Không nhé.</font>
+
+484
+00:28:57,790 --> 00:28:59,210
+<font size="20">Dùng cái đó! Woa.</font>
+
+485
+00:28:59,590 --> 00:29:04,800
+<font size="20">Oh phải, tôi hiểu, tôi có thể dùng
+năng lượng đó làm động lực, phải không?</font>
+
+486
+00:29:05,840 --> 00:29:07,760
+<font size="20">Động lực là tất cả, anh McQueen.</font>
+
+487
+00:29:08,100 --> 00:29:11,600
+<font size="20">Anh có thể dùng thứ tiêu cực như xăng
+để đẩy nó thành tích cực.</font>
+
+488
+00:29:11,930 --> 00:29:15,190
+<font size="20">Ah, tôi luôn khá tích cực kể từ hồi
+tôi còn là lính mới.</font>
+
+489
+00:29:15,520 --> 00:29:17,190
+<font size="20">Tôi rất háo hức vì được huấn luyện anh.</font>
+
+490
+00:29:17,520 --> 00:29:19,650
+<font size="20">Từ bé đến giờ tôi toàn xem anh trên TV.</font>
+
+491
+00:29:19,980 --> 00:29:21,190
+<font size="20">Ha, đúng vậy sao?</font>
+
+492
+00:29:21,570 --> 00:29:23,030
+<font size="20">Mấy cậu trẻ này toàn là giỏi.</font>
+
+493
+00:29:23,400 --> 00:29:24,200
+<font size="20">Nhưng tôi thích thử thách.</font>
+
+494
+00:29:24,570 --> 00:29:26,240
+<font size="20">Ha ha, tôi chưa già đến vậy.</font>
+
+495
+00:29:26,570 --> 00:29:30,870
+<font size="20">Thực ra, tôi gọi anh là dự án cao tuổi.</font>
+
+496
+00:29:32,160 --> 00:29:34,500
+<font size="20">Chúng ta cần thư giãn mớ xương khớp già nua đó.</font>
+
+497
+00:29:34,870 --> 00:29:37,250
+<font size="20">Đầu tiên bánh xe và khung xương</font>
+
+498
+00:29:37,580 --> 00:29:41,750
+<font size="20">Rồi tiến lên, rồi nghỉ. Theo tôi.</font>
+
+499
+00:29:42,130 --> 00:29:42,710
+<font size="20">Rồi nghỉ.</font>
+
+500
+00:29:42,880 --> 00:29:44,010
+<font size="20">Cái vụ nghỉ này có cần thiết không?</font>
+
+501
+00:29:44,340 --> 00:29:47,340
+<font size="20">Sẽ tập cho anh thật chậm thôi.
+Và với tay lấy đồ ăn.</font>
+
+502
+00:29:47,680 --> 00:29:49,470
+<font size="20">Với tay lấy đồ ăn.</font>
+
+503
+00:29:49,850 --> 00:29:50,970
+<font size="20">Giờ là bánh xe.</font>
+
+504
+00:29:51,310 --> 00:29:52,640
+<font size="20">Tới món rán.</font>
+
+505
+00:29:52,970 --> 00:29:56,520
+<font size="20">Có gì đó, đó là đường của anh.</font>
+
+506
+00:29:56,850 --> 00:29:58,150
+<font size="20">Giờ lùi lại.</font>
+
+507
+00:29:58,480 --> 00:29:59,610
+<font size="20">Có gì đó?</font>
+
+508
+00:29:59,940 --> 00:30:01,190
+<font size="20">Khi nào thì chúng ta tới máy mô phỏng.</font>
+
+509
+00:30:02,360 --> 00:30:05,570
+<font size="20">Chào buổi sáng, anh Macqueen.
+Nhìn được đó.</font>
+
+510
+00:30:07,320 --> 00:30:07,910
+<font size="20">Tại sao?</font>
+
+511
+00:30:08,160 --> 00:30:12,240
+<font size="20">Nó sẽ đưa dầu đến nơi mà rất lâu rồi</font>
+
+512
+00:30:12,620 --> 00:30:14,450
+<font size="20">không có dầu.</font>
+
+513
+00:30:14,790 --> 00:30:15,410
+<font size="20">Khay hứng dầu đó à?</font>
+
+514
+00:30:15,660 --> 00:30:16,870
+<font size="20">Cô nghĩ là tôi già cỡ nào?</font>
+
+515
+00:30:17,210 --> 00:30:20,380
+<font size="20">Hãy hình dung anh lái rất nhanh
+xuống ngọn đồi dốc.</font>
+
+516
+00:30:20,750 --> 00:30:21,340
+<font size="20">Một chút tôi quay lại.</font>
+
+517
+00:30:21,630 --> 00:30:24,050
+<font size="20">Hình dung...! Khoan! Khoan!
+Cruz.</font>
+
+518
+00:30:24,420 --> 00:30:25,380
+<font size="20">Một chút gì?</font>
+
+519
+00:30:25,720 --> 00:30:27,340
+<font size="20">Tôi chỉ muốn tập với máy mô phỏng.</font>
+
+520
+00:30:27,680 --> 00:30:28,970
+<font size="20">Tình hình sao rồi</font>
+
+521
+00:30:29,300 --> 00:30:30,970
+<font size="20">khai dầu!</font>
+
+522
+00:30:39,270 --> 00:30:41,690
+<font size="20">Okay, ngày thứ ba. Máy chạy.</font>
+
+523
+00:30:42,020 --> 00:30:44,820
+<font size="20">Tôi đặt tốc độ tối đa để bảo toàn
+năng lượng cho anh.</font>
+
+524
+00:30:45,150 --> 00:30:49,410
+<font size="20">Điều tôi muốn anh làm là,
+hãy hình dung đánh bại gã này.</font>
+
+525
+00:30:49,860 --> 00:30:52,660
+<font size="20">- Storm!
+- Uh-huh đúng rồi. Hạ hắn đi, hạ hắn đi, anh McQueen.</font>
+
+526
+00:30:53,030 --> 00:30:53,660
+<font size="20">Hạ hắn ư?</font>
+
+527
+00:30:53,870 --> 00:30:55,870
+<font size="20">Thứ này chỉ giống như chạy 5 dặm/giờ</font>
+
+528
+00:30:56,200 --> 00:30:58,830
+<font size="20">Ta sẽ tăng tốc độ cao hơn
+ngay sau khi anh ngủ trưa dậy.</font>
+
+529
+00:30:59,170 --> 00:30:59,790
+<font size="20">Ngủ trưa?</font>
+
+530
+00:30:59,920 --> 00:31:02,250
+<font size="20">Tôi có cần ngủ trưa không?</font>
+
+531
+00:31:04,250 --> 00:31:07,050
+<font size="20">Tôi không cần ngủ trưa.</font>
+
+532
+00:31:09,680 --> 00:31:11,550
+<font size="20">Ngủ ngon không, anh McQueen?</font>
+
+533
+00:31:11,890 --> 00:31:14,310
+<font size="20">Thực ra thì cũng khá sảng khoái.</font>
+
+534
+00:31:14,680 --> 00:31:16,600
+<font size="20">Oh,...okay, cô làm gì... hey</font>
+
+535
+00:31:16,930 --> 00:31:19,190
+<font size="20">Anh đã chạy xe bằng lốp lâu rồi.</font>
+
+536
+00:31:19,520 --> 00:31:21,270
+<font size="20">Anh có từng dừng lại để tìm hiểu chúng chưa?</font>
+
+537
+00:31:21,600 --> 00:31:22,230
+<font size="20">Tôi xin lỗi, gì cơ?</font>
+
+538
+00:31:22,270 --> 00:31:23,560
+<font size="20">Lốp là từng cá thể riêng biệt.</font>
+
+539
+00:31:23,900 --> 00:31:25,150
+<font size="20">Anh nên đặt tên cho từng cái.</font>
+
+540
+00:31:25,480 --> 00:31:27,030
+<font size="20">Đặt tên?</font>
+
+541
+00:31:27,360 --> 00:31:28,360
+<font size="20">Tôi sẽ không làm vậy đâu.</font>
+
+542
+00:31:28,740 --> 00:31:31,570
+<font size="20">Lớp của tôi tên là Maria, Marika, Ronaldo
+và Debby Richardson.</font>
+
+543
+00:31:31,910 --> 00:31:32,280
+<font size="20">Gì cơ?</font>
+
+544
+00:31:32,280 --> 00:31:32,910
+<font size="20">Chuyện dài lắm.</font>
+
+545
+00:31:33,120 --> 00:31:35,410
+<font size="20">Cô trả lốp lại cho tôi, để tôi chạy
+trên máy mô phỏng nhé.</font>
+
+546
+00:31:35,740 --> 00:31:36,700
+<font size="20">Đặt tên đi!</font>
+
+547
+00:31:37,080 --> 00:31:39,500
+<font size="20">Lốp trái, Lốp phải, Lốp sau, Lốp sau bên cạnh.
+Được chứ?</font>
+
+548
+00:31:39,830 --> 00:31:40,460
+<font size="20">Có làm anh bực không?</font>
+
+549
+00:31:40,710 --> 00:31:41,330
+<font size="20">Có, bực lắm!</font>
+
+550
+00:31:41,620 --> 00:31:42,330
+<font size="20">Hãy dùng nó!</font>
+
+551
+00:31:42,670 --> 00:31:44,090
+<font size="20">Hợp và tách</font>
+
+552
+00:31:44,460 --> 00:31:46,710
+<font size="20">Hợp và tách.</font>
+
+553
+00:31:48,210 --> 00:31:51,010
+<font size="20">Giờ lốp anh bị hư rồi.</font>
+
+554
+00:31:57,180 --> 00:31:59,230
+<font size="20">Cảm ơn Cruz. Tôi đi đây.</font>
+
+555
+00:32:00,180 --> 00:32:01,390
+<font size="20">McQueen, anh đi đâu vậy?</font>
+
+556
+00:32:01,730 --> 00:32:03,810
+<font size="20">Tới tương lai!</font>
+
+557
+00:32:05,570 --> 00:32:10,030
+<font size="20">Được rồi, bắt đầu thôi. Bắt đầu thôi.
+Mình phải làm sao đây? Cố lên cưng ơi.</font>
+
+558
+00:32:10,280 --> 00:32:10,900
+<font size="20">Anh McQueen.</font>
+
+559
+00:32:10,950 --> 00:32:13,660
+<font size="20">Cruz, cảm ơn mấy bài tập dưỡng sinh,
+dù nó rất điên rồ.</font>
+
+560
+00:32:13,990 --> 00:32:16,990
+<font size="20">Nhưng tôi khởi động đủ rồi
+và giờ tôi cần cô bật thứ này lên.</font>
+
+561
+00:32:17,330 --> 00:32:19,330
+<font size="20">McQueen, chờ đến khi anh xử lý được đã nhé,</font>
+
+562
+00:32:19,700 --> 00:32:20,410
+<font size="20">không có đường tắt đâu.</font>
+
+563
+00:32:20,790 --> 00:32:22,120
+<font size="20">OK, chúng ta sẽ chờ xem.</font>
+
+564
+00:32:22,460 --> 00:32:25,460
+<font size="20">Được rồi, tay đua ngôi sao của tôi
+đã lên máy mô phỏng.</font>
+
+565
+00:32:25,790 --> 00:32:27,090
+<font size="20">Sao nào! Phải, đúng vậy.</font>
+
+566
+00:32:27,420 --> 00:32:29,090
+<font size="20">Để xem anh hạ gục nó sau một vòng.</font>
+
+567
+00:32:29,460 --> 00:32:34,680
+<font size="20">Làm ngay sau đây, ông Sterling,
+người chủ của cả công ty.</font>
+
+568
+00:32:35,760 --> 00:32:38,760
+<font size="20">Được rồi, chơi vui nhé.</font>
+
+569
+00:32:39,350 --> 00:32:41,230
+<font size="20">Đây chính là điều mà tôi nói đến.</font>
+
+570
+00:32:41,600 --> 00:32:43,850
+<font size="20">Whoa! Tôi không biết mấy vụ này.</font>
+
+571
+00:32:44,230 --> 00:32:45,770
+<font size="20">Khoan, sao cô không nói nó như thế nào.</font>
+
+572
+00:32:46,110 --> 00:32:46,860
+<font size="20">Cờ xanh đã phất</font>
+
+573
+00:32:47,230 --> 00:32:48,610
+<font size="20">Tôi không thấy cờ... tôi phải làm gì đây.</font>
+
+574
+00:32:48,940 --> 00:32:51,030
+<font size="20">Chạy đi! Chạy! Chạy!</font>
+
+575
+00:32:52,900 --> 00:32:55,530
+<font size="20">Oh..., nhạy cảm đó.</font>
+
+576
+00:32:56,030 --> 00:32:56,910
+<font size="20">Bạn đã đâm vào tường.</font>
+
+577
+00:32:57,330 --> 00:32:58,490
+<font size="20">Không nên khó vậy chứ, đúng không?</font>
+
+578
+00:32:58,530 --> 00:32:59,540
+<font size="20">Bạn đã đâm vào tường.</font>
+
+579
+00:32:59,910 --> 00:33:03,660
+<font size="20">Anh đang chống lại cái máy,
+cứ đua như anh thường đua thôi.</font>
+
+580
+00:33:04,040 --> 00:33:04,830
+<font size="20">Bạn đã đâm vào tường.</font>
+
+581
+00:33:05,170 --> 00:33:07,080
+<font size="20">Không thể có nhiều tường như vậy
+trên đường đua bình thường.</font>
+
+582
+00:33:07,420 --> 00:33:09,170
+<font size="20">Bạn đã bị Jackson Storm vượt qua mặt.</font>
+
+583
+00:33:09,500 --> 00:33:10,510
+<font size="20">Khoan, Storm ở đây à?</font>
+
+584
+00:33:10,880 --> 00:33:11,760
+<font size="20">Chỉ là mô phỏng thôi mà.</font>
+
+585
+00:33:12,130 --> 00:33:13,800
+<font size="20">Storm chạy tới 207 dặm/giờ.</font>
+
+586
+00:33:14,130 --> 00:33:17,470
+<font size="20">- Tiến lên đi anh McQueen!
+- Tôi đang cố đây.</font>
+
+587
+00:33:21,060 --> 00:33:22,310
+<font size="20">Bạn đã đâm vào tường.</font>
+
+588
+00:33:22,640 --> 00:33:25,270
+<font size="20">Anh McQueen, anh hãy xuống đây
+và cùng nghiên cứu lại nào.</font>
+
+589
+00:33:25,650 --> 00:33:28,560
+<font size="20">Tôi không sao Cruz. Tôi sẽ làm được, OK?</font>
+
+590
+00:33:30,820 --> 00:33:33,240
+<font size="20">Bạn vừa nhảy qua rào chắn.</font>
+
+591
+00:33:34,570 --> 00:33:37,740
+<font size="20">Bạn đã làm hỏng hai chiếc xe.</font>
+
+592
+00:33:42,250 --> 00:33:43,960
+<font size="20">Bạn đã vô hiệu hóa một xe cứu thương.</font>
+
+593
+00:33:44,290 --> 00:33:45,580
+<font size="20">Bạn đang bốc cháy.</font>
+
+594
+00:33:45,920 --> 00:33:49,840
+<font size="20">Nguy hiểm! Nguy hiểm!
+Bạn đang đi sai đường.</font>
+
+595
+00:33:50,210 --> 00:33:54,470
+<font size="20">Coi chừng! Tắt nó đi! Tắt nó đi!
+Lấy mấy thứ này ra đi!</font>
+
+596
+00:33:57,720 --> 00:34:00,300
+<font size="20">Bạn bị tai nạn! Bạn bị tai nạn!</font>
+
+597
+00:34:00,640 --> 00:34:02,520
+<font size="20">Anh có sao không?
+Bạn bị tai nạn!</font>
+
+598
+00:34:02,890 --> 00:34:05,230
+<font size="20">Bạn bị tai nạn!</font>
+
+599
+00:34:24,040 --> 00:34:25,660
+<font size="20">Hết thời rồi, McQueen.</font>
+
+600
+00:34:26,000 --> 00:34:28,370
+<font size="20">Tôi xin lỗi, gì cơ?</font>
+
+601
+00:34:28,750 --> 00:34:31,710
+<font size="20">Tôi nói sàn nhà đã được lau sạch sẽ.</font>
+
+602
+00:34:32,040 --> 00:34:33,380
+<font size="20">Oh, phải rồi.</font>
+
+603
+00:34:33,710 --> 00:34:35,630
+<font size="20">Cảm ơn rất nhiều.</font>
+
+604
+00:34:36,010 --> 00:34:37,590
+<font size="20">Chúc may mắn.</font>
+
+605
+00:34:38,340 --> 00:34:41,850
+<font size="20">Này, Tia chớp. Vào đây đi.
+Tôi có cái này cho cậu xem.</font>
+
+606
+00:34:42,180 --> 00:34:43,680
+<font size="20">Sẵn sàng chưa?</font>
+
+607
+00:34:44,020 --> 00:34:45,730
+<font size="20">Để làm gì cơ?</font>
+
+608
+00:34:50,310 --> 00:34:53,520
+<font size="20">Cậu sắp trở thành thương hiệu lớn nhất
+của làng đua xe.</font>
+
+609
+00:34:53,860 --> 00:34:57,610
+<font size="20">Chúng ta đang nói đến việc phủ sóng
+khắp mọi lục địa với từng cá nhân.</font>
+
+610
+00:34:57,950 --> 00:35:01,120
+<font size="20">Hợp đồng phim, quảng cáo,
+nhượng quyền thương hiệu.</font>
+
+611
+00:35:01,490 --> 00:35:02,120
+<font size="20">Chắn bùn à?</font>
+
+612
+00:35:02,490 --> 00:35:04,950
+<font size="20">Chứ còn gì nữa, cậu sẽ giàu không thể tưởng tượng.</font>
+
+613
+00:35:05,290 --> 00:35:07,370
+<font size="20">Cậu nghĩ giờ cậu nổi tiếng à?</font>
+
+614
+00:35:08,460 --> 00:35:10,080
+<font size="20">Tôi tưởng ông sẽ giận về vụ máy mô phỏng.</font>
+
+615
+00:35:10,420 --> 00:35:13,090
+<font size="20">Vậy thì tốt quá, ông Sterling,
+chắc vậy nhưng tôi không biết.</font>
+
+616
+00:35:13,460 --> 00:35:16,300
+<font size="20">Tôi chưa từng thật sự nghĩ
+mình là thương hiệu.</font>
+
+617
+00:35:16,670 --> 00:35:19,760
+<font size="20">Oh. Tôi ấy à? Tôi hâm mộ cậu nhất luôn.</font>
+
+618
+00:35:20,130 --> 00:35:23,260
+<font size="20">Tôi coi đó là di sản của cậu.</font>
+
+619
+00:35:24,680 --> 00:35:29,100
+<font size="20">Nghe như là một chuyện xảy ra
+khi không còn đua nữa.</font>
+
+620
+00:35:31,520 --> 00:35:33,230
+<font size="20">Ông Sterling. Vụ này là sao?</font>
+
+621
+00:35:33,560 --> 00:35:36,940
+<font size="20">Nghe này Tia chớp!
+Tôi không cho cậu đua đâu.</font>
+
+622
+00:35:37,280 --> 00:35:38,940
+<font size="20">Gì cơ?...Ông nói không cho đua là sao?</font>
+
+623
+00:35:39,280 --> 00:35:39,950
+<font size="20">Khoan nào! Khoan nào!</font>
+
+624
+00:35:40,320 --> 00:35:41,160
+<font size="20">Tôi không được tới Florida sao?</font>
+
+625
+00:35:41,490 --> 00:35:42,910
+<font size="20">Tia chớp!</font>
+
+626
+00:35:43,320 --> 00:35:46,580
+<font size="20">Cậu không biết tôi phấn khích cỡ nào
+khi cậu tới đây</font>
+
+627
+00:35:46,950 --> 00:35:49,960
+<font size="20">vì tôi biết, cậu sẽ trở lại.</font>
+
+628
+00:35:50,290 --> 00:35:53,000
+<font size="20">Nó sẽ trở thành màn trở lại ngoạn mục nhất năm.</font>
+
+629
+00:35:53,330 --> 00:35:57,380
+<font size="20">Nhưng tốc độ và sự thể hiện của cậu
+không đạt được mức cần thiết.</font>
+
+630
+00:35:57,760 --> 00:35:58,510
+<font size="20">Tôi rất tiếc.</font>
+
+631
+00:35:58,880 --> 00:36:03,390
+<font size="20">Ta đang nói về tốc độ trên máy mô phỏng.
+Ông xem nó khùng cỡ nào kìa.</font>
+
+632
+00:36:03,720 --> 00:36:05,010
+<font size="20">Này, tôi đang cố giúp cậu đó.</font>
+
+633
+00:36:05,390 --> 00:36:08,810
+<font size="20">Là nhà tài trợ của cậu, nhưng cũng là bạn cậu.</font>
+
+634
+00:36:09,180 --> 00:36:11,190
+<font size="20">Thời đua xe của cậu sắp chấm dứt rồi.</font>
+
+635
+00:36:11,520 --> 00:36:14,900
+<font size="20">Cứ mỗi lần cậu thua, cậu sẽ bị tổn thương.</font>
+
+636
+00:36:15,270 --> 00:36:16,570
+<font size="20">Tổn hại tới thương hiệu đúng không?</font>
+
+637
+00:36:16,900 --> 00:36:18,820
+<font size="20">Oh, Tia chớp. Thôi mà.</font>
+
+638
+00:36:19,190 --> 00:36:21,530
+<font size="20">Cậu đã đua xong rồi.
+Giờ hãy qua giai đoạn kế tiếp</font>
+
+639
+00:36:21,900 --> 00:36:23,610
+<font size="20">và nhận phần thưởng đi.</font>
+
+640
+00:36:23,990 --> 00:36:27,330
+<font size="20">Được đua chính là phần thưởng.</font>
+
+641
+00:36:27,700 --> 00:36:31,290
+<font size="20">Tôi không muốn lấy tiền. Tôi muốn cảm nhận
+sự phấn khích khi chạy 200 dặm/giờ.</font>
+
+642
+00:36:31,620 --> 00:36:32,620
+<font size="20">Hơn kẻ khác từng phân.</font>
+
+643
+00:36:32,960 --> 00:36:35,170
+<font size="20">Nhanh hơn mức tôi tưởng mình có thể.</font>
+
+644
+00:36:35,500 --> 00:36:38,170
+<font size="20">Đó là phần thưởng, ông Sterling.</font>
+
+645
+00:36:38,500 --> 00:36:40,590
+<font size="20">Oh, Tia chớp. Thôi mà.</font>
+
+646
+00:36:41,170 --> 00:36:44,140
+<font size="20">Này, tôi làm được mà. Sẽ được, tôi hứa.</font>
+
+647
+00:36:44,470 --> 00:36:46,180
+<font size="20">Tôi sẽ luyện như luyện với Doc.</font>
+
+648
+00:36:46,510 --> 00:36:49,680
+<font size="20">Tôi sẽ cho lốp dính bụi
+trên mọi nẻo đường từ đây tới Florida.</font>
+
+649
+00:36:50,020 --> 00:36:54,190
+<font size="20">Tôi sẽ bắt đầu từ Fireball Beach
+nơi mà mọi huyền thoại vẫn thường đua.</font>
+
+650
+00:36:54,520 --> 00:36:55,650
+<font size="20">Cho lốp cậu dính bụi.</font>
+
+651
+00:36:56,020 --> 00:36:57,690
+<font size="20">Đó là cách để chạy nhanh hơn Storm?</font>
+
+652
+00:36:58,020 --> 00:36:59,320
+<font size="20">Phải, chính xác!</font>
+
+653
+00:36:59,690 --> 00:37:02,530
+<font size="20">Ý tôi là bụi thiêng, đúng không?</font>
+
+654
+00:37:02,950 --> 00:37:06,780
+<font size="20">Ông Sterling, nếu quan tâm về di sản của tôi
+cái mà Doc bắt đầu.</font>
+
+655
+00:37:07,120 --> 00:37:10,700
+<font size="20">Thì hãy để tôi làm việc này.
+Xin hứa, tôi sẽ thắng.</font>
+
+656
+00:37:11,040 --> 00:37:11,910
+<font size="20">Tôi không biết.</font>
+
+657
+00:37:12,290 --> 00:37:13,870
+<font size="20">Điều cậu yêu cầu quá mạo hiểm.</font>
+
+658
+00:37:14,210 --> 00:37:16,790
+<font size="20">Thôi mà, ông thích mà, tôi biết chứ.</font>
+
+659
+00:37:17,170 --> 00:37:22,340
+<font size="20">Có cảm giác của màn trở lại
+ngoạn mục nhất năm, đúng không?</font>
+
+660
+00:37:25,510 --> 00:37:27,140
+<font size="20">Một lần?</font>
+
+661
+00:37:29,470 --> 00:37:31,350
+<font size="20">Nếu cậu không thắng ở Florida,
+cậu sẽ nghỉ hưu?</font>
+
+662
+00:37:31,720 --> 00:37:34,890
+<font size="20">Này, nếu tôi không thắng
+tôi sẽ bán hết số chắn bùn ông có.</font>
+
+663
+00:37:35,230 --> 00:37:38,650
+<font size="20">Nhưng nếu tôi thắng, tôi sẽ quyết định
+khi nào tôi nghỉ hưu.</font>
+
+664
+00:37:38,980 --> 00:37:40,520
+<font size="20">Nhất trí thế nhé.</font>
+
+665
+00:37:41,690 --> 00:37:42,740
+<font size="20">Nhất trí.</font>
+
+666
+00:37:43,070 --> 00:37:45,530
+<font size="20">Cảm ơn ông Sterling.
+Ông sẽ không hối tiếc đâu.</font>
+
+667
+00:37:45,910 --> 00:37:49,580
+<font size="20">Hãy nhớ là chỉ có lần này thôi
+vì tôi không thích mạo hiểm.</font>
+
+668
+00:37:49,950 --> 00:37:52,200
+<font size="20">Cậu sẽ đưa một người đi cùng.</font>
+
+669
+00:37:58,830 --> 00:37:59,880
+<font size="20">Anh thuyết phục được ông ấy.</font>
+
+670
+00:38:00,210 --> 00:38:02,340
+<font size="20">Anh giỏi quá McQueen.</font>
+
+671
+00:38:02,670 --> 00:38:06,590
+<font size="20">- Cruz!
+- Anh thuyết phục được xe trượt tuyết
+hóa thành máy điều hòa.</font>
+
+672
+00:38:06,970 --> 00:38:07,720
+<font size="20">Cô đi cùng với tôi sao?</font>
+
+673
+00:38:08,090 --> 00:38:08,970
+<font size="20">Với cái kia?</font>
+
+674
+00:38:09,300 --> 00:38:11,180
+<font size="20">Phải, anh cần tôi giúp.</font>
+
+675
+00:38:11,510 --> 00:38:14,270
+<font size="20">Anh mong manh như hóa thạch vậy..</font>
+
+676
+00:38:20,060 --> 00:38:22,530
+<font size="20">Tôi đâu cần huấn luyện viên ở đây Cruz.</font>
+
+677
+00:38:22,900 --> 00:38:23,480
+<font size="20">Anh già rồi.</font>
+
+678
+00:38:23,820 --> 00:38:25,740
+<font size="20">Lỡ như anh ngã trên bờ biển và không dậy được?</font>
+
+679
+00:38:26,070 --> 00:38:29,990
+<font size="20">Thì đời là bãi biển nên cứ lái thôi.</font>
+
+680
+00:38:31,910 --> 00:38:33,330
+<font size="20">- McQueen.
+- Cảm ơn.</font>
+
+681
+00:38:33,660 --> 00:38:34,830
+<font size="20">Đẹp quá.</font>
+
+682
+00:38:35,160 --> 00:38:38,370
+<font size="20">Tôi hiểu lý do ông Sterling nói
+anh muốn tập luyện ở ngoài này.</font>
+
+683
+00:38:38,750 --> 00:38:40,170
+<font size="20">Ngay khi thứ này hoạt động</font>
+
+684
+00:38:40,540 --> 00:38:42,090
+<font size="20">ta sẽ đưa anh lên máy chạy
+và sẽ đo vận tốc của anh.</font>
+
+685
+00:38:42,420 --> 00:38:46,300
+<font size="20">Gì cơ? Không. Mục đích chính là cho
+lốp của tôi dính bụi đường.</font>
+
+686
+00:38:46,630 --> 00:38:49,970
+<font size="20">Đua thật kìa. Tôi sẽ không lái trên thứ đó
+khi có bãi cát</font>
+
+687
+00:38:50,300 --> 00:38:52,180
+<font size="20">và cả trái đất.</font>
+
+688
+00:38:52,890 --> 00:38:56,180
+<font size="20">- Oh, okay.
+- Leweege làm đi nào.</font>
+
+689
+00:38:56,560 --> 00:38:59,190
+<font size="20">Chào mừng các tay đua đến
+Fireball Beach.</font>
+
+690
+00:38:59,560 --> 00:39:02,860
+<font size="20">Mái nhà lịch sử cho bài kiểm tra
+tốc độ hàng đầu ngày nay.</font>
+
+691
+00:39:03,230 --> 00:39:06,780
+<font size="20">Vạch đích của chúng ta sẽ là
+bến tàu bỏ hoang ở phía xa kia</font>
+
+692
+00:39:07,150 --> 00:39:12,280
+<font size="20">Được rồi, nhanh hơn cả nhanh
+mau hơn cả mau, mình là tốc độ.</font>
+
+693
+00:39:12,620 --> 00:39:14,740
+<font size="20">Tự động viên như vậy là hay đó.</font>
+
+694
+00:39:15,080 --> 00:39:17,000
+<font size="20">- Anh mới tự nghĩ ra hả?
+- Phải đúng rồi.</font>
+
+695
+00:39:17,370 --> 00:39:21,250
+<font size="20">Theo lệnh tôi, chuẩn bị, chạy!</font>
+
+696
+00:39:32,430 --> 00:39:36,220
+<font size="20">Lên đường nào! tuyệt quá!</font>
+
+697
+00:39:37,100 --> 00:39:39,480
+<font size="20">Này, tôi chạy có nhanh không?</font>
+
+698
+00:39:39,810 --> 00:39:41,190
+<font size="20">Tôi không biết.
+Tôi chỉ có thể theo dõi anh trên máy chạy.</font>
+
+699
+00:39:41,560 --> 00:39:42,940
+<font size="20">Không chơi máy chạy nữa.</font>
+
+700
+00:39:43,310 --> 00:39:45,360
+<font size="20">- Oh, vậy còn Hamilton
+- Hamilton đây.</font>
+
+701
+00:39:45,690 --> 00:39:46,320
+<font size="20">Hamilton là ai?</font>
+
+702
+00:39:46,690 --> 00:39:50,360
+<font size="20">Trợ lý cá nhân điện tử của tôi,
+anh biết mà, như trên điện thoại ấy.</font>
+
+703
+00:39:50,740 --> 00:39:52,280
+<font size="20">Anh có điện thoại mà, đúng không?</font>
+
+704
+00:39:52,620 --> 00:39:54,700
+<font size="20">Xe đua không dùng điện thoại, Cruze.</font>
+
+705
+00:39:55,030 --> 00:39:57,490
+<font size="20">Hamilton! Dò tốc độ của. McQueen
+và báo cáo.</font>
+
+706
+00:39:57,870 --> 00:40:00,000
+<font size="20">- Đang dò.
+- Tôi sẽ theo sát nhất có thể.</font>
+
+707
+00:40:00,330 --> 00:40:02,120
+<font size="20">Bộ đồ sẽ truyền tốc độ của anh cho Hamilton.</font>
+
+708
+00:40:02,460 --> 00:40:04,340
+<font size="20">Rồi, sao cũng được.</font>
+
+709
+00:40:06,670 --> 00:40:10,050
+<font size="20">Nhanh hơn cả nhanh, mau hơn cả mau.
+Mình là tốc độ. Làm đi.</font>
+
+710
+00:40:10,420 --> 00:40:12,550
+<font size="20">Theo lệnh tôi chuẩn bị và chạy.</font>
+
+711
+00:40:12,890 --> 00:40:14,550
+<font size="20">46 dặm/giờ.</font>
+
+712
+00:40:14,930 --> 00:40:19,480
+<font size="20">53 dặm. Ngoài phạm vi.
+Ngoài phạm vi. Ngoài phạm vi.</font>
+
+713
+00:40:20,140 --> 00:40:21,640
+<font size="20">Nó kẹt rồi..</font>
+
+714
+00:40:22,230 --> 00:40:23,850
+<font size="20">Lạ ghê, mình chưa di chuyển.</font>
+
+715
+00:40:25,150 --> 00:40:29,070
+<font size="20">Trên cát cô phải khởi động nhẹ nhàng
+để lốp xe bám được, hiểu chưa?</font>
+
+716
+00:40:29,440 --> 00:40:31,200
+<font size="20">- Hiểu rồi.
+- Cô làm việc với xe đua đúng không?</font>
+
+717
+00:40:31,570 --> 00:40:33,280
+<font size="20">Phải, nhưng chưa từng ở ngoài trời.</font>
+
+718
+00:40:33,610 --> 00:40:36,280
+<font size="20">- Được rồi, làm lại đi nào.
+- Chạy.</font>
+
+719
+00:40:37,790 --> 00:40:39,870
+<font size="20">54 dặm/giờ.</font>
+
+720
+00:40:40,250 --> 00:40:41,250
+<font size="20">75 dặm/giờ.</font>
+
+721
+00:40:41,580 --> 00:40:45,330
+<font size="20">Ngoài phạm vi. Ngoài phạm vi.
+Ngoài phạm vi.</font>
+
+722
+00:40:45,710 --> 00:40:46,790
+<font size="20">Xin lỗi,</font>
+
+723
+00:40:47,130 --> 00:40:48,050
+<font size="20">bị kẹt.</font>
+
+724
+00:40:48,420 --> 00:40:49,170
+<font size="20">Lại đi.</font>
+
+725
+00:40:49,510 --> 00:40:51,260
+<font size="20">Và chạy.</font>
+
+726
+00:40:51,630 --> 00:40:52,220
+<font size="20">Xin lỗi.</font>
+
+727
+00:40:52,510 --> 00:40:53,760
+<font size="20">Chạy!</font>
+
+728
+00:40:54,130 --> 00:40:55,510
+<font size="20">Chạy!</font>
+
+729
+00:40:58,560 --> 00:40:59,770
+<font size="20">Bãi biển ăn thịt tôi.</font>
+
+730
+00:41:00,100 --> 00:41:02,770
+<font size="20">Được rồi, Cruz, chọn một đường
+trên vùng cát cứng đi.</font>
+
+731
+00:41:03,140 --> 00:41:05,190
+<font size="20">Cô phải có lực kéo, nếu không
+cô sẽ mất kiểm soát.</font>
+
+732
+00:41:05,520 --> 00:41:06,190
+<font size="20">Cùng làm nào!</font>
+
+733
+00:41:06,520 --> 00:41:07,150
+<font size="20">Theo lệnh anh</font>
+
+734
+00:41:07,480 --> 00:41:09,070
+<font size="20">chuẩn bị, chạy!</font>
+
+735
+00:41:11,490 --> 00:41:12,700
+<font size="20">134 dặm.</font>
+
+736
+00:41:13,070 --> 00:41:15,360
+<font size="20">Ngoài phạm vi. Ngoài phạm vi.
+Ngoài phạm vi.</font>
+
+737
+00:41:15,700 --> 00:41:16,530
+<font size="20">Giờ thì sao đây?</font>
+
+738
+00:41:16,870 --> 00:41:17,950
+<font size="20">Tôi không muốn tông con cua.</font>
+
+739
+00:41:18,330 --> 00:41:22,000
+<font size="20">- Cô đùa rồi.
+- Sao? Nó dễ thương mà.</font>
+
+740
+00:41:24,620 --> 00:41:27,920
+<font size="20">Được rồi, một cơ hội cuối cùng
+chúng ta sẽ thử trước khi bắt đầu.</font>
+
+741
+00:41:28,040 --> 00:41:30,550
+<font size="20">- Giờ cô tiến lên thật chậm
+để lốp cô bám trước.
+- Yes!</font>
+
+742
+00:41:30,920 --> 00:41:34,550
+<font size="20">Và chọn một đường thẳng trên vùng cát cứng
+để không mất kiểm soát.</font>
+
+743
+00:41:34,880 --> 00:41:37,680
+<font size="20">Và toàn bộ lũ cua đã đi ngủ tồi.</font>
+
+744
+00:41:38,050 --> 00:41:38,890
+<font size="20">Anh McQueen.</font>
+
+745
+00:41:39,260 --> 00:41:41,640
+<font size="20">Được rồi bắt đầu lại nhé.</font>
+
+746
+00:41:45,230 --> 00:41:47,190
+<font size="20">150 dặm/giờ.</font>
+
+747
+00:41:47,690 --> 00:41:50,020
+<font size="20">175 dặm/giờ.</font>
+
+748
+00:41:50,400 --> 00:41:52,570
+<font size="20">196 dặm/giờ.</font>
+
+749
+00:41:56,700 --> 00:41:58,320
+<font size="20">Được rồi, cuối cùng cô đã làm được.</font>
+
+750
+00:41:58,660 --> 00:42:00,370
+<font size="20">Chúc mừng cô! Tôi chạy thế nào?</font>
+
+751
+00:42:00,740 --> 00:42:03,580
+<font size="20">- Tốc độ tối đa của anh là 198
+- 198, vậy thôi à?</font>
+
+752
+00:42:03,950 --> 00:42:06,210
+<font size="20">Vẫn chậm hơn Storm.</font>
+
+753
+00:42:07,210 --> 00:42:10,380
+<font size="20">- Phí cả ngày của tôi.
+- Tôi không nghĩ vậy đâu.</font>
+
+754
+00:42:10,750 --> 00:42:13,170
+<font size="20">Cảm giác thật tuyệt khi ở ngoài này
+và đua thực sự.</font>
+
+755
+00:42:13,510 --> 00:42:16,260
+<font size="20">Đây đâu phải đua thật,
+ta đang ở trên bãi biển.</font>
+
+756
+00:42:16,590 --> 00:42:19,970
+<font size="20">Cô chỉ việc đi thẳng. tôi làm sao
+chạy nhanh hơn nếu không...</font>
+
+757
+00:42:22,010 --> 00:42:23,770
+<font size="20">Thunder hollow.</font>
+
+758
+00:42:24,220 --> 00:42:25,270
+<font size="20">Thunder hollow,</font>
+
+759
+00:42:25,640 --> 00:42:28,100
+<font size="20">ở đó có đường đất thứ ta đang cần,</font>
+
+760
+00:42:28,440 --> 00:42:32,020
+<font size="20">để đua cùng những tay đua thực thụ.</font>
+
+761
+00:42:32,400 --> 00:42:37,490
+<font size="20">Không, quá lộ liễu. Nếu báo chí thấy anh
+họ sẽ hướng rất nhiều máy quay về anh.</font>
+
+762
+00:42:37,990 --> 00:42:39,160
+<font size="20">Mọi người, tôi thực sự cần đua.</font>
+
+763
+00:42:39,490 --> 00:42:41,030
+<font size="20">Cứ để cho tôi, sếp.</font>
+
+764
+00:42:41,410 --> 00:42:44,870
+<font size="20">Tôi là bậc thầy ngụy trang mà.</font>
+
+765
+00:42:46,870 --> 00:42:49,920
+<font size="20">Thunder Hollow.</font>
+
+766
+00:43:06,180 --> 00:43:08,390
+<font size="20">Thưa anh, anh chính thức ẩn danh rồi.</font>
+
+767
+00:43:08,770 --> 00:43:10,350
+<font size="20">Không có ai làm phiền anh đâu.</font>
+
+768
+00:43:10,730 --> 00:43:12,150
+<font size="20">McQueen Tia chớp vĩ đại.</font>
+
+769
+00:43:12,520 --> 00:43:16,400
+<font size="20">Tôi cảm nhận được các anh ạ.
+Đêm nay là đêm tôi tìm lại tốc độ.</font>
+
+770
+00:43:16,740 --> 00:43:20,490
+<font size="20">Các tay đua, hãy xếp hàng trước vạch xuất phát.</font>
+
+771
+00:43:22,740 --> 00:43:26,160
+<font size="20">Được rồi, không chơi đường thẳng nữa.
+Một đường oval đẹp theo kiểu cũ.</font>
+
+772
+00:43:26,500 --> 00:43:28,500
+<font size="20">Chào, anh là người nơi khác đến à?</font>
+
+773
+00:43:28,830 --> 00:43:29,870
+<font size="20">Phải, chính là tôi đó.</font>
+
+774
+00:43:30,250 --> 00:43:32,130
+<font size="20">Chester Whipple Filter</font>
+
+775
+00:43:32,500 --> 00:43:34,420
+<font size="20">Còn tôi là Francis Beltline.</font>
+
+776
+00:43:34,800 --> 00:43:36,590
+<font size="20">- Cruz, cô làm gì vậy?
+- Tôi là huấn luyện viên của anh mà.</font>
+
+777
+00:43:36,960 --> 00:43:38,760
+<font size="20">Tôi sẽ theo dõi tốc độ của anh,
+tại chỗ luôn.</font>
+
+778
+00:43:39,130 --> 00:43:39,970
+<font size="20">Whipplefilter</font>
+
+779
+00:43:40,300 --> 00:43:42,140
+<font size="20">Rồi, tránh đường cho tôi là được.</font>
+
+780
+00:43:42,510 --> 00:43:44,850
+<font size="20">Xin thứ lỗi, thưa anh?
+Các tay đua khác đâu rồi?</font>
+
+781
+00:43:45,220 --> 00:43:51,940
+<font size="20">Oh, họ sẽ tới ngay, bọn tôi luôn để khách quý
+bắt đầu phía trước.</font>
+
+782
+00:43:54,190 --> 00:43:56,980
+<font size="20">Chào mừng quý vị tới xa lộ Thunder Hollow</font>
+
+783
+00:43:57,360 --> 00:43:59,490
+<font size="20">cho cuộc đua tối nay.</font>
+
+784
+00:44:00,400 --> 00:44:04,160
+<font size="20">Có tám tên điên cuồng.</font>
+
+785
+00:44:12,830 --> 00:44:15,290
+<font size="20">Anh ta nói tám tên điên cuồng à?</font>
+
+786
+00:44:16,040 --> 00:44:21,470
+<font size="20">Xin mời dự kiến những kẻ thách thức đêm nay.</font>
+
+787
+00:44:26,930 --> 00:44:29,680
+<font size="20">Bảo vệ và chuyển hướng nhé.</font>
+
+788
+00:44:36,020 --> 00:44:37,480
+<font size="20">Cruz, cái này không như tôi tưởng.</font>
+
+789
+00:44:37,820 --> 00:44:40,360
+<font size="20">Mau lên, theo tôi chuồn ra ngoài.</font>
+
+790
+00:44:40,860 --> 00:44:44,780
+<font size="20">Quy tắc số một:
+cổng đóng lại thì phải đua.</font>
+
+791
+00:44:45,120 --> 00:44:46,780
+<font size="20">Khoan, không, không.
+Tôi không phải xe đua.</font>
+
+792
+00:44:47,120 --> 00:44:49,950
+<font size="20">Quy tắc số hai: xe còn lại sau cùng thắng.</font>
+
+793
+00:44:50,290 --> 00:44:53,750
+<font size="20">Và quy tắc số ba: cấm chửi thề.
+Đêm gia đình đó.</font>
+
+794
+00:44:54,080 --> 00:44:54,710
+<font size="20">Xin lỗi anh ơi?</font>
+
+795
+00:44:54,880 --> 00:44:57,670
+<font size="20">Khoan, không. Tôi chỉ huấn luyện thôi.</font>
+
+796
+00:44:59,800 --> 00:45:06,300
+<font size="20">Ngôi sao giải đua cao niên,</font>
+
+797
+00:45:03,550 --> 00:45:10,600
+<font size="20">cô Fritter.</font>
+
+798
+00:45:14,270 --> 00:45:17,020
+<font size="20">Nhìn kìa quý vị, chúng ta có vài lính mới.</font>
+
+799
+00:45:17,360 --> 00:45:21,820
+<font size="20">Tôi sẽ gọi anh làMarty Bridget
+và cô là Lamin Nae</font>
+
+800
+00:45:22,190 --> 00:45:25,070
+<font size="20">Này, cả hai xe bọn họ không có vết trầy nào.</font>
+
+801
+00:45:25,410 --> 00:45:27,620
+<font size="20">Oh, tôi sẽ giúp họ.</font>
+
+802
+00:45:27,990 --> 00:45:30,040
+<font size="20">Được rồi, thưa quý vị.</font>
+
+803
+00:45:30,410 --> 00:45:35,080
+<font size="20">Bắt đầu đua thôi.</font>
+
+804
+00:45:38,840 --> 00:45:42,710
+<font size="20">Tôi chuẩn bị vi phạm qui định về tốc độ đây</font>
+
+805
+00:45:54,560 --> 00:45:56,230
+<font size="20">Cruz.</font>
+
+806
+00:45:57,650 --> 00:45:59,440
+<font size="20">Cô đang làm gì vậy?
+Cô phải đi tiếp chứ.</font>
+
+807
+00:45:59,820 --> 00:46:00,980
+<font size="20">Tôi không nên ra ngoài này.</font>
+
+808
+00:46:01,360 --> 00:46:02,940
+<font size="20">Đi đi Cruz! Đi đi!</font>
+
+809
+00:46:03,320 --> 00:46:04,780
+<font size="20">Tôi phải làm gì đây.</font>
+
+810
+00:46:05,110 --> 00:46:06,530
+<font size="20">Xoay phải để sang trái.
+Xoay phải để sang trái.</font>
+
+811
+00:46:06,860 --> 00:46:09,950
+<font size="20">Không có ý nghĩa gì hết,
+xoay phải để sang trái.</font>
+
+812
+00:46:16,120 --> 00:46:19,130
+<font size="20">Này, mập. Oh, này anh bạn.</font>
+
+813
+00:46:28,090 --> 00:46:30,600
+<font size="20">Mẹ ơi, tôi lái được rồi.</font>
+
+814
+00:46:36,180 --> 00:46:38,400
+<font size="20">Tránh đường cho tôi ngay.</font>
+
+815
+00:46:41,190 --> 00:46:43,320
+<font size="20">Này, tôi đang lái.</font>
+
+816
+00:46:49,910 --> 00:46:51,200
+<font size="20">Nhìn cái nón mới tôi đây này!</font>
+
+817
+00:46:54,830 --> 00:46:58,460
+<font size="20">Tôi đang bay, không, tôi không bay.</font>
+
+818
+00:47:00,880 --> 00:47:02,960
+<font size="20">Được rồi.</font>
+
+819
+00:47:04,800 --> 00:47:06,590
+<font size="20">Cruz.</font>
+
+820
+00:47:14,560 --> 00:47:16,890
+<font size="20">Ah, anh bạn, tránh ra.</font>
+
+821
+00:47:17,270 --> 00:47:20,520
+<font size="20">Xoay phải để sang trái.
+Xoay phải để sang trái.</font>
+
+822
+00:47:24,440 --> 00:47:26,610
+<font size="20">Thôi nào!</font>
+
+823
+00:47:33,450 --> 00:47:35,790
+<font size="20">Mọi người thắt dây an toàn nào!</font>
+
+824
+00:47:36,120 --> 00:47:38,460
+<font size="20">Đến giờ của Fritter rồi!</font>
+
+825
+00:47:39,660 --> 00:47:44,630
+<font size="20">Fritter! Fritter! Fritter! Fritter!</font>
+
+826
+00:47:45,000 --> 00:47:47,380
+<font size="20">Chúng tôi yêu cô, Fritter!</font>
+
+827
+00:48:01,310 --> 00:48:02,980
+<font size="20">Cruz.</font>
+
+828
+00:48:14,410 --> 00:48:17,410
+<font size="20">Cô Fritter ngã rồi.</font>
+
+829
+00:48:24,000 --> 00:48:28,590
+<font size="20">Không ai được đụng vào hắn.
+Hắn là của chị.</font>
+
+830
+00:48:29,550 --> 00:48:32,470
+<font size="20">Anh sẽ lãnh trọn ngay, Whipple Filter</font>
+
+831
+00:48:33,680 --> 00:48:36,890
+<font size="20">Thôi nào, McQueen
+mày làm được mà, cố lên.</font>
+
+832
+00:48:37,510 --> 00:48:42,730
+<font size="20">Cô Fritter có vẻ lật lại được rồi,
+và cô ấy không vui đâu.</font>
+
+833
+00:48:45,230 --> 00:48:52,150
+<font size="20">Anh sắp được cảm nhận cơn thịnh nộ của
+khu học chánh Bell Bell County.</font>
+
+834
+00:49:03,750 --> 00:49:05,790
+<font size="20">Thưa quí vị đã có người chiến thắng.</font>
+
+835
+00:49:06,130 --> 00:49:07,880
+<font size="20">Francis Beltline.</font>
+
+836
+00:49:08,210 --> 00:49:11,090
+<font size="20">Là tôi sao?
+Tôi thắng rồi, tôi thắng rồi.</font>
+
+837
+00:49:11,420 --> 00:49:14,680
+<font size="20">Cruz, Cruz, không, không, không.
+Coi chừng.</font>
+
+838
+00:49:33,360 --> 00:49:35,320
+<font size="20">Whipple Filter.</font>
+
+839
+00:49:38,950 --> 00:49:41,410
+<font size="20">Đó là McQueen Tia chớp.</font>
+
+840
+00:49:42,950 --> 00:49:45,580
+<font size="20">McQueen!</font>
+
+841
+00:49:46,830 --> 00:49:49,290
+<font size="20">Người hâm mộ ở Thunder Hollow
+vẫn còn sửng sờ</font>
+
+842
+00:49:49,630 --> 00:49:52,210
+<font size="20">vì sự xuất hiện không mong đợi
+tối nay của Lightning McQueen.</font>
+
+843
+00:49:52,550 --> 00:49:53,880
+<font size="20">Anh ta luôn là người tôi mê nhất.</font>
+
+844
+00:49:54,220 --> 00:49:58,390
+<font size="20">Ga ra của tôi dán kín từ trên xuống dưới
+với 95 tấm áp phích.</font>
+
+845
+00:49:58,720 --> 00:50:00,100
+<font size="20">Vậy.</font>
+
+846
+00:50:00,470 --> 00:50:03,520
+<font size="20">Cái cúp cũng đẹp đấy. Anh nghĩ sao?</font>
+
+847
+00:50:03,930 --> 00:50:08,730
+<font size="20">Tôi biết anh có hàng tỷ cái rồi,
+nên anh sẽ biết mà.</font>
+
+848
+00:50:09,610 --> 00:50:11,690
+<font size="20">Tôi vẫn chưa tin được là mình thắng.</font>
+
+849
+00:50:13,240 --> 00:50:16,070
+<font size="20">Sáng ghê, tôi chưa thấy cái nào gần thế.</font>
+
+850
+00:50:16,070 --> 00:50:18,780
+<font size="20">Có vẻ họ đã tốn nhiều tiền cho nó.
+Ý tôi là, tôi nghĩ nó là kim loại thật.</font>
+
+851
+00:50:19,160 --> 00:50:20,910
+<font size="20">Thôi đi! Thôi đi được không Cruz?</font>
+
+852
+00:50:21,240 --> 00:50:23,450
+<font size="20">Cô không biết, cô không hề biết là
+có một mấu chốt.</font>
+
+853
+00:50:23,790 --> 00:50:24,830
+<font size="20">Này, tôi chỉ đang cố...</font>
+
+854
+00:50:25,330 --> 00:50:27,830
+<font size="20">Cô có biết sẽ thế nào nếu tôi thua giải đua này?</font>
+
+855
+00:50:29,080 --> 00:50:32,000
+<font size="20">Cứ mỗi dặm trên đường đua lại giúp tôi
+nhanh hơn Jackson Storm</font>
+
+856
+00:50:32,340 --> 00:50:33,460
+<font size="20">nhanh hơn.</font>
+
+857
+00:50:33,880 --> 00:50:36,380
+<font size="20">Tôi đã khởi đầu mà không được gì
+suốt cả tuần trên máy mô phỏng.</font>
+
+858
+00:50:36,720 --> 00:50:38,430
+<font size="20">Tôi mất cả ngày với cô ở Fireball Beach</font>
+
+859
+00:50:38,800 --> 00:50:42,430
+<font size="20">và tôi phí đêm nay khi lọt vào
+tầm ngắm của cô Fritter.</font>
+
+860
+00:50:42,810 --> 00:50:44,810
+<font size="20">Tôi mắc kẹt với tốc độ cũ
+đã đạt được cả tháng trước.</font>
+
+861
+00:50:45,140 --> 00:50:49,730
+<font size="20">Tôi không thể nhanh hơn tí nào
+vì bận chăm sóc huấn luyện viên của tôi.</font>
+
+862
+00:50:50,980 --> 00:50:52,570
+<font size="20">Đây là cơ hội cuối cùng của tôi, Cruz.</font>
+
+863
+00:50:52,940 --> 00:50:58,110
+<font size="20">Cuối cùng, cuối cùng, sau cùng.
+Nếu tôi thua tôi không còn được đua nữa.</font>
+
+864
+00:50:58,450 --> 00:51:01,870
+<font size="20">Nếu cô là một tay đua, cô sẽ biết tôi đang nói gì
+nhưng cô không phải</font>
+
+865
+00:51:02,200 --> 00:51:03,870
+<font size="20">nên cô đâu hiểu.</font>
+
+866
+00:51:09,710 --> 00:51:11,250
+<font size="20">Mack! Tấp vào lề!</font>
+
+867
+00:51:12,170 --> 00:51:13,710
+<font size="20">- Ngay à?
+- Ngay!</font>
+
+868
+00:51:15,210 --> 00:51:17,760
+<font size="20">Okay okay, tôi tấp vào, tấp vào.</font>
+
+869
+00:51:22,550 --> 00:51:25,890
+<font size="20">Hỏi xem tôi có mơ làm huấn luyện viên không,
+anh McQueen, cứ đi đi.</font>
+
+870
+00:51:27,140 --> 00:51:31,900
+<font size="20">Hỏi xem tôi có thức dậy trong bóng tối
+chạy nhiều vòng trước khi đi học không.</font>
+
+871
+00:51:32,270 --> 00:51:36,820
+<font size="20">Hỏi xem có phải tôi tiết kiệm từng đồng
+để mua vé xem đua xe khi họ tới không.</font>
+
+872
+00:51:37,150 --> 00:51:41,740
+<font size="20">Hỏi xem có phải tôi làm vậy
+để thành huấn luyện viên không, hỏi đi.</font>
+
+873
+00:51:42,660 --> 00:51:43,830
+<font size="20">Không!</font>
+
+874
+00:51:44,580 --> 00:51:47,330
+<font size="20">Tôi muốn trở thành một tay đua thật giỏi.</font>
+
+875
+00:51:48,330 --> 00:51:49,830
+<font size="20">Tại vì anh.</font>
+
+876
+00:51:55,090 --> 00:51:56,670
+<font size="20">Tôi thường thấy anh trên TV.</font>
+
+877
+00:51:57,050 --> 00:51:59,130
+<font size="20">Bay lướt qua trên không.</font>
+
+878
+00:52:00,300 --> 00:52:01,590
+<font size="20">Anh trông thật</font>
+
+879
+00:52:02,470 --> 00:52:04,100
+<font size="20">gan dạ.</font>
+
+880
+00:52:06,930 --> 00:52:08,310
+<font size="20">Mơ ít thôi Cruz.</font>
+
+881
+00:52:08,850 --> 00:52:10,640
+<font size="20">Gia đình tôi thường nói vậy.</font>
+
+882
+00:52:11,020 --> 00:52:13,650
+<font size="20">Mơ ít thôi hoặc đừng mơ.</font>
+
+883
+00:52:16,070 --> 00:52:17,650
+<font size="20">Họ chỉ muốn bảo vệ tôi.</font>
+
+884
+00:52:19,070 --> 00:52:24,530
+<font size="20">Nhưng tôi là đứa nhanh nhất trong vùng
+và tôi muốn chứng minh họ sai.</font>
+
+885
+00:52:26,450 --> 00:52:27,580
+<font size="20">Đã có chuyện gì?</font>
+
+886
+00:52:28,700 --> 00:52:30,750
+<font size="20">Khi tham gia cuộc đua đầu tiên</font>
+
+887
+00:52:31,290 --> 00:52:32,790
+<font size="20">tôi đã nhận ra.</font>
+
+888
+00:52:33,670 --> 00:52:34,830
+<font size="20">Cái gì?</font>
+
+889
+00:52:37,300 --> 00:52:38,630
+<font size="20">Tôi không thuộc về nơi đó.</font>
+
+890
+00:52:40,090 --> 00:52:42,470
+<font size="20">Các tay đua khác không hề giống tôi.</font>
+
+891
+00:52:43,550 --> 00:52:49,350
+<font size="20">Ho to con hơn, khỏe hơn và rất tự tin.</font>
+
+892
+00:52:51,230 --> 00:52:53,270
+<font size="20">Và khi họ khởi động động cơ</font>
+
+893
+00:52:54,940 --> 00:52:56,060
+<font size="20">đó là lúc</font>
+
+894
+00:52:56,440 --> 00:52:58,230
+<font size="20">tôi biết mình không thể trở thành xe đua.</font>
+
+895
+00:53:01,610 --> 00:53:02,780
+<font size="20">Tôi bỏ đi.</font>
+
+896
+00:53:04,410 --> 00:53:06,030
+<font size="20">Cơ hội duy nhất của tôi</font>
+
+897
+00:53:06,490 --> 00:53:08,200
+<font size="20">và tôi không nắm lấy.</font>
+
+898
+00:53:14,170 --> 00:53:15,130
+<font size="20">Phải</font>
+
+899
+00:53:15,460 --> 00:53:18,040
+<font size="20">tôi sẽ quay về Trung tâm Huấn luyện.</font>
+
+900
+00:53:18,380 --> 00:53:21,170
+<font size="20">Tôi nghĩ ta đều biết vậy là tốt nhất.</font>
+
+901
+00:53:24,510 --> 00:53:26,300
+<font size="20">Nhưng tôi hỏi anh cái này nhé.</font>
+
+902
+00:53:28,050 --> 00:53:29,760
+<font size="20">Cảm giác của anh ra sao</font>
+
+903
+00:53:30,640 --> 00:53:32,930
+<font size="20">khi anh xuất hiện ở cuộc đua đầu tiên?</font>
+
+904
+00:53:33,770 --> 00:53:35,520
+<font size="20">Làm sao anh biết là anh làm được?</font>
+
+905
+00:53:37,650 --> 00:53:41,400
+<font size="20">Tôi đâu có biết, tôi chỉ không nghĩ
+là mình không thể.</font>
+
+906
+00:53:44,450 --> 00:53:46,530
+<font size="20">Ước gì tôi biết cảm giác đó ra sao.</font>
+
+907
+00:53:49,280 --> 00:53:50,700
+<font size="20">Chúc may mắn anh McQueen.</font>
+
+908
+00:53:51,830 --> 00:53:52,830
+<font size="20">Cruz,</font>
+
+909
+00:53:54,660 --> 00:53:56,210
+<font size="20">Cruz, khoan đã.</font>
+
+910
+00:54:17,600 --> 00:54:19,310
+<font size="20">Quán quân mọi thời đại, Chick Hicks.</font>
+
+911
+00:54:19,650 --> 00:54:21,570
+<font size="20">Trò chuyện trực tiếp từ phòng thu Chick Hicks,</font>
+
+912
+00:54:21,940 --> 00:54:25,360
+<font size="20">nơi tôi trò chuyện lần nữa với
+chuyên gia đua xe thế hệ mới, Natalie Certain.</font>
+
+913
+00:54:25,700 --> 00:54:28,660
+<font size="20">Cảm ơn Chick, quán quân Piston Cup
+Jackson Storm</font>
+
+914
+00:54:29,030 --> 00:54:32,490
+<font size="20">đã lập kỷ lục mới ngày hôm nay khi đã hoàn thành
+vòng nhanh nhất từng được ghi nhận</font>
+
+915
+00:54:32,870 --> 00:54:37,460
+<font size="20">với mức khó tin là 213 dặm/giờ.</font>
+
+916
+00:54:38,250 --> 00:54:39,170
+<font size="20">Wow, cô nghĩ sao đây, Certain.</font>
+
+917
+00:54:39,500 --> 00:54:41,630
+<font size="20">Nhóc Storm sẽ bắt đầu mùa giải
+với một chiến thắng nữa?</font>
+
+918
+00:54:41,960 --> 00:54:42,960
+<font size="20">Có thể lắm, Chick.</font>
+
+919
+00:54:43,300 --> 00:54:46,720
+<font size="20">Dựa trên thời gian chạy gần đây
+và dự báo về nhiệt độ và ngày đua</font>
+
+920
+00:54:47,050 --> 00:54:50,800
+<font size="20">cơ hội thắng của Storms là 95.2%.</font>
+
+921
+00:54:51,180 --> 00:54:52,220
+<font size="20">Hơi thấp nhỉ?</font>
+
+922
+00:54:52,560 --> 00:54:54,180
+<font size="20">Và phòng khi quý vị quên</font>
+
+923
+00:54:54,520 --> 00:54:56,560
+<font size="20">chủ đề tối nay là việc McQueen Tia chớp</font>
+
+924
+00:54:56,890 --> 00:54:58,980
+<font size="20">đã tìm ra cách khác để làm bẽ mặt</font>
+
+925
+00:54:59,350 --> 00:55:01,020
+<font size="20">ở giải đua cho xe già.
+<font color="#000000">demolition derby: cuộc thi lái xe hơi cũ đâm vào nhau cho đến khi
+chỉ còn một chiếc chạy được (người lái chiếc này là người thắng cuộc)</font></font>
+
+926
+00:55:01,360 --> 00:55:01,980
+<font size="20">Wow.</font>
+
+927
+00:55:01,980 --> 00:55:04,780
+<font size="20">Gần như tôi thấy tiếc cho anh chàng đó,
+không hẳn vậy.</font>
+
+928
+00:55:05,190 --> 00:55:06,780
+<font size="20">Đây là điều nhà tài trợ cho anh ta đã nói.</font>
+
+929
+00:55:07,150 --> 00:55:09,160
+<font size="20">Quý vị à, bình tĩnh, cậu 95 sẽ đua tiếp.</font>
+
+930
+00:55:09,530 --> 00:55:10,910
+<font size="20">Tia chớp chỉ đang chọn cách tiếp cận</font>
+
+931
+00:55:11,280 --> 00:55:13,240
+<font size="20">khác thường với cuộc đua này.</font>
+
+932
+00:55:13,620 --> 00:55:15,450
+<font size="20">Đó là điều khiến người hâm mộ yêu thích cậu ấy.</font>
+
+933
+00:55:15,830 --> 00:55:17,960
+<font size="20">Vâng, phải, nói về chuyện nhục nhã</font>
+
+934
+00:55:18,330 --> 00:55:21,080
+<font size="20">nếu tôi là Kachow già tôi không còn nghĩ
+đến chuyện xuất hiện ở Florida.</font>
+
+935
+00:55:21,460 --> 00:55:22,590
+<font size="20">Như vậy chắc là tốt nhất, Chick.</font>
+
+936
+00:55:22,960 --> 00:55:28,340
+<font size="20">Mà dù có đua, thì khả năng thắng của McQueen
+cũng chỉ là 1.2% mà thôi.</font>
+
+937
+00:55:28,720 --> 00:55:29,300
+<font size="20">Wow.</font>
+
+938
+00:55:29,470 --> 00:55:32,260
+<font size="20">Con số không nói dối.
+Tối nay tôi sẵn sàng đoán</font>
+
+939
+00:55:32,600 --> 00:55:37,180
+<font size="20">là sự nghiệp đua xe của McQueen Tia chớp
+sẽ chấm dứt trong vòng một tuần.</font>
+
+940
+00:55:37,770 --> 00:55:39,310
+<font size="20">Có khi là chấm dứt luôn ấy chứ.</font>
+
+941
+00:55:39,640 --> 00:55:42,310
+<font size="20">Tôi biết sự nghiệp của anh ta đã chìm trong bùn...</font>
+
+942
+00:55:45,690 --> 00:55:48,240
+<font size="20">Đầi tiên bạn tìm thấy chiếc lon
+từ chiếc xe tải rỉ sét bump bump</font>
+
+943
+00:55:48,610 --> 00:55:51,160
+<font size="20">Nhanh hơn cả phi tiêu
+biến nó thành nghệ thuật bump bump</font>
+
+944
+00:55:51,530 --> 00:55:53,990
+<font size="20">Đó là cách hoàn thành
+biết bao là niềm vui bump bump</font>
+
+945
+00:55:54,370 --> 00:55:57,450
+<font size="20">Nâng tinh thần tôi lên
+tạc tượng từ đống rác.</font>
+
+946
+00:55:58,500 --> 00:55:59,620
+<font size="20">Gì vậy?</font>
+
+947
+00:56:00,290 --> 00:56:03,250
+<font size="20">Rồi nữa kìa, vừa có người xen ngang thiên tài.</font>
+
+948
+00:56:04,040 --> 00:56:05,710
+<font size="20">Xin chào anh bạn.</font>
+
+949
+00:56:06,050 --> 00:56:06,670
+<font size="20">Mater!</font>
+
+950
+00:56:06,800 --> 00:56:10,470
+<font size="20">Cậu biết đấy, tôi vừa nghỉ đến cậu xong
+và giờ cậu đang nhìn tôi đây này.</font>
+
+951
+00:56:10,800 --> 00:56:11,970
+<font size="20">Thấy tôi có ổn không?</font>
+
+952
+00:56:12,340 --> 00:56:16,760
+<font size="20">Chờ tôi chút, để tôi xem nào.
+Khá hơn chưa?</font>
+
+953
+00:56:17,220 --> 00:56:19,230
+<font size="20">Đang nhìn thẳng anh luôn đây, anh bạn.</font>
+
+954
+00:56:19,560 --> 00:56:22,190
+<font size="20">Này, xin lỗi vì gọi anh trễ thế này.</font>
+
+955
+00:56:22,560 --> 00:56:23,190
+<font size="20">Trời, khách sáo với tôi nữa.</font>
+
+956
+00:56:23,520 --> 00:56:25,650
+<font size="20">Tôi khi nào chả làm việc giờ khuya.</font>
+
+957
+00:56:26,020 --> 00:56:27,900
+<font size="20">Mau cập nhật tình hình cho tôi đi.</font>
+
+958
+00:56:28,280 --> 00:56:31,400
+<font size="20">Thực ra tôi đang hy vọng
+là được nghe tình hình ở nhà.</font>
+
+959
+00:56:31,740 --> 00:56:33,700
+<font size="20">Chẳng có gì mấy, nếu không tính chuyện</font>
+
+960
+00:56:34,070 --> 00:56:38,540
+<font size="20">Trung sĩ Fillmore điều hành tiệm lốp
+nhưng bảo Luigi đừng lo</font>
+
+961
+00:56:38,870 --> 00:56:43,170
+<font size="20">Trung sĩ sẽ tìm lại từng chiếc lốp
+mà hắn đem đi tặng.</font>
+
+962
+00:56:43,500 --> 00:56:45,000
+<font size="20">Ngoài chuyện đó ra, tất cả đều ổn.</font>
+
+963
+00:56:45,340 --> 00:56:48,460
+<font size="20">- Sally thế nào.
+- Vẫn ổn, đang bận rộn ở chỗ Cone.</font>
+
+964
+00:56:48,840 --> 00:56:50,010
+<font size="20">Cô ấy nhớ cậu.</font>
+
+965
+00:56:50,380 --> 00:56:52,800
+<font size="20">Ôi trời, bọn tôi đều nhớ khi cậu trên đường đua.</font>
+
+966
+00:56:53,800 --> 00:56:54,970
+<font size="20">Yeah.</font>
+
+967
+00:56:55,720 --> 00:56:59,220
+<font size="20">Anh biết đấy, tôi đã nghỉ nhiều về chuyện đó.</font>
+
+968
+00:56:59,560 --> 00:57:01,770
+<font size="20">Anh biết ta nên làm gì khi tôi không còn
+chạy trên đường đua nữa mà.</font>
+
+969
+00:57:02,100 --> 00:57:04,350
+<font size="20">Không còn chạy trên đường đua là sao?</font>
+
+970
+00:57:05,360 --> 00:57:06,520
+<font size="20">Anh biết mà,</font>
+
+971
+00:57:07,820 --> 00:57:09,650
+<font size="20">Mater, tôi không thể đua cả đời được.</font>
+
+972
+00:57:13,360 --> 00:57:15,530
+<font size="20">Tôi chỉ không đạt được gì
+với vụ luyện tập hết.</font>
+
+973
+00:57:15,870 --> 00:57:17,830
+<font size="20">Nếu như có, tôi chạy chậm lại thì đúng hơn.</font>
+
+974
+00:57:18,200 --> 00:57:19,990
+<font size="20">Trời, anh bạn, sẽ được thôi mà.</font>
+
+975
+00:57:20,330 --> 00:57:21,330
+<font size="20">Nói tôi nghe có vấn đề gì đi</font>
+
+976
+00:57:21,660 --> 00:57:24,080
+<font size="20">và tôi sẽ ở đây với cậu đến khi giải quyết xong.</font>
+
+977
+00:57:24,420 --> 00:57:26,790
+<font size="20">Chỉ vậy thôi, Mater...
+Tôi không biết,</font>
+
+978
+00:57:27,880 --> 00:57:30,380
+<font size="20">Tôi có cảm giác là tôi hết ý tưởng rồi.</font>
+
+979
+00:57:31,300 --> 00:57:32,670
+<font size="20">Được rồi, để tôi nghĩ xem.</font>
+
+980
+00:57:33,050 --> 00:57:36,050
+<font size="20">- Oh, biết tôi sẽ làm gì không?
+- Gì?</font>
+
+981
+00:57:37,680 --> 00:57:39,680
+<font size="20">Tôi cũng chịu. Không nghĩ được gì.</font>
+
+982
+00:57:40,060 --> 00:57:42,430
+<font size="20">Chắc tôi không phải là Doc khi cần đến giải pháp.</font>
+
+983
+00:57:43,310 --> 00:57:46,350
+<font size="20">Tôi sẽ đánh đổi tất cả để nói chuyện
+với ông ấy lúc này.</font>
+
+984
+00:57:46,690 --> 00:57:48,980
+<font size="20">Phải, chẳng có ai thông thái hơn
+ông Bác sĩ (Doc) già.</font>
+
+985
+00:57:49,320 --> 00:57:52,110
+<font size="20">Chà, có lẽ là người đã dạy ông ấy.</font>
+
+986
+00:57:52,570 --> 00:57:53,190
+<font size="20">Khoan đã, gì cơ?</font>
+
+987
+00:57:53,570 --> 00:57:55,740
+<font size="20">Mọi người đều được dạy bởi ai đó nhỉ?</font>
+
+988
+00:57:56,070 --> 00:57:56,950
+<font size="20">Như anh họ tôi Dort</font>
+
+989
+00:57:57,280 --> 00:57:59,780
+<font size="20">anh ấy dạy tôi cách vừa hát
+vừa huýt sáo cùng lúc.</font>
+
+990
+00:58:00,160 --> 00:58:01,490
+<font size="20">Nhìn anh ấy rất có phong thái âm nhạc.</font>
+
+991
+00:58:01,830 --> 00:58:02,950
+<font size="20">Smokey</font>
+
+992
+00:58:03,290 --> 00:58:06,040
+<font size="20">Mater! Anh giỏi quá!</font>
+
+993
+00:58:06,370 --> 00:58:08,040
+<font size="20">Thì là chuyện hình dáng bộ răng thôi.</font>
+
+994
+00:58:08,380 --> 00:58:09,420
+<font size="20">Tôi phải tới Thomasville.</font>
+
+995
+00:58:09,790 --> 00:58:11,630
+<font size="20">Oh, tốt cậu hiểu mà, anh bạn,</font>
+
+996
+00:58:12,010 --> 00:58:13,260
+<font size="20">lúc nào tôi cũng sẵn lòng giúp đỡ.</font>
+
+997
+00:58:13,590 --> 00:58:16,880
+<font size="20">Chắc tôi giỏi khoản đó hơn người khác.
+Cậu biết đấy, trò chuyện đó mà.</font>
+
+998
+00:58:33,320 --> 00:58:34,530
+<font size="20">Này Cruz.</font>
+
+999
+00:58:34,900 --> 00:58:37,490
+<font size="20">Không thuyết phục được tôi đâu, anh McQueen,
+tôi sẽ quay về</font>
+
+1000
+00:58:37,820 --> 00:58:39,700
+<font size="20">Tôi xin nghỉ huấn luyện anh.</font>
+
+1001
+00:58:40,120 --> 00:58:43,950
+<font size="20">Được rồi, tôi chấp nhận đơn từ nhiệm của cô,
+chào cô.</font>
+
+1002
+00:58:44,660 --> 00:58:49,500
+<font size="20">- Uh okay.
+- Nhưng cô vẫn còn trống lịch</font>
+
+1003
+00:58:49,880 --> 00:58:53,340
+<font size="20">sao không đi cùng với bọn tôi?
+Tôi đang tìm một người tên Smokey.</font>
+
+1004
+00:58:53,670 --> 00:58:55,130
+<font size="20">Mong là anh ấy giúp được tôi.</font>
+
+1005
+00:58:55,470 --> 00:59:01,680
+<font size="20">- Có khi anh ấy giúp được cô nữa.
+- Nah!
+- Thôi mà, tôi sửa rồi này.</font>
+
+1006
+00:59:02,010 --> 00:59:05,220
+<font size="20">Không, dù sao cũng cảm ơn
+nhưng tôi nghỉ rồi.</font>
+
+1007
+00:59:05,600 --> 00:59:10,650
+<font size="20">Được rồi, nhưng có lẽ cái này
+sẽ khiến cô đổi ý. Đánh đi.</font>
+
+1008
+00:59:11,360 --> 00:59:13,730
+<font size="20">Đầu tiên tôi sẽ thư giãn mớ xương khớp già nua.</font>
+
+1009
+00:59:14,110 --> 00:59:15,190
+<font size="20">Làm ơn đừng mà.</font>
+
+1010
+00:59:15,530 --> 00:59:18,990
+<font size="20">Tôi xin lỗi, tôi xin lỗi.
+Tôi xin lỗi đã la cô.</font>
+
+1011
+00:59:19,360 --> 00:59:22,490
+<font size="20">Không phải do cô làm tôi suýt bị giết.</font>
+
+1012
+00:59:22,830 --> 00:59:25,200
+<font size="20">Nhưng giờ cô sắp đi,
+và cô sẽ không lên đường đâu.</font>
+
+1013
+00:59:25,580 --> 00:59:29,540
+<font size="20">Rồi, tôi sẽ đi. Thôi đi.</font>
+
+1014
+00:59:34,300 --> 00:59:37,510
+<font size="20">- Làm sao anh biết Smokey sẽ có mặt ở đây?
+- Tôi đâu biết.</font>
+
+1015
+00:59:38,930 --> 00:59:44,510
+<font size="20">- Anh có biết là ông ấy còn sống hay không?
+- Chịu.
+- Được rồi.</font>
+
+1016
+00:59:45,770 --> 00:59:46,470
+<font size="20">Vậy nói tôi nghe.</font>
+
+1017
+00:59:46,850 --> 00:59:50,190
+<font size="20">- Sao anh biết đó là Smokey
+- Khoan, Mack tấp vào lề.</font>
+
+1018
+01:00:05,700 --> 01:00:08,870
+<font size="20">Xa lộ Thomasville.
+Quê nhà của Hudson Hornet 51 lừng danh.</font>
+
+1019
+01:00:09,540 --> 01:00:11,170
+<font size="20">Thật tốt được thấy ông, Doc.</font>
+
+1020
+01:00:11,540 --> 01:00:14,670
+<font size="20">Này, không phải đội trưởng cũ của anh đó sao?</font>
+
+1021
+01:00:15,130 --> 01:00:21,220
+<font size="20">Này Cruz, muốn xem đường đua ruột
+của tay đua vĩ đại nhất không?</font>
+
+1022
+01:00:22,800 --> 01:00:25,180
+<font size="20">Không phải ta cần tìm Smokey sao?</font>
+
+1023
+01:00:25,560 --> 01:00:27,970
+<font size="20">Oh, đúng rồi, ông ta đã chết.</font>
+
+1024
+01:00:28,350 --> 01:00:30,390
+<font size="20">Chúng ta đâu biết.</font>
+
+1025
+01:00:37,940 --> 01:00:40,280
+<font size="20">Anh có chắc là có thời gian cho vụ này không?</font>
+
+1026
+01:00:40,610 --> 01:00:43,820
+<font size="20">Cho vụ này thì có.</font>
+
+1027
+01:00:54,380 --> 01:00:57,590
+<font size="20">Piston Cup</font>
+
+1028
+01:00:58,500 --> 01:01:01,300
+<font size="20">Tôi nâng cấp toàn bộ ở ga ra của Smokey.</font>
+
+1029
+01:01:01,630 --> 01:01:06,140
+<font size="20">Wow, giá mà đường biết nói.</font>
+
+1030
+01:01:09,020 --> 01:01:12,770
+<font size="20">Cruz, cô nói sao đây?
+Đua một vòng nhé.</font>
+
+1031
+01:01:21,070 --> 01:01:23,110
+<font size="20">Wow</font>
+
+1032
+01:01:38,790 --> 01:01:39,800
+<font size="20">Phải, đúng rồi đó.</font>
+
+1033
+01:01:40,130 --> 01:01:43,340
+<font size="20">Dễ hơn nhiều khi không có xe buýt chết chóc
+tìm cách giết chúng ta.</font>
+
+1034
+01:01:43,720 --> 01:01:45,470
+<font size="20">Phải, không đùa đâu.</font>
+
+1035
+01:02:01,360 --> 01:02:04,530
+<font size="20">Tôi đã bắt đầu nghĩ
+là sẽ không bao giờ gặp cậu.</font>
+
+1036
+01:02:04,900 --> 01:02:06,200
+<font size="20">Smokey?</font>
+
+1037
+01:02:10,120 --> 01:02:14,040
+<font size="20">- Ông ấy còn sống.
+- Tôi biết vì sao cậu tới.</font>
+
+1038
+01:02:15,370 --> 01:02:16,870
+<font size="20">Cậu đang khát cháy họng.</font>
+
+1039
+01:02:20,750 --> 01:02:21,630
+<font size="20">Tôi nói cậu hay,</font>
+
+1040
+01:02:21,960 --> 01:02:24,670
+<font size="20">lũ này sẽ mừng rớt bánh
+nếu gặp học trò của Hud.</font>
+
+1041
+01:02:25,050 --> 01:02:29,600
+<font size="20">Hud là ai?
+Oh, Doc Hudson phải rồi.</font>
+
+1042
+01:02:31,720 --> 01:02:32,850
+<font size="20">Này,</font>
+
+1043
+01:02:34,100 --> 01:02:36,560
+<font size="20">văn minh tí đi, ta có khách đó.</font>
+
+1044
+01:02:42,860 --> 01:02:45,490
+<font size="20">- Cô có nhìn thấy không?
+- Thấy gì?</font>
+
+1045
+01:02:45,820 --> 01:02:47,860
+<font size="20">Ba trong số các tay đua huyền thoại lớn nhất.</font>
+
+1046
+01:02:48,240 --> 01:02:53,790
+<font size="20">Jr. Midnight Moon, River Scott ,
+Louise Stormer Nash, cô ấy thắng 38 lần.</font>
+
+1047
+01:02:54,120 --> 01:02:57,670
+<font size="20">Tôi dám cá kia là McQueen Tia chớp.</font>
+
+1048
+01:02:58,170 --> 01:03:00,000
+<font size="20">Cô Nash, quả là vinh hạnh khi được gặp</font>
+
+1049
+01:03:00,380 --> 01:03:01,380
+<font size="20">- Quả là một năm khó khăn nhỉ?
+- Oh uh....</font>
+
+1050
+01:03:01,710 --> 01:03:05,840
+<font size="20">Không phải giờ này cậu nên luyện tập
+ở Florida hay sao?</font>
+
+1051
+01:03:06,220 --> 01:03:08,300
+<font size="20">- Vâng, phải, nhưng...
+- Họ tới ăn cắp bí mật của ta đó.</font>
+
+1052
+01:03:08,630 --> 01:03:10,140
+<font size="20">Tìm kiếm vận may đã mất hả?</font>
+
+1053
+01:03:10,470 --> 01:03:14,020
+<font size="20">Wow, ý ông không phải vậy đúng không?</font>
+
+1054
+01:03:14,470 --> 01:03:16,680
+<font size="20">Nói thật cho nó mau đi nhóc.</font>
+
+1055
+01:03:42,500 --> 01:03:45,920
+<font size="20">Nhưng cô ây từng thương Hud thật lòng.</font>
+
+1056
+01:03:46,260 --> 01:03:49,340
+<font size="20">Oh vậy sao?
+Cho dù là vậy cũng không quan trọng.</font>
+
+1057
+01:03:49,720 --> 01:03:52,760
+<font size="20">Hud không thích gái chạy nhanh,
+vậy là tôi hết cửa.</font>
+
+1058
+01:03:53,550 --> 01:03:56,100
+<font size="20">Lou già không chỉ nhanh, cô ấy còn không biết sợ.</font>
+
+1059
+01:03:56,430 --> 01:03:59,480
+<font size="20">Ngay khoảnh khắc thấy cuộc đua đầu,
+tôi biết ngay tôi phải bước vào đó.</font>
+
+1060
+01:03:59,850 --> 01:04:02,060
+<font size="20">Dĩ nhiên là đám quản lý không thích</font>
+
+1061
+01:04:02,400 --> 01:04:03,980
+<font size="20">việc một tay đua quý cô khiến họ lác mắt.</font>
+
+1062
+01:04:04,320 --> 01:04:06,110
+<font size="20">Nên họ không đưa số vào đua cho tôi.</font>
+
+1063
+01:04:06,440 --> 01:04:07,150
+<font size="20">Cô đã làm gì?</font>
+
+1064
+01:04:07,490 --> 01:04:09,490
+<font size="20">- Tôi trộm một số.
+- Gì cơ!!</font>
+
+1065
+01:04:09,990 --> 01:04:12,200
+<font size="20">Đời quá ngắn để chấp nhận lời từ chối,
+phải không River?</font>
+
+1066
+01:04:12,570 --> 01:04:16,120
+<font size="20">Nếu chúng tôi chờ nhận được lời mời,
+chắc khỏi đua luôn rồi.</font>
+
+1067
+01:04:16,490 --> 01:04:18,790
+<font size="20">Và khi bước ra đường đua,
+chúng tôi không muốn rời đi.</font>
+
+1068
+01:04:19,160 --> 01:04:20,410
+<font size="20">Tôi nghĩ Doc cũng cảm thấy vậy.</font>
+
+1069
+01:04:20,750 --> 01:04:22,790
+<font size="20">Cậu nên thấy cậu ta khi mới tới đây,</font>
+
+1070
+01:04:23,170 --> 01:04:26,300
+<font size="20">sơn xanh bóng loáng
+không chỉ là Hudson Hornet.</font>
+
+1071
+01:04:26,670 --> 01:04:30,970
+<font size="20">Cậu ta lúc đó tự gọi mình là
+Hudson Hornet lừng danh.</font>
+
+1072
+01:04:31,340 --> 01:04:34,140
+<font size="20">- Đã trêu cậu ta vụ đó chưa nhỉ?
+- Không được lâu.</font>
+
+1073
+01:04:34,510 --> 01:04:39,480
+<font size="20">Hud là tay đua nhanh nhất ở mạn này
+sông Mississippi, cho đến khi không còn vậy nữa.</font>
+
+1074
+01:04:39,850 --> 01:04:41,020
+<font size="20">Sao cơ?</font>
+
+1075
+01:04:41,770 --> 01:04:44,560
+<font size="20">Mọi thứ thay đổi khi tay lính mới xuất hiện.</font>
+
+1076
+01:04:50,780 --> 01:04:55,870
+<font size="20">Hud chẳng mất nhiều thời gian
+để vượt qua những tay đua giỏi nhất ở Carolina.</font>
+
+1077
+01:04:56,620 --> 01:05:01,500
+<font size="20">Hơn River, hơn Lou, hơn cả Junior</font>
+
+1078
+01:05:02,370 --> 01:05:04,920
+<font size="20">nhưng còn đó gã tân binh cần xử lý.</font>
+
+1079
+01:05:07,460 --> 01:05:10,010
+<font size="20">Cố đẩy cậu ta xông thẳng vào tường.</font>
+
+1080
+01:05:11,800 --> 01:05:16,050
+<font size="20">Nhưng Hud không chạm bức tường nào,
+trừ khi cậu ta muốn.</font>
+
+1081
+01:05:25,900 --> 01:05:29,190
+<font size="20">Gã tân binh chưa từng thấy gì
+giống vậy trước đó.</font>
+
+1082
+01:05:29,570 --> 01:05:31,490
+<font size="20">- Doc đã làm vậy à?
+- Mấy người đùa sao?</font>
+
+1083
+01:05:31,820 --> 01:05:35,410
+<font size="20">Không thể làm cậu ta khép miệng
+suốt cả tuần sau đó.</font>
+
+1084
+01:05:37,160 --> 01:05:39,410
+<font size="20">Ước gì tôi được thấy ông ấy như vậy.</font>
+
+1085
+01:05:40,080 --> 01:05:41,200
+<font size="20">Như thế nào?</font>
+
+1086
+01:05:42,250 --> 01:05:43,370
+<font size="20">Hạnh phúc như vậy.</font>
+
+1087
+01:05:50,250 --> 01:05:53,340
+<font size="20">Cậu không đi cả quãng đường dài
+chỉ để tra dầu, đúng không.?</font>
+
+1088
+01:05:54,590 --> 01:05:56,680
+<font size="20">Tôi cần ông giúp Smokey.</font>
+
+1089
+01:05:57,050 --> 01:05:59,930
+<font size="20">Thế à, giúp kiểu gì?</font>
+
+1090
+01:06:00,850 --> 01:06:03,600
+<font size="20">Thì giúp thôi, tôi không chắc.</font>
+
+1091
+01:06:04,140 --> 01:06:08,900
+<font size="20">Tôi chỉ biết là nếu tôi thua ở Florida,
+thì coi như xong.</font>
+
+1092
+01:06:09,270 --> 01:06:11,860
+<font size="20">Chuyện xảy ra với Doc, sẽ xảy ra với tôi.</font>
+
+1093
+01:06:12,440 --> 01:06:14,530
+<font size="20">Cậu ta đã gặp chuyện gì?</font>
+
+1094
+01:06:15,860 --> 01:06:22,200
+<font size="20">Ông biết đấy, đua xe là phần tuyệt nhất đời ông ấy.
+Và khi nó kết thúc, ông ấy...</font>
+
+1095
+01:06:22,790 --> 01:06:26,370
+<font size="20">Ta đều biết sau đó ông ấy
+không còn như trước nữa.</font>
+
+1096
+01:06:27,290 --> 01:06:29,080
+<font size="20">Cậu nghĩ vậy à?</font>
+
+1097
+01:06:31,090 --> 01:06:34,010
+<font size="20">Đi nào, tôi muốn cho cậu xem cái này.</font>
+
+1098
+01:06:39,510 --> 01:06:41,680
+<font size="20">Cậu nói đoạn đầu đúng rồi.</font>
+
+1099
+01:06:42,180 --> 01:06:46,940
+<font size="20">Vụ tông xe khiến Hud bị thương trầm trọng,
+và việc không đua nữa làm tim ông ấy vỡ vụn.</font>
+
+1100
+01:06:47,480 --> 01:06:50,770
+<font size="20">Cậu ấy tự khóa mình,
+biến mất khỏi Radiator Springs.</font>
+
+1101
+01:06:51,150 --> 01:06:54,240
+<font size="20">Thằng trời đánh không nói gì với tôi
+suốt 50 năm.</font>
+
+1102
+01:06:54,860 --> 01:06:59,200
+<font size="20">Nhưng rồi một ngày nó bắt đầu gửi thư cho tôi.</font>
+
+1103
+01:07:10,790 --> 01:07:14,170
+<font size="20">Và phần cuối của mỗi lá thư đó đều kể về cậu.</font>
+
+1104
+01:07:16,340 --> 01:07:22,260
+<font size="20">Phải, Hud thích đua xe,
+nhưng huấn luyện cậu ư?</font>
+
+1105
+01:07:23,100 --> 01:07:26,180
+<font size="20">Tôi chưa từng thấy gã khùng đó vui đến vậy.</font>
+
+1106
+01:07:29,650 --> 01:07:32,940
+<font size="20">Đua xe không phải là phần tuyệt nhất
+trong đời Hud.</font>
+
+1107
+01:07:33,940 --> 01:07:35,360
+<font size="20">Mà là cậu.</font>
+
+1108
+01:07:38,860 --> 01:07:43,030
+<font size="20">- Cậu sẵn sàng để thổi bùng một ít carbon chưa nhóc?
+- Rồi, sẵn sàng.</font>
+
+1109
+01:07:46,290 --> 01:07:48,960
+<font size="20">Cậu nhấn ga hơi mạnh quá rồi,
+cậu ở trong bông xương rồng đó.</font>
+
+1110
+01:07:49,290 --> 01:07:52,920
+<font size="20">Này, Tia chớp, cậu sẽ muốn ghi cái này lại đó.</font>
+
+1111
+01:08:05,220 --> 01:08:07,680
+<font size="20">Cậu có nhiều kỹ năng đó nhóc.</font>
+
+1112
+01:08:22,820 --> 01:08:27,450
+<font size="20">Hud thấy gì đó trong cậu
+mà chính cậu còn không nhìn thấy.</font>
+
+1113
+01:08:28,750 --> 01:08:33,130
+<font size="20">- Cậu sẵn sàng khám phá chưa?
+- Rồi, thưa sếp.</font>
+
+1114
+01:08:41,470 --> 01:08:43,260
+<font size="20">Được rồi, được rồi.</font>
+
+1115
+01:08:46,810 --> 01:08:50,640
+<font size="20">- Bài học số 1: Cậu già rồi chấp nhận đi.
+- Tôi nói câu đó rồi.</font>
+
+1116
+01:08:51,020 --> 01:08:54,900
+<font size="20">- Chắc cậu ta lãng tai rồi.
+- Ông ấy nói anh già và lãng tai.</font>
+
+1117
+01:08:55,270 --> 01:08:59,780
+<font size="20">Cậu không thể nhanh như Storm
+nhưng cậu có thể thông minh hơn nó.</font>
+
+1118
+01:09:00,150 --> 01:09:03,950
+<font size="20">- Được rồi tôi phải làm gì đây?
+- Nghe nói cậu từng đến một cuộc đua cho xe già.</font>
+
+1119
+01:09:04,280 --> 01:09:06,490
+<font size="20">- Phải, rất khủng khiếp và tôi suýt nữa
+- Cậu chắc không?</font>
+
+1120
+01:09:06,870 --> 01:09:09,040
+<font size="20">Vì cậu không có vết xước nào hết.</font>
+
+1121
+01:09:11,290 --> 01:09:15,000
+<font size="20">Vui ở chỗ một tay đua làm được rất nhiều
+khi anh ta không suy nghĩ quá nhiều.</font>
+
+1122
+01:09:16,790 --> 01:09:18,920
+<font size="20">Shannon Spokes ở giải đua quốc tế Florida</font>
+
+1123
+01:09:19,250 --> 01:09:24,010
+<font size="20">nơi Jackson Storm cán mốc
+214 dặm/giờ ngày hôm nay.</font>
+
+1124
+01:09:28,680 --> 01:09:31,310
+<font size="20">Cậu muốn đánh bại Storm cậu cần ai đó
+đóng giả làm cậu ta.</font>
+
+1125
+01:09:31,680 --> 01:09:33,190
+<font size="20">Giống người đấu cùng vậy.</font>
+
+1126
+01:09:33,520 --> 01:09:35,900
+<font size="20">Tôi không chắc nữa vì tôi đâu phải xe đua,
+tôi chỉ là huấn luyện viên.</font>
+
+1127
+01:09:36,270 --> 01:09:38,770
+<font size="20">- chỉ là huấn luyện viên.
+- Cứ đi tới và tăng ga.</font>
+
+1128
+01:09:43,740 --> 01:09:47,490
+<font size="20">Yeah, không dùng giảm âm
+thì cô nói y chang Storm.</font>
+
+1129
+01:09:47,910 --> 01:09:49,870
+<font size="20">Oh anh chậm lại kìa, McQueen.</font>
+
+1130
+01:09:50,200 --> 01:09:52,330
+<font size="20">Lê cái mông viêm khớp nặng đó xuống đường
+để tôi có thể đưa anh</font>
+
+1131
+01:09:52,710 --> 01:09:55,750
+<font size="20">vào trại dưỡng lão trái ý anh.</font>
+
+1132
+01:09:57,040 --> 01:09:58,210
+<font size="20">Thế nào?</font>
+
+1133
+01:09:58,790 --> 01:10:01,800
+<font size="20">- Được đấy, tôi thấy được ,
+- Tôi thấy được, phải được đấy.</font>
+
+1134
+01:10:02,130 --> 01:10:03,550
+<font size="20">Có nghe cô bé nói không?</font>
+
+1135
+01:10:04,550 --> 01:10:07,010
+<font size="20">Cậu không có mặt ở Florida để đấu loại</font>
+
+1136
+01:10:07,340 --> 01:10:09,180
+<font size="20">nên cậu sẽ khởi đầu ở cuối.</font>
+
+1137
+01:10:09,510 --> 01:10:11,470
+<font size="20">Cho cậu ba vòng để bắt kịp cô bé.</font>
+
+1138
+01:10:11,810 --> 01:10:14,180
+<font size="20">Vượt qua hết quãng đường đó trong ba vòng?</font>
+
+1139
+01:10:14,560 --> 01:10:17,350
+<font size="20">- Có muốn đánh bại Storm không?
+- Có, đương nhiên là muốn.</font>
+
+1140
+01:10:17,730 --> 01:10:19,690
+<font size="20">Vậy thì chạy đi.</font>
+
+1141
+01:10:21,610 --> 01:10:22,900
+<font size="20">Cố lên, nhóc.</font>
+
+1142
+01:10:33,580 --> 01:10:36,830
+<font size="20">Được rồi, có vẻ ta có việc cần làm đây.</font>
+
+1143
+01:10:37,750 --> 01:10:41,420
+<font size="20">Coi chừng, hình phản chiếu là thứ đầu tiên
+phải chú ý,</font>
+
+1144
+01:10:46,430 --> 01:10:48,050
+<font size="20">Sao chúng tôi lại vào đây?</font>
+
+1145
+01:10:48,550 --> 01:10:51,890
+<font size="20">- Lẻn vào cửa sổ kia.
+- Vậy nghĩa là sao?
+- Tôi cũng chịu!</font>
+
+1146
+01:10:52,220 --> 01:10:53,390
+<font size="20">Đi mau!</font>
+
+1147
+01:11:02,730 --> 01:11:04,900
+<font size="20">Không hay đâu nhé, không hay đâu.</font>
+
+1148
+01:11:09,240 --> 01:11:10,820
+<font size="20">Làm lại lần nữa.</font>
+
+1149
+01:11:12,910 --> 01:11:15,250
+<font size="20">Cậu có còn muốn ở ngoài này không?</font>
+
+1150
+01:11:17,540 --> 01:11:20,460
+<font size="20">Chỉ còn hai ngày nữa nhóc.
+Cậu phải cố hơn nữa.</font>
+
+1151
+01:11:24,550 --> 01:11:25,630
+<font size="20">Cái quái quỉ gì, ai vậy?</font>
+
+1152
+01:11:25,960 --> 01:11:29,130
+<font size="20">Tôi cho McQueen vào đó.
+Cho cậu cảm giác cạnh tranh thực sự.</font>
+
+1153
+01:11:32,550 --> 01:11:35,890
+<font size="20">Hud là bậc thầy trong việc
+để các xe khác làm việc thay mình.</font>
+
+1154
+01:11:36,230 --> 01:11:39,770
+<font size="20">Hud thường bảo, là bám vào chúng
+như hai con bọ vừng giữa đêm hè.</font>
+
+1155
+01:11:40,150 --> 01:11:41,730
+<font size="20">Cậu ta mượn của tôi đó.</font>
+
+1156
+01:11:42,110 --> 01:11:44,440
+<font size="20">Né gió, tôi chưa từng phải làm vậy.</font>
+
+1157
+01:11:44,780 --> 01:11:47,490
+<font size="20">Phải, đó là hồi cậu còn nhanh.</font>
+
+1158
+01:11:47,820 --> 01:11:50,740
+<font size="20">Giờ cậu chậm rồi, già nữa, yếu nữa...</font>
+
+1159
+01:11:51,070 --> 01:11:52,320
+<font size="20">Được rồi, được rồi, hiểu rồi.</font>
+
+1160
+01:11:52,660 --> 01:11:57,330
+<font size="20">Cậu bây giờ phải tìm những cơ hội
+cậu chưa từng biết tới.</font>
+
+1161
+01:11:59,960 --> 01:12:01,670
+<font size="20">Lẻn qua cửa sổ đi.</font>
+
+1162
+01:12:03,540 --> 01:12:05,710
+<font size="20">Lẻn qua cửa sổ gì?</font>
+
+1163
+01:12:06,090 --> 01:12:08,590
+<font size="20">Khi cửa sổ mở ra, lách vào.</font>
+
+1164
+01:12:17,890 --> 01:12:19,060
+<font size="20">Yes!</font>
+
+1165
+01:12:19,980 --> 01:12:21,560
+<font size="20">Làm được rồi.</font>
+
+1166
+01:12:23,440 --> 01:12:25,320
+<font size="20">Đi thôi, đi nào.</font>
+
+1167
+01:12:26,440 --> 01:12:27,730
+<font size="20">Hình phản chiếu!</font>
+
+1168
+01:12:29,360 --> 01:12:31,820
+<font size="20">- Được lắm, Guido, tăng nhiệt lên nào.
+- Được thôi.</font>
+
+1169
+01:12:39,330 --> 01:12:41,920
+<font size="20">Được rồi, xem ai đã chịu lộ diện kìa.</font>
+
+1170
+01:12:44,960 --> 01:12:48,300
+<font size="20">- Đây là nơi chúng tôi tích lũy kinh nghiệm.
+- Ở trong rừng?</font>
+
+1171
+01:12:48,670 --> 01:12:53,090
+<font size="20">Hãy coi như mặt trăng luôn sáng trên đầu.</font>
+
+1172
+01:12:53,640 --> 01:12:57,220
+<font size="20">Nếu mặt trăng không sáng
+thì không cần phải... thôi, bỏ đi.</font>
+
+1173
+01:12:57,560 --> 01:13:00,230
+<font size="20">Bọn tôi bán rượu lậu, đồ khờ!</font>
+
+1174
+01:13:00,600 --> 01:13:04,350
+<font size="20">Nhân tiện thì tắt đèn đi, chỉ dùng bản năng thôi.</font>
+
+1175
+01:13:52,110 --> 01:13:55,240
+<font size="20">McQueen vẫn chưa tới, chả phải anh ta từng thế
+hồi mới đua à?</font>
+
+1176
+01:13:55,570 --> 01:13:57,120
+<font size="20">Ít nhất tôi nghe ông nội tôi nói vậy.</font>
+
+1177
+01:13:57,490 --> 01:14:01,870
+<font size="20">- Được rồi, còn thời gian cho vòng cuối.
+- Mau lên đi nào, sếp.</font>
+
+1178
+01:14:02,200 --> 01:14:04,580
+<font size="20">- Phải đưa cậu tới Florida nữa.
+- Chạy!!</font>
+
+1179
+01:14:08,790 --> 01:14:12,630
+<font size="20">Có lẽ tốt nhất anh ta đừng xuất hiện,
+sau cách mà mùa giải trước kết thúc.</font>
+
+1180
+01:14:17,010 --> 01:14:17,890
+<font size="20">Để tôi nói cho rõ ràng.</font>
+
+1181
+01:14:18,260 --> 01:14:21,970
+<font size="20">Tôi sẽ không mất ngủ
+để đoán McQueen Tia chớp ở đâu nữa.</font>
+
+1182
+01:14:26,520 --> 01:14:28,730
+<font size="20">Cố lên nhóc, cố lên!</font>
+
+1183
+01:14:38,280 --> 01:14:40,080
+<font size="20">Có thế chứ!</font>
+
+1184
+01:14:50,590 --> 01:14:56,430
+<font size="20">McQueen đang mờ dần! McQueen đang mờ dần!
+Mờ nhanh quá!!</font>
+
+1185
+01:15:05,430 --> 01:15:08,900
+<font size="20">Anh có thấy không? Thật tuyệ...t.</font>
+
+1186
+01:15:16,490 --> 01:15:19,070
+<font size="20">Uh, xin lỗi. Tôi không cố ý.</font>
+
+1187
+01:15:22,280 --> 01:15:27,000
+<font size="20">Này sếp, đến giờ lên đường rồi.</font>
+
+1188
+01:15:28,210 --> 01:15:36,380
+<font size="20">Yeah, tôi muốn... cảm ơn mọi người
+về khóa huấn luyện.</font>
+
+1189
+01:15:37,720 --> 01:15:39,800
+<font size="20">Chúng tôi nên đến Florida.</font>
+
+1190
+01:15:49,810 --> 01:15:51,900
+<font size="20">Chào mừng đến với ngày tuyệt nhất của giải đua.</font>
+
+1191
+01:15:52,270 --> 01:15:54,860
+<font size="20">Chúng tôi đang ở phía biển
+của xa lộ quốc tế Florida</font>
+
+1192
+01:15:55,230 --> 01:15:57,400
+<font size="20">để khởi đầu mùa giải mới của Piston Cup.</font>
+
+1193
+01:15:57,780 --> 01:15:59,200
+<font size="20">Đó là giải Florida 500.</font>
+
+1194
+01:15:59,570 --> 01:16:01,070
+<font size="20">43 xe và 1/4 triệu người hâm mộ</font>
+
+1195
+01:16:01,410 --> 01:16:03,620
+<font size="20">chờ đợi màn so tài căng thẳng của
+chiến thuật, kỹ năng</font>
+
+1196
+01:16:03,950 --> 01:16:07,910
+<font size="20">nhưng trên hết là tốc độ. Đám đông đang chờ đợi
+một ngày đua tuyệt vời</font>
+
+1197
+01:16:08,250 --> 01:16:12,000
+<font size="20">Tôi là Bob Cutlass, cạnh tôi như mọi khi
+là cộng sự phát thanh Darrell Cartrip</font>
+
+1198
+01:16:12,330 --> 01:16:14,460
+<font size="20">và chuyên gia thống kê Natalie Certain.</font>
+
+1199
+01:16:14,840 --> 01:16:17,170
+<font size="20">Tôi chưa từng thấy thông số
+ủng hộ Storm nhiều như ngày hôm nay, Bob ạ.</font>
+
+1200
+01:16:17,510 --> 01:16:21,260
+<font size="20">Storm có tới 96,8% khả năng thắng.</font>
+
+1201
+01:16:21,590 --> 01:16:22,800
+<font size="20">Đừng bỏ qua McQueen Tia chớp.</font>
+
+1202
+01:16:23,180 --> 01:16:25,260
+<font size="20">Whipple Filter!</font>
+
+1203
+01:16:25,930 --> 01:16:29,520
+<font size="20">Chúng ta đã nghe về cách huấn luyện
+bất thường của McQueen để tới đây.</font>
+
+1204
+01:16:29,890 --> 01:16:32,600
+<font size="20">Câu hỏi lúc này là nó có tác dụng không?</font>
+
+1205
+01:16:40,820 --> 01:16:47,120
+<font size="20">Tốc độ. Mình là... tốc độ.</font>
+
+1206
+01:16:51,620 --> 01:16:55,630
+<font size="20">Này sếp, họ đang gọi
+các tay đua vào vị trí kìa.</font>
+
+1207
+01:16:58,420 --> 01:17:00,420
+<font size="20">Jeff Gorvette,
+tương quan lực lượng hôm nay thế nào?</font>
+
+1208
+01:17:00,760 --> 01:17:02,970
+<font size="20">Oh, tôi nghĩ hôm nay bọn tôi sẽ tận hưởng
+đám đua xe này.</font>
+
+1209
+01:17:03,300 --> 01:17:08,270
+<font size="20">- Hey McQueen, thắng một vòng dùm đội nhà với nhé...
+- Được thôi, Jeff...</font>
+
+1210
+01:17:09,560 --> 01:17:10,770
+<font size="20">Chào mấy anh bạn.</font>
+
+1211
+01:17:11,100 --> 01:17:12,890
+<font size="20">- Đề can.
+- Chào Sal.</font>
+
+1212
+01:17:13,230 --> 01:17:15,440
+<font size="20">- Anh ổn chứ?
+- yeah yeah...</font>
+
+1213
+01:17:15,810 --> 01:17:16,980
+<font size="20">Hoàn toàn ổn.</font>
+
+1214
+01:17:18,110 --> 01:17:21,990
+<font size="20">Nghe này, hôm nay anh sẽ làm tốt mà.
+Và cho dù xảy ra chuyện gì</font>
+
+1215
+01:17:22,360 --> 01:17:25,160
+<font size="20">em sẽ chuyển sang tân binh kế tiếp
+và quên là từng quen anh.</font>
+
+1216
+01:17:26,830 --> 01:17:28,740
+<font size="20">Anh mừng là em tới.</font>
+
+1217
+01:17:29,330 --> 01:17:32,710
+<font size="20">Wow, đồ đẹp đó, lại đây chụp hình cái nào.</font>
+
+1218
+01:17:33,040 --> 01:17:35,710
+<font size="20">Thật tuyệt vời khi gặp
+người hâm mộ số một của mình.</font>
+
+1219
+01:17:36,040 --> 01:17:36,840
+<font size="20">Đúng là đồ khốn mà!</font>
+
+1220
+01:17:37,210 --> 01:17:39,960
+<font size="20">- Cô ấy không phải là người hâm mộ, Storm.
+- Oh, chào nhà vô địch.</font>
+
+1221
+01:17:40,340 --> 01:17:43,180
+<font size="20">Nghe nói anh đi bán chắn bùn sau hôm nay mà?
+Đúng không đó?</font>
+
+1222
+01:17:43,550 --> 01:17:46,550
+<font size="20">Nhớ bán cho tôi cái đầu tiên nhé!
+Được chứ?</font>
+
+1223
+01:17:58,860 --> 01:18:01,570
+<font size="20">Tia chớp! McQueen Tia chớp!</font>
+
+1224
+01:18:02,190 --> 01:18:05,410
+<font size="20">- Này Tia chớp!
+- Chào ông, Sterling!</font>
+
+1225
+01:18:05,740 --> 01:18:10,450
+<font size="20">- Hướng tới tương lai nhé, quán quân?
+- Phải, hướng tới tương lai.</font>
+
+1226
+01:18:10,790 --> 01:18:14,540
+<font size="20">Này... hãy tập trung vào việc
+cậu đến đây để làm gì, nhóc.</font>
+
+1227
+01:18:14,960 --> 01:18:19,960
+<font size="20">- Cảm ơn, Smokey.
+- Giờ làm Hud tự hào đi.
+- Sẽ như ý ông.</font>
+
+1228
+01:18:31,100 --> 01:18:34,640
+<font size="20">McQueen Tia chớp đang đua khá ổn
+trong phần đầu cuộc đua này.</font>
+
+1229
+01:18:35,020 --> 01:18:38,230
+<font size="20">Chà, vẫn chưa đủ để bắt kịp Storm,
+với việc khởi đầu hàng cuối.</font>
+
+1230
+01:18:38,560 --> 01:18:40,690
+<font size="20">Tôi không nghĩ anh ấy đang đua tệ đâu.</font>
+
+1231
+01:18:49,200 --> 01:18:52,990
+<font size="20">Không tệ lắm!
+Tiếp tục như vậy cậu sẽ vào được tốp 10.</font>
+
+1232
+01:18:53,330 --> 01:18:54,960
+<font size="20">Tốp 10 thì nói làm gì, Smokey.</font>
+
+1233
+01:18:55,330 --> 01:18:56,830
+<font size="20">Tôi phải vượt qua hết bọn họ.</font>
+
+1234
+01:18:57,170 --> 01:18:59,130
+<font size="20">Hãy nhớ bài huấn luyện của cậu.</font>
+
+1235
+01:18:59,460 --> 01:19:00,960
+<font size="20">Tìm Storm và vượt qua cậu ta.</font>
+
+1236
+01:19:01,290 --> 01:19:03,210
+<font size="20">Oh, bảo anh ta có ba vòng để bắt kịp tôi.</font>
+
+1237
+01:19:03,550 --> 01:19:05,510
+<font size="20">Cruz nói cậu có ba vòng để bắt kịp cô bé.</font>
+
+1238
+01:19:05,840 --> 01:19:08,180
+<font size="20">Okay. Nói với cô ấy là tôi cảm ơn.</font>
+
+1239
+01:19:14,310 --> 01:19:15,560
+<font size="20">Cruz, cô làm gì ở đây vậy?</font>
+
+1240
+01:19:15,930 --> 01:19:17,520
+<font size="20">Oh, ông Sterling tôi chỉ...</font>
+
+1241
+01:19:17,850 --> 01:19:19,100
+<font size="20">Tôi muốn cô về Trung tâm Huấn luyện ngay,</font>
+
+1242
+01:19:19,480 --> 01:19:23,820
+<font size="20">- Oh! nhưng tại sao?
+- Tôi cần cô giúp Kurt tăng tốc độ
+cho cuộc đua tuần tới.</font>
+
+1243
+01:19:24,150 --> 01:19:27,740
+<font size="20">Khoan, không phải Kurt, cái con bọ đó,
+là đứa kia Ronald... phải.</font>
+
+1244
+01:19:28,110 --> 01:19:31,070
+<font size="20">- Nhưng tôi muốn ở lại xem.
+- Không có chuyện đó đâu, Cruz.</font>
+
+1245
+01:19:31,410 --> 01:19:33,740
+<font size="20">- Giờ đi đi.
+- Nhưng anh McQueen vẫn còn cơ hội.</font>
+
+1246
+01:19:34,080 --> 01:19:35,950
+<font size="20">Cứ làm việc của cô đi.</font>
+
+1247
+01:19:36,830 --> 01:19:37,620
+<font size="20">Rõ, thưa sếp.</font>
+
+1248
+01:19:37,960 --> 01:19:40,080
+<font size="20">Và hãy tháo càng xe cùng lốp đua ra đi.</font>
+
+1249
+01:19:40,460 --> 01:19:41,130
+<font size="20">Nhìn cô thật lố bịch.</font>
+
+1250
+01:19:41,500 --> 01:19:45,510
+<font size="20">Cô là huấn luyện viên, nhớ không?
+Không phải xe đua! Không phải xe đua!</font>
+
+1251
+01:19:46,880 --> 01:19:50,550
+<font size="20">Nếu cô là xe đua, cô sẽ biết tôi nói gì,
+nhưng cô không phải.</font>
+
+1252
+01:19:50,890 --> 01:19:52,300
+<font size="20">Nên cô không hiểu.</font>
+
+1253
+01:19:55,810 --> 01:19:59,100
+<font size="20">Không, không, không, không phải xe đua,
+cô ấy là huấn luyện viên.</font>
+
+1254
+01:20:06,570 --> 01:20:12,490
+<font size="20">Tôi muốn trở thành một tay đua thật giỏi
+cũng tại vì anh!</font>
+
+1255
+01:20:14,530 --> 01:20:21,420
+<font size="20">Đó là cơ hội duy nhất của tôi
+và tôi không nắm lấy.</font>
+
+1256
+01:20:25,670 --> 01:20:29,130
+<font size="20">Khúc cua thứ hai! Có đụng xe!
+Giữ lấy! Giữ lấy!</font>
+
+1257
+01:20:42,400 --> 01:20:43,610
+<font size="20">Nhóc, cậu không sao chứ?</font>
+
+1258
+01:20:43,980 --> 01:20:46,110
+<font size="20">- Smokey, tôi cần Cruz.
+- Giờ đừng nghĩ đến chuyện đó.</font>
+
+1259
+01:20:46,480 --> 01:20:49,490
+<font size="20">Không, tôi cần cô ấy quay lại đây ngay.</font>
+
+1260
+01:20:49,860 --> 01:20:52,160
+<font size="20">Cờ vàng vẫn còn đó, thưa quý vị...</font>
+
+1261
+01:20:53,030 --> 01:20:56,030
+<font size="20">Hamilton đây,
+Chester Whipple Filter đang gọi.</font>
+
+1262
+01:20:56,410 --> 01:20:58,330
+<font size="20">Chester! Anh McQueen!</font>
+
+1263
+01:20:58,700 --> 01:21:02,670
+<font size="20">Đèn xanh đã bật, trạm bảo dưỡng mở rồi
+và mọi người đang ùa vào trong.</font>
+
+1264
+01:21:03,000 --> 01:21:06,040
+<font size="20">Sẵn sàng đi các anh Luigi, Guido lốp,
+Fillmore xăng!</font>
+
+1265
+01:21:06,420 --> 01:21:08,340
+<font size="20">Được rồi, tôi đây, có chuyện gì vậy?</font>
+
+1266
+01:21:09,460 --> 01:21:13,680
+<font size="20">- Không, không phải tôi... cô ấy!
+- Cô ta làm gì ở đây?</font>
+
+1267
+01:21:14,050 --> 01:21:17,470
+<font size="20">- Nào các anh, chuẩn bị cho cô ấy đi.
+- Okay, khoan! Có chuyện gì?</font>
+
+1268
+01:21:17,810 --> 01:21:20,890
+<font size="20">- Này Ramone, còn sơn đó không?
+- Anh biết còn mà.</font>
+
+1269
+01:21:21,270 --> 01:21:23,140
+<font size="20">Khoan, mọi người. Làm gì vậy?</font>
+
+1270
+01:21:23,480 --> 01:21:24,350
+<font size="20">Trời. Tôi không hiểu nổi.</font>
+
+1271
+01:21:24,690 --> 01:21:27,070
+<font size="20">McQueen vẫn còn đứng đó.
+Có gì nhầm lẫn rồi.</font>
+
+1272
+01:21:27,400 --> 01:21:30,240
+<font size="20">Anh McQueen! Hôm nay là ngày của cô, Cruz
+Cô có cơ hội rồi đấy.</font>
+
+1273
+01:21:30,610 --> 01:21:31,190
+<font size="20">Gì cơ?</font>
+
+1274
+01:21:31,490 --> 01:21:33,860
+<font size="20">Tôi sẽ đua mở đầu và cô kết thúc.</font>
+
+1275
+01:21:34,240 --> 01:21:37,740
+<font size="20">Sao? Cô ta sẽ phá hỏng thương hiệu.
+Cô ta chỉ là huấn luyện viên.</font>
+
+1276
+01:21:38,080 --> 01:21:41,160
+<font size="20">Không, cô ấy là xe đua,
+tôi phải mất ít lâu mới nhận ra.</font>
+
+1277
+01:21:41,500 --> 01:21:44,790
+<font size="20">Vậy là không hợp pháp. Luật chỉ nói rằng
+số xe phải ra ngoài đó đua.</font>
+
+1278
+01:21:45,130 --> 01:21:47,130
+<font size="20">- Không nói ai phải mang số đó.
+- Không, cậu không thể làm vậy.</font>
+
+1279
+01:21:47,500 --> 01:21:50,590
+<font size="20">Này, tôi nói mê chắn bùn của ông chưa?</font>
+
+1280
+01:21:50,960 --> 01:21:51,550
+<font size="20">Tránh đường cho tôi, đồ ngu.</font>
+
+1281
+01:21:51,760 --> 01:21:56,180
+<font size="20">Mình đã có bệ câu cá, đã có bệ thờ,
+bệ ra ngoài và bệ ăn nữa.</font>
+
+1282
+01:21:58,560 --> 01:22:01,180
+<font size="20">Mau lên các anh,
+phải đưa cô ấy ra ngoài đó, đi nào.</font>
+
+1283
+01:22:01,520 --> 01:22:03,600
+<font size="20">Kiểm tra xăng! Kiểm tra! Ramone!</font>
+
+1284
+01:22:03,940 --> 01:22:06,400
+<font size="20">Làm hết sức trong thời gian cho phép rồi đó, sếp.</font>
+
+1285
+01:22:06,730 --> 01:22:09,320
+<font size="20">Rồi, được đấy.</font>
+
+1286
+01:22:09,650 --> 01:22:13,860
+<font size="20">Tại sao anh làm chuyện này? Chính anh đã nói
+đây có lẽ là cơ hội cuối của anh mà.</font>
+
+1287
+01:22:14,200 --> 01:22:18,950
+<font size="20">Cũng là cơ hội cuối tôi có
+để cho cô cơ hội đầu, Cruz.</font>
+
+1288
+01:22:19,450 --> 01:22:21,450
+<font size="20">Và lần này tôi muốn cô nắm lấy.</font>
+
+1289
+01:22:23,540 --> 01:22:25,580
+<font size="20">Cô ấy phải đánh bại xe dẫn đầu.</font>
+
+1290
+01:22:26,250 --> 01:22:27,830
+<font size="20">Không, không, không thể làm vậy.</font>
+
+1291
+01:22:28,170 --> 01:22:31,500
+<font size="20">Bây giờ hoặc không bao giờ.</font>
+
+1292
+01:22:35,130 --> 01:22:37,720
+<font size="20">- Tốc độ qua trạm 25 dặm/giờ.
+- Tôi biết mà.</font>
+
+1293
+01:22:45,060 --> 01:22:48,440
+<font size="20">Đội McQueen Tia chớp vừa cho ra
+một xe khác thay thế xe số 95.</font>
+
+1294
+01:22:48,770 --> 01:22:49,980
+<font size="20">Không thể tin nổi điều tôi đang thấy.</font>
+
+1295
+01:22:50,320 --> 01:22:53,400
+<font size="20">- Cậu cũng thấy, đúng không?
+- Gì cơ, cô nàng mặc đồ hóa trang.</font>
+
+1296
+01:22:53,860 --> 01:22:56,450
+<font size="20">Đùa tôi à, anh ta cho cô vào đua sao?</font>
+
+1297
+01:23:06,210 --> 01:23:09,210
+<font size="20">Cờ xanh đã phất lên và chúng ta lại đua tiếp.</font>
+
+1298
+01:23:13,130 --> 01:23:16,010
+<font size="20">Cruz, cô đang làm gì vậy?
+Mau lên, chớp lấy đi.</font>
+
+1299
+01:23:16,380 --> 01:23:17,680
+<font size="20">Cố phải chạy nhanh lên, OK.</font>
+
+1300
+01:23:18,050 --> 01:23:21,720
+<font size="20">Gọi cô ấy Francis Beltline và nói là
+xe buýt chết chóc đang đuổi theo cô ấy.</font>
+
+1301
+01:23:22,060 --> 01:23:24,430
+<font size="20">- Gì cơ? Không?
+- Tin tôi đi.</font>
+
+1302
+01:23:26,230 --> 01:23:30,860
+<font size="20">Francis Beltline, cái xe buýt chết chóc
+đang đuổi theo cô kìa.</font>
+
+1303
+01:23:31,480 --> 01:23:36,820
+<font size="20">- Oh..., được rồi.
+- Được rồi, khác hẳn luôn rồi.</font>
+
+1304
+01:23:37,780 --> 01:23:41,030
+<font size="20">Cruz, nhìn cô căng thẳng quá rồi,
+thôi nào, thả lỏng ra!</font>
+
+1305
+01:23:41,370 --> 01:23:42,330
+<font size="20">Nói rằng cô ấy là một đám mây bông.</font>
+
+1306
+01:23:42,660 --> 01:23:44,990
+<font size="20">Gì cơ? Không. Smokey nói đi.</font>
+
+1307
+01:23:45,830 --> 01:23:52,880
+<font size="20">- Cruz, cô là một đám mây bông.
+- Oh, đúng... quá căng rồi.</font>
+
+1308
+01:23:53,460 --> 01:23:56,130
+<font size="20">Mình là một đám mây bông!
+Mình là một đám mây bông!</font>
+
+1309
+01:23:59,970 --> 01:24:02,800
+<font size="20">Dự đoán trước khúc cua.
+Cruz, tập trung vào đường đua đi.</font>
+
+1310
+01:24:03,140 --> 01:24:04,260
+<font size="20">Không, không, không, khoan, khoan, khoan!</font>
+
+1311
+01:24:04,640 --> 01:24:08,520
+<font size="20">Bảo cô ấy là đang trên bãi biển
+và lũ cua bé xíu đã đi ngủ hết rồi.</font>
+
+1312
+01:24:09,520 --> 01:24:12,360
+<font size="20">Không, tôi không nói vậy đâu.
+Cậu đi mà nói.</font>
+
+1313
+01:24:13,900 --> 01:24:16,360
+<font size="20">Được rồi, Cruz, bờ biển,
+tôi cần cô nghĩ tới bờ biển.</font>
+
+1314
+01:24:16,690 --> 01:24:19,820
+<font size="20">- Anh McQueen!
+- Phải, phải, tôi đây, hãy nhớ chuyện bờ biển.</font>
+
+1315
+01:24:20,360 --> 01:24:22,780
+<font size="20">Oh, chọn một đường! Theo nó! Tôi hiểu rồi.</font>
+
+1316
+01:24:25,290 --> 01:24:28,870
+<font size="20">- Được rồi, không tệ lắm.
+- Vụ này không hề giống máy mô phỏng.</font>
+
+1317
+01:24:29,210 --> 01:24:32,080
+<font size="20">Cô đã có mọi thứ cô cần, giờ hãy nhớ Thomasville.</font>
+
+1318
+01:24:32,460 --> 01:24:34,340
+<font size="20">- Thomasville?
+- Phải, lẻn qua ô cửa hẹp.</font>
+
+1319
+01:24:34,670 --> 01:24:38,380
+<font size="20">- Giờ tôi đã hiểu rồi.
+- Lẻn qua ô cửa hẹp.</font>
+
+1320
+01:24:56,360 --> 01:25:00,320
+<font size="20">Tôi vừa được biết rằng tay đua vào thay
+McQueen là Cruz Ramirez.</font>
+
+1321
+01:25:00,700 --> 01:25:01,990
+<font size="20">Đây là lần đầu cô ấy đua.</font>
+
+1322
+01:25:02,320 --> 01:25:05,870
+<font size="20">Thực ra, Darrell, ở đây nói cô ấy
+đã từng chiến thắng một lần rồi</font>
+
+1323
+01:25:06,240 --> 01:25:11,750
+<font size="20">- ở một nơi gọi là Thunder Hollow
+- Thunder Hollow! Thunder Hollow!</font>
+
+1324
+01:25:13,710 --> 01:25:15,880
+<font size="20">Cố đi trên nửa làn thôi. Nửa làn thôi.</font>
+
+1325
+01:25:16,420 --> 01:25:18,880
+<font size="20">- Biết rồi.
+- Được rồi, nhìn cái xe đó nhé.</font>
+
+1326
+01:25:19,210 --> 01:25:20,510
+<font size="20">Xuống thấp! Xuống thấp!</font>
+
+1327
+01:25:20,840 --> 01:25:23,430
+<font size="20">Giỏi lắm, cô đang cho họ hít khói.</font>
+
+1328
+01:25:23,800 --> 01:25:25,680
+<font size="20">Giờ để ý sỏi dưới lốp ở khúc cua thứ ba.</font>
+
+1329
+01:25:26,050 --> 01:25:28,770
+<font size="20">- Giữ lốp cho sạch nhé.
+- Okay.
+- Sắp có va chạm ở phía trong.</font>
+
+1330
+01:25:29,140 --> 01:25:31,890
+<font size="20">- Cẩn thận không là thăng đấy.
+- Giờ à?
+- Phải, giờ đấy.</font>
+
+1331
+01:25:32,310 --> 01:25:36,190
+<font size="20">Coi chừng chỗ sát tường, chỗ đó hơi trơn.
+Coi chừng! Coi chừng! Coi chừng!</font>
+
+1332
+01:25:37,270 --> 01:25:42,860
+<font size="20">- Cô tông trúng tường rồi. Cô tông trúng tường rồi.
+- Haha, hơi hăng máu thôi mà.</font>
+
+1333
+01:25:45,740 --> 01:25:49,290
+<font size="20">- Tôi muốn vào trạm bảo dưỡng,
+kiểm tra biến thiên động cơ.
+- Okay.</font>
+
+1334
+01:25:49,620 --> 01:25:52,250
+<font size="20">- Đừng có nhấn ga nữa, phanh lại đi, phanh lại đi.
+- 2000</font>
+
+1335
+01:25:52,580 --> 01:25:55,250
+<font size="20">- Oh, ở sau này.
+- Xin lỗi.</font>
+
+1336
+01:25:55,630 --> 01:25:59,460
+<font size="20">Được rồi, hạ bọn họ từng người một.
+Chạy đi, chạy đi.</font>
+
+1337
+01:26:01,300 --> 01:26:03,550
+<font size="20">Đứng rồi! Đẹp và thẳng tiến.</font>
+
+1338
+01:26:06,220 --> 01:26:09,970
+<font size="20">Chạy đi! Chạy đi!
+Smokey, ông thấy không?</font>
+
+1339
+01:26:14,140 --> 01:26:16,650
+<font size="20">Chỉ muốn báo cho cậu biết
+Ramirez đang tiến tới cỗ cậu đó.</font>
+
+1340
+01:26:17,020 --> 01:26:20,320
+<font size="20">- Sao tôi phải quan tâm.
+- Vì giờ cô ấy đã vào tốp 10 rồi.</font>
+
+1341
+01:26:23,530 --> 01:26:26,280
+<font size="20">Được rồi, giờ cô đang áp sát những xe dẫn đầu.</font>
+
+1342
+01:26:32,750 --> 01:26:35,710
+<font size="20">- Ramirez lên hạng bốn.
+- Bốn à? Huh...</font>
+
+1343
+01:26:39,040 --> 01:26:40,670
+<font size="20">Oo hoo. Làm tới đi...</font>
+
+1344
+01:26:42,920 --> 01:26:45,170
+<font size="20">Ramirez lên hạng ba.</font>
+
+1345
+01:26:52,850 --> 01:26:55,060
+<font size="20">Cậu đang làm gì vậy, Storm?</font>
+
+1346
+01:26:55,440 --> 01:26:57,770
+<font size="20">Này, cô em hóa trang.</font>
+
+1347
+01:26:58,100 --> 01:27:00,570
+<font size="20">Lúc đầu tôi tưởng cô ra ngoài này
+vị bộ định vị của cô bị hư.</font>
+
+1348
+01:27:00,900 --> 01:27:01,860
+<font size="20">Đừng nghe hắn, Cruz.</font>
+
+1349
+01:27:02,230 --> 01:27:04,610
+<font size="20">Trông cô được đó,
+nhìn nhận đúng đắn là rất quan trọng.</font>
+
+1350
+01:27:04,940 --> 01:27:07,780
+<font size="20">Không để mọi người nghĩ là cô
+không xứng đáng được ở đây.</font>
+
+1351
+01:27:08,160 --> 01:27:09,070
+<font size="20">Hắn đang cố chi phối cô đó.</font>
+
+1352
+01:27:09,450 --> 01:27:12,200
+<font size="20">Họ không cần phải biết tôi với cô đã làm gì.</font>
+
+1353
+01:27:12,580 --> 01:27:18,250
+<font size="20">Rằng cô có thể sơn màu gì tùy thích
+nhưng cô không thuộc về nơi này.</font>
+
+1354
+01:27:25,670 --> 01:27:27,180
+<font size="20">Cruz, cô có thấy chuyện vừa rồi không?</font>
+
+1355
+01:27:27,550 --> 01:27:30,850
+<font size="20">- Yeah, hắn đã chi phối tôi.
+- Không, không.</font>
+
+1356
+01:27:31,220 --> 01:27:34,350
+<font size="20">Nghe tôi nói này! Cô đã chi phối hắn,
+cô không hiểu sao?</font>
+
+1357
+01:27:34,720 --> 01:27:38,310
+<font size="20">Hắn không bao giờ làm vậy nếu hắn không sợ cô.</font>
+
+1358
+01:27:38,730 --> 01:27:42,860
+<font size="20">- Gì cơ?
+- Hắn thấy gì đó trong cô mà cô còn không thấy được</font>
+
+1359
+01:27:43,270 --> 01:27:47,740
+<font size="20">Cô đã khiến tôi tin tưởng,
+giờ cô cũng phải tin nữa.</font>
+
+1360
+01:27:48,490 --> 01:27:52,950
+<font size="20">Cô là một tay đua! Dùng cái đó đi!</font>
+
+1361
+01:28:03,130 --> 01:28:06,260
+<font size="20">- Giờ cô ta cách bao xa?
+- Nhìn ra sau đi!</font>
+
+1362
+01:28:06,590 --> 01:28:10,510
+<font size="20">- Sao!
+- Chào buổi tối Storm! Chỉ lùi lại né gió
+sau lưng anh thôi.</font>
+
+1363
+01:28:10,890 --> 01:28:15,560
+<font size="20">Không có gì phải quan tâm.
+Như hai con bọ trong đêm mùa hè.</font>
+
+1364
+01:28:18,730 --> 01:28:20,520
+<font size="20">- Này, Hamilton!
+- Hamilton có mặt!</font>
+
+1365
+01:28:20,850 --> 01:28:25,270
+<font size="20">- Đo tốc độ của ta đi.
+- 208 dặm/giờ, 207 dặm/giờ.</font>
+
+1366
+01:28:25,650 --> 01:28:30,360
+<font size="20">- Thôi đi nhé! Cô đang đẩy tôi ra khỏi đường đi!
+- Vòng cuối, cố lên Cruz.</font>
+
+1367
+01:28:32,950 --> 01:28:35,700
+<font size="20">Bộ định vị của tôi nói là có chỗ ùn tắc
+trên đường đi.</font>
+
+1368
+01:28:36,040 --> 01:28:38,080
+<font size="20">Không, không, không.
+Cô không thắng được đâu!</font>
+
+1369
+01:28:38,410 --> 01:28:41,830
+<font size="20">- Anh giận kìa!
+- Ta không giận!</font>
+
+1370
+01:28:42,210 --> 01:28:45,750
+<font size="20">- Thật ra anh có thể dùng cơn giận để tự thúc đẩy.
+- Đã nói là tôi không giận.</font>
+
+1371
+01:28:46,750 --> 01:28:47,960
+<font size="20">Tôi không nghĩ vậy.</font>
+
+1372
+01:28:53,590 --> 01:28:57,720
+<font size="20">Cruz, ra khỏi đó đi!
+Cô không thuộc đường đua này.</font>
+
+1373
+01:28:59,230 --> 01:29:01,810
+<font size="20">Có chứ.</font>
+
+1374
+01:29:13,570 --> 01:29:15,990
+<font size="20">Thật không thể tin nổi!
+Cruz Ramirez đã thắng</font>
+
+1375
+01:29:16,330 --> 01:29:17,990
+<font size="20">Tôi cạn lời rồi.</font>
+
+1376
+01:29:23,580 --> 01:29:24,710
+<font size="20">Cruz Ramirez.</font>
+
+1377
+01:29:25,670 --> 01:29:27,340
+<font size="20">Cô giỏi lắm, Cruz</font>
+
+1378
+01:29:35,680 --> 01:29:38,350
+<font size="20">Trời ạ, một chiến thắng không ngờ!</font>
+
+1379
+01:29:39,020 --> 01:29:42,390
+<font size="20">Phải, một chiến thắng không ngờ!</font>
+
+1380
+01:29:45,980 --> 01:29:48,650
+<font size="20">- Này Cruz, cô chạy như bay vậy!
+- Cảm ơn.</font>
+
+1381
+01:29:48,980 --> 01:29:51,190
+<font size="20">- Hôm nay cô thực sự bùng nổ.
+- Cảm ơn</font>
+
+1382
+01:29:51,530 --> 01:29:57,660
+<font size="20">- Này Cruz, xi nhan bật kìa.
+- Thật sao? Ôi anh lừa tôi! Vui lắm.</font>
+
+1383
+01:30:09,630 --> 01:30:14,380
+<font size="20">Cô lên đi... Cho họ ngửi khói đi.</font>
+
+1384
+01:30:28,020 --> 01:30:29,570
+<font size="20">Cô sẽ quen thôi mà.</font>
+
+1385
+01:30:30,190 --> 01:30:31,980
+<font size="20">Tránh đường cho tôi! Tránh ra!</font>
+
+1386
+01:30:32,360 --> 01:30:36,990
+<font size="20">Cruz, tôi biết cô có tài mà,
+giờ nhìn cô kìa.</font>
+
+1387
+01:30:37,320 --> 01:30:41,160
+<font size="20">Người thắng cuộc. Tôi sẽ thuê cô
+làm tay đua trong đội tôi. Chúng ta sẽ...</font>
+
+1388
+01:30:41,540 --> 01:30:47,120
+<font size="20">Xin lỗi ông Sterling, tôi sẽ không bao giờ
+đua cho ông đâu. tôi xin nghỉ.</font>
+
+1389
+01:30:47,540 --> 01:30:48,880
+<font size="20">Vậy đua cho tôi nhé.</font>
+
+1390
+01:30:49,210 --> 01:30:53,840
+<font size="20">- Tex.
+- Cô Cruz, tôi sẽ rất thích thú
+nếu có cô đua trong đội Dinoco.</font>
+
+1391
+01:30:54,170 --> 01:30:57,050
+<font size="20">Như cô biết, chúng tôi có lịch sử
+với nhiều tay đua kiệt xuất</font>
+
+1392
+01:30:57,430 --> 01:31:00,390
+<font size="20">- ngoại trừ Cal
+- Mấy anh, tôi còn ở đây nhé.</font>
+
+1393
+01:31:00,760 --> 01:31:03,890
+<font size="20">Đội Dinoco, Cruz! Thuê cô ta đi.
+Tôi không quan tâm.</font>
+
+1394
+01:31:04,230 --> 01:31:07,730
+<font size="20">Tia chớp, giờ cậu đã nghỉ hưu,
+tôi cần cậu chụp hình</font>
+
+1395
+01:31:08,100 --> 01:31:09,150
+<font size="20">ngay sáng sớm thứ hai cho tôi.</font>
+
+1396
+01:31:09,520 --> 01:31:10,980
+<font size="20">Được rồi, ông Sterling.</font>
+
+1397
+01:31:11,320 --> 01:31:13,320
+<font size="20">Oh, khoan đã nào.</font>
+
+1398
+01:31:16,400 --> 01:31:18,530
+<font size="20">Cái gì? Sao tên tôi lại trên đó?</font>
+
+1399
+01:31:18,860 --> 01:31:20,570
+<font size="20">Cậu đua mở đầu mà, luật là vậy đó.</font>
+
+1400
+01:31:20,950 --> 01:31:22,410
+<font size="20">Khoan! Bây giờ chờ chút, không!</font>
+
+1401
+01:31:22,740 --> 01:31:26,540
+<font size="20">McQueen Tia chớp thắng, anh ấy quyết định
+khi nào nghỉ đua,</font>
+
+1402
+01:31:26,910 --> 01:31:31,090
+<font size="20">thỏa thuận là vậy.
+Ông không phải người tốt.</font>
+
+1403
+01:31:31,460 --> 01:31:36,340
+<font size="20">Mặc dù tôi phải nói là ông tạo ra
+thứ chắn bùn quá tốt với mức giá dễ chịu.</font>
+
+1404
+01:31:37,220 --> 01:31:40,550
+<font size="20">Này Sterling, sao ông và tôi không lái một vòng
+và nói chuyện nhỉ?</font>
+
+1405
+01:31:40,890 --> 01:31:42,680
+<font size="20">Giữa những tỷ phú với nhau.</font>
+
+1406
+01:31:55,440 --> 01:31:58,740
+<font size="20">Lũ trẻ bây giờ rất giỏi, Doc nhỉ?</font>
+
+1407
+01:32:00,610 --> 01:32:02,700
+<font size="20">Cô ấy có thầy dạy giỏi mà.</font>
+
+1408
+01:32:03,030 --> 01:32:07,290
+<font size="20">Và giờ anh được quyết định
+lúc nào thì nghỉ đua.</font>
+
+1409
+01:32:07,620 --> 01:32:10,460
+<font size="20">Vậy anh dự định thế nào đây?
+Hôi hám, Đề can?</font>
+
+1410
+01:32:12,460 --> 01:32:18,420
+<font size="20">Anh sẽ đua tiếp chứ, nhưng trước đó
+anh muốn làm việc này.</font>
+
+1411
+01:32:25,100 --> 01:32:27,850
+<font size="20">Chào mừng đến vị trí Willy's Butte lịch sử</font>
+
+1412
+01:32:28,180 --> 01:32:31,520
+<font size="20">cho triển lãm tốc độ tuyệt vời hôm nay.</font>
+
+1413
+01:32:34,900 --> 01:32:38,280
+<font size="20">Cảm ơn mấy đứa. Quần đẹp đó nhóc.</font>
+
+1414
+01:32:38,650 --> 01:32:41,820
+<font size="20">Hey hey, cho qua với.
+Làm tới đi 51!</font>
+
+1415
+01:32:42,620 --> 01:32:45,530
+<font size="20">Số đẹp đó, là ý của McQueen.</font>
+
+1416
+01:32:45,910 --> 01:32:48,000
+<font size="20">Cậu ta nghĩ Hud sẽ muốn cố giữ nó.</font>
+
+1417
+01:32:48,330 --> 01:32:51,710
+<font size="20">- Tôi thích lắm.
+- Oh, thật hoàn hảo, phong cách cổ điển.</font>
+
+1418
+01:32:52,080 --> 01:32:55,090
+<font size="20">Mới có người nói cổ điển là sao?</font>
+
+1419
+01:32:59,630 --> 01:33:01,300
+<font size="20">McQueen lừng danh.</font>
+
+1420
+01:33:01,680 --> 01:33:03,260
+<font size="20">Dành tặng Doc Hudson.</font>
+
+1421
+01:33:06,260 --> 01:33:08,680
+<font size="20">Anh phô diễn thứ gì mới, tôi thích đó.</font>
+
+1422
+01:33:09,020 --> 01:33:14,560
+<font size="20">- Wow, khéo ghê!
+- Tôi nghĩ nếu tôi là đội trưởng của cô
+thì tôi nên làm cho có phong cách.</font>
+
+1423
+01:33:14,940 --> 01:33:16,610
+<font size="20">Ông Sterling sẽ nói gì đây?</font>
+
+1424
+01:33:16,940 --> 01:33:22,110
+<font size="20">Thực ra tôi lo về việc Tex sẽ nói gì hơn,
+xét trong bối cảnh của anh ta đã mua Rusteze.</font>
+
+1425
+01:33:22,490 --> 01:33:23,490
+<font size="20">Cảm ơn Tex!</font>
+
+1426
+01:33:23,820 --> 01:33:27,830
+<font size="20">Tôi đã cho gã Sterling một đề nghị siêu khủng.</font>
+
+1427
+01:33:28,200 --> 01:33:31,960
+<font size="20">- Vậy cô đã bắt đầu luyện chưa?
+- Tôi không biết, anh sẵn sàng thua tiếp chưa?</font>
+
+1428
+01:33:32,330 --> 01:33:34,460
+<font size="20">Oh, mong cô đã có đám mây bông.</font>
+
+1429
+01:33:34,790 --> 01:33:36,210
+<font size="20">Tôi mong anh đã gắn khay hứng dầu!</font>
+
+1430
+01:33:36,590 --> 01:33:38,630
+<font size="20">Đã gắn khay hứng dầu và đã ngủ trưa xong.</font>
+
+1431
+01:33:38,960 --> 01:33:41,420
+<font size="20">- Tới thôi ông già.
+- Luigi!</font>
+
+1432
+01:33:41,760 --> 01:33:42,840
+<font size="20">Chạy!</font>
+

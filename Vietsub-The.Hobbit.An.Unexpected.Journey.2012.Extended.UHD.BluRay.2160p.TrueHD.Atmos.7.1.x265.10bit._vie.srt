@@ -1,0 +1,8146 @@
+1
+00:00:02,250 --> 00:00:12,250
+- Biên dịch: SoiNon -
+PhuDeViet.org & GameVN.com
+
+2
+00:00:54,380 --> 00:01:00,380
+<b>Người Hobbit</b>
+
+3
+00:00:54,390 --> 00:01:00,380
+{\an8}<font size="10"><font color="#ffc90d"><i>~ Chú thích sẽ được hiển thị tại đây ~</i></font></font>
+
+4
+00:01:04,980 --> 00:01:07,320
+<i>Frodo yêu quý.</i>
+
+5
+00:01:13,350 --> 00:01:16,830
+<i>Cháu từng hỏi rằng
+ta đã kể cho cháu nghe mọi thứ...</i>
+
+6
+00:01:16,990 --> 00:01:19,700
+<i>về những chuyến phiêu lưu của ta chưa.</i>
+
+7
+00:01:19,900 --> 00:01:24,050
+<i>Tuy có thể thành thật nói rằng
+ta đã kể cho cháu sự thật...</i>
+
+8
+00:01:24,750 --> 00:01:27,730
+<i>nhưng ta chưa kể tất cả ngọn ngành.</i>
+
+9
+00:01:34,750 --> 00:01:37,220
+<i>Ta đã già rồi, Frodo.</i>
+
+10
+00:01:38,560 --> 00:01:41,470
+<i>Ta không còn là chàng trai Hobbit thuở nào.</i>
+
+11
+00:01:44,650 --> 00:01:49,120
+<i>Ta nghĩ đã đến lúc để cháu biết...</i>
+
+12
+00:01:49,290 --> 00:01:52,060
+<i>những gì thực sự đã diễn ra.</i>
+
+13
+00:01:53,580 --> 00:01:56,670
+<i>Cách đây lâu lắm rồi.</i>
+
+14
+00:01:58,200 --> 00:02:01,160
+<i>Tại một vùng đất xa về phía Đông.</i>
+
+15
+00:02:01,470 --> 00:02:07,030
+<i>Cháu sẽ không tìm được một nơi như vậy
+trên thế giới ngày nay.</i>
+
+16
+00:02:16,470 --> 00:02:19,070
+<i>Tại đó tọa lạc thành phố Dale.</i>
+
+17
+00:02:19,240 --> 00:02:24,860
+<i>Thương nghiệp nơi đây
+vang tiếng bốn phương, sản vật đề huề.</i>
+
+18
+00:02:25,370 --> 00:02:28,460
+<i>Thanh bình và trù phú.</i>
+
+19
+00:02:31,220 --> 00:02:36,670
+<i>Bởi thành phố này nằm ngay ngưỡng cửa
+của vương quốc vĩ đại nhất Trung Địa:</i>
+
+20
+00:02:37,630 --> 00:02:38,730
+<i>Erebor.</i>
+
+21
+00:02:39,860 --> 00:02:44,160
+<i>Thành trì của Thrór, vị Vua dưới gầm núi.</i>
+
+22
+00:02:44,330 --> 00:02:47,560
+<i>Quyền uy nhất
+trong các chúa tể Người Lùn.</i>
+
+23
+00:02:48,120 --> 00:02:53,450
+<i>Thrór trị vì với niềm tin tuyệt đối,
+rằng dòng tộc sẽ mãi trường tồn...</i>
+
+24
+00:02:53,610 --> 00:02:57,310
+<i>bởi huyết thống của ông
+đã được kế thừa sang con trai...</i>
+
+25
+00:02:57,880 --> 00:02:59,550
+<i>và cháu trai mình.</i>
+
+26
+00:03:01,170 --> 00:03:04,240
+<i>Ây dà, Frodo. Erebor đó...</i>
+
+27
+00:03:04,440 --> 00:03:06,780
+<i>Được tạo tác sâu trong lòng núi...</i>
+
+28
+00:03:06,940 --> 00:03:10,580
+<i>vẻ đẹp của tòa thành này
+quả là huyền thoại.</i>
+
+29
+00:03:10,740 --> 00:03:16,180
+<i>Của cải của nó nằm dưới lòng đất,
+trong những viên ngọc được mài đẽo...</i>
+
+30
+00:03:16,340 --> 00:03:22,320
+<i>và những mạch vàng khổng lồ
+chảy như sông qua từng lớp đá.</i>
+
+31
+00:03:24,490 --> 00:03:27,440
+<i>Tài nghệ của Người Lùn
+thì không ai bì kịp.</i>
+
+32
+00:03:27,880 --> 00:03:30,790
+<i>Chế tác những tạo phẩm
+với vẻ đẹp tuyệt trần...</i>
+
+33
+00:03:31,370 --> 00:03:35,600
+<i>từ kim cương, lục bảo,
+hồng ngọc và lam ngọc.</i>
+
+34
+00:03:36,440 --> 00:03:40,300
+<i>Họ khai phá tới tận
+nơi sâu thẳm của bóng đêm.</i>
+
+35
+00:03:40,950 --> 00:03:43,550
+<i>Và rồi họ đã tìm ra nó.</i>
+
+36
+00:03:49,510 --> 00:03:52,480
+<i>Trái tim của ngọn núi.</i>
+
+37
+00:03:53,690 --> 00:03:55,860
+<i>Viên đá Arkenstone.</i>
+
+38
+00:03:56,530 --> 00:03:59,340
+<i>Thrór đặt tên cho nó là
+“Viên ngọc Đế vương”.</i>
+
+39
+00:03:59,540 --> 00:04:04,450
+<i>Ông ta coi đó là dấu hiệu, minh chứng
+rằng quyền trị vì của ông là thiêng liêng.</i>
+
+40
+00:04:04,910 --> 00:04:11,450
+<i>Tất cả đều phải thần phục ông.
+Ngay cả vua Tiên vĩ đại, Thranduil.</i>
+
+41
+00:04:16,640 --> 00:04:19,320
+<i>Tài sản của Người Lùn ngày càng thêm lớn...</i>
+
+42
+00:04:20,520 --> 00:04:23,670
+<i>nhưng tấm lòng thì mỗi lúc một hẹp hòi.</i>
+
+43
+00:04:26,320 --> 00:04:28,950
+<i>Không ai rõ mối rạn nứt bắt nguồn từ đâu.</i>
+
+44
+00:04:32,000 --> 00:04:34,790
+<i>Tiên tộc cho rằng Người Lùn
+đã đánh cắp của cải của họ.</i>
+
+45
+00:04:35,030 --> 00:04:37,190
+<i>Người Lùn lại kể một câu chuyện khác.</i>
+
+46
+00:04:37,330 --> 00:04:41,500
+<i>Họ nói rằng Vua Tiên
+đã không trả họ thỏa đáng.</i>
+
+47
+00:04:42,180 --> 00:04:45,690
+<i>Thật buồn, Frodo à,
+khi mối thâm giao lâu đời đổ vỡ.</i>
+
+48
+00:04:45,860 --> 00:04:48,680
+<i>Tình bằng hữu bỗng chốc tiêu tan.</i>
+
+49
+00:04:49,360 --> 00:04:50,520
+Và vì cái gì chứ?
+
+50
+00:05:00,250 --> 00:05:03,240
+<i>Khi ngày dần tàn lụi...</i>
+
+51
+00:05:03,820 --> 00:05:06,350
+<i>là lúc những đêm thâu kéo đến.</i>
+
+52
+00:05:15,600 --> 00:05:19,210
+<i>Thrór chìm đắm trong cơn say vàng
+quá đỗi mãnh liệt.</i>
+
+53
+00:05:21,440 --> 00:05:25,050
+<i>Một căn bệnh đã lớn dần trong ông.</i>
+
+54
+00:05:26,250 --> 00:05:28,920
+<i>Một căn tâm bệnh.</i>
+
+55
+00:05:31,600 --> 00:05:34,410
+<i>Và bệnh tật hoành hành nơi đâu...</i>
+
+56
+00:05:35,060 --> 00:05:38,060
+<i>tai ương sẽ theo đó.</i>
+
+57
+00:05:46,450 --> 00:05:51,830
+<i>Thứ đầu tiên họ nghe thấy tựa như
+một trận cuồng phong tràn về từ phương Bắc.</i>
+
+58
+00:05:51,990 --> 00:05:57,370
+<i>Rặng thông trên núi rền rĩ và nứt gãy
+trong cơn gió nóng khô khốc.</i>
+
+59
+00:06:01,480 --> 00:06:04,380
+Balin, rung chuông báo động.
+
+60
+00:06:06,850 --> 00:06:08,570
+Tập hợp vệ binh, ngay!
+
+61
+00:06:08,790 --> 00:06:10,120
+Đó là gì vậy?
+
+62
+00:06:10,270 --> 00:06:11,490
+Rồng.
+
+63
+00:06:12,450 --> 00:06:14,920
+Có Rồng!
+
+64
+00:06:16,860 --> 00:06:19,700
+<i>Một con Rồng lửa từ phương Bắc.</i>
+
+65
+00:06:27,140 --> 00:06:30,280
+<i>Smaug... đã tới!</i>
+
+66
+00:06:31,140 --> 00:06:39,040
+{\an8}<font size="10"><font color="#ffc90d"><i>~ Dragon : Rồng. Xuất hiện ở Kỷ thứ Nhất, nhiều khả năng do Chúa tể Hắc Ám Morgoth tạo ra.</i></font></font>
+
+67
+00:06:39,240 --> 00:06:47,040
+{\an8}<font size="10"><font color="#ffc90d"><i>Tổ tiên của Rồng là Glaurung, không có cánh nhưng có khả năng phun lửa và sử dụng thần chú.</i></font></font>
+
+68
+00:06:47,240 --> 00:06:55,140
+{\an8}<font size="10"><font color="#ffc90d"><i>Rồng là loài trường thọ. Chúng hung bạo, thông minh, xảo quyệt và có cả ngôn ngữ riêng. ~</i></font></font>
+
+69
+00:07:03,090 --> 00:07:06,500
+<i>Vô số sinh mạng
+đã bị tàn sát vô nghĩa hôm đó.</i>
+
+70
+00:07:08,420 --> 00:07:11,920
+<i>Một thành phố của người phàm
+chẳng có ý nghĩa gì đối với Smaug.</i>
+
+71
+00:07:12,200 --> 00:07:16,200
+<i>Mà nó để mắt đến một chiến lợi phẩm khác.</i>
+
+72
+00:07:20,620 --> 00:07:26,560
+<i>Bởi loài Rồng thèm khát vàng
+với một ham muốn mãnh liệt và đen tối.</i>
+
+73
+00:07:58,810 --> 00:08:00,550
+Không!
+
+74
+00:08:06,160 --> 00:08:07,360
+Đi thôi!
+
+75
+00:08:08,860 --> 00:08:11,550
+<i>Erebor... đã thất thủ.</i>
+
+76
+00:08:16,440 --> 00:08:21,620
+<i>Rồng sẽ bảo vệ của cải đoạt được
+chừng nào nó còn sống.</i>
+
+77
+00:08:30,650 --> 00:08:32,260
+Chạy mau!
+
+78
+00:08:33,440 --> 00:08:35,080
+Giúp chúng tôi!
+
+79
+00:08:47,830 --> 00:08:52,670
+<i>Thranduil sẽ không mạo hiểm tính mạng
+đồng bào mình trước cơn thịnh nộ của Rồng.</i>
+
+80
+00:08:53,510 --> 00:08:56,810
+<i>Tiên tộc đã khoanh tay đứng nhìn
+vào ngày hôm đó...</i>
+
+81
+00:08:57,460 --> 00:08:59,940
+<i>cũng như những ngày về sau.</i>
+
+82
+00:09:01,280 --> 00:09:06,920
+<i>Bị tước đoạt quê hương, Người Lùn xứ Erebor
+phải lang thang nơi hoang dã.</i>
+
+83
+00:09:07,250 --> 00:09:10,610
+<i>Một dân tộc hùng mạnh,
+bỗng chốc suy tàn.</i>
+
+84
+00:09:12,820 --> 00:09:16,390
+<i>Chàng hoàng tử trẻ
+không nề hà công việc sang hèn...</i>
+
+85
+00:09:16,550 --> 00:09:19,040
+<i>miệt mài lao động
+trong những ngôi làng của loài Người.</i>
+
+86
+00:09:19,200 --> 00:09:21,670
+<i>Nhưng đau đáu trong tim,
+chàng vẫn nhớ...</i>
+
+87
+00:09:21,840 --> 00:09:27,650
+<i>ngọn núi ngợp khói dưới ánh trăng,
+rừng cây cháy bừng như con đuốc.</i>
+
+88
+00:09:27,820 --> 00:09:34,190
+<i>Bởi chàng đã chứng kiến ngọn lửa Rồng
+xuyên qua bầu trời, và thành phố hóa tro bụi.</i>
+
+89
+00:09:35,810 --> 00:09:39,810
+<i>Chàng chưa từng tha thứ,
+và cũng chưa từng lãng quên.</i>
+
+90
+00:09:42,850 --> 00:09:45,600
+<i>Tít xa, tại một góc nhỏ khác
+của thế giới...</i>
+
+91
+00:09:46,050 --> 00:09:48,220
+<i>rồng chỉ là điều huyễn hoặc.</i>
+
+92
+00:09:48,780 --> 00:09:52,500
+<i>Một trò bùa phép của phù thủy
+trong buổi tiệc Hạ Chí.</i>
+
+93
+00:09:52,960 --> 00:09:55,270
+<i>Chẳng chút đáng sợ, như Bụi Tiên vậy.</i>
+
+94
+00:09:57,240 --> 00:09:57,960
+Bilbo!
+
+95
+00:09:58,230 --> 00:10:00,300
+<i>Thực ra, Frodo yêu quý à...</i>
+
+96
+00:10:00,830 --> 00:10:02,130
+<i>nơi đó chính là quê nhà của ta.</i>
+
+97
+00:10:02,180 --> 00:10:02,930
+Bilbo!
+
+98
+00:10:05,590 --> 00:10:07,960
+<i>Là điểm khởi đầu
+của một tình bạn lạ lùng...</i>
+
+99
+00:10:09,520 --> 00:10:11,660
+<i>đã bền chặt suốt cuộc đời ta.</i>
+
+100
+00:10:15,140 --> 00:10:17,110
+<i>Nhưng đó không phải
+là mở đầu của câu chuyện.</i>
+
+101
+00:10:17,890 --> 00:10:19,410
+<i>Với ta, nó bắt đầu...</i>
+
+102
+00:10:19,760 --> 00:10:22,100
+<i>Chà, có lẽ cháu cũng đoán được.</i>
+
+103
+00:10:23,870 --> 00:10:28,650
+<i>Trong một cái hang nhỏ,
+có một chàng Hobbit sinh sống.</i>
+
+104
+00:10:30,490 --> 00:10:35,890
+<i>Không phải loại hang bẩn thỉu nhớp nháp,
+đầy sâu bọ và tanh mùi bùn đâu.</i>
+
+105
+00:10:36,210 --> 00:10:38,310
+<i>Đây là một cái hang Hobbit.</i>
+
+106
+00:10:38,470 --> 00:10:43,170
+<i>Và điều đó nghĩa là
+có đồ ăn ngon, lò sưởi ấm...</i>
+
+107
+00:10:44,220 --> 00:10:46,720
+<i>và tất cả tiện nghi của một ngôi nhà.</i>
+
+108
+00:10:47,730 --> 00:10:55,630
+{\an8}<font size="10"><font color="#ffc90d"><i>~ Hobbit : Một giống người bé nhỏ, có nguồn gốc từ Thung lũng Anduin.</i></font></font>
+
+109
+00:10:55,830 --> 00:11:03,630
+{\an8}<font size="10"><font color="#ffc90d"><i>Tuổi thọ trung bình khoảng 100, tuy nhiên có những Hobbit sống lâu hơn rất nhiều.</i></font></font>
+
+110
+00:11:03,830 --> 00:11:11,630
+{\an8}<font size="10"><font color="#ffc90d"><i>Họ không có râu, lòng bàn chân có một lớp da cứng và mu chân được phủ một lớp lông nâu mềm.</i></font></font>
+
+111
+00:11:11,830 --> 00:11:19,730
+{\an8}<font size="10"><font color="#ffc90d"><i>Điều đó giúp họ đi lại nhẹ nhàng và không gây tiếng động. Hầu hết Hobbit không mang giày dép. ~</i></font></font>
+
+112
+00:11:21,540 --> 00:11:23,260
+Cảm ơn cháu.
+
+113
+00:11:24,110 --> 00:11:25,360
+Gì đây ạ?
+
+114
+00:11:25,620 --> 00:11:28,710
+Đồ riêng tư.
+Bỏ cái tay bẩn của cháu ra.
+
+115
+00:11:30,140 --> 00:11:32,140
+Thứ này chưa sẵn sàng.
+
+116
+00:11:32,400 --> 00:11:34,170
+Chưa sẵn sàng làm gì ạ?
+
+117
+00:11:34,370 --> 00:11:36,070
+Để đọc.
+
+118
+00:11:39,120 --> 00:11:41,420
+Những thứ quái quỷ gì đây?
+
+119
+00:11:41,930 --> 00:11:43,990
+Hồi âm thiệp mời dự tiệc.
+
+120
+00:11:45,170 --> 00:11:46,630
+Ôi trời.
+
+121
+00:11:47,180 --> 00:11:48,360
+Là hôm nay sao?
+
+122
+00:11:48,720 --> 00:11:51,660
+Tất cả đều nói rằng sẽ tới,
+ngoại trừ nhà Sackville-Baggins...
+
+123
+00:11:51,820 --> 00:11:53,950
+họ đòi bác phải đích thân đến mời.
+
+124
+00:11:54,120 --> 00:11:57,200
+Vậy hả? Bước qua xác ta đã.
+
+125
+00:11:57,370 --> 00:11:59,260
+Có khi như vậy họ lại đồng ý ấy chứ.
+
+126
+00:11:59,420 --> 00:12:01,700
+Chắc họ nghĩ bác có cả hầm vàng.
+
+127
+00:12:01,840 --> 00:12:05,490
+Mỗi cái rương nhỏ, hầm hiếc gì chứ.
+
+128
+00:12:06,580 --> 00:12:08,670
+Và nó vẫn còn bốc mùi Troll.
+
+129
+00:12:09,440 --> 00:12:11,440
+Bác đang làm cái gì vậy?
+
+130
+00:12:13,900 --> 00:12:15,930
+Phòng xa.
+
+131
+00:12:16,320 --> 00:12:18,870
+Cháu biết ta từng bắt quả tang
+bà ta trộm đồ bạc mà.
+
+132
+00:12:19,070 --> 00:12:20,120
+Ai cơ?
+
+133
+00:12:20,320 --> 00:12:22,720
+Lobelia Sackville-Baggins.
+
+134
+00:12:23,240 --> 00:12:26,390
+Bà ta nhét đầy muỗng của ta vào túi.
+
+135
+00:12:26,850 --> 00:12:28,360
+Mụ đàn bà xấu tính.
+
+136
+00:12:28,520 --> 00:12:31,350
+Hãy để mắt đến bà ta sau khi ta...
+
+137
+00:12:32,790 --> 00:12:34,830
+Khi ta... Khi...
+
+138
+00:12:35,450 --> 00:12:37,830
+Khi bác... làm sao ạ?
+
+139
+00:12:41,540 --> 00:12:44,460
+Không sao. Không sao cả.
+
+140
+00:12:49,510 --> 00:12:52,990
+Bác này, một số người bắt đầu
+thắc mắc về bác rồi đấy.
+
+141
+00:12:53,610 --> 00:12:55,560
+Họ nghĩ rằng bác đang trở nên “kỳ quái”.
+
+142
+00:12:55,720 --> 00:12:57,420
+Kỳ quái?
+
+143
+00:12:58,370 --> 00:12:59,610
+Khó gần.
+
+144
+00:12:59,770 --> 00:13:02,590
+Khó gần, ta ư?
+Vớ vẩn!
+
+145
+00:13:02,760 --> 00:13:05,030
+Giúp ta treo cái này
+lên cổng đi chàng trai.
+
+146
+00:13:07,110 --> 00:13:09,720
+[ Miễn tiếp khách,
+ngoại trừ việc tiệc tùng ]
+
+147
+00:13:14,980 --> 00:13:17,620
+- Bác nghĩ ông ấy đến không?
+- Ai cơ?
+
+148
+00:13:18,010 --> 00:13:19,010
+Gandalf.
+
+149
+00:13:19,150 --> 00:13:22,760
+Ồ, ông ta sẽ không bỏ lỡ cơ hội
+đốt mấy quả pháo hoa tự chế đâu.
+
+150
+00:13:22,920 --> 00:13:25,260
+Ông ấy sẽ diễn một màn ra trò,
+rồi cháu xem.
+
+151
+00:13:25,420 --> 00:13:27,310
+- Được rồi, cháu đi đây.
+- Đi đâu?
+
+152
+00:13:27,470 --> 00:13:29,660
+Rừng Mạn Đông.
+Cho ông ấy một phen bất ngờ.
+
+153
+00:13:29,840 --> 00:13:33,340
+Vậy thì đi đi.
+Cháu không muốn trễ giờ đâu.
+
+154
+00:13:37,670 --> 00:13:40,650
+<i>Nó không thích trễ nải.</i>
+
+155
+00:13:41,610 --> 00:13:43,910
+<i>Trước nay tôi cũng vậy.</i>
+
+156
+00:13:44,070 --> 00:13:46,870
+<i>Hồi đó, tôi luôn luôn đúng giờ.</i>
+
+157
+00:13:47,600 --> 00:13:50,480
+<i>Lúc nào cũng đứng đắn chỉn chu.</i>
+
+158
+00:13:51,720 --> 00:13:54,800
+<i>Và không có điều bất ngờ gì...</i>
+
+159
+00:13:56,010 --> 00:13:58,140
+<i>từng xảy ra cả.</i>
+
+160
+00:14:00,950 --> 00:14:05,010
+<b>Hành trình bất ngờ</b>
+
+161
+00:14:21,780 --> 00:14:24,220
+- Buổi sáng tốt lành.
+- Ý cậu là sao?
+
+162
+00:14:24,660 --> 00:14:26,030
+Cậu chúc ta buổi sáng tốt lành...
+
+163
+00:14:26,190 --> 00:14:29,550
+hay đây là buổi sáng tốt lành
+dù ta muốn hay không?
+
+164
+00:14:30,340 --> 00:14:34,640
+Hay là cậu cảm thấy tốt lành
+vào buổi sáng này...
+
+165
+00:14:35,170 --> 00:14:39,200
+hay cậu đang chỉ ra đây là
+một buổi sáng để cảm thấy tốt lành?
+
+166
+00:14:40,990 --> 00:14:43,080
+Tất cả cùng một lúc, chắc vậy.
+
+167
+00:14:49,840 --> 00:14:50,920
+Tôi giúp gì được ông?
+
+168
+00:14:51,170 --> 00:14:53,350
+Điều đó còn phải xem đã.
+
+169
+00:14:54,970 --> 00:14:59,290
+Ta đang tìm người bạn đồng hành
+cho một cuộc phiêu lưu.
+
+170
+00:15:02,310 --> 00:15:04,020
+Một cuộc phiêu lưu?
+
+171
+00:15:05,830 --> 00:15:08,450
+Tôi chẳng thấy ai
+ở phía Tây làng Bree này...
+
+172
+00:15:08,620 --> 00:15:11,040
+mà lại thích thú phiêu lưu cả.
+
+173
+00:15:11,530 --> 00:15:15,650
+Bẩn thỉu, xô bồ,
+toàn những thứ khó chịu.
+
+174
+00:15:16,420 --> 00:15:18,320
+Lại còn không được ăn tối đúng giờ.
+
+175
+00:15:27,070 --> 00:15:28,160
+Buổi sáng tốt lành!
+
+176
+00:15:28,320 --> 00:15:33,280
+Không ngờ lão già này vẫn còn có ngày
+được con trai Belladonna Took chào buổi sáng...
+
+177
+00:15:33,440 --> 00:15:36,200
+như một kẻ bán khuy dạo trước cửa!
+
+178
+00:15:36,770 --> 00:15:38,220
+Ông nói gì cơ?
+
+179
+00:15:38,450 --> 00:15:42,090
+Cậu đã thay đổi, và không hoàn toàn
+theo hướng tốt lên, Bilbo Baggins.
+
+180
+00:15:42,230 --> 00:15:43,420
+Xin lỗi, tôi biết ông không?
+
+181
+00:15:43,420 --> 00:15:46,530
+Cậu có biết tên ta, tuy rằng cậu
+không biết ta là người mang chúng.
+
+182
+00:15:46,690 --> 00:15:48,470
+Ta là Gandalf.
+
+183
+00:15:48,670 --> 00:15:50,630
+Và Gandalf nghĩa là...
+
+184
+00:15:52,760 --> 00:15:54,060
+ta!
+
+185
+00:15:54,770 --> 00:15:58,830
+Là Gandalf, lão phù thủy lang bạt,
+người chế tạo pháo hoa hảo hạng đó sao?
+
+186
+00:15:58,990 --> 00:16:02,250
+Già Took từng đốt chúng vào Lễ Hạ chí!
+
+187
+00:16:03,280 --> 00:16:05,850
+Không ngờ ông vẫn còn
+bán pháo cơ đấy.
+
+188
+00:16:06,150 --> 00:16:07,700
+Thế tưởng ta xuống lỗ rồi hả?
+
+189
+00:16:07,860 --> 00:16:09,910
+À...
+
+190
+00:16:12,390 --> 00:16:16,370
+Dù sao ta cũng vui
+khi biết cậu còn nhớ đôi chút về ta...
+
+191
+00:16:16,570 --> 00:16:19,030
+tuy chỉ là những quả pháo hoa.
+
+192
+00:16:20,600 --> 00:16:22,460
+Quyết định vậy đi.
+
+193
+00:16:22,620 --> 00:16:24,590
+Nó sẽ rất có ích với cậu...
+
+194
+00:16:25,540 --> 00:16:27,920
+và thú vị đối với ta.
+
+195
+00:16:28,080 --> 00:16:29,580
+Ta sẽ báo cho những người khác.
+
+196
+00:16:29,670 --> 00:16:32,900
+Báo cho ai? Sao cơ... không.
+Không, khoan đã.
+
+197
+00:16:33,150 --> 00:16:38,350
+Ở đây chúng tôi không muốn phiêu lưu gì cả,
+cảm ơn, nhưng không phải hôm nay.
+
+198
+00:16:38,860 --> 00:16:42,770
+Có lẽ ông nên thử sang phía kia Đồi
+hoặc bên kia Con Nước.
+
+199
+00:16:45,890 --> 00:16:47,380
+Buổi sáng tốt lành.
+
+200
+00:17:36,500 --> 00:17:37,660
+Xin chào!
+
+201
+00:17:51,220 --> 00:17:53,720
+Mười hai ạ. Của bác đây. Chúc vui vẻ.
+
+202
+00:18:18,420 --> 00:18:21,050
+Chào cậu Bilbo. Lại đây.
+
+203
+00:18:21,230 --> 00:18:24,900
+Xem lứa củ mới của tôi này.
+Đẹp mã mà chắc nịch nhé.
+
+204
+00:18:25,030 --> 00:18:27,700
+- Mới lấy từ Rừng Mạn Tây đấy.
+- Ấn tượng lắm, bác Worrywort.
+
+205
+00:18:27,860 --> 00:18:31,520
+Cho hỏi, bác có thấy
+phù thủy nào quanh đây không?
+
+206
+00:18:31,720 --> 00:18:33,170
+Dáng người cao.
+
+207
+00:18:33,330 --> 00:18:34,620
+Bộ râu xám dài.
+
+208
+00:18:34,780 --> 00:18:36,400
+Mũ chóp nhọn.
+
+209
+00:18:36,860 --> 00:18:38,330
+Tôi nghĩ là không.
+
+210
+00:19:26,460 --> 00:19:29,670
+Dwalin, xin được phục vụ.
+
+211
+00:19:32,940 --> 00:19:35,400
+Bilbo... Baggins.
+
+212
+00:19:36,390 --> 00:19:39,150
+Xin được phục vụ.
+Chúng ta có quen nhau không?
+
+213
+00:19:39,970 --> 00:19:41,080
+Không.
+
+214
+00:19:42,410 --> 00:19:44,130
+Lối nào đây, chàng trai?
+
+215
+00:19:44,300 --> 00:19:45,310
+Nó ở dưới này hả?
+
+216
+00:19:45,460 --> 00:19:47,540
+Nó... Nó gì? Dưới đâu?
+
+217
+00:19:48,050 --> 00:19:52,240
+Bữa khuya. Ông ấy bảo sẽ có đồ ăn.
+Rất nhiều nữa.
+
+218
+00:19:52,640 --> 00:19:55,640
+Ông... Ông ta bảo?
+Ai bảo?
+
+219
+00:20:06,390 --> 00:20:08,850
+Rất ngon. Còn nữa không?
+
+220
+00:20:09,730 --> 00:20:12,630
+Sao?... À, còn, còn.
+
+221
+00:20:19,300 --> 00:20:20,740
+Xin mời.
+
+222
+00:20:24,680 --> 00:20:26,220
+Chỉ là, ừm...
+
+223
+00:20:26,590 --> 00:20:28,990
+Tôi không tính đến việc có khách.
+
+224
+00:20:32,430 --> 00:20:34,320
+Có người gọi cửa kìa.
+
+225
+00:20:38,540 --> 00:20:41,160
+Balin, xin được phục vụ.
+
+226
+00:20:42,480 --> 00:20:43,460
+Buổi tối tốt lành.
+
+227
+00:20:43,620 --> 00:20:45,550
+À vâng, đúng vậy.
+
+228
+00:20:46,000 --> 00:20:48,050
+Nhưng tôi nghĩ lát nữa sẽ mưa.
+
+229
+00:20:48,710 --> 00:20:49,960
+Tôi có đến muộn không?
+
+230
+00:20:50,630 --> 00:20:52,340
+Muộn... cái gì?
+
+231
+00:20:55,600 --> 00:20:57,470
+Chào em trai!
+
+232
+00:20:58,780 --> 00:21:00,950
+Có bộ râu em làm chứng!
+
+233
+00:21:01,110 --> 00:21:04,090
+Anh lùn và béo hơn
+lần trước chúng ta gặp đấy.
+
+234
+00:21:04,260 --> 00:21:05,900
+Béo hơn thôi, không lùn.
+
+235
+00:21:06,550 --> 00:21:08,970
+Vẫn đủ sắc sảo cho cả hai ta.
+
+236
+00:21:17,860 --> 00:21:21,150
+Ờ, xin lỗi hai người.
+Tôi không muốn xen ngang.
+
+237
+00:21:21,310 --> 00:21:25,000
+Nhưng tôi không chắc
+hai người tìm đến đúng nhà.
+
+238
+00:21:25,160 --> 00:21:26,060
+Anh ăn chưa?
+
+239
+00:21:26,140 --> 00:21:28,050
+Không phải tôi không thích có khách.
+
+240
+00:21:28,210 --> 00:21:31,510
+Tôi thích có khách như mọi Hobbit khác.
+
+241
+00:21:31,670 --> 00:21:35,090
+Nhưng tôi muốn quen họ
+trước khi họ đến... thăm nhà.
+
+242
+00:21:35,260 --> 00:21:37,630
+- Cái gì đây?
+- Anh không biết, chắc là pho mát.
+
+243
+00:21:37,780 --> 00:21:39,690
+- Xanh lè rồi.
+- Toàn là mốc.
+
+244
+00:21:39,860 --> 00:21:41,090
+Là thế này, tôi...
+
+245
+00:21:41,260 --> 00:21:44,890
+Tôi không quen ai trong hai vị.
+Không hề luôn.
+
+246
+00:21:45,060 --> 00:21:47,570
+Không có ý bất lịch sự,
+nhưng tôi buộc phải nói ra.
+
+247
+00:21:47,740 --> 00:21:48,930
+Tôi xin lỗi.
+
+248
+00:21:52,730 --> 00:21:54,110
+Lời xin lỗi được chấp nhận.
+
+249
+00:21:54,670 --> 00:21:56,660
+Đổ đầy cốc coi, đừng đứng thế.
+
+250
+00:21:58,600 --> 00:22:00,240
+Anh ăn nữa cũng được thôi.
+
+251
+00:22:03,080 --> 00:22:05,110
+- Fíli.
+- Và Kíli.
+
+252
+00:22:05,270 --> 00:22:07,230
+Xin được phục vụ.
+
+253
+00:22:07,390 --> 00:22:08,710
+Cậu hẳn là Boggins.
+
+254
+00:22:08,860 --> 00:22:10,990
+Không! Hai người không được vào,
+tới nhầm nhà rồi.
+
+255
+00:22:11,340 --> 00:22:13,470
+Sao cơ?
+Nó đã bị hủy rồi sao?
+
+256
+00:22:13,570 --> 00:22:14,680
+Chẳng ai báo chúng tôi cả.
+
+257
+00:22:15,120 --> 00:22:16,760
+Không, chẳng hủy cái gì cả.
+
+258
+00:22:16,760 --> 00:22:18,030
+Thế thì may quá.
+
+259
+00:22:21,890 --> 00:22:25,380
+Cẩn thận nhé,
+bọn tôi mới mài chúng đấy.
+
+260
+00:22:25,660 --> 00:22:27,400
+Nơi này đẹp đấy chứ.
+
+261
+00:22:27,950 --> 00:22:28,830
+Cậu tự xây à?
+
+262
+00:22:28,960 --> 00:22:31,010
+Không, nó được truyền lại
+qua nhiều năm rồi.
+
+263
+00:22:31,210 --> 00:22:34,010
+Đó là hộp nữ trang của mẹ tôi.
+Anh có thể thôi đi được không?
+
+264
+00:22:34,160 --> 00:22:36,710
+Fíli, Kíli. Vào đây giúp bọn ta một tay.
+
+265
+00:22:36,910 --> 00:22:38,260
+Chú Dwalin.
+
+266
+00:22:40,310 --> 00:22:43,160
+Tống cái này ra hành lang đi,
+không chẳng đủ chỗ cho mọi người đâu.
+
+267
+00:22:43,360 --> 00:22:45,360
+“Mọi người”?
+Còn bao nhiêu nữa trời?
+
+268
+00:22:45,560 --> 00:22:47,730
+- Cái này để đâu?
+- Ôi không...
+
+269
+00:22:48,560 --> 00:22:50,550
+Không. Không có ai ở nhà cả!
+
+270
+00:22:51,150 --> 00:22:54,060
+Đi đi! Và làm phiền người khác ấy.
+
+271
+00:22:54,260 --> 00:22:57,180
+Có quá đủ Người Lùn
+trong phòng ăn của tôi rồi.
+
+272
+00:22:57,540 --> 00:23:00,780
+Nếu đây là trò đùa
+của tên dở hơi nào đó...
+
+273
+00:23:01,620 --> 00:23:05,710
+thì tôi chỉ có thể nói,
+nó thật quá khiếm nhã!
+
+274
+00:23:07,860 --> 00:23:09,560
+Xuống mau, tên béo!
+
+275
+00:23:15,170 --> 00:23:16,410
+Gandalf.
+
+276
+00:23:20,870 --> 00:23:22,960
+Xin lỗi, con gà đó của tôi.
+
+277
+00:23:23,200 --> 00:23:25,880
+Nếu không ph...
+Này! Chai rượu đó của tôi!
+
+278
+00:23:30,030 --> 00:23:32,250
+Anh ta bị... chấn thương.
+
+279
+00:23:32,890 --> 00:23:34,360
+Ý ông là cái rìu giữa trán?
+
+280
+00:23:34,530 --> 00:23:37,260
+“Đo ván?” Không, chỉ chập cheng thôi.
+
+281
+00:23:37,460 --> 00:23:39,600
+Đi lại vẫn bình thường.
+
+282
+00:23:41,770 --> 00:23:43,160
+Bỏ mấy thứ đó lại.
+
+283
+00:23:43,460 --> 00:23:44,240
+Bỏ cái đó lại.
+
+284
+00:23:44,600 --> 00:23:45,530
+Bỏ cái đó lại!
+
+285
+00:23:45,690 --> 00:23:47,720
+Làm ơn đừng lấy lọ mứt. Xin lỗi.
+
+286
+00:23:47,880 --> 00:23:50,400
+Hơi nhiều đấy nhỉ?
+Ông có dao cắt pho mát chưa?
+
+287
+00:23:50,560 --> 00:23:53,160
+Dao cắt á? Nó ăn cả tảng mà.
+
+288
+00:23:53,910 --> 00:23:55,740
+Không được, ghế đấy là
+của ông nội Mungo.
+
+289
+00:23:55,900 --> 00:23:57,970
+Cái kia cũng vậy.
+Để lại chỗ cũ cho tôi, làm ơn.
+
+290
+00:23:57,970 --> 00:24:00,720
+- Tôi chẳng nghe thấy gì cả.
+- Đây là đồ cổ, không ngồi được.
+
+291
+00:24:01,830 --> 00:24:04,520
+Đó là quyển sách,
+không phải để lót cốc.
+
+292
+00:24:04,760 --> 00:24:06,600
+Bỏ cái bản đồ xuống.
+
+293
+00:24:07,420 --> 00:24:09,620
+- Xin lỗi, ông Gandalf.
+- Vâng?
+
+294
+00:24:09,780 --> 00:24:12,360
+Tôi mời ông
+tách trà cúc được không?
+
+295
+00:24:12,520 --> 00:24:16,750
+Ồ không, cảm ơn Dori,
+tôi thích chút rượu vang đỏ hơn.
+
+296
+00:24:24,810 --> 00:24:26,900
+Fíli, Kíli.
+
+297
+00:24:27,660 --> 00:24:31,410
+Óin, Glóin. Dwalin, Balin.
+
+298
+00:24:31,610 --> 00:24:33,000
+Bifur, Bofur, Bombur.
+
+299
+00:24:33,160 --> 00:24:35,160
+- Dori, Nori.
+- Để cái đó lại cho tôi.
+
+300
+00:24:35,310 --> 00:24:36,750
+- Ori!
+- Không, cảm ơn.
+
+301
+00:24:40,580 --> 00:24:42,800
+Ông nói phải, Bifur.
+
+302
+00:24:43,290 --> 00:24:45,710
+Có vẻ như chúng ta thiếu một Người Lùn.
+
+303
+00:24:45,860 --> 00:24:47,260
+Ngài ấy đến muộn, vậy thôi.
+
+304
+00:24:47,420 --> 00:24:51,160
+Lên phía Bắc dự cuộc họp gia tộc,
+rồi ngài ấy sẽ tới.
+
+305
+00:24:51,490 --> 00:24:52,610
+Ông Gandalf?
+
+306
+00:24:52,760 --> 00:24:57,940
+Một chén rượu vang đỏ như yêu cầu,
+nó vẫn còn thơm mùi quả.
+
+307
+00:24:58,590 --> 00:24:59,860
+Xin mời.
+
+308
+00:25:00,110 --> 00:25:03,520
+Bombur xơi đến cái đùi cừu thứ hai rồi.
+
+309
+00:25:06,990 --> 00:25:09,610
+Còn lâu! Xa thế làm sao được.
+
+310
+00:25:09,760 --> 00:25:10,590
+Cá không?
+
+311
+00:25:11,230 --> 00:25:12,900
+Bombur, đón lấy!
+
+312
+00:25:16,040 --> 00:25:17,090
+Để tôi giúp cho.
+
+313
+00:25:24,920 --> 00:25:26,610
+Cái con heo này!
+
+314
+00:25:26,770 --> 00:25:29,120
+- Ai bia nào? Xin mời.
+- Bên này anh ơi.
+
+315
+00:25:30,340 --> 00:25:32,110
+Tôi bảo là cho cốc nữa.
+
+316
+00:25:32,260 --> 00:25:33,650
+Đây.
+
+317
+00:25:38,570 --> 00:25:40,110
+Nào, đến ba nhé!
+
+318
+00:25:40,210 --> 00:25:41,760
+Một! Hai!
+
+319
+00:25:41,910 --> 00:25:42,900
+Lên!
+
+320
+00:25:55,630 --> 00:25:58,610
+Xin lỗi, đấy là khăn lót,
+không dùng để lau bát.
+
+321
+00:25:58,760 --> 00:26:01,810
+- Nhưng nó thủng lỗ chỗ.
+- Thì đúng rồi, đan bằng kim móc mà.
+
+322
+00:25:59,710 --> 00:26:04,810
+{\an8}<font size="10"><font color="#ffc90d"><i>~ Crochet: Đan móc ; Croquet: Trò crôkê / bóng vồ ~</i></font></font>
+
+323
+00:26:01,960 --> 00:26:04,760
+Ồ, trò đấy cũng hay lắm,
+nếu cậu đủ can đảm chơi.
+
+324
+00:26:04,910 --> 00:26:07,060
+Bọn Người Lùn này, bực quá!
+
+325
+00:26:07,210 --> 00:26:10,360
+Bilbo thân mến ơi,
+cậu làm sao thế?
+
+326
+00:26:10,510 --> 00:26:11,810
+Tôi làm sao ấy hả?
+
+327
+00:26:11,960 --> 00:26:15,060
+Tôi nhìn đâu cũng thấy Người Lùn.
+Họ đang làm cái quái gì ở đây?
+
+328
+00:26:15,210 --> 00:26:18,970
+Ồ, họ là một đám lố nhố rất thú vị,
+một khi cậu đã quen.
+
+329
+00:26:19,110 --> 00:26:21,110
+Tôi không muốn quen biết gì họ cả.
+
+330
+00:26:21,260 --> 00:26:24,160
+Nhìn cái bếp của tôi xem!
+Bùn đất vương vãi khắp thảm.
+
+331
+00:26:24,310 --> 00:26:26,460
+Họ... Họ khoắng sạch kho lương thực.
+
+332
+00:26:26,610 --> 00:26:29,950
+Còn chưa nói tới nhà tắm,
+đường ống nước gần như tan tành!
+
+333
+00:26:29,950 --> 00:26:32,350
+Tôi không hiểu họ đang làm gì
+trong cái nhà này!
+
+334
+00:26:32,510 --> 00:26:35,540
+Xin lỗi, rất tiếc phải cắt ngang.
+
+335
+00:26:35,950 --> 00:26:38,050
+Nhưng cái đĩa này giờ phải làm sao?
+
+336
+00:26:38,210 --> 00:26:39,910
+Đây, Ori, đưa cho tôi.
+
+337
+00:26:46,410 --> 00:26:47,530
+Này!
+
+338
+00:26:47,530 --> 00:26:51,520
+Đó là đồ gốm Mạn Tây của mẹ tôi,
+nó hơn trăm năm tuổi đấy!
+
+339
+00:26:54,730 --> 00:26:57,510
+Mấy người đừng làm vậy được không,
+chúng sẽ bị cùn mất!
+
+340
+00:26:57,650 --> 00:27:02,650
+{\an8}<font size="10"><font color="#ffc90d"><i>~ Blunt the Knives ~</i></font></font>
+
+341
+00:26:57,660 --> 00:26:59,950
+Ô, mấy cậu có nghe không?
+
+342
+00:27:00,310 --> 00:27:02,610
+Cậu ấy nói chúng ta sẽ
+làm dao bị cùn đấy!
+
+343
+00:27:02,700 --> 00:27:05,110
+♪ Dao cùn nĩa lại cong vênh.
+
+344
+00:27:05,260 --> 00:27:07,710
+♪ Phá chai đập lọ, hớ hênh nút bần.
+
+345
+00:27:07,860 --> 00:27:13,060
+♪ Mẻ ly, đĩa vỡ tan dần,
+Bilbo bực tức muôn phần xót xa!
+
+346
+00:27:13,210 --> 00:27:16,860
+♪ Vải tơi tả, mỡ bê tha,
+Trút xương lên thảm sàn hoa giường phòng.
+
+347
+00:27:17,010 --> 00:27:20,760
+♪ Sữa đổ lênh láng kho trong...
+
+348
+00:27:20,910 --> 00:27:22,790
+♪ Rượu vang tưới khắp chấn song bản lề!
+
+349
+00:27:22,940 --> 00:27:26,660
+♪ Đồ sành luộc đến tỉ tê,
+Sào đây ta nện, chán chê tơi bời.
+
+350
+00:27:26,760 --> 00:27:31,560
+♪ Nếu còn nguyên vẹn, ai ơi...
+
+351
+00:27:31,710 --> 00:27:34,750
+♪ Quăng qua tiền sảnh một hơi là cùng!
+
+352
+00:27:41,440 --> 00:27:44,140
+♪ Bilbo tức đến nổi khùng!
+
+353
+00:27:46,660 --> 00:27:47,910
+Bilbo.
+
+354
+00:27:57,640 --> 00:27:58,840
+Ông ấy tới rồi.
+
+355
+00:28:03,400 --> 00:28:04,830
+Gandalf.
+
+356
+00:28:06,550 --> 00:28:09,150
+Vậy mà ông bảo nơi này dễ tìm lắm.
+
+357
+00:28:09,310 --> 00:28:11,200
+Tôi lạc đường những hai lần.
+
+358
+00:28:11,610 --> 00:28:14,760
+Thậm chí còn không tìm ra được
+nếu không có dấu hiệu khắc trên cửa.
+
+359
+00:28:14,910 --> 00:28:17,910
+Làm gì có dấu hiệu nào trên cửa,
+tuần trước nó mới được sơn lại mà.
+
+360
+00:28:18,060 --> 00:28:21,040
+Có một dấu hiệu, chính tay ta đã khắc.
+
+361
+00:28:22,040 --> 00:28:26,230
+Bilbo Baggins, cho phép ta giới thiệu
+thủ lĩnh của đoàn...
+
+362
+00:28:26,630 --> 00:28:28,810
+Thorin “Khiên sồi”.
+
+363
+00:28:28,960 --> 00:28:30,170
+Vậy ra...
+
+364
+00:28:31,890 --> 00:28:33,310
+đây là chàng Hobbit.
+
+365
+00:28:34,940 --> 00:28:37,120
+Nói xem, cậu Baggins,
+cậu đã chiến đấu nhiều chưa?
+
+366
+00:28:37,280 --> 00:28:37,940
+Gì cơ?
+
+367
+00:28:38,090 --> 00:28:41,140
+Rìu hay kiếm?
+Vũ khí sở trường của cậu là gì?
+
+368
+00:28:41,300 --> 00:28:44,540
+À, tôi có sở trường chọi xâu hạt,
+nếu ông muốn biết.
+
+369
+00:28:44,710 --> 00:28:48,390
+Nhưng tôi không rõ nó liên quan gì.
+
+370
+00:28:48,720 --> 00:28:50,220
+Tôi cũng đoán vậy.
+
+371
+00:28:50,550 --> 00:28:53,350
+Cậu ta giống người bán tạp hóa
+hơn là một tên trộm.
+
+372
+00:28:58,570 --> 00:29:01,070
+Hội nghị ở Ered Luin thế nào?
+
+373
+00:29:01,430 --> 00:29:05,180
+- Họ tới cả chứ?
+- Ừ, đại diện từ cả bảy vương quốc.
+
+374
+00:29:05,680 --> 00:29:09,030
+Những Người Lùn ở Dãy Đồi Sắt nói sao?
+
+375
+00:29:09,360 --> 00:29:11,450
+Dáin sẽ hỗ trợ chứ?
+
+376
+00:29:13,730 --> 00:29:15,250
+Họ sẽ không tới.
+
+377
+00:29:18,700 --> 00:29:22,640
+Họ nói sứ mệnh này
+chỉ là của chúng ta mà thôi.
+
+378
+00:29:24,800 --> 00:29:26,810
+Các ông đang thực hiện một sứ mệnh?
+
+379
+00:29:28,060 --> 00:29:33,040
+Bilbo, cậu bạn thân mến,
+phiền cậu cho chúng ta thêm chút ánh sáng.
+
+380
+00:29:33,820 --> 00:29:35,730
+Rất xa về phía Đông...
+
+381
+00:29:36,260 --> 00:29:38,910
+qua nhiều rặng núi cao, sông cả...
+
+382
+00:29:39,280 --> 00:29:42,050
+rừng rậm và hoang mạc...
+
+383
+00:29:42,730 --> 00:29:45,130
+có một đỉnh núi lẻ loi duy nhất.
+
+384
+00:29:48,620 --> 00:29:50,530
+“Ngọn núi Cô đơn.”
+
+385
+00:29:51,080 --> 00:29:54,250
+Phải, Óin đã xem các điềm báo rồi...
+
+386
+00:29:54,410 --> 00:29:57,830
+và các điềm báo nói rằng: đã đến lúc.
+
+387
+00:29:58,110 --> 00:30:02,670
+Lũ quạ được thấy bay về ngọn núi
+như trong lời tiên đoán.
+
+388
+00:30:03,060 --> 00:30:07,000
+“Khi lũ chim xa xưa trở về Erebor...
+
+389
+00:30:07,160 --> 00:30:10,690
+thời đại của con quái thú sẽ chấm dứt.”
+
+390
+00:30:13,070 --> 00:30:13,670
+Ừm...
+
+391
+00:30:14,090 --> 00:30:15,170
+Con thú gì vậy?
+
+392
+00:30:15,340 --> 00:30:17,600
+Đó là câu nói về Smaug Hung tợn...
+
+393
+00:30:17,960 --> 00:30:21,750
+tai họa lớn nhất và khủng khiếp nhất
+trong thời đại của chúng tôi.
+
+394
+00:30:22,360 --> 00:30:24,100
+Quái vật phun lửa biết bay.
+
+395
+00:30:24,280 --> 00:30:27,100
+Răng sắc như lưỡi dao,
+vuốt bén như móc câu.
+
+396
+00:30:27,220 --> 00:30:29,780
+- Cực kì thèm muốn quý kim.
+- Rồi, tôi biết con Rồng thế nào mà.
+
+397
+00:30:30,160 --> 00:30:32,000
+Tôi không sợ, tôi sẵn sàng đi.
+
+398
+00:30:32,160 --> 00:30:35,200
+Nó sẽ được nếm mùi
+sắt của Người Lùn xộc lên lỗ hậu!
+
+399
+00:30:35,360 --> 00:30:36,720
+- Khá lắm, Ori!
+- Ngồi xuống!
+
+400
+00:30:36,880 --> 00:30:39,900
+Nhiệm vụ này, có thêm
+một đạo quân hậu thuẫn còn khó...
+
+401
+00:30:40,060 --> 00:30:42,100
+nữa là chỉ mười ba người chúng ta.
+
+402
+00:30:42,500 --> 00:30:44,380
+Cũng chẳng phải
+mười ba người tài giỏi nhất...
+
+403
+00:30:44,900 --> 00:30:46,290
+hay khôn ngoan nhất.
+
+404
+00:30:46,460 --> 00:30:48,960
+Này! Ông bảo ai ngu đấy hả?!
+
+405
+00:30:48,960 --> 00:30:50,490
+Ông ta nói gì cơ?
+
+406
+00:30:50,490 --> 00:30:52,810
+Chúng ta tuy số lượng ít ỏi...
+
+407
+00:30:53,270 --> 00:30:55,010
+nhưng đều là chiến binh.
+
+408
+00:30:55,210 --> 00:30:57,210
+Tất cả chúng ta,
+cho tới người cuối cùng!
+
+409
+00:30:57,310 --> 00:30:59,810
+Và mọi người quên rằng
+chúng ta có một phù thủy.
+
+410
+00:30:59,910 --> 00:31:02,490
+Gandalf hẳn đã giết
+hàng trăm con Rồng rồi.
+
+411
+00:31:02,660 --> 00:31:04,660
+À, không. Ta không hẳn...
+
+412
+00:31:04,810 --> 00:31:06,510
+- Thế bao nhiêu?
+- Hả?
+
+413
+00:31:06,660 --> 00:31:08,840
+Ông đã giết bao nhiêu con Rồng rồi?
+
+414
+00:31:11,390 --> 00:31:13,530
+Nào, cho một con số đi chứ!
+
+415
+00:31:16,020 --> 00:31:18,120
+Ờ... Làm ơn, làm ơn.
+
+416
+00:31:18,810 --> 00:31:20,640
+Trật tự!!
+
+417
+00:31:22,520 --> 00:31:26,750
+Nếu chúng ta đã thấy các điềm báo,
+mọi người nghĩ những kẻ khác thì không ư?
+
+418
+00:31:29,030 --> 00:31:31,500
+Những lời đồn đại bắt đầu lan truyền rồi.
+
+419
+00:31:32,010 --> 00:31:34,760
+Rồng Smaug chưa từng xuất hiện
+trong 60 năm qua.
+
+420
+00:31:36,370 --> 00:31:40,520
+Những con mắt dồn về ngọn núi
+phương Đông, thăm dò, cân nhắc...
+
+421
+00:31:40,910 --> 00:31:42,620
+đong đếm rủi ro.
+
+422
+00:31:42,770 --> 00:31:47,400
+Số của cải khổng lồ của dân tộc có thể
+đang nằm trơ trọi. Liệu ta sẽ ngồi yên...
+
+423
+00:31:47,560 --> 00:31:50,060
+trong khi những kẻ khác
+chiếm lấy những gì lẽ ra thuộc về ta?
+
+424
+00:31:50,260 --> 00:31:53,700
+Hay chúng ta sẽ chớp lấy thời cơ này
+để đoạt lại Erebor?!
+
+425
+00:31:55,360 --> 00:31:58,420
+Mọi người quên rằng cổng trước đã bịt kín.
+
+426
+00:31:58,930 --> 00:32:01,350
+Không có cách nào vào được trong núi.
+
+427
+00:32:01,520 --> 00:32:04,840
+Điều đó, Balin à, không hoàn toàn đúng.
+
+428
+00:32:09,400 --> 00:32:10,790
+Sao ông có được nó?
+
+429
+00:32:11,510 --> 00:32:17,270
+Nó đã được trao lại cho ta bởi cha ngài,
+bởi Thráin. Để giữ gìn.
+
+430
+00:32:18,610 --> 00:32:20,560
+Giờ nó là của ngài.
+
+431
+00:32:27,870 --> 00:32:31,990
+Đã có chìa khóa...
+thì ắt phải có cửa!
+
+432
+00:32:32,740 --> 00:32:36,670
+Những chữ rune này chỉ một lối đi bí mật
+dẫn tới khu Hạ sảnh.
+
+433
+00:32:37,230 --> 00:32:39,160
+Vậy là có một lối vào khác.
+
+434
+00:32:39,490 --> 00:32:43,410
+Nhưng dù tìm ra nó, thì cửa của Người Lùn
+hoàn toàn vô hình khi đóng.
+
+435
+00:32:45,710 --> 00:32:48,700
+Câu trả lời được ẩn giấu đâu đó
+trên bản đồ này...
+
+436
+00:32:48,860 --> 00:32:51,740
+và ta không đủ khả năng
+để tìm ra chúng, nhưng...
+
+437
+00:32:52,250 --> 00:32:55,020
+có những người khác ở Trung Địa có thể.
+
+438
+00:32:56,090 --> 00:32:59,650
+Nhiệm vụ ta mường tượng trong đầu
+đòi hỏi rất nhiều kỹ năng ẩn mình...
+
+439
+00:32:59,810 --> 00:33:01,760
+và không ít sự quả cảm.
+
+440
+00:33:02,830 --> 00:33:07,680
+Nhưng nếu thận trọng và khôn khéo,
+ta tin rằng chúng ta sẽ làm được.
+
+441
+00:33:07,840 --> 00:33:09,430
+Vậy nên mới cần một tên trộm.
+
+442
+00:33:09,650 --> 00:33:12,910
+Ừm. Một tên trộm giỏi.
+Lão luyện, là đằng khác.
+
+443
+00:33:13,280 --> 00:33:15,030
+Cậu có được vậy không?
+
+444
+00:33:18,080 --> 00:33:19,460
+Tôi được thế nào cơ?
+
+445
+00:33:19,660 --> 00:33:22,080
+Cậu ta nói cậu ta rất lão luyện!
+
+446
+00:33:23,080 --> 00:33:25,850
+Tôi? Không. Không.
+T... Tôi không phải một tên trộm.
+
+447
+00:33:26,010 --> 00:33:27,740
+Tôi chưa đừng đánh cắp thứ gì trong đời.
+
+448
+00:33:27,910 --> 00:33:30,460
+E là tôi phải đồng ý
+với cậu Baggins.
+
+449
+00:33:30,920 --> 00:33:33,010
+Cậu ta chẳng có vẻ gì
+của một tên trộm.
+
+450
+00:33:33,150 --> 00:33:34,050
+Đó.
+
+451
+00:33:34,210 --> 00:33:38,630
+Phải, chốn hoang dã không dành cho người
+hiền lành, không thể chiến đấu hay tự vệ.
+
+452
+00:33:46,370 --> 00:33:52,640
+Đủ rồi! Nếu ta đã nói Bilbo Baggins
+là một tên trộm, thì sẽ là như vậy.
+
+453
+00:33:53,790 --> 00:33:56,370
+Người Hobbit có những bước chân rất nhẹ.
+
+454
+00:33:56,530 --> 00:34:00,000
+Thực tế là nếu muốn, họ có thể lẻn qua
+mà hầu như không ai phát hiện.
+
+455
+00:34:00,160 --> 00:34:03,860
+Và bởi lão Rồng vốn đã quen
+với mùi của Người Lùn...
+
+456
+00:34:04,020 --> 00:34:06,810
+mùi của một Hobbit
+sẽ hoàn toàn xa lạ với hắn...
+
+457
+00:34:06,960 --> 00:34:09,790
+điều này sẽ cho chúng ta lợi thế lớn.
+
+458
+00:34:10,250 --> 00:34:13,170
+Ngài đã nhờ ta tìm thành viên
+thứ mười bốn của đoàn...
+
+459
+00:34:13,330 --> 00:34:14,830
+và ta chọn cậu Baggins.
+
+460
+00:34:15,220 --> 00:34:18,080
+Cậu ấy ẩn giấu nhiều tiềm năng
+hơn là vẻ bề ngoài đấy.
+
+461
+00:34:18,240 --> 00:34:21,890
+Và còn có thể đóng góp nhiều hơn
+bất kì ai trong các ông có thể tưởng...
+
+462
+00:34:22,520 --> 00:34:24,380
+bao gồm chính bản thân cậu ta.
+
+463
+00:34:29,730 --> 00:34:31,880
+Ngài phải tin ta việc này.
+
+464
+00:34:35,210 --> 00:34:36,610
+Thôi được.
+
+465
+00:34:36,830 --> 00:34:37,980
+Chúng ta sẽ theo ông.
+
+466
+00:34:37,980 --> 00:34:39,610
+- Không, đừng.
+- Đưa cậu ta bản hợp đồng.
+
+467
+00:34:39,610 --> 00:34:40,620
+- Duyệt rồi đấy.
+- Đừng.
+
+468
+00:34:40,620 --> 00:34:41,320
+Xong rồi đấy!
+
+469
+00:34:41,320 --> 00:34:44,450
+Nội dung cũng bình thường thôi:
+tổng hợp chi phí phát sinh...
+
+470
+00:34:44,610 --> 00:34:48,320
+thời gian cần thiết, tiền thù lao,
+thu xếp mai táng, vân vân.
+
+471
+00:34:49,230 --> 00:34:50,700
+Thu xếp mai táng?
+
+472
+00:34:56,380 --> 00:34:58,460
+Tôi không thể đảm bảo an toàn cho cậu ta.
+
+473
+00:34:58,660 --> 00:34:59,970
+Hiểu rồi.
+
+474
+00:35:00,350 --> 00:35:02,960
+Và cũng không chịu trách nhiệm
+về tính mạng cậu ta.
+
+475
+00:35:06,710 --> 00:35:08,050
+Đồng ý.
+
+476
+00:35:08,340 --> 00:35:13,610
+“Tiền mặt được nhận: tối đa không quá
+1/14 tổng lợi nhuận, nếu có.”
+
+477
+00:35:13,910 --> 00:35:14,980
+Có vẻ ổn.
+
+478
+00:35:15,160 --> 00:35:19,120
+“Đoàn sẽ không chịu trách nhiệm
+về các thương tổn phát sinh hoặc kéo dài...”
+
+479
+00:35:19,290 --> 00:35:22,410
+“do những hệ quả sau,
+bao gồm, nhưng không giới hạn trong...”
+
+480
+00:35:22,570 --> 00:35:24,270
+“Xé xác...”
+
+481
+00:35:25,730 --> 00:35:27,220
+“moi ruột...”
+
+482
+00:35:29,990 --> 00:35:31,260
+Thiêu rụi?
+
+483
+00:35:31,460 --> 00:35:34,590
+À, hắn sẽ cho cậu thành tro cốt
+trong nháy mắt ấy mà.
+
+484
+00:35:39,360 --> 00:35:41,870
+- Cậu ổn chứ, anh bạn?
+- Hả? Vâng.
+
+485
+00:35:44,010 --> 00:35:45,430
+Thấy hơi choáng.
+
+486
+00:35:45,720 --> 00:35:47,570
+Cứ tưởng tượng
+cái lò sưởi biết bay ấy.
+
+487
+00:35:47,800 --> 00:35:49,240
+Tôi cần chút không khí.
+
+488
+00:35:49,400 --> 00:35:54,350
+Ánh lửa lóe lên, cảm giác bỏng rát, và bùm!
+Cậu đã về với cát bụi!
+
+489
+00:36:00,940 --> 00:36:02,260
+Không.
+
+490
+00:36:03,210 --> 00:36:04,710
+Giúp ích đấy, Bofur.
+
+491
+00:36:04,880 --> 00:36:07,460
+Tôi sẽ ổn thôi.
+Chỉ cần ngồi yên tĩnh một lát.
+
+492
+00:36:07,620 --> 00:36:10,860
+Cậu đã ngồi yên quá lâu rồi.
+
+493
+00:36:11,470 --> 00:36:12,600
+Nói ta nghe...
+
+494
+00:36:12,760 --> 00:36:17,540
+từ khi nào mà tấm khăn và chén đĩa của mẹ
+trở nên quá quan trọng với cậu vậy?
+
+495
+00:36:18,210 --> 00:36:22,810
+Ta còn nhớ cậu bé Hobbit hay la cà
+trong các cánh rừng, tìm các Tiên.
+
+496
+00:36:23,110 --> 00:36:24,560
+Sẵn sàng ở ngoài tới khuya...
+
+497
+00:36:24,760 --> 00:36:29,970
+về nhà khi trời đã tối, lôi theo
+nào bùn đất, cành cây, đom đóm.
+
+498
+00:36:30,300 --> 00:36:33,020
+Một cậu Hobbit luôn háo hức
+được khám phá xem...
+
+499
+00:36:33,180 --> 00:36:35,880
+có gì ở bên kia ranh giới xứ Shire.
+
+500
+00:36:36,860 --> 00:36:40,550
+Thế giới này không nằm trong
+sách vở hay bản đồ của cậu.
+
+501
+00:36:41,960 --> 00:36:43,770
+Mà nó ở ngoài kia.
+
+502
+00:36:45,130 --> 00:36:47,700
+Tôi không thể cứ khơi khơi đi ra đó được.
+
+503
+00:36:47,770 --> 00:36:55,770
+{\an8}<font size="10"><font color="#ffc90d"><i>~ Một cách đặt tên của Tolkien, “Bag” trong Baggins và Bag End mang nghĩa “bao” / “túi”. ~</i></font></font>
+
+504
+00:36:47,860 --> 00:36:50,880
+Tôi là người nhà Baggins, tại Bag End.
+
+505
+00:36:51,120 --> 00:36:53,450
+Cậu cũng là người nhà Took.
+
+506
+00:36:55,340 --> 00:36:58,600
+Cậu có biết cụ cố tổ tổ,
+Took “Bò rống”...
+
+507
+00:36:58,760 --> 00:37:02,200
+to lớn đến nỗi, cụ có thể cưỡi
+một con ngựa thực sự?
+
+508
+00:37:02,360 --> 00:37:03,730
+Đúng vậy đấy!
+
+509
+00:37:03,920 --> 00:37:06,960
+Trong trận chiến Cánh đồng Xanh,
+cụ xông pha vào đội quân Goblin.
+
+510
+00:37:07,110 --> 00:37:11,060
+Cụ vung chiếc tày gỗ mạnh đến nỗi
+đánh văng cả thủ cấp tên vua Goblin...
+
+511
+00:37:11,210 --> 00:37:14,810
+cái đầu văng xa cả trăm thước,
+rồi rơi xuống một hang thỏ.
+
+512
+00:37:15,510 --> 00:37:17,220
+Vậy là trận chiến được định đoạt.
+
+513
+00:37:17,930 --> 00:37:20,810
+Và trò chơi golf ra đời
+cũng vào thời khắc ấy.
+
+514
+00:37:24,120 --> 00:37:26,250
+Tôi cá là ông bịa ra chi tiết đó.
+
+515
+00:37:26,630 --> 00:37:30,360
+Mọi câu chuyện hay
+đều đáng được thêm thắt mà.
+
+516
+00:37:31,700 --> 00:37:35,610
+Cậu cũng sẽ có một vài câu chuyện
+của riêng mình để kể khi trở về.
+
+517
+00:37:39,480 --> 00:37:41,790
+Ông có thể đảm bảo là tôi sẽ trở về?
+
+518
+00:37:43,650 --> 00:37:44,800
+Không.
+
+519
+00:37:45,380 --> 00:37:47,220
+Và dù trở về được...
+
+520
+00:37:48,180 --> 00:37:49,920
+cậu cũng sẽ không còn như trước.
+
+521
+00:37:52,060 --> 00:37:53,890
+Tôi cũng nghĩ vậy.
+
+522
+00:37:54,970 --> 00:37:57,460
+Xin lỗi, Gandalf, tôi không ký được.
+
+523
+00:37:59,620 --> 00:38:01,410
+Ông tìm nhầm người Hobbit rồi.
+
+524
+00:38:08,420 --> 00:38:11,580
+Xem ra chúng ta mất tên trộm rồi.
+
+525
+00:38:12,860 --> 00:38:14,740
+Vậy có lẽ tốt hơn cả.
+
+526
+00:38:15,190 --> 00:38:17,410
+Mọi việc trước nay vẫn trắc trở mà.
+
+527
+00:38:17,570 --> 00:38:20,400
+Nhìn lại, chúng ta là những ai?
+
+528
+00:38:21,280 --> 00:38:23,960
+Thương nhân, thợ mỏ...
+
+529
+00:38:24,560 --> 00:38:27,050
+thợ hàn, nhà chế tạo đồ chơi.
+
+530
+00:38:27,980 --> 00:38:30,050
+Huyền thoại cái nỗi gì chứ.
+
+531
+00:38:30,480 --> 00:38:33,010
+Có một vài chiến binh trong số chúng ta.
+
+532
+00:38:33,870 --> 00:38:35,860
+Những chiến binh già cỗi.
+
+533
+00:38:36,010 --> 00:38:40,610
+Ta thà có được một chiến hữu nơi đây
+còn hơn là đội quân từ Dãy Đồi Sắt.
+
+534
+00:38:40,770 --> 00:38:43,540
+Bởi khi ta kêu gọi, họ đã trả lời.
+
+535
+00:38:44,470 --> 00:38:45,880
+Lòng trung nghĩa.
+
+536
+00:38:46,080 --> 00:38:47,190
+Danh dự.
+
+537
+00:38:47,510 --> 00:38:49,410
+Trái tim kiên định.
+
+538
+00:38:51,010 --> 00:38:53,330
+Không thể đòi hỏi gì hơn được.
+
+539
+00:38:54,240 --> 00:38:56,360
+Ngài đâu cần phải làm điều này.
+
+540
+00:38:56,770 --> 00:38:58,380
+Ngài có quyền lựa chọn.
+
+541
+00:38:58,550 --> 00:39:01,580
+Ngài đã luôn hết lòng vì thần dân.
+
+542
+00:39:02,390 --> 00:39:06,090
+Ngài đã tạo dựng một cuộc sống mới
+cho chúng tôi tại Rặng núi Lam.
+
+543
+00:39:06,410 --> 00:39:08,820
+Một cuộc sống yên bình và sung túc.
+
+544
+00:39:10,240 --> 00:39:15,120
+Một cuộc sống đáng giá
+hơn tất cả số vàng ở Erebor.
+
+545
+00:39:15,730 --> 00:39:20,850
+Từ đời ông tới đời cha ta,
+vật này đã đến được với ta.
+
+546
+00:39:22,300 --> 00:39:26,310
+Họ đã mơ về một ngày, những Người Lùn
+của Erebor giành lại quê hương mình.
+
+547
+00:39:28,020 --> 00:39:30,270
+Không còn lựa chọn, Balin ạ.
+
+548
+00:39:31,980 --> 00:39:33,420
+Với ta thì không.
+
+549
+00:39:35,970 --> 00:39:37,690
+Vậy thì chúng tôi
+sẽ theo ngài, chiến hữu.
+
+550
+00:39:39,560 --> 00:39:42,010
+Chúng ta sẽ chứng kiến ngày đó.
+
+551
+00:39:50,420 --> 00:39:58,420
+{\an8}<font size="10"><font color="#ffc90d"><i>~ Misty Mountains ~</i></font></font>
+
+552
+00:40:03,910 --> 00:40:12,660
+♪ Nghìn trùng cao, nơi Núi Mờ sương lạnh.
+
+553
+00:40:12,760 --> 00:40:21,910
+♪ Tới ngục sâu, chốn hang xưa hiu quạnh.
+
+554
+00:40:22,010 --> 00:40:30,910
+♪ Ta lên đường, khi lấp ló vầng dương.
+
+555
+00:40:31,010 --> 00:40:40,160
+♪ Cùng kiếm tìm, ngàn vạn ánh hoàng kim.
+
+556
+00:40:40,260 --> 00:40:49,210
+♪ Những rặng thông, gào reo trên cung đồi.
+
+557
+00:40:49,310 --> 00:40:58,260
+♪ Từng cơn gió, ái oan trong đêm tối.
+
+558
+00:40:58,360 --> 00:41:07,510
+♪ Ngọn lửa đỏ, khắp mênh mông soi rõ.
+
+559
+00:41:07,610 --> 00:41:15,910
+♪ Rừng cây ơi, như ánh đuốc sáng ngời.
+
+560
+00:41:55,710 --> 00:41:56,950
+Xin chào?
+
+561
+00:42:09,120 --> 00:42:10,560
+Tuyệt!
+
+562
+00:43:23,240 --> 00:43:25,610
+Ơ! Cậu Bilbo. Cậu đi đâu đấy?
+
+563
+00:43:25,750 --> 00:43:28,590
+- Không nói được, tôi muộn mất rồi!
+- Muộn cái gì?
+
+564
+00:43:28,940 --> 00:43:31,420
+Tôi đi phiêu lưu đây!
+
+565
+00:43:37,410 --> 00:43:40,850
+Tôi đã bảo mà.
+Đến đây chỉ tổ phí thời gian.
+
+566
+00:43:41,010 --> 00:43:42,540
+Nói cũng phải.
+
+567
+00:43:42,710 --> 00:43:45,750
+- Rõ kì cục.
+- Dùng một Hobbit? Một Bán nhân?
+
+568
+00:43:45,910 --> 00:43:47,450
+Ý của ai thế?
+
+569
+00:43:47,590 --> 00:43:48,430
+Khoan!
+
+570
+00:43:49,410 --> 00:43:50,350
+Đợi đã!
+
+571
+00:44:01,470 --> 00:44:03,070
+Tôi ký rồi đây.
+
+572
+00:44:15,430 --> 00:44:17,780
+Mọi thứ có vẻ ổn.
+
+573
+00:44:18,140 --> 00:44:20,650
+Chào mừng, cậu Baggins...
+
+574
+00:44:21,030 --> 00:44:24,790
+gia nhập đoàn của Thorin Khiên sồi.
+
+575
+00:44:30,060 --> 00:44:31,310
+Cho cậu ta con ngựa.
+
+576
+00:44:31,690 --> 00:44:33,350
+Thôi, thôi. Không cần đâu.
+
+577
+00:44:33,610 --> 00:44:35,530
+Tôi đi bộ được.
+
+578
+00:44:35,690 --> 00:44:38,480
+Tôi đã tham gia nhiều
+dịp Lễ đi bộ rồi.
+
+579
+00:44:38,650 --> 00:44:40,690
+Có lần còn tới tận Đầm Ếch mà.
+
+580
+00:44:54,590 --> 00:44:56,450
+Kìa, Nori. Trả tiền đê!
+
+581
+00:44:58,290 --> 00:45:00,430
+- Một túi nữa.
+- Hê, cảm ơn.
+
+582
+00:45:00,610 --> 00:45:02,290
+Thế là sao vậy?
+
+583
+00:45:02,540 --> 00:45:06,740
+À, họ đánh cược với nhau,
+xem liệu cậu có đến hay không.
+
+584
+00:45:07,140 --> 00:45:10,100
+Hầu hết đều cược rằng
+cậu sẽ không xuất hiện.
+
+585
+00:45:11,340 --> 00:45:13,040
+Còn ông nghĩ sao?
+
+586
+00:45:17,770 --> 00:45:22,150
+Bạn của ta ơi,
+ta chưa từng mảy may nghi ngờ cậu.
+
+587
+00:45:27,240 --> 00:45:28,950
+Bờm ngựa.
+
+588
+00:45:29,300 --> 00:45:30,880
+Tôi bị dị ứng.
+
+589
+00:45:32,640 --> 00:45:34,420
+Khoan đã. Dừng lại!
+
+590
+00:45:34,890 --> 00:45:37,130
+Dừng lại! Chúng ta phải quay về.
+
+591
+00:45:37,680 --> 00:45:39,340
+Có vấn đề quái quỷ gì vậy?
+
+592
+00:45:39,500 --> 00:45:41,790
+- Tôi quên mang khăn tay.
+- Đây!
+
+593
+00:45:43,490 --> 00:45:44,510
+Dùng đỡ đi.
+
+594
+00:45:48,850 --> 00:45:50,310
+Đi tiếp!
+
+595
+00:45:57,510 --> 00:46:00,430
+Cậu sẽ phải xoay sở mà không có khăn tay...
+
+596
+00:46:00,430 --> 00:46:03,240
+và biết bao nhiêu thứ khác nữa,
+Bilbo Baggins à...
+
+597
+00:46:03,390 --> 00:46:06,520
+trước khi ta đến được cuối chặng đường.
+
+598
+00:46:06,980 --> 00:46:12,650
+Cậu được sinh ra nơi mỏm đồi nhấp nhô
+và những dòng suối nhỏ của xứ Shire.
+
+599
+00:46:13,550 --> 00:46:15,870
+Nhưng quê nhà giờ đã ở sau lưng.
+
+600
+00:46:16,470 --> 00:46:19,650
+Thế giới đang chờ đợi phía trước.
+
+601
+00:47:00,350 --> 00:47:03,400
+Chào cô bé!
+Ngoan lắm.
+
+602
+00:47:07,120 --> 00:47:09,170
+Bí mật giữa hai ta nhé, Myrtle.
+
+603
+00:47:09,560 --> 00:47:11,640
+Đừng nói với ai đấy.
+
+604
+00:47:16,400 --> 00:47:17,140
+Tiếng gì vậy?
+
+605
+00:47:18,490 --> 00:47:19,560
+Lũ Orc.
+
+606
+00:47:20,460 --> 00:47:21,310
+Orc?
+
+607
+00:47:22,980 --> 00:47:26,370
+Những tên sát thủ.
+Có hàng tá bọn chúng ở ngoài kia.
+
+608
+00:47:26,540 --> 00:47:28,080
+Tràn ngập vùng đất thấp.
+
+609
+00:47:28,240 --> 00:47:31,230
+Chúng tấn công lúc đêm khuya,
+khi mọi người đều say ngủ.
+
+610
+00:47:31,390 --> 00:47:34,570
+Chớp nhoáng và kín kẽ,
+không tiếng la hét. Chỉ toàn là máu.
+
+611
+00:47:39,000 --> 00:47:40,820
+Cả hai thấy vui lắm hả?
+
+612
+00:47:42,700 --> 00:47:45,190
+Hai đứa cho rằng bị tập kích
+vào ban đêm bởi lũ Orc là trò đùa?
+
+613
+00:47:45,930 --> 00:47:47,340
+Chúng cháu không có ý gì cả.
+
+614
+00:47:48,330 --> 00:47:50,150
+Tất nhiên là không.
+
+615
+00:47:50,560 --> 00:47:52,800
+Hai đứa biết gì về thế giới đâu.
+
+616
+00:47:54,480 --> 00:47:56,800
+Đừng để bụng.
+
+617
+00:47:56,970 --> 00:48:01,820
+Thorin có lý do
+để căm thù lũ Orc hơn hết thảy.
+
+618
+00:48:06,390 --> 00:48:09,580
+Sau khi lão Rồng chiếm được
+Ngọn núi Cô đơn...
+
+619
+00:48:09,740 --> 00:48:15,410
+vua Thrór đã dốc sức nhằm đoạt lại
+vương quốc cổ Moria của Người Lùn.
+
+620
+00:48:17,400 --> 00:48:20,910
+Nhưng kẻ thù của chúng ta
+đã tới đó trước.
+
+621
+00:48:32,970 --> 00:48:37,080
+Moria đã bị xâm chiếm
+bởi những binh đoàn Orc...
+
+622
+00:48:37,240 --> 00:48:41,760
+cầm đầu bởi kẻ xấu xa nhất
+trong số chúng...
+
+623
+00:48:42,300 --> 00:48:46,460
+Azog... kẻ Ô Uế.
+
+624
+00:48:47,870 --> 00:48:50,600
+Tên Orc khổng lồ của xứ Gundabad...
+
+625
+00:48:50,970 --> 00:48:56,030
+đã thề sẽ quét sạch
+dòng dõi của Durin.
+
+626
+00:49:00,120 --> 00:49:02,250
+Hắn bắt đầu...
+
+627
+00:49:02,990 --> 00:49:04,950
+bằng việc lấy thủ cấp của đức vua.
+
+628
+00:49:16,210 --> 00:49:19,140
+Khônggg!
+
+629
+00:49:20,470 --> 00:49:25,010
+Thráin, cha của Thorin,
+đã phát điên vì quá đau buồn...
+
+630
+00:49:25,350 --> 00:49:31,090
+sau đó ông mất tích,
+bị bắt hay đã chết, không ai biết được.
+
+631
+00:49:31,560 --> 00:49:33,110
+Bọn ta như rắn mất đầu.
+
+632
+00:49:33,850 --> 00:49:37,360
+Đại bại và chết chóc...
+
+633
+00:49:37,630 --> 00:49:40,270
+đã cận kề trước mắt.
+
+634
+00:49:42,330 --> 00:49:45,700
+Đó là lúc... ta thấy được ngài.
+
+635
+00:49:48,320 --> 00:49:54,920
+Một hoàng tử Người Lùn trẻ tuổi
+đương đầu với tên quái vật Xanh lét.
+
+636
+00:49:58,860 --> 00:50:03,390
+Anh ta đơn độc chiến đấu
+với kẻ thù khủng khiếp này.
+
+637
+00:50:12,030 --> 00:50:17,610
+Giáp trụ tả tơi, không có gì trong tay
+ngoài một cành gỗ sồi làm khiên.
+
+638
+00:50:30,730 --> 00:50:35,190
+Ngày hôm đó, Azog Ô Uế đã biết được...
+
+639
+00:50:35,800 --> 00:50:40,290
+rằng dòng dõi của Durin
+sẽ không dễ dàng bị khuất phục.
+
+640
+00:51:08,220 --> 00:51:13,460
+Tập hợp lực lượng,
+chúng ta đã đẩy lui lũ Orc.
+
+641
+00:51:15,340 --> 00:51:18,750
+Kẻ địch đã bị đánh bại.
+
+642
+00:51:20,810 --> 00:51:23,300
+Nhưng không một bữa tiệc...
+
+643
+00:51:23,700 --> 00:51:26,680
+hay bài ca nào được cất lên đêm đó...
+
+644
+00:51:26,840 --> 00:51:31,520
+bởi số người tử trận đã vượt quá
+giới hạn của sự đau thương.
+
+645
+00:51:32,780 --> 00:51:36,350
+Chỉ vài người chúng ta còn sống sót.
+
+646
+00:51:43,390 --> 00:51:46,190
+Và ta đã tự nhủ với lòng mình...
+
+647
+00:51:48,950 --> 00:51:53,390
+Có một người... ta có thể theo.
+
+648
+00:51:55,420 --> 00:51:57,840
+Có một người...
+
+649
+00:51:58,210 --> 00:52:00,250
+ta có thể gọi là Vua.
+
+650
+00:52:19,080 --> 00:52:20,560
+Còn tên Orc Xanh lét?
+
+651
+00:52:22,930 --> 00:52:24,440
+Chuyện gì xảy ra với hắn?
+
+652
+00:52:24,660 --> 00:52:27,770
+Hắn trốn chui lủi trong nội sảnh
+nơi hắn từng ra mặt.
+
+653
+00:52:28,590 --> 00:52:32,200
+Tên ghê tởm đó đã chết
+vì vết thương từ rất lâu rồi.
+
+654
+00:52:43,390 --> 00:52:51,390
+{\an8}<font size="10"><font color="#ffc90d"><i>~ Orc : Thực chất chính là Elf/Tiên. Từ xa xưa đã bị Morgoth bắt giữ, tra tấn và tha hóa mà thành. ~</i></font></font>
+
+655
+00:52:55,280 --> 00:52:58,090
+<font color="#ffc90d">Báo với Chủ nhân...</font>
+
+656
+00:52:59,100 --> 00:53:02,730
+<font color="#ffc90d">chúng ta đã thấy bọn Người Lùn khốn kiếp.</font>
+
+657
+00:53:18,180 --> 00:53:19,800
+Này, ông Gandalf?
+
+658
+00:53:19,800 --> 00:53:22,340
+Ông không làm gì được trận lụt này à?
+
+659
+00:53:22,500 --> 00:53:24,930
+Trời đang mưa, thưa ông Người Lùn.
+
+660
+00:53:25,090 --> 00:53:28,840
+Và sẽ tiếp tục như vậy cho tới khi tạnh.
+
+661
+00:53:29,560 --> 00:53:34,300
+Nếu muốn thay đổi thời tiết thế giới,
+ông nên tìm một phù thủy khác.
+
+662
+00:53:35,160 --> 00:53:36,430
+- Vậy có không?
+- Có gì?
+
+663
+00:53:36,680 --> 00:53:39,330
+- Các phù thủy khác?
+- Bọn ta có năm người cả thảy.
+
+664
+00:53:39,490 --> 00:53:43,940
+Đứng đầu Hội là Saruman Áo Trắng.
+
+665
+00:53:44,100 --> 00:53:46,400
+Rồi tới hai phù thủy Áo Xanh.
+
+666
+00:53:47,730 --> 00:53:50,280
+Ta cũng gần như
+quên mất tên của họ rồi.
+
+667
+00:53:51,380 --> 00:53:52,700
+Vậy người thứ năm là ai?
+
+668
+00:53:52,950 --> 00:53:56,830
+À, đó là Radagast Áo Nâu.
+
+669
+00:53:57,120 --> 00:53:59,530
+Ông ấy có phải một phù thủy
+vĩ đại không, hay là ông ta...
+
+670
+00:53:59,690 --> 00:54:01,410
+giống ông nhiều hơn?
+
+671
+00:54:02,800 --> 00:54:07,240
+Ta nghĩ ông ấy là một phù thủy rất vĩ đại.
+Theo cách riêng của ông ta.
+
+672
+00:54:07,920 --> 00:54:12,040
+Một sinh linh hiền lành,
+thích bầu bạn với thú vật hơn cả.
+
+673
+00:54:12,390 --> 00:54:16,620
+Ông ấy trông nom toàn bộ
+khu rừng đại ngàn phía Đông.
+
+674
+00:54:16,790 --> 00:54:23,250
+Điều đó rất có ý nghĩa, bởi cái ác
+luôn tìm nơi sinh sôi trên thế giới này.
+
+675
+00:54:29,890 --> 00:54:31,410
+Không ổn.
+
+676
+00:54:31,740 --> 00:54:33,590
+Không ổn chút nào!
+
+677
+00:54:57,140 --> 00:54:58,660
+Ôi không.
+
+678
+00:54:59,010 --> 00:55:00,380
+Sebastian!
+
+679
+00:55:03,450 --> 00:55:04,400
+Trời ơi.
+
+680
+00:55:26,400 --> 00:55:29,630
+Lui ra! Cho cậu ta chút không khí,
+trời đất ơi!
+
+681
+00:55:39,480 --> 00:55:41,220
+Nào, nào.
+
+682
+00:55:42,430 --> 00:55:45,020
+Sao lại không có tác dụng cơ chứ?
+
+683
+00:55:45,250 --> 00:55:48,240
+Nó đâu phải là tà thuật.
+
+684
+00:55:50,730 --> 00:55:52,390
+Tà thuật...
+
+685
+00:55:54,070 --> 00:55:55,390
+Ồ...
+
+686
+00:55:55,950 --> 00:55:57,890
+Rõ ràng rồi.
+
+687
+00:55:59,150 --> 00:56:04,850
+Một phép thuật hắc ám và hùng mạnh.
+
+688
+00:57:36,600 --> 00:57:42,170
+Lũ sinh vật gớm guốc này
+đến từ đâu cơ chứ?
+
+689
+00:57:43,310 --> 00:57:44,960
+Pháo đài cổ ư?
+
+690
+00:57:45,680 --> 00:57:46,930
+Dẫn đường cho ta.
+
+691
+00:58:20,400 --> 00:58:22,300
+Ta sẽ hạ trại tại đây đêm nay.
+
+692
+00:58:22,610 --> 00:58:24,760
+Fíli, Kíli, hai đứa trông coi ngựa.
+
+693
+00:58:24,960 --> 00:58:26,880
+Phải luôn ở cạnh chúng đấy.
+
+694
+00:58:27,390 --> 00:58:31,070
+Gia đình một nông dân từng sống tại đây.
+
+695
+00:58:31,650 --> 00:58:33,450
+- Óin, Glóin.
+- Có.
+
+696
+00:58:33,450 --> 00:58:34,390
+Nhóm lửa đi.
+
+697
+00:58:35,410 --> 00:58:39,290
+Ta cho rằng đi tiếp sẽ tốt hơn.
+
+698
+00:58:40,210 --> 00:58:43,040
+Có thể kịp tới Thung lũng Ẩn.
+
+699
+00:58:43,570 --> 00:58:45,380
+Ta đã nói với ông rồi...
+
+700
+00:58:45,540 --> 00:58:47,530
+ta sẽ không tới gần nơi đó.
+
+701
+00:58:47,690 --> 00:58:48,700
+Vì sao chứ?
+
+702
+00:58:48,860 --> 00:58:52,300
+Tiên tộc sẽ cho chúng ta nơi ăn,
+chốn nghỉ và những lời khuyên.
+
+703
+00:58:52,440 --> 00:58:54,580
+Ta không cần lời khuyên của họ.
+
+704
+00:58:54,580 --> 00:58:58,700
+Chúng ta có một tấm bản đồ không lời giải.
+Chúa tể Elrond sẽ giúp được.
+
+705
+00:58:58,700 --> 00:59:00,020
+Giúp ư?
+
+706
+00:59:01,140 --> 00:59:05,810
+Một con Rồng tấn công Erebor.
+Và Tiên tộc đã giúp gì?
+
+707
+00:59:06,750 --> 00:59:11,280
+Lũ Orc tàn phá Moria,
+làm ô uế các Thần sảnh.
+
+708
+00:59:11,440 --> 00:59:13,900
+Tiên tộc vẫn dửng dưng đứng nhìn!
+
+709
+00:59:15,270 --> 00:59:19,500
+Giờ ông lại muốn ta tìm đến những kẻ
+đã từng phản bội ông của ta...
+
+710
+00:59:19,690 --> 00:59:20,940
+phản bội lại cha ta.
+
+711
+00:59:21,080 --> 00:59:23,580
+Ngài không phải là họ.
+
+712
+00:59:23,740 --> 00:59:26,940
+Ta giao cho ngài bản đồ và chìa khóa
+đâu phải để ngài đeo bám quá khứ.
+
+713
+00:59:27,090 --> 00:59:29,030
+Ta nào có biết ông giữ chúng.
+
+714
+00:59:35,720 --> 00:59:38,280
+Mọi việc ổn chứ?
+Gandalf, ông đi đâu đấy?
+
+715
+00:59:38,440 --> 00:59:41,950
+Tìm người duy nhất ở đây
+còn một chút minh mẫn.
+
+716
+00:59:42,110 --> 00:59:44,840
+- Đó là ai?
+- Ta, thưa cậu Baggins.
+
+717
+00:59:45,210 --> 00:59:47,810
+Ta chịu quá đủ Người Lùn
+cho một ngày rồi.
+
+718
+00:59:49,570 --> 00:59:51,680
+Nhanh lên Bombur, chúng tôi đói rồi.
+
+719
+00:59:52,220 --> 00:59:54,110
+Ông ấy sẽ quay lại chứ?
+
+720
+00:59:58,830 --> 01:00:00,190
+Đi lâu quá rồi.
+
+721
+01:00:00,340 --> 01:00:01,690
+- Ai?
+- Gandalf.
+
+722
+01:00:01,840 --> 01:00:03,980
+Ông ta là phù thủy!
+Ai quản được ông ấy làm gì.
+
+723
+01:00:04,140 --> 01:00:06,990
+Đây, giúp tôi mang cái này
+cho hai cậu kia.
+
+724
+01:00:07,740 --> 01:00:09,340
+Thôi ngay! Ăn gì lắm thế.
+
+725
+01:00:09,650 --> 01:00:13,130
+Món hầm không tệ đâu, Bombur.
+
+726
+01:00:13,290 --> 01:00:15,230
+Còn hơn là Dori nấu.
+
+727
+01:00:28,420 --> 01:00:29,220
+Sao vậy?
+
+728
+01:00:29,390 --> 01:00:31,130
+Chúng tôi chịu trách nhiệm trông ngựa.
+
+729
+01:00:31,290 --> 01:00:34,170
+Chỉ là đang có... một vấn đề nhỏ.
+
+730
+01:00:34,510 --> 01:00:36,410
+Chúng ta có mười sáu con.
+
+731
+01:00:36,590 --> 01:00:39,130
+Giờ chỉ còn mười bốn.
+
+732
+01:00:42,620 --> 01:00:44,930
+- Daisy và Bungo đã biến mất.
+- Sao?
+
+733
+01:00:45,090 --> 01:00:48,990
+Vậy quả là không ổn.
+Thế kia nữa thì cực kì không ổn.
+
+734
+01:00:49,140 --> 01:00:52,840
+- Ta báo với Thorin chứ?
+- Ấy, không. Đừng làm bác ấy lo lắng.
+
+735
+01:00:52,990 --> 01:00:56,340
+Là tên trộm chính thức của đoàn,
+chúng tôi nghĩ cậu nên tìm hiểu xem sao.
+
+736
+01:00:56,490 --> 01:00:57,810
+À, ờ...
+
+737
+01:00:58,190 --> 01:01:01,740
+Có vẻ như một thứ to lớn
+đã đánh bật những gốc cây này.
+
+738
+01:01:01,890 --> 01:01:02,740
+Chúng tôi cũng nghĩ vậy.
+
+739
+01:01:02,890 --> 01:01:06,770
+Thứ gì đó rất lớn,
+và có thể khá là nguy hiểm.
+
+740
+01:01:08,160 --> 01:01:10,730
+Này! Có ánh sáng kìa.
+
+741
+01:01:11,820 --> 01:01:13,250
+Lại đây.
+
+742
+01:01:15,640 --> 01:01:16,850
+Cúi xuống.
+
+743
+01:01:22,120 --> 01:01:23,520
+Là gì vậy?
+
+744
+01:01:23,920 --> 01:01:25,400
+Bọn Troll.
+
+745
+01:01:35,390 --> 01:01:43,290
+{\an8}<font size="10"><font color="#ffc90d"><i>~ Troll : Được Morgoth tạo ra vào thời kỳ đen tối của thế giới, trước khi có Mặt trời và Mặt trăng.</i></font></font>
+
+746
+01:01:43,490 --> 01:01:51,390
+{\an8}<font size="10"><font color="#ffc90d"><i>Khi gặp phải ánh sáng, chúng sẽ hóa đá. Troll là giống loài to lớn, hung tợn nhưng ngu đần. ~</i></font></font>
+
+747
+01:01:51,690 --> 01:01:53,780
+Hắn bắt Myrtle và Minty rồi!
+
+748
+01:01:55,230 --> 01:01:57,810
+Chúng sẽ bị giết thịt mất,
+ta phải làm gì đó.
+
+749
+01:01:58,220 --> 01:02:00,070
+Đúng, cậu ra tay đi.
+
+750
+01:02:00,240 --> 01:02:03,240
+Lũ Troll núi rất chậm chạp và đần độn,
+còn cậu thì nhỏ thó...
+
+751
+01:02:03,390 --> 01:02:06,340
+chúng chẳng phát hiện ra đâu.
+An toàn tuyệt đối. Bọn tôi ở ngay sau cậu.
+
+752
+01:02:06,490 --> 01:02:10,040
+Nếu cậu gặp rắc rối, hãy hú
+hai lần như cú lợn, một lần như cú mèo.
+
+753
+01:02:10,190 --> 01:02:13,690
+Hai lần như cú lợn,
+hú hai lần như cú... mèo, một lần...
+
+754
+01:02:13,840 --> 01:02:15,500
+Hai anh chắc đây là ý hay chứ?
+
+755
+01:02:15,740 --> 01:02:19,940
+Hôm qua thịt cừu,
+hôm nay thịt cừu, và ô kìa...
+
+756
+01:02:20,140 --> 01:02:23,000
+ngày mai hình như cũng thịt cừu.
+
+757
+01:02:23,540 --> 01:02:27,890
+Kêu ca vừa thôi!
+Đây không phải cừu.
+
+758
+01:02:28,320 --> 01:02:30,450
+Ngựa con đấy!
+
+759
+01:02:31,180 --> 01:02:32,650
+Tao không thích thịt ngựa.
+
+760
+01:02:32,840 --> 01:02:35,680
+Trước giờ rồi. Ít mỡ quá.
+
+761
+01:02:35,810 --> 01:02:39,990
+Còn hơn là lão nông dân dai nhách.
+Có mỗi da bọc xương.
+
+762
+01:02:40,210 --> 01:02:42,690
+Tao vẫn đang xỉa da của lão khỏi răng.
+
+763
+01:02:43,910 --> 01:02:46,690
+À hay rồi. Thêm bọt nổi.
+
+764
+01:02:46,840 --> 01:02:49,130
+Có khi sẽ làm tăng hương vị.
+
+765
+01:02:49,280 --> 01:02:51,700
+Ố! Tao vẫn còn nhiều lắm.
+
+766
+01:02:52,050 --> 01:02:53,490
+Mày nghĩ ra à!
+
+767
+01:02:57,250 --> 01:02:59,290
+Ngồi xuống!
+
+768
+01:03:08,550 --> 01:03:11,580
+Mong là mày sẽ móc ruột bọn ngựa này.
+
+769
+01:03:11,790 --> 01:03:14,410
+Tao không thích ăn
+phần thum thủm đâu.
+
+770
+01:03:15,600 --> 01:03:17,310
+Tao bảo ngồi!
+
+771
+01:03:17,880 --> 01:03:21,830
+Tao đói ngấu rồi!
+Thế có ăn thịt ngựa không đây?
+
+772
+01:03:22,140 --> 01:03:26,140
+Ngậm cái miệng đi!
+Tao nấu gì thì mày ăn nấy.
+
+773
+01:03:27,070 --> 01:03:30,760
+Sao hắn lại nấu ăn nhỉ?
+Món nào cũng như nhau.
+
+774
+01:03:30,950 --> 01:03:32,700
+Cái gì ăn cũng như thịt gà.
+
+775
+01:03:32,860 --> 01:03:35,350
+- Ngoại trừ thịt gà.
+- Thì tanh như cá!
+
+776
+01:03:35,500 --> 01:03:39,990
+Này nhé, lũ chúng mày
+không biết động viên là cái gì à?
+
+777
+01:03:42,080 --> 01:03:43,500
+“Cảm ơn mày nhiều, Bert.”
+
+778
+01:03:43,860 --> 01:03:47,400
+“Món hầm ngon đấy, Bert.”
+Khó đến thế nào chứ?
+
+779
+01:03:49,730 --> 01:03:52,490
+Rắc thêm ít phân sóc là xong.
+
+780
+01:03:53,470 --> 01:03:55,800
+Ê, đấy là rượu Grog của tao!
+
+781
+01:03:58,410 --> 01:03:59,670
+Xin lỗi.
+
+782
+01:04:02,910 --> 01:04:07,350
+Ồ. Mùi vị này thật quá hoàn hảo.
+
+783
+01:04:07,940 --> 01:04:10,220
+Mở mồm ra mà nếm này.
+
+784
+01:04:10,540 --> 01:04:12,940
+Sao? Ngon chứ hả?
+
+785
+01:04:14,750 --> 01:04:17,270
+Thế nên tao mới là thằng nấu.
+
+786
+01:04:25,330 --> 01:04:29,380
+Bụng tao kêu ùng ục rồi.
+Kiếm cái gì ăn tạm đã.
+
+787
+01:04:29,540 --> 01:04:31,750
+Thịt tươi. Tao cần thịt tưoi!
+
+788
+01:04:36,090 --> 01:04:37,470
+Ố!
+
+789
+01:04:37,470 --> 01:04:40,480
+Bert! Bert, xem trong mũi tao
+chui ra con gì này!
+
+790
+01:04:40,690 --> 01:04:42,770
+Nó có đủ tay chân các kiểu!
+
+791
+01:04:43,040 --> 01:04:44,500
+Nó là gì vậy?
+
+792
+01:04:44,690 --> 01:04:48,080
+Tao không biết, nhưng tao
+không thích cái cách nó ngọ nguậy!
+
+793
+01:04:51,320 --> 01:04:54,530
+Vậy ngươi là cái gì?
+Một loại sóc khổng lồ à?
+
+794
+01:04:54,690 --> 01:04:56,490
+Tôi là một tên trộm, ờ-Hobbit!
+
+795
+01:04:56,670 --> 01:04:58,690
+Một tên Trộmobbit?
+
+796
+01:04:58,840 --> 01:05:00,540
+Ta nấu hắn được không?
+
+797
+01:05:00,690 --> 01:05:03,040
+Đáng thử đấy!
+
+798
+01:05:05,900 --> 01:05:11,080
+Hắn cũng chẳng bõ dính răng đâu.
+Nhất là khi đã lột da bỏ xương!
+
+799
+01:05:11,240 --> 01:05:14,230
+Khả năng là còn những tên
+Trộmobbit khác quanh đây.
+
+800
+01:05:14,390 --> 01:05:17,160
+Chắc sẽ đủ làm một cái bánh!
+
+801
+01:05:17,500 --> 01:05:19,860
+- Tóm lấy hắn!
+- Hắn nhanh quá!
+
+802
+01:05:20,940 --> 01:05:22,990
+Lại đây, tên tí hon này...
+
+803
+01:05:23,260 --> 01:05:24,720
+Bắt được rồi!
+
+804
+01:05:24,990 --> 01:05:28,390
+Còn tên đồng bọn loắt choắt nào
+của ngươi đang trốn không?
+
+805
+01:05:28,540 --> 01:05:29,540
+Không.
+
+806
+01:05:30,390 --> 01:05:33,240
+- Hắn nói dối.
+- Tôi không hề!
+
+807
+01:05:33,390 --> 01:05:36,370
+Cầm chân hắn đem hơ lên đống lửa.
+
+808
+01:05:36,540 --> 01:05:38,450
+Để hắn la hét trong đau đớn!
+
+809
+01:05:42,720 --> 01:05:43,790
+Thả cậu ta ra!
+
+810
+01:05:44,030 --> 01:05:45,370
+Cái gì?
+
+811
+01:05:46,090 --> 01:05:47,490
+Ta nói...
+
+812
+01:05:47,950 --> 01:05:49,360
+thả cậu ta ra.
+
+813
+01:06:11,990 --> 01:06:15,190
+Đánh vào chân chúng!
+
+814
+01:07:07,330 --> 01:07:08,710
+- Bilbo!
+- Đừng!
+
+815
+01:07:10,200 --> 01:07:12,010
+Bỏ vũ khí xuống...
+
+816
+01:07:12,790 --> 01:07:14,790
+không bọn ta xé xác hắn.
+
+817
+01:07:31,270 --> 01:07:33,130
+Sao phải mất công nấu nướng?!
+
+818
+01:07:33,290 --> 01:07:37,420
+Cứ ngồi đè lên cho bọn chúng
+nát như tương là được.
+
+819
+01:07:37,620 --> 01:07:41,930
+Phải rán sơ và nướng chúng
+với ít ngải đắng.
+
+820
+01:07:42,090 --> 01:07:43,690
+Có cần phải thế không?
+
+821
+01:07:43,840 --> 01:07:45,430
+Nghe cũng hấp dẫn đấy.
+
+822
+01:07:45,700 --> 01:07:48,280
+- Thả bọn ta ra, đồ quái vật!
+- Giỏi thì đánh nhau sòng phẳng.
+
+823
+01:07:48,940 --> 01:07:52,830
+Khỏi nêm gia vị đi, ta đâu có cả đêm!
+
+824
+01:07:52,990 --> 01:07:56,230
+Sắp bình minh rồi, làm nhanh đi!
+
+825
+01:07:56,390 --> 01:07:58,960
+Tao không thích bị hóa đá đâu.
+
+826
+01:08:01,550 --> 01:08:02,760
+Khoan đã!
+
+827
+01:08:03,040 --> 01:08:06,040
+Các ông đang phạm sai lầm lớn đấy.
+
+828
+01:08:06,220 --> 01:08:08,590
+Không nói lý được đâu,
+chúng đần độn lắm!
+
+829
+01:08:08,740 --> 01:08:11,240
+Đần độn? Thế chúng ta thì sao?
+
+830
+01:08:11,390 --> 01:08:14,050
+Ý tôi là, về vấn đề gia vị.
+
+831
+01:08:14,500 --> 01:08:17,080
+Gia vị thì làm sao?
+
+832
+01:08:17,230 --> 01:08:18,640
+Thế các ông đã ngửi họ chưa?
+
+833
+01:08:18,920 --> 01:08:22,480
+Sẽ cần một thứ nồng hơn cả ngải đắng
+mới khử hết được mùi đám này!
+
+834
+01:08:22,650 --> 01:08:23,410
+Đồ phản bội!
+
+835
+01:08:23,560 --> 01:08:25,820
+Ngươi thì biết gì về làm thịt Người Lùn!
+
+836
+01:08:26,260 --> 01:08:31,410
+Im đi, và để cho tên, ờ,
+Trộmobbit nói.
+
+837
+01:08:32,240 --> 01:08:35,220
+À, bí-bí quyết làm thịt
+Người Lùn là, ừm...
+
+838
+01:08:35,390 --> 01:08:36,430
+Sao?
+
+839
+01:08:36,590 --> 01:08:39,660
+- Mau lên, nói bí quyết coi?
+- Ừ, rồi.
+
+840
+01:08:39,820 --> 01:08:41,550
+Bí quyết là...
+
+841
+01:08:43,110 --> 01:08:45,010
+phải lột da họ trước!
+
+842
+01:08:47,270 --> 01:08:49,650
+Tom, đưa tao con dao lóc thịt.
+
+843
+01:08:49,810 --> 01:08:51,690
+Tôi sẽ lột da cậu!
+
+844
+01:08:51,850 --> 01:08:53,680
+Tôi sẽ nhớ mối thù này!
+
+845
+01:08:53,840 --> 01:08:56,220
+Đúng là ngớ ngẩn!
+
+846
+01:08:56,520 --> 01:08:58,890
+Tao ăn nguyên da hàng đống thứ rồi.
+
+847
+01:08:59,040 --> 01:09:01,560
+Cứ nuốt cả vào bụng,
+giày dép xơi hết!
+
+848
+01:09:02,260 --> 01:09:04,180
+Nói chí phải!
+
+849
+01:09:04,630 --> 01:09:07,570
+Ăn tươi bọn Người Lùn thì có sao.
+
+850
+01:09:10,120 --> 01:09:12,170
+Vừa ngon vừa giòn.
+
+851
+01:09:12,720 --> 01:09:15,230
+Đừng ăn tên đó, hắn mang bệnh đấy!
+
+852
+01:09:16,330 --> 01:09:17,290
+Hắn sao cơ?
+
+853
+01:09:17,450 --> 01:09:19,520
+Hắn bị nhiễm giun trong...
+
+854
+01:09:20,280 --> 01:09:21,390
+ống ruột.
+
+855
+01:09:24,010 --> 01:09:27,340
+Th-Thực ra, họ đều bị cả.
+Họ mang ký sinh trùng.
+
+856
+01:09:27,490 --> 01:09:29,930
+Rất đáng sợ. Tôi chắc chắn
+sẽ không mạo hiểm đâu.
+
+857
+01:09:30,590 --> 01:09:32,500
+Ký sinh trùng, hắn vừa nói
+ký sinh trùng à?
+
+858
+01:09:32,500 --> 01:09:34,290
+Bọn tôi làm gì có ký sinh trùng!
+
+859
+01:09:34,440 --> 01:09:36,080
+Cậu nhiễm ký sinh trùng thì có!
+
+860
+01:09:36,240 --> 01:09:38,060
+Cậu nói cái quái gì vậy?
+
+861
+01:09:41,490 --> 01:09:43,810
+Ký sinh trùng của tôi to bằng bắp tay!
+
+862
+01:09:43,810 --> 01:09:46,710
+Của tôi to nhất, nó là
+loài ký sinh khổng lồ!
+
+863
+01:09:48,300 --> 01:09:49,740
+- Đây cũng thế!
+- Phải, đều bị nhiễm!
+
+864
+01:09:49,910 --> 01:09:51,190
+Đúng vậy, nặng lắm!
+
+865
+01:09:51,310 --> 01:09:54,040
+Thế ngươi bảo ta làm sao với chúng?
+
+866
+01:09:54,240 --> 01:09:55,960
+Thả cả lũ đi ư?
+
+867
+01:09:56,330 --> 01:09:57,200
+À thì...
+
+868
+01:09:57,340 --> 01:09:59,660
+Ngươi nghĩ ta không biết
+ý đồ của ngươi à.
+
+869
+01:10:00,000 --> 01:10:04,160
+Con chồn nhỏ này
+cho chúng ta là đồ ngốc!
+
+870
+01:10:04,470 --> 01:10:06,170
+- Chồn á?
+- Ngốc á?
+
+871
+01:10:06,290 --> 01:10:09,190
+Bình minh sẽ bắt hết các ngươi!
+
+872
+01:10:10,610 --> 01:10:12,410
+- Tên nào kia?
+- Chả biết.
+
+873
+01:10:12,410 --> 01:10:13,640
+Ăn luôn hắn được không?
+
+874
+01:10:39,820 --> 01:10:42,100
+Bỏ cái chân ra khỏi lưng coi!
+
+875
+01:10:51,810 --> 01:10:54,010
+Mạn phép hỏi, ông đã đi đâu vậy?
+
+876
+01:10:54,160 --> 01:10:55,680
+Lo phía trước.
+
+877
+01:10:55,840 --> 01:10:57,050
+Thế vì sao ông quay lại?
+
+878
+01:10:57,180 --> 01:10:59,050
+Để liệu phía sau.
+
+879
+01:10:59,980 --> 01:11:01,260
+Quả là nguy khốn.
+
+880
+01:11:01,500 --> 01:11:02,940
+Nhưng tất cả đều đã bình an.
+
+881
+01:11:03,100 --> 01:11:04,610
+Không nhờ gì được tên trộm của ông.
+
+882
+01:11:05,990 --> 01:11:08,150
+Cậu ta đã khéo léo kéo dài thời gian.
+
+883
+01:11:09,400 --> 01:11:11,500
+Chẳng ai trong nhóm của ngài
+nghĩ ra điều đó.
+
+884
+01:11:13,960 --> 01:11:16,930
+Chúng hẳn đã xuống đây từ
+cao nguyên Ettenmoors.
+
+885
+01:11:17,090 --> 01:11:19,880
+Từ khi nào mà bọn Troll núi
+tiến xa như vậy về phía Nam?
+
+886
+01:11:20,040 --> 01:11:21,920
+Chưa từng hàng thế kỷ nay rồi.
+
+887
+01:11:22,840 --> 01:11:26,290
+Chỉ từ khi một thế lực tà ác hơn chúng
+thống trị những vùng đất đó.
+
+888
+01:11:32,120 --> 01:11:35,190
+Chúng không thể di chuyển
+vào ban ngày.
+
+889
+01:11:36,200 --> 01:11:38,540
+Phải có một cái hang gần đây.
+
+890
+01:11:49,240 --> 01:11:51,590
+Mùi gì mà hôi thế?!
+
+891
+01:11:51,740 --> 01:11:54,450
+Đây là một cái hốc trữ của Troll.
+
+892
+01:11:55,270 --> 01:11:57,390
+Đừng động chạm bừa bãi.
+
+893
+01:12:10,300 --> 01:12:13,460
+Bỏ nó trơ trọi ở đây thì cũng tiếc.
+
+894
+01:12:14,790 --> 01:12:16,150
+Ai cũng có thể lấy.
+
+895
+01:12:16,350 --> 01:12:17,460
+Phải.
+
+896
+01:12:17,660 --> 01:12:18,870
+Nori.
+
+897
+01:12:19,340 --> 01:12:20,890
+Lấy xẻng.
+
+898
+01:12:38,080 --> 01:12:40,190
+Kiếm này không thể do Troll chế tạo.
+
+899
+01:12:46,080 --> 01:12:49,770
+Hay bất kỳ một thợ rèn
+loài Người nào khác.
+
+900
+01:12:55,010 --> 01:13:00,080
+Chúng được rèn đúc tại Gondolin,
+bởi các Thượng Tiên của Kỷ thứ Nhất.
+
+901
+01:13:01,400 --> 01:13:04,150
+Ngài sẽ không tìm được
+một lưỡi kiếm tốt hơn đâu.
+
+902
+01:13:04,400 --> 01:13:12,400
+{\an8}<font size="10"><font color="#ffc90d"><i>~ High Elf : Các Tiên từng tới vùng đất thánh Valinor, và đã chiêm ngưỡng ánh sáng hai Cây thần. ~</i></font></font>
+
+903
+01:13:17,500 --> 01:13:18,670
+Đặt xuống.
+
+904
+01:13:20,270 --> 01:13:21,820
+Rồi, nào.
+
+905
+01:13:30,270 --> 01:13:33,040
+Chúng ta sẽ ký gửi dài hạn.
+
+906
+01:13:33,540 --> 01:13:35,260
+Ra khỏi nơi hôi hám này thôi.
+
+907
+01:13:35,600 --> 01:13:36,960
+Nào, đi thôi.
+
+908
+01:13:37,420 --> 01:13:39,400
+Bofur, Glóin, Nori.
+
+909
+01:13:58,850 --> 01:14:00,400
+Bilbo.
+
+910
+01:14:02,240 --> 01:14:03,240
+Đây.
+
+911
+01:14:03,430 --> 01:14:05,400
+Nó vừa cỡ cậu.
+
+912
+01:14:11,470 --> 01:14:13,000
+Tôi không nhận nó được.
+
+913
+01:14:13,360 --> 01:14:16,740
+Lưỡi dao được rèn bởi Tiên,
+điều đó tức là...
+
+914
+01:14:17,040 --> 01:14:20,510
+nó sẽ phát sáng màu lam
+khi lũ Orc hay Goblin ở gần.
+
+915
+01:14:21,540 --> 01:14:24,010
+Tôi chưa từng dùng kiếm trong đời.
+
+916
+01:14:24,190 --> 01:14:26,180
+Ta cũng hy vọng
+cậu không bao giờ phải dùng đến.
+
+917
+01:14:26,900 --> 01:14:28,760
+Nhưng nếu bắt buộc, hãy nhớ rằng:...
+
+918
+01:14:30,030 --> 01:14:35,960
+Trí dũng đích thực, không phải là biết
+khi nào nên lấy một mạng...
+
+919
+01:14:35,960 --> 01:14:38,510
+mà là khi nên tha một mạng.
+
+920
+01:14:43,560 --> 01:14:45,240
+Có gì đó đang tới!
+
+921
+01:14:45,400 --> 01:14:47,540
+- Gandalf.
+- Đi sát vào nhau!
+
+922
+01:14:48,260 --> 01:14:49,390
+Khẩn trương lên!
+
+923
+01:14:50,080 --> 01:14:51,790
+Sẵn sàng vũ khí!
+
+924
+01:15:09,170 --> 01:15:12,650
+Trộm cắp! Hỏa hoạn! Giết người!
+
+925
+01:15:14,390 --> 01:15:16,410
+Radagast.
+
+926
+01:15:17,040 --> 01:15:19,810
+Là Radagast Áo Nâu!
+
+927
+01:15:22,860 --> 01:15:24,690
+Ông làm cái quái gì ở đây?
+
+928
+01:15:24,830 --> 01:15:26,280
+Tôi tìm ông, Gandalf.
+
+929
+01:15:26,470 --> 01:15:30,130
+Không ổn.
+Rất rất không ổn rồi!
+
+930
+01:15:30,290 --> 01:15:31,620
+Sao?
+
+931
+01:15:37,020 --> 01:15:38,960
+Chờ tôi một phút, ừm...
+
+932
+01:15:39,120 --> 01:15:42,220
+Ôi! Tôi vừa nghĩ đến,
+nhưng giờ quên mất rồi.
+
+933
+01:15:42,370 --> 01:15:45,390
+Nó vừa ở ngay đây,
+trên đầu lưỡi thôi mà!
+
+934
+01:15:46,400 --> 01:15:49,400
+Ồ! Hóa ra không phải là nghĩ!
+
+935
+01:15:49,690 --> 01:15:51,390
+Nó chỉ là...
+
+936
+01:15:52,470 --> 01:15:53,850
+con bọ que.
+
+937
+01:15:58,240 --> 01:16:01,250
+Cánh rừng Xanh đang ốm, Gandalf à.
+
+938
+01:16:02,560 --> 01:16:06,550
+Bóng tối đã xâm chiếm nơi đó.
+Không loài vật nào sinh sống được.
+
+939
+01:16:07,340 --> 01:16:09,110
+Trừ những thứ ma quái.
+
+940
+01:16:09,460 --> 01:16:11,990
+Không khí nồng nặc mùi thối rữa.
+
+941
+01:16:12,470 --> 01:16:14,250
+Nhưng tệ hơn cả là những cái mạng.
+
+942
+01:16:14,440 --> 01:16:16,300
+Mạng? Ý ông là sao?
+
+943
+01:16:16,690 --> 01:16:20,500
+Nhện, Gandalf à.
+Những con nhện khổng lồ.
+
+944
+01:16:20,660 --> 01:16:25,010
+Dòng giống của Ungoliant,
+tôi thề trên danh dự phù thủy.
+
+945
+01:16:25,330 --> 01:16:27,190
+Tôi đã lần theo dấu vết.
+
+946
+01:16:27,500 --> 01:16:30,390
+Chúng tới từ... Dol Guldur.
+
+947
+01:16:33,150 --> 01:16:34,680
+Dol Guldur?
+
+948
+01:16:35,410 --> 01:16:38,460
+Nhưng pháo đài cổ đó đã bỏ hoang rồi.
+
+949
+01:16:39,400 --> 01:16:40,890
+Không đâu, Gandalf.
+
+950
+01:16:42,550 --> 01:16:44,120
+Không phải vậy đâu.
+
+951
+01:16:52,700 --> 01:16:55,700
+Một sức mạnh hắc ám ẩn náu tại đó...
+
+952
+01:16:55,850 --> 01:16:59,410
+thứ tôi chưa từng thấy trong đời.
+
+953
+01:17:01,000 --> 01:17:05,320
+Đó là bóng ma của nỗi kinh hoàng xa xưa.
+
+954
+01:17:11,390 --> 01:17:17,040
+Kẻ có thể triệu gọi
+những linh hồn của người chết.
+
+955
+01:17:33,670 --> 01:17:35,820
+Tôi đã thấy hắn, Gandalf à.
+
+956
+01:17:36,190 --> 01:17:38,720
+Từ trong bóng tối...
+
+957
+01:17:39,170 --> 01:17:43,240
+Kẻ triệu hồn đã xuất hiện!
+
+958
+01:17:43,400 --> 01:17:45,830
+Radagast.
+
+959
+01:17:50,720 --> 01:17:52,640
+Mau lên! Mau lên!
+
+960
+01:17:55,560 --> 01:17:57,050
+Đợi ta!
+
+961
+01:18:10,820 --> 01:18:12,070
+Xin lỗi.
+
+962
+01:18:12,240 --> 01:18:14,400
+Dùng chút thuốc lá lão Toby đi.
+
+963
+01:18:14,890 --> 01:18:16,410
+Sẽ giúp ông trấn tĩnh lại.
+
+964
+01:18:20,110 --> 01:18:21,040
+Thở ra.
+
+965
+01:18:28,840 --> 01:18:31,450
+Nào, Kẻ triệu hồn đó.
+
+966
+01:18:31,650 --> 01:18:33,350
+Ông chắc chắn chứ?
+
+967
+01:18:46,770 --> 01:18:48,390
+Thứ đó...
+
+968
+01:18:48,530 --> 01:18:52,640
+không thể tới từ thế giới người sống.
+
+969
+01:18:58,530 --> 01:19:01,170
+Tiếng sói tru à?
+Có... Có sói ở đây không vậy?
+
+970
+01:19:01,370 --> 01:19:02,490
+Sói ư?
+
+971
+01:19:02,690 --> 01:19:04,450
+Không, đó không phải sói.
+
+972
+01:19:10,610 --> 01:19:11,650
+Kíli, cung!
+
+973
+01:19:18,670 --> 01:19:20,230
+Lũ Warg do thám!
+
+974
+01:19:20,390 --> 01:19:23,330
+- Bầy Orc sẽ ở cách đây không xa.
+- Bầy Orc cơ á?
+
+975
+01:19:23,480 --> 01:19:26,480
+Ngài đã cho ai biết
+về sứ mệnh này, ngoài gia tộc?
+
+976
+01:19:26,690 --> 01:19:28,510
+- Không ai cả.
+- Ngài đã tiết lộ với ai?!
+
+977
+01:19:28,630 --> 01:19:29,980
+Không ai cả, ta thề!
+
+978
+01:19:30,800 --> 01:19:33,870
+- Chuyện gì đang xảy ra vậy?
+- Ngài đang bị săn đuổi.
+
+979
+01:19:35,070 --> 01:19:36,780
+Chúng ta phải mau ra khỏi đây.
+
+980
+01:19:36,780 --> 01:19:39,210
+Không được! Không còn ngựa nữa.
+
+981
+01:19:39,440 --> 01:19:40,840
+Chúng bỏ chạy hết rồi.
+
+982
+01:19:41,040 --> 01:19:42,370
+Tôi sẽ đánh lạc hướng chúng.
+
+983
+01:19:42,530 --> 01:19:45,630
+Đó là lũ Warg vùng Gundabad.
+Chúng sẽ đuổi kịp ông!
+
+984
+01:19:45,760 --> 01:19:48,720
+Còn đây là thỏ Rhosgobel.
+
+985
+01:19:48,870 --> 01:19:51,310
+Tôi rất muốn xem chúng thử.
+
+986
+01:20:03,210 --> 01:20:05,480
+Nhào vô kiếm ăn!
+
+987
+01:20:14,810 --> 01:20:16,290
+Đi thôi!
+
+988
+01:20:21,390 --> 01:20:29,390
+{\an8}<font size="10"><font color="#ffc90d"><i>~ Warg: Loài quái vật lai tạp từ hai giống loài, to hơn chó sói rất nhiều. Là đồng minh với Orc. ~</i></font></font>
+
+989
+01:20:44,440 --> 01:20:45,400
+Sát vào nhau.
+
+990
+01:20:45,530 --> 01:20:46,370
+Đi!
+
+991
+01:20:57,760 --> 01:20:59,190
+Ori, đừng!
+
+992
+01:20:59,190 --> 01:21:00,280
+Quay lại.
+
+993
+01:21:03,380 --> 01:21:05,920
+Tiếp tục, nhanh nào! Khẩn trương lên.
+
+994
+01:21:07,990 --> 01:21:10,620
+Ông đang dẫn chúng tôi đi đâu vậy?
+
+995
+01:22:06,150 --> 01:22:09,010
+<font color="#ffc90d">Bọn Lùn khốn kiếp ở đằng kia!</font>
+
+996
+01:22:11,230 --> 01:22:12,940
+<font color="#ffc90d">Đuổi theo chúng!</font>
+
+997
+01:22:18,600 --> 01:22:19,650
+Mau!
+
+998
+01:22:19,790 --> 01:22:21,030
+Chạy!
+
+999
+01:22:37,920 --> 01:22:39,400
+Chúng tới kia rồi!
+
+1000
+01:22:41,220 --> 01:22:43,470
+Lối này! Mau lên!
+
+1001
+01:22:54,690 --> 01:22:56,280
+Bên này chúng cũng đang tới!
+
+1002
+01:22:57,230 --> 01:22:59,840
+Kíli! Bắn chúng!
+
+1003
+01:23:04,190 --> 01:23:05,950
+Ta bị bao vây rồi!
+
+1004
+01:23:10,040 --> 01:23:11,770
+Gandalf đâu?
+
+1005
+01:23:11,770 --> 01:23:13,730
+Ông ta bỏ mặc chúng ta rồi!
+
+1006
+01:23:20,040 --> 01:23:22,080
+Giữ vị trí!
+
+1007
+01:23:31,640 --> 01:23:33,020
+Lối này, đồ ngốc!
+
+1008
+01:23:33,940 --> 01:23:35,140
+Đi mau!
+
+1009
+01:23:37,320 --> 01:23:39,400
+Tất cả khẩn trương lên!
+
+1010
+01:23:41,590 --> 01:23:42,980
+Vào đi!
+
+1011
+01:23:53,370 --> 01:23:54,450
+Chín, mười...
+
+1012
+01:23:56,800 --> 01:23:58,800
+Kíli! Lùi mau!
+
+1013
+01:24:38,890 --> 01:24:40,250
+Tiên tộc.
+
+1014
+01:24:43,150 --> 01:24:45,490
+Không thể thấy được
+con đường này dẫn tới đâu.
+
+1015
+01:24:45,650 --> 01:24:46,940
+Ta sẽ đi theo nó hay không?
+
+1016
+01:24:47,100 --> 01:24:48,530
+Tất nhiên là theo rồi!
+
+1017
+01:24:52,340 --> 01:24:54,570
+Lựa chọn sáng suốt đấy.
+
+1018
+01:25:17,780 --> 01:25:18,570
+Gandalf?
+
+1019
+01:25:19,200 --> 01:25:20,550
+Ta đang ở đâu vậy?
+
+1020
+01:25:20,680 --> 01:25:23,110
+- Cậu cảm thấy nó ư?
+- Vâng.
+
+1021
+01:25:23,760 --> 01:25:25,540
+Cảm giác như...
+
+1022
+01:25:26,470 --> 01:25:27,620
+như là ma thuật vậy.
+
+1023
+01:25:27,840 --> 01:25:29,970
+Chính là vậy mà.
+
+1024
+01:25:30,640 --> 01:25:32,790
+Một phép thuật hùng mạnh.
+
+1025
+01:25:34,360 --> 01:25:35,810
+Phía trước có ánh sáng.
+
+1026
+01:26:16,920 --> 01:26:19,590
+Thung lũng Imladris.
+
+1027
+01:26:20,930 --> 01:26:24,230
+Trong Ngôn ngữ chung,
+nó được gọi bằng một cái tên khác.
+
+1028
+01:26:24,990 --> 01:26:26,990
+Rivendell.
+
+1029
+01:26:24,990 --> 01:26:28,990
+{\an8}<font size="10"><font color="#ffc90d"><i>~ Rivendell : Thung lũng dưới khe nứt ~</i></font></font>
+
+1030
+01:26:29,260 --> 01:26:33,470
+Mái ấm cuối cùng nơi phía Đông biển cả.
+
+1031
+01:26:35,680 --> 01:26:37,760
+Vậy ra tất cả là kế hoạch của ông.
+
+1032
+01:26:38,550 --> 01:26:40,800
+Để ta phải nương náu với kẻ thù.
+
+1033
+01:26:40,950 --> 01:26:44,300
+Ngài không có kẻ thù nào ở đây,
+thưa Thorin Khiên sồi.
+
+1034
+01:26:44,450 --> 01:26:48,390
+Chỉ có mình ngài là người
+mang nặng thù hằn tại chốn này mà thôi.
+
+1035
+01:26:49,670 --> 01:26:53,830
+Ông cho rằng Tiên tộc sẽ cầu phúc
+cho sứ mệnh của chúng ta ư?
+
+1036
+01:26:53,990 --> 01:26:55,490
+Chúng sẽ cố gắng ngăn cản.
+
+1037
+01:26:55,640 --> 01:26:57,080
+Tất nhiên họ sẽ làm vậy.
+
+1038
+01:26:57,240 --> 01:26:59,660
+Nhưng chúng ta cũng có
+những câu hỏi cần giải đáp.
+
+1039
+01:27:03,140 --> 01:27:06,730
+Nếu muốn thành công, ta phải
+xử lý việc này một cách khôn khéo...
+
+1040
+01:27:06,890 --> 01:27:08,330
+với thái độ tôn trọng...
+
+1041
+01:27:08,500 --> 01:27:10,700
+và không ít vẻ thanh nhã.
+
+1042
+01:27:11,250 --> 01:27:14,670
+Chính vì vậy ngài sẽ
+để phần thương thảo cho ta.
+
+1043
+01:27:36,230 --> 01:27:44,130
+{\an8}<font size="10"><font color="#ffc90d"><i>~ Elf : Tiên tộc, cư dân đầu tiên của Trung Địa. Là giống loài cao quý, bất lão, trường thọ.</i></font></font>
+
+1044
+01:27:44,330 --> 01:27:52,230
+{\an8}<font size="10"><font color="#ffc90d"><i>Cách gọi “Tiên” cũng phần nào mang tính tương đối, bởi Elf vẫn khá gần với “con người”. ~</i></font></font>
+
+1045
+01:28:11,670 --> 01:28:12,900
+Mithrandir.
+
+1046
+01:28:15,020 --> 01:28:16,280
+Lindir.
+
+1047
+01:28:17,040 --> 01:28:18,490
+Đề phòng hắn.
+
+1048
+01:28:19,370 --> 01:28:21,370
+<font color="#ffc90d">Chúng tôi được tin ông tới Thung lũng.</font>
+
+1049
+01:28:21,960 --> 01:28:23,820
+Ta cần nói chuyện với chúa tể Elrond.
+
+1050
+01:28:23,980 --> 01:28:25,950
+Chúa tể Elrond hiện không có ở đây.
+
+1051
+01:28:26,290 --> 01:28:27,730
+Không ư?
+
+1052
+01:28:29,030 --> 01:28:30,160
+Ngài ấy ở đâu?
+
+1053
+01:28:44,530 --> 01:28:46,510
+Siết chặt đội hình!
+
+1054
+01:29:10,640 --> 01:29:11,750
+Gandalf!
+
+1055
+01:29:11,960 --> 01:29:13,450
+Chúa tể Εlrоnd.
+
+1056
+01:29:15,190 --> 01:29:16,920
+<font color="#ffc90d">Bạn của tôi!</font>
+
+1057
+01:29:17,210 --> 01:29:18,650
+<font color="#ffc90d">Ngài vừa đi đâu vậy?</font>
+
+1058
+01:29:18,850 --> 01:29:22,380
+<font color="#ffc90d">Chúng tôi vừa săn đuổi
+một bầy Orc tới từ phương Nam.</font>
+
+1059
+01:29:24,630 --> 01:29:27,810
+<font color="#ffc90d">Tiêu diệt được một số tên
+gần Con đường bí mật.</font>
+
+1060
+01:29:30,750 --> 01:29:34,490
+Thật lạ khi lũ Orc tới gần
+địa giới của chúng ta đến vậy.
+
+1061
+01:29:35,030 --> 01:29:38,510
+Ai hoặc thứ gì đó đã thu hút chúng.
+
+1062
+01:29:39,030 --> 01:29:40,840
+Chắc hẳn là chúng tôi rồi.
+
+1063
+01:29:46,450 --> 01:29:49,240
+Chào mừng Thorin, con trai của Thráin.
+
+1064
+01:29:50,050 --> 01:29:52,240
+Tôi không nghĩ chúng ta đã gặp mặt.
+
+1065
+01:29:52,980 --> 01:29:55,240
+Cậu mang dáng dấp của ông nội.
+
+1066
+01:29:56,120 --> 01:29:58,720
+Ta có quen Thrór khi ông ấy
+còn trị vì dưới gầm núi.
+
+1067
+01:29:58,870 --> 01:30:01,750
+Vậy ư? Tôi chưa từng nghe cụ nhắc tới.
+
+1068
+01:30:13,270 --> 01:30:15,610
+Lão ta nói cái gì vậy?
+
+1069
+01:30:15,790 --> 01:30:17,820
+Chửi xéo chúng ta ư?
+
+1070
+01:30:18,060 --> 01:30:22,110
+Không thưa ông Glóin,
+ngài ấy mời các ông dùng bữa.
+
+1071
+01:30:28,600 --> 01:30:29,820
+À...
+
+1072
+01:30:30,140 --> 01:30:32,040
+Vậy thì dẫn đường đi.
+
+1073
+01:30:34,650 --> 01:30:37,570
+Thử đi. Một miếng thôi.
+
+1074
+01:30:37,570 --> 01:30:39,300
+Em không thích rau xanh.
+
+1075
+01:30:40,430 --> 01:30:41,460
+Thịt đâu?
+
+1076
+01:30:42,920 --> 01:30:44,630
+Họ có khoai tây chiên không?
+
+1077
+01:30:45,810 --> 01:30:49,720
+Ngài chu đáo quá, tôi đây lại
+chẳng ăn vận phù hợp để dùng bữa.
+
+1078
+01:30:49,870 --> 01:30:51,620
+Ông lúc nào chẳng vậy.
+
+1079
+01:31:10,790 --> 01:31:14,120
+Nhìn mấy Tiên nữ đúng là
+chẳng cảm tình nổi, gầy quá.
+
+1080
+01:31:14,470 --> 01:31:17,820
+Gò má thì cao, da lại quá mịn.
+
+1081
+01:31:18,020 --> 01:31:19,980
+Chẳng có tí râu ria nào.
+
+1082
+01:31:20,130 --> 01:31:23,190
+Cơ mà, em đằng kia cũng không tệ.
+
+1083
+01:31:25,020 --> 01:31:26,730
+Đó không phải Tiên nữ.
+
+1084
+01:31:38,680 --> 01:31:39,800
+Hay thật.
+
+1085
+01:31:51,490 --> 01:31:53,810
+Đây là thanh Orcrist -...
+
+1086
+01:31:54,040 --> 01:31:55,610
+“Trảm đôi yêu nghiệt.”
+
+1087
+01:31:55,970 --> 01:32:00,610
+Một lưỡi kiếm lừng danh, được rèn
+bởi các Thượng Tiên phương Tây.
+
+1088
+01:32:01,370 --> 01:32:02,900
+Dòng tộc của ta.
+
+1089
+01:32:03,630 --> 01:32:05,600
+Chúc cho nó vì cậu mà phụng sự.
+
+1090
+01:32:05,850 --> 01:32:08,800
+Còn đây là Glamdring -...
+
+1091
+01:32:09,630 --> 01:32:13,510
+“Đập tan kẻ thù”,
+thanh kiếm của vua xứ Gondolin.
+
+1092
+01:32:13,630 --> 01:32:16,200
+Những lưỡi gươm này được chế tạo
+cho các cuộc chiến với Goblin từ...
+
+1093
+01:32:16,370 --> 01:32:17,750
+Thôi khỏi đi, anh bạn.
+
+1094
+01:32:17,890 --> 01:32:21,310
+Đao kiếm được đặt tên theo chiến tích
+của chúng trong cuộc chiến.
+
+1095
+01:32:21,450 --> 01:32:23,730
+Ý ông là kiếm của tôi
+chưa từng chiến đấu?
+
+1096
+01:32:24,270 --> 01:32:26,270
+Tôi còn không chắc nó là kiếm nữa.
+
+1097
+01:32:27,640 --> 01:32:29,650
+Trông giống dao rọc thư hơn.
+
+1098
+01:32:30,880 --> 01:32:32,300
+Làm sao ông có được chúng?
+
+1099
+01:32:32,450 --> 01:32:35,970
+Chúng tôi tìm được tại một hốc trữ
+của Troll trên Đại Lộ phía Đông...
+
+1100
+01:32:36,130 --> 01:32:39,350
+không lâu trước khi bị lũ Orc phục kích.
+
+1101
+01:32:39,550 --> 01:32:43,680
+Vậy mọi người đang làm gì
+trên Đại Lộ phía Đông?
+
+1102
+01:32:44,580 --> 01:32:45,780
+Mạn phép.
+
+1103
+01:32:53,440 --> 01:32:56,210
+Mười ba Người Lùn và một Bán nhân.
+
+1104
+01:32:56,770 --> 01:32:59,700
+Nhóm đồng hành kì lạ quá đấy, Gandalf.
+
+1105
+01:32:59,860 --> 01:33:02,640
+Họ là dòng dõi của nhà Durin.
+
+1106
+01:33:03,010 --> 01:33:04,900
+Đều là người cao quý, tử tế.
+
+1107
+01:33:05,080 --> 01:33:07,150
+Rất có văn hóa.
+
+1108
+01:33:08,220 --> 01:33:09,820
+Say mê nghệ thuật.
+
+1109
+01:33:09,940 --> 01:33:11,760
+Đổi nhạc đi coi.
+
+1110
+01:33:11,920 --> 01:33:13,570
+Cứ như ở đám ma vậy.
+
+1111
+01:33:13,810 --> 01:33:14,940
+Có ai chết à?
+
+1112
+01:33:15,060 --> 01:33:17,590
+Được rồi mọi người, thế này đi.
+
+1113
+01:33:17,615 --> 01:33:22,615
+{\an8}<font size="10"><font color="#ffc90d"><i>~ The Man in the Moon Stayed Up Too Late ~</i></font></font>
+
+1114
+01:33:21,270 --> 01:33:25,260
+♪ Có... quán...
+
+1115
+01:33:25,370 --> 01:33:27,510
+♪ trọ, này là có,
+có chốn đây một tệ quán...
+
+1116
+01:33:27,620 --> 01:33:29,270
+♪ nằm dưới ngọn đồi xám đen.
+
+1117
+01:33:29,500 --> 01:33:31,860
+♪ Tại đó trứ danh món bia sẫm nâu...
+
+1118
+01:33:32,010 --> 01:33:35,610
+♪ mà Gã trên Cung Trăng chính hắn
+đích thân xuống nốc một đêm đã đời.
+
+1119
+01:33:35,760 --> 01:33:40,340
+♪ Ô, chú mèo ngà say của gã coi ngựa đây
+đang chơi vĩ cầm ngũ dây.
+
+1120
+01:33:40,850 --> 01:33:45,430
+♪ Đàn xuống kéo lên cây vĩ lướt êm,
+liền ngân cao vút.
+
+1121
+01:33:45,590 --> 01:33:49,000
+♪ Nay rừ rừ trầm.
+
+1122
+01:33:49,890 --> 01:33:52,240
+♪ Cuối chú đu đưa quanh trung nhịp.
+
+1123
+01:33:52,410 --> 01:33:55,320
+♪ Đây, chú mèo đàn vi-ô-lông
+kéo "Hey Diddle Diddle"...
+
+1124
+01:33:55,420 --> 01:33:57,030
+♪ kẻ chết cũng thức giấc ngay.
+
+1125
+01:33:57,320 --> 01:33:59,200
+♪ Vừa réo lại vừa chơi,
+tiết tấu chú bỗng nhanh...
+
+1126
+01:33:59,360 --> 01:34:01,090
+♪ và rồi ông chủ quán
+lay Gã trên Cung Trăng...
+
+1127
+01:34:01,160 --> 01:34:03,090
+♪ “Quá ba giờ đêm rồi này.”
+
+1128
+01:34:11,420 --> 01:34:13,580
+Việc này không liên quan đến Tiên tộc.
+
+1129
+01:34:13,730 --> 01:34:16,480
+Ôi trời. Thorin, hãy đưa bản đồ ra đi!
+
+1130
+01:34:16,640 --> 01:34:18,730
+Đó là di vật của dân tộc tôi.
+
+1131
+01:34:18,880 --> 01:34:20,710
+Tôi phải bảo vệ nó...
+
+1132
+01:34:21,100 --> 01:34:22,470
+cùng những bí mật trong đó.
+
+1133
+01:34:22,610 --> 01:34:25,170
+Sao Người Lùn các ngài
+lại cứng đầu như vậy!
+
+1134
+01:34:25,510 --> 01:34:28,300
+Chính sự ngạo mạn
+sẽ đánh đổ ngài đấy.
+
+1135
+01:34:28,660 --> 01:34:32,960
+Ngài đang đứng bên một trong vài người
+hiếm hoi tại Trung Địa đọc được bản đồ đó.
+
+1136
+01:34:33,110 --> 01:34:35,230
+Hãy trao nó cho Chúa tể Elrond!
+
+1137
+01:34:42,410 --> 01:34:43,980
+Thorin, đừng.
+
+1138
+01:34:53,630 --> 01:34:55,130
+Erebor.
+
+1139
+01:34:56,590 --> 01:35:00,210
+Cậu muốn biết điều gì
+từ bản đồ này?
+
+1140
+01:35:01,470 --> 01:35:03,400
+Tìm hiểu văn tự là chính thôi.
+
+1141
+01:35:03,620 --> 01:35:07,800
+Ngài biết đấy, những cổ vật như vậy
+đôi khi mang những ký tự ẩn.
+
+1142
+01:35:13,800 --> 01:35:16,610
+Ngài vẫn đọc được ngôn ngữ cổ
+của Người Lùn chứ?
+
+1143
+01:35:22,200 --> 01:35:23,990
+“Cirth ithil.”
+
+1144
+01:35:24,630 --> 01:35:26,500
+Cổ tự Mặt trăng.
+
+1145
+01:35:27,310 --> 01:35:29,000
+Ra là vậy.
+
+1146
+01:35:29,820 --> 01:35:31,690
+Nó rất dễ bị bỏ qua.
+
+1147
+01:35:32,030 --> 01:35:35,820
+Trong trường hợp này, thì đúng.
+Cổ tự Mặt trăng chỉ có thể được đọc...
+
+1148
+01:35:35,980 --> 01:35:40,750
+dưới ánh trăng có cùng hình dáng
+và cùng mùa với ngày mà chúng được viết.
+
+1149
+01:35:41,530 --> 01:35:43,300
+Ông đọc được chứ?
+
+1150
+01:35:47,850 --> 01:35:51,030
+Những chữ rune này được viết
+vào một đêm Hạ chí...
+
+1151
+01:35:51,180 --> 01:35:55,420
+dưới ánh sáng Mặt trăng khuyết
+gần hai trăm năm trước.
+
+1152
+01:35:55,940 --> 01:35:58,850
+Có vẻ như cậu tới Rivendell
+là điều đã định.
+
+1153
+01:35:59,730 --> 01:36:01,890
+Vận mệnh ủng hộ cậu, Thorin Khiên sồi.
+
+1154
+01:36:02,040 --> 01:36:05,290
+Cũng ánh trăng đó đang chiếu sáng đêm nay.
+
+1155
+01:36:24,620 --> 01:36:29,320
+“Đứng bên tảng đá xám
+khi con chim hoét gõ cửa...
+
+1156
+01:36:29,480 --> 01:36:34,130
+và ánh sáng cuối cùng của ngày Durin...
+
+1157
+01:36:34,290 --> 01:36:37,590
+sẽ chiếu sáng lỗ khóa.”
+
+1158
+01:36:37,760 --> 01:36:38,680
+Ngày Durin?
+
+1159
+01:36:38,830 --> 01:36:40,930
+Đó là ngày đầu năm mới
+của Người Lùn...
+
+1160
+01:36:41,080 --> 01:36:45,400
+khi Mặt trăng cuối Thu và Mặt trời
+đầu Đông cùng xuất hiện trên bầu trời.
+
+1161
+01:36:45,560 --> 01:36:47,000
+Quả là tin xấu.
+
+1162
+01:36:47,600 --> 01:36:50,160
+Đã gần quá Hạ,
+ngày Durin không còn xa nữa.
+
+1163
+01:36:50,320 --> 01:36:51,680
+Chúng ta vẫn còn thời gian.
+
+1164
+01:36:51,840 --> 01:36:54,370
+- Thời gian để làm gì?
+- Để tìm lối vào.
+
+1165
+01:36:54,530 --> 01:36:58,230
+Ta phải có mặt tại chính xác
+địa điểm và thời khắc đó.
+
+1166
+01:36:58,400 --> 01:37:02,420
+Chỉ có như vậy
+ta mới mở được cánh cửa.
+
+1167
+01:37:02,590 --> 01:37:05,920
+Vậy ra đây là mục đích của cậu.
+Để vào trong lòng núi.
+
+1168
+01:37:06,960 --> 01:37:08,120
+Vậy thì sao?
+
+1169
+01:37:08,270 --> 01:37:11,250
+Một số người cho đó
+là ý tưởng thiếu khôn ngoan.
+
+1170
+01:37:12,720 --> 01:37:14,020
+Ý ngài là sao?
+
+1171
+01:37:15,470 --> 01:37:19,880
+Ông không phải là vệ thần duy nhất
+trông coi Trung Địa này.
+
+1172
+01:37:44,890 --> 01:37:48,050
+<font color="#ffc90d">Bọn Lùn, thưa chủ nhân...</font>
+
+1173
+01:37:49,890 --> 01:37:51,890
+<font color="#ffc90d">chúng tôi đã mất dấu chúng.</font>
+
+1174
+01:37:55,090 --> 01:37:59,210
+<font color="#ffc90d">Bị lũ Tiên rác rưởi phục kích, nên...</font>
+
+1175
+01:37:59,220 --> 01:38:02,920
+<font color="#ffc90d">Ta không cần lý do của ngươi.</font>
+
+1176
+01:38:08,820 --> 01:38:13,110
+<font color="#ffc90d">Ta cần thủ cấp tên vua Người Lùn!</font>
+
+1177
+01:38:13,120 --> 01:38:14,880
+<font color="#ffc90d">Chúng tôi bị áp đảo...</font>
+
+1178
+01:38:15,270 --> 01:38:17,360
+<font color="#ffc90d">không thể làm gì hơn.</font>
+
+1179
+01:38:17,780 --> 01:38:20,860
+<font color="#ffc90d">Tôi vất vả lắm mới chạy thoát.</font>
+
+1180
+01:38:21,620 --> 01:38:24,060
+<font color="#ffc90d">Lẽ ra ngươi đã phải...</font>
+
+1181
+01:38:25,240 --> 01:38:26,750
+<font color="#ffc90d">dùng mạng chuộc tội.</font>
+
+1182
+01:38:46,740 --> 01:38:52,390
+<font color="#ffc90d">Bọn Lùn cặn bã sẽ sớm ra mặt thôi.</font>
+
+1183
+01:38:54,030 --> 01:38:55,390
+<font color="#ffc90d">Hãy loan tin...</font>
+
+1184
+01:38:56,590 --> 01:38:59,620
+<font color="#ffc90d">treo thưởng cho thủ cấp của chúng.</font>
+
+1185
+01:40:18,920 --> 01:40:20,940
+Không nhập hội với bạn cậu sao?
+
+1186
+01:40:23,260 --> 01:40:25,130
+Họ cũng chẳng để ý đâu.
+
+1187
+01:40:28,490 --> 01:40:32,260
+Thực sự thì hầu hết bọn họ
+đều cho rằng tôi không nên đi cùng.
+
+1188
+01:40:33,450 --> 01:40:34,520
+Vậy à?
+
+1189
+01:40:36,230 --> 01:40:39,110
+Ta nghe nói người Hobbit rất bền chí.
+
+1190
+01:40:42,640 --> 01:40:43,750
+Thật ư?
+
+1191
+01:40:49,920 --> 01:40:53,940
+Ta cũng nghe nói
+họ yêu sự tiện nghi ấm cúng tại nhà.
+
+1192
+01:40:57,830 --> 01:41:00,760
+Tôi thì nghe nói
+không nên xin lời khuyên của Tiên...
+
+1193
+01:41:00,920 --> 01:41:03,360
+bởi họ sẽ trả lời nước đôi.
+
+1194
+01:41:12,490 --> 01:41:16,290
+Chúng tôi rất chào đón
+cậu ở lại nếu muốn.
+
+1195
+01:41:21,400 --> 01:41:25,320
+<font color="#ffc90d">Nhà bếp đang quá tải.
+Chúng ta gần hết rượu vang rồi.</font>
+
+1196
+01:41:25,520 --> 01:41:28,560
+<font color="#ffc90d">Liệu họ sẽ ở lại bao lâu nữa?</font>
+
+1197
+01:41:28,710 --> 01:41:30,950
+<font color="#ffc90d">Việc đó vẫn chưa được quyết định.</font>
+
+1198
+01:41:47,760 --> 01:41:49,630
+Cậu cũng vậy mà.
+
+1199
+01:41:49,790 --> 01:41:53,490
+- Đâu phải không làm.
+- Dori! Lại đây lấy này.
+
+1200
+01:41:59,510 --> 01:42:00,910
+Bombur!
+
+1201
+01:42:18,400 --> 01:42:22,080
+Dĩ nhiên là tôi sẽ nói với ngài rồi.
+Tôi trông đợi chính lúc này mà.
+
+1202
+01:42:22,200 --> 01:42:25,410
+Ngài có thể tin rằng
+tôi hiểu rõ điều mình đang làm.
+
+1203
+01:42:25,520 --> 01:42:26,370
+Vậy ư?
+
+1204
+01:42:26,480 --> 01:42:29,870
+Lão Rồng đã say ngủ suốt 60 năm.
+
+1205
+01:42:30,010 --> 01:42:31,990
+Sẽ ra sao nếu kế hoạch thất bại?
+
+1206
+01:42:32,100 --> 01:42:34,780
+- Nếu ông đánh thức con thú đó?
+- Vậy nếu ta thành công?
+
+1207
+01:42:35,220 --> 01:42:39,410
+Nếu Người Lùn có lại ngọn núi,
+tuyến phòng ngự phía Đông sẽ được gia cố.
+
+1208
+01:42:39,520 --> 01:42:42,010
+Một nước cờ mạo hiểm, Gandalf à.
+
+1209
+01:42:42,140 --> 01:42:44,180
+Cũng sẽ rất mạo hiểm
+nếu ta không làm gì.
+
+1210
+01:42:44,320 --> 01:42:47,420
+Ngôi báu của Erebor
+thuộc quyền kế thừa của Thorin.
+
+1211
+01:42:47,420 --> 01:42:49,800
+- Ngài lo sợ điều gì vậy?
+- Ông quên rồi sao?
+
+1212
+01:42:50,420 --> 01:42:54,100
+Dòng máu điên loạn
+ăn sâu trong dòng tộc đó.
+
+1213
+01:42:54,230 --> 01:42:58,540
+Ông nội hắn mất trí.
+Tới cha hắn thì cũng tương tự.
+
+1214
+01:42:58,640 --> 01:43:03,250
+Ông có dám quả quyết Thorin Khiên sồi
+sẽ không chịu chung số phận?
+
+1215
+01:43:05,920 --> 01:43:09,760
+Gandalf, những quyết định này
+không chỉ nằm ở chúng ta.
+
+1216
+01:43:09,930 --> 01:43:13,730
+Mình tôi hay ông đều không thể
+vẽ lại bản đồ Trung Địa.
+
+1217
+01:43:14,730 --> 01:43:18,870
+Dù được chúng ta giúp đỡ hay không,
+những Người Lùn vẫn sẽ tiến về ngọn núi.
+
+1218
+01:43:19,030 --> 01:43:21,890
+Họ đã quyết tâm giành lại mảnh đất tổ.
+
+1219
+01:43:22,030 --> 01:43:27,220
+Tôi không cho rằng Thorin Khiên sồi
+cảm thấy anh ta phải giải trình với ai cả.
+
+1220
+01:43:27,480 --> 01:43:29,210
+Và cả tôi cũng vậy.
+
+1221
+01:43:29,360 --> 01:43:32,410
+Ông sẽ không phải giải trình với tôi.
+
+1222
+01:43:44,520 --> 01:43:46,700
+Công nương Galadriel.
+
+1223
+01:43:47,100 --> 01:43:49,100
+Mithrandir.
+
+1224
+01:43:50,380 --> 01:43:53,190
+<font color="#ffc90d">Đã lâu không gặp.</font>
+
+1225
+01:43:54,800 --> 01:43:58,630
+<font color="#ffc90d">Tuổi tác tuy có thể thay đổi tôi...</font>
+
+1226
+01:43:59,130 --> 01:44:03,160
+<font color="#ffc90d">nhưng với Công nương xứ Lórien thì không.</font>
+
+1227
+01:44:07,760 --> 01:44:11,330
+Tôi không ngờ Chúa tể Elrond
+đã mời Công nương tới.
+
+1228
+01:44:11,480 --> 01:44:13,040
+Không phải ngài ấy.
+
+1229
+01:44:13,600 --> 01:44:15,170
+Mà là ta.
+
+1230
+01:44:23,470 --> 01:44:25,070
+Saruman.
+
+1231
+01:44:25,420 --> 01:44:29,230
+Gần đây ông bận rộn quá, bạn của ta.
+
+1232
+01:44:30,300 --> 01:44:32,220
+Nói xem, Gandalf.
+
+1233
+01:44:32,580 --> 01:44:38,320
+Ông thật sự nghĩ rằng những kế hoạch,
+mưu đồ của ông sẽ không ai để ý sao?
+
+1234
+01:44:38,480 --> 01:44:39,900
+Không để ý?
+
+1235
+01:44:41,190 --> 01:44:42,430
+Không, tôi...
+
+1236
+01:44:42,590 --> 01:44:45,230
+Tôi chỉ đang làm điều tôi cho là đúng.
+
+1237
+01:44:45,370 --> 01:44:48,770
+Lão Rồng đã quanh quẩn
+trong tâm trí ông từ lâu.
+
+1238
+01:44:49,360 --> 01:44:51,230
+Quả là vậy, thưa Công nương.
+
+1239
+01:44:51,430 --> 01:44:53,820
+Smaug tuy không trung thành với ai.
+
+1240
+01:44:54,130 --> 01:44:56,820
+Nhưng nếu hắn đứng về phía kẻ địch...
+
+1241
+01:44:56,970 --> 01:44:59,900
+lão Rồng có thể bị lợi dụng
+vào những mục đích khôn lường.
+
+1242
+01:45:00,080 --> 01:45:01,610
+Kẻ địch nào chứ?
+
+1243
+01:45:02,330 --> 01:45:05,130
+Gandalf, kẻ địch đã bị đánh bại.
+
+1244
+01:45:05,330 --> 01:45:07,330
+Sauron đã bị chế ngự.
+
+1245
+01:45:07,530 --> 01:45:09,890
+Hắn không thể phục hồi sức mạnh nữa.
+
+1246
+01:45:12,340 --> 01:45:15,880
+Ông không lo về việc
+chiếc nhẫn cuối cùng của Người Lùn...
+
+1247
+01:45:16,040 --> 01:45:17,690
+đột nhiên biến mất...
+
+1248
+01:45:17,930 --> 01:45:19,810
+cùng với kẻ mang nó ư?
+
+1249
+01:45:20,330 --> 01:45:24,020
+Trong bảy chiếc nhẫn của Người Lùn,
+bốn chiếc đã bị rồng tiêu hủy...
+
+1250
+01:45:24,450 --> 01:45:27,660
+Hai chiếc đã bị Sauron đoạt lại
+trước khi hắn bại tại Mordor.
+
+1251
+01:45:27,850 --> 01:45:31,460
+Số phận chiếc nhẫn cuối cùng
+vẫn chưa hé lộ.
+
+1252
+01:45:34,790 --> 01:45:37,440
+Chiếc nhẫn được mang bởi Thráin.
+
+1253
+01:45:37,650 --> 01:45:42,470
+Không có Chiếc nhẫn Quyền lực,
+bảy chiếc nhẫn kia không hề có giá trị.
+
+1254
+01:45:44,920 --> 01:45:47,020
+Để điều khiển các nhẫn khác...
+
+1255
+01:45:47,220 --> 01:45:49,980
+hắn cần chiếc nhẫn chủ.
+
+1256
+01:45:50,840 --> 01:45:53,720
+Và nó đã thất lạc từ rất lâu rồi.
+
+1257
+01:45:53,860 --> 01:45:57,530
+Bị cuốn ra biển khơi
+bởi dòng nước cả Anduin.
+
+1258
+01:45:57,690 --> 01:45:59,060
+Gandalf...
+
+1259
+01:45:59,220 --> 01:46:03,060
+suốt bốn trăm năm nay,
+chúng ta đã hưởng hòa bình...
+
+1260
+01:46:03,200 --> 01:46:06,160
+nền Hòa bình Cẩn tắc
+đánh đổi bởi bao khó nhọc.
+
+1261
+01:46:06,310 --> 01:46:08,540
+Ta thật sự có hòa bình ư?
+
+1262
+01:46:10,340 --> 01:46:12,660
+Lũ Troll đã rời khỏi núi.
+
+1263
+01:46:12,820 --> 01:46:15,360
+Chúng tấn công làng mạc,
+tàn phá nông trang.
+
+1264
+01:46:15,520 --> 01:46:17,610
+Orc chặn đánh chúng tôi trên đường.
+
+1265
+01:46:17,770 --> 01:46:19,710
+Không thể gọi đó
+là dấu hiệu của chiến tranh.
+
+1266
+01:46:19,860 --> 01:46:22,290
+Ông toàn lo chuyện bao đồng...
+
+1267
+01:46:22,290 --> 01:46:24,410
+chuốc lấy những phiền hà
+không có thực!
+
+1268
+01:46:24,560 --> 01:46:26,270
+Để ông ấy nói.
+
+1269
+01:46:27,710 --> 01:46:32,660
+Có thế lực nào đó đang toan tính
+đằng sau tội ác của Smaug...
+
+1270
+01:46:32,850 --> 01:46:34,930
+một thế lực hùng mạnh hơn rất nhiều.
+
+1271
+01:46:36,410 --> 01:46:41,540
+Chúng ta có thể phớt lờ nó, nhưng nó
+thì không, điều này tôi dám chắc.
+
+1272
+01:46:41,700 --> 01:46:44,380
+Một căn bệnh đã lan khắp Cánh rừng Xanh.
+
+1273
+01:46:44,690 --> 01:46:47,590
+Những tiều phu nơi đấy
+giờ gọi nó là Cánh rừng Đen.
+
+1274
+01:46:47,760 --> 01:46:49,130
+Và họ nói...
+
+1275
+01:46:51,240 --> 01:46:56,650
+Sao vậy, đừng dừng lại.
+Cho chúng tôi biết họ nói gì?
+
+1276
+01:46:56,810 --> 01:47:00,120
+Họ nhắc tới một Kẻ triệu hồn,
+ẩn náu tại Dol Guldur.
+
+1277
+01:47:00,280 --> 01:47:03,770
+Một pháp sư có thể
+triệu gọi người chết.
+
+1278
+01:47:03,930 --> 01:47:05,360
+Thật nực cười.
+
+1279
+01:47:05,540 --> 01:47:08,220
+Thứ quyền năng đó đâu có tồn tại.
+
+1280
+01:47:08,410 --> 01:47:12,650
+Tên... triệu hồn này
+chẳng là gì ngoài một kẻ phàm nhân.
+
+1281
+01:47:13,010 --> 01:47:15,510
+Một tên thuật sĩ tập tành bùa ngải.
+
+1282
+01:47:15,680 --> 01:47:18,060
+Tôi cũng đã nghĩ vậy. Nhưng...
+
+1283
+01:47:18,520 --> 01:47:20,870
+- chính Radagast đã thấy...
+- Radagast?
+
+1284
+01:47:21,160 --> 01:47:24,130
+Đừng nhắc đến Radagast Áo Nâu với ta.
+
+1285
+01:47:24,590 --> 01:47:26,420
+Lão là một gã ngu xuẩn.
+
+1286
+01:47:26,760 --> 01:47:30,870
+Ông ta kỳ quái, tôi biết.
+Và còn sống một mình.
+
+1287
+01:47:31,040 --> 01:47:32,080
+Không phải vậy.
+
+1288
+01:47:32,240 --> 01:47:35,380
+Đó là do lão ăn nấm quá nhiều.
+
+1289
+01:47:35,970 --> 01:47:39,970
+Chúng làm đầu óc lão khùng điên,
+ố vàng cả hàm răng.
+
+1290
+01:47:40,360 --> 01:47:41,760
+Ta từng cảnh cáo lão.
+
+1291
+01:47:42,110 --> 01:47:45,230
+Đường đường là Istari
+mà lại lang thang rừng rú...
+
+1292
+01:47:45,400 --> 01:47:47,390
+Ông đang mang một thứ.
+
+1293
+01:47:49,230 --> 01:47:51,790
+Nó được trao cho ông bởi Radagast.
+
+1294
+01:47:52,350 --> 01:47:54,780
+Ông ta tìm thấy ở Dol Guldur.
+
+1295
+01:47:56,050 --> 01:47:57,310
+Phải.
+
+1296
+01:47:58,820 --> 01:48:00,410
+Cho ta xem.
+
+1297
+01:48:02,410 --> 01:48:05,580
+Người ta sẽ nghĩ ta đang lảm nhảm...
+
+1298
+01:48:10,820 --> 01:48:13,320
+Thứ gì vậy?
+
+1299
+01:48:14,060 --> 01:48:16,670
+Một di vật từ Mordor.
+
+1300
+01:48:27,230 --> 01:48:29,160
+Thanh kiếm Morgul.
+
+1301
+01:48:29,310 --> 01:48:32,440
+Được làm cho Vua Phù thủy xứ Angmar...
+
+1302
+01:48:32,690 --> 01:48:35,450
+và đã chôn cùng với hắn.
+
+1303
+01:48:37,860 --> 01:48:39,880
+Khi Angmar sụp đổ...
+
+1304
+01:48:40,040 --> 01:48:43,680
+những Người phương Bắc đã mang thi thể
+cùng các di vật của hắn...
+
+1305
+01:48:43,860 --> 01:48:47,010
+phong ấn nơi gò đá khô cằn ở Rhudaur.
+
+1306
+01:48:47,180 --> 01:48:50,090
+Họ chôn sâu hắn trong lớp đá...
+
+1307
+01:48:50,760 --> 01:48:53,500
+trong một ngôi mộ tăm tối đến nỗi...
+
+1308
+01:48:54,020 --> 01:48:55,840
+không bao giờ thấy ánh Mặt trời.
+
+1309
+01:48:56,060 --> 01:48:58,080
+Điều này là không thể.
+
+1310
+01:48:59,080 --> 01:49:01,890
+Những ngôi mộ đó được yểm
+một phép thuật hùng mạnh.
+
+1311
+01:49:02,050 --> 01:49:03,700
+Không gì mở được.
+
+1312
+01:49:03,940 --> 01:49:08,930
+Có gì để minh chứng vũ khí này
+là từ hầm mộ của Angmar?
+
+1313
+01:49:09,590 --> 01:49:10,650
+Tôi không có.
+
+1314
+01:49:10,910 --> 01:49:12,390
+Bởi vì không hề có.
+
+1315
+01:49:13,600 --> 01:49:15,520
+Hãy xem chúng ta có những gì.
+
+1316
+01:49:16,220 --> 01:49:20,880
+Một bầy Orc tạp nham
+cả gan vượt sông Bruinen.
+
+1317
+01:49:21,580 --> 01:49:24,810
+Một con dao cũ rích được tìm thấy.
+
+1318
+01:49:24,970 --> 01:49:30,460
+Và một tên thuật sĩ người phàm
+tự xưng là Kẻ triệu hồn...
+
+1319
+01:49:30,660 --> 01:49:34,610
+tới trú ngụ ở một pháo đài đổ nát.
+
+1320
+01:49:35,400 --> 01:49:38,720
+Tóm lại cũng chẳng có gì nhiều.
+
+1321
+01:49:39,460 --> 01:49:44,510
+Trong khi đó, nghi vấn về đám
+Người Lùn này, lại làm ta rất lo ngại.
+
+1322
+01:49:44,670 --> 01:49:46,390
+Ta không thấy thuyết phục, Gandalf ạ.
+
+1323
+01:49:46,600 --> 01:49:50,020
+Ta không thể đồng tình
+với cái “sứ mệnh” đó được.
+
+1324
+01:49:50,420 --> 01:49:54,860
+Nếu họ tìm đến ta, có khi ta đã
+không phải thất vọng đến vậy.
+
+1325
+01:49:55,030 --> 01:49:58,210
+Ta sẽ không vờ thông cảm với ông
+khi nuôi hy vọng cho họ.
+
+1326
+01:49:58,210 --> 01:49:59,770
+Họ đang rời đi.
+
+1327
+01:50:02,310 --> 01:50:03,600
+Phải.
+
+1328
+01:50:05,920 --> 01:50:07,570
+Ông đã biết trước.
+
+1329
+01:50:12,940 --> 01:50:15,580
+... ta e là không còn cách nào.
+
+1330
+01:50:17,530 --> 01:50:18,460
+Thưa Chúa tể Elrond.
+
+1331
+01:50:19,480 --> 01:50:20,900
+Nhóm Người Lùn...
+
+1332
+01:50:21,220 --> 01:50:22,520
+họ đã đi rồi.
+
+1333
+01:50:27,750 --> 01:50:29,610
+Hãy cảnh giác...
+
+1334
+01:50:29,780 --> 01:50:32,230
+chúng ta sắp bước qua
+Ranh giới Xứ hoang vu rồi.
+
+1335
+01:50:32,680 --> 01:50:35,120
+Balin, ông biết đường, lên trước đi.
+
+1336
+01:50:35,280 --> 01:50:36,530
+Được.
+
+1337
+01:50:42,320 --> 01:50:43,530
+Cậu Baggins...
+
+1338
+01:50:44,460 --> 01:50:46,520
+cậu nên nhanh chân lên.
+
+1339
+01:51:00,600 --> 01:51:02,110
+Ông sẽ đi theo họ?
+
+1340
+01:51:02,310 --> 01:51:03,350
+Vâng.
+
+1341
+01:51:03,570 --> 01:51:06,460
+Ông đã đúng khi giúp đỡ Thorin Khiên sồi.
+
+1342
+01:51:06,660 --> 01:51:13,160
+Nhưng e là sứ mệnh này đã đánh thức
+những thế lực mà ta chưa hiểu rõ được.
+
+1343
+01:51:13,860 --> 01:51:17,810
+Bí ẩn về thanh gươm Morgul
+cần phải được giải đáp.
+
+1344
+01:51:17,980 --> 01:51:20,560
+Có thứ gì đó đang lẩn khuất
+trong bóng tối mơ hồ...
+
+1345
+01:51:20,720 --> 01:51:23,760
+ẩn mình khỏi chúng ta.
+Nó sẽ không lộ diện.
+
+1346
+01:51:23,920 --> 01:51:25,340
+Chưa tới lúc.
+
+1347
+01:51:25,810 --> 01:51:28,540
+Nhưng nó đang ngày một mạnh lên.
+
+1348
+01:51:28,870 --> 01:51:30,580
+Ông phải cẩn trọng.
+
+1349
+01:51:35,340 --> 01:51:36,340
+Mithrandir.
+
+1350
+01:51:38,760 --> 01:51:40,810
+Sao lại chọn một Bán nhân?
+
+1351
+01:51:42,720 --> 01:51:44,680
+Tôi không biết nữa.
+
+1352
+01:51:47,210 --> 01:51:54,060
+Saruman tin rằng chỉ có sức mạnh
+cường đại mới áp chế được quỷ dữ...
+
+1353
+01:51:54,610 --> 01:51:57,190
+nhưng tôi lại không thấy như vậy.
+
+1354
+01:51:58,240 --> 01:52:02,040
+Tôi nhận ra, chính những điều nhỏ bé...
+
+1355
+01:52:02,210 --> 01:52:04,660
+những việc làm rất đỗi đời thường...
+
+1356
+01:52:04,810 --> 01:52:08,200
+mới khiến cho bóng tối lùi xa.
+
+1357
+01:52:08,360 --> 01:52:11,600
+Những cử chỉ giản đơn
+ẩn chứa yêu thương.
+
+1358
+01:52:13,720 --> 01:52:16,670
+Sao lại chọn Bilbo Baggins ư?
+
+1359
+01:52:18,860 --> 01:52:22,400
+Có lẽ là vì tôi đang e sợ...
+
+1360
+01:52:23,510 --> 01:52:26,160
+và cậu ta cho tôi dũng khí.
+
+1361
+01:52:30,660 --> 01:52:33,870
+Đừng sợ hãi, Mithrandir.
+
+1362
+01:52:35,800 --> 01:52:38,140
+Ông không đơn độc.
+
+1363
+01:52:41,150 --> 01:52:43,650
+<font color="#ffc90d">Bất cứ khi nào ông cần ta giúp đỡ...</font>
+
+1364
+01:52:44,080 --> 01:52:45,760
+<font color="#ffc90d">ta sẽ tới.</font>
+
+1365
+01:53:11,870 --> 01:53:19,770
+{\an8}<font size="10"><font color="#ffc90d"><i>~ Dwarf : tộc Người Lùn, hay Người Lùn râu dài. Là giống loài đầu tiên được ban cho hình hài.</i></font></font>
+
+1366
+01:53:19,870 --> 01:53:27,670
+{\an8}<font size="10"><font color="#ffc90d"><i>Aule, vị thần Rèn, đã tự ý tạo ra người con này của mình bên cạnh những đứa con của Ilúvatar.</i></font></font>
+
+1367
+01:53:27,870 --> 01:53:35,670
+{\an8}<font size="10"><font color="#ffc90d"><i>Nhưng ông không thể ban sự sống. Bị phát giác, Aule buộc phải để những Người Lùn ngủ sâu.</i></font></font>
+
+1368
+01:53:35,870 --> 01:53:43,670
+{\an8}<font size="10"><font color="#ffc90d"><i>Họ chỉ được đánh thức sau khi Tiên - đứa con đầu của Ilúvatar, thức giấc dưới vòm trời đầy sao.</i></font></font>
+
+1369
+01:53:43,870 --> 01:53:51,770
+{\an8}<font size="10"><font color="#ffc90d"><i>Người Lùn có tuổi thọ khoảng 250 năm. Họ mạnh mẽ, tính tình cởi mở và thông thạo kim khí. ~</i></font></font>
+
+1370
+01:54:18,600 --> 01:54:20,130
+Cố gắng lên!
+
+1371
+01:54:31,250 --> 01:54:33,640
+Chúng ta phải tìm nơi trú chân!
+
+1372
+01:54:34,130 --> 01:54:36,290
+Coi chừng!!
+
+1373
+01:54:41,720 --> 01:54:43,120
+Anh em cẩn thận!
+
+1374
+01:54:43,620 --> 01:54:45,130
+Bám chắc vào!
+
+1375
+01:54:48,820 --> 01:54:50,810
+Đây đâu phải giông bão.
+
+1376
+01:54:51,220 --> 01:54:53,290
+Phải gọi là sấm trận!
+
+1377
+01:54:54,840 --> 01:54:55,940
+Nhìn kìa!
+
+1378
+01:55:00,840 --> 01:55:02,250
+Tổ tiên ơi.
+
+1379
+01:55:02,920 --> 01:55:04,780
+Truyền thuyết là có thật!
+
+1380
+01:55:04,940 --> 01:55:08,370
+Khổng lồ! Khổng lồ đá!
+
+1381
+01:55:15,520 --> 01:55:18,150
+Nấp mau, lũ ngốc!
+
+1382
+01:55:18,470 --> 01:55:20,640
+Giữ chắc!
+
+1383
+01:55:28,730 --> 01:55:31,120
+- Chuyện gì vậy?
+- Kíli, nắm lấy tay em!
+
+1384
+01:55:55,200 --> 01:55:58,240
+- Mau, mau lên!
+- Chạy thôi! Xuống mau!
+
+1385
+01:56:10,080 --> 01:56:11,290
+Cẩn thận!
+
+1386
+01:56:32,020 --> 01:56:33,370
+Nhảy đi!
+
+1387
+01:56:33,640 --> 01:56:34,920
+Cố lên!
+
+1388
+01:56:39,310 --> 01:56:40,660
+Bám chắc!
+
+1389
+01:56:48,380 --> 01:56:50,050
+Khônggg!
+
+1390
+01:56:50,700 --> 01:56:52,870
+Khôngg!
+
+1391
+01:57:01,110 --> 01:57:03,380
+Không! Kíli!
+
+1392
+01:57:09,540 --> 01:57:12,560
+Không sao!
+Chúng ta sống rồi!
+
+1393
+01:57:13,470 --> 01:57:14,790
+Bilbo đâu?
+
+1394
+01:57:14,790 --> 01:57:16,760
+Cậu Hobbit đâu rồi?
+
+1395
+01:57:17,400 --> 01:57:18,860
+Ở kia!
+
+1396
+01:57:21,430 --> 01:57:23,410
+Giữ lấy cậu ta!
+
+1397
+01:57:24,930 --> 01:57:27,310
+- Nắm lấy tay tôi!
+- Bilbo!
+
+1398
+01:57:28,940 --> 01:57:30,580
+- Ori, cẩn thận!
+- Nắm đi!
+
+1399
+01:57:31,450 --> 01:57:34,200
+- Giữ được cậu rồi.
+- Bám chắc vào!
+
+1400
+01:57:45,770 --> 01:57:48,530
+- Kéo lên.
+- Lên nào anh bạn.
+
+1401
+01:57:51,890 --> 01:57:54,330
+Cứ tưởng chúng ta
+mất tên trộm rồi.
+
+1402
+01:57:54,750 --> 01:57:57,380
+Cậu ta coi như đã mất mạng
+kể từ khi rời khỏi nhà.
+
+1403
+01:57:58,120 --> 01:58:00,040
+Đáng lẽ cậu ta không nên đi cùng.
+
+1404
+01:58:00,200 --> 01:58:02,200
+Cậu ta không có chỗ trong đoàn này.
+
+1405
+01:58:04,030 --> 01:58:05,500
+Dwalin!
+
+1406
+01:58:11,750 --> 01:58:14,360
+- Trông có vẻ an toàn.
+- Dò la bên trong đi.
+
+1407
+01:58:14,760 --> 01:58:17,600
+Các hang núi hiếm khi nào vô chủ.
+
+1408
+01:58:20,960 --> 01:58:22,970
+Không có gì ở đây cả.
+
+1409
+01:58:24,860 --> 01:58:27,110
+Được rồi. Nhóm lửa thôi nào.
+
+1410
+01:58:27,260 --> 01:58:29,590
+Không. Không nhóm lửa ở đây.
+
+1411
+01:58:30,200 --> 01:58:31,860
+Ngủ một chút đi.
+
+1412
+01:58:32,040 --> 01:58:34,310
+Chúng ta sẽ đi tiếp lúc rạng sáng.
+
+1413
+01:58:34,830 --> 01:58:38,230
+Chúng ta phải ở lại trong núi
+đợi Gandalf tới chứ.
+
+1414
+01:58:38,630 --> 01:58:40,060
+Kế hoạch là vậy mà.
+
+1415
+01:58:40,260 --> 01:58:41,720
+Kế hoạch thay đổi.
+
+1416
+01:58:41,890 --> 01:58:43,290
+Bofur.
+
+1417
+01:58:43,290 --> 01:58:45,170
+Cậu gác phiên đầu.
+
+1418
+01:58:52,120 --> 01:58:54,490
+<font color="#ffc90d">Mùi vẫn còn mới!</font>
+
+1419
+01:58:55,330 --> 01:59:00,690
+<font color="#ffc90d">Bọn chúng đã theo đường mòn trên núi.</font>
+
+1420
+01:59:59,670 --> 02:00:01,440
+Cậu đang đi đâu vậy hả?
+
+1421
+02:00:04,540 --> 02:00:05,840
+Về Rivendell.
+
+1422
+02:00:07,300 --> 02:00:09,340
+Không được, cậu không thể
+quay về lúc này.
+
+1423
+02:00:09,660 --> 02:00:12,410
+Cậu là một phần của đoàn.
+Là một trong số chúng tôi.
+
+1424
+02:00:12,610 --> 02:00:13,930
+Giờ thì đâu còn.
+
+1425
+02:00:16,100 --> 02:00:18,870
+Thorin nói lẽ ra tôi không nên đi,
+và ngài ấy nói đúng.
+
+1426
+02:00:19,510 --> 02:00:23,060
+Tôi không mang họ Took, tôi họ Baggins.
+Chẳng biết lúc đó tôi nghĩ gì nữa.
+
+1427
+02:00:24,870 --> 02:00:28,780
+- Đáng lẽ tôi không nên ra khỏi cửa.
+- Cậu đang nhớ nhà. Tôi hiểu.
+
+1428
+02:00:28,910 --> 02:00:32,860
+Không, ông không hiểu.
+Người Lùn các ông chẳng ai hiểu cả!
+
+1429
+02:00:33,020 --> 02:00:35,830
+Các ông đã quen với
+cuộc sống trên dặm trường này...
+
+1430
+02:00:36,020 --> 02:00:38,860
+nay đây mai đó,
+không thuộc về chốn nào.
+
+1431
+02:00:42,500 --> 02:00:45,700
+Tôi xin lỗi, tôi không...
+
+1432
+02:00:49,600 --> 02:00:51,260
+Không, cậu nói đúng.
+
+1433
+02:00:54,630 --> 02:00:56,730
+Chúng tôi không thuộc về nơi nào cả.
+
+1434
+02:01:04,810 --> 02:01:07,160
+Tôi chúc cho cậu mọi điều may mắn.
+
+1435
+02:01:10,310 --> 02:01:11,360
+Thật lòng đấy.
+
+1436
+02:01:16,170 --> 02:01:17,050
+Gì vậy?
+
+1437
+02:01:39,980 --> 02:01:41,190
+Dậy!
+
+1438
+02:01:41,320 --> 02:01:42,630
+Dậy mau!
+
+1439
+02:02:05,950 --> 02:02:07,350
+Coi chừng!
+
+1440
+02:02:10,860 --> 02:02:12,180
+Cút đi!
+
+1441
+02:02:16,540 --> 02:02:18,010
+Đồ kinh tởm!
+
+1442
+02:02:18,560 --> 02:02:19,860
+Tránh ra!
+
+1443
+02:02:23,720 --> 02:02:25,190
+Các ngươi sẽ trả giá!
+
+1444
+02:02:32,450 --> 02:02:33,420
+Bắt được rồi.
+
+1445
+02:02:34,760 --> 02:02:36,620
+Rồi, rồi. Đừng đẩy.
+
+1446
+02:02:39,860 --> 02:02:41,600
+Bỏ tay ngươi ra khỏi ta!
+
+1447
+02:02:47,450 --> 02:02:49,010
+Bỏ ta ra!
+
+1448
+02:02:59,860 --> 02:03:07,760
+{\an8}<font size="10"><font color="#ffc90d"><i>~ Goblin : Theo Tolkien thì Goblin và Orc vốn dĩ là một, đơn thuần là Orc dịch sang tiếng Anh.</i></font></font>
+
+1449
+02:03:07,960 --> 02:03:15,760
+{\an8}<font size="10"><font color="#ffc90d"><i>Tuy nhiên với sự ra đời của tác phẩm LOTR và phim ảnh đã dẫn đến sự phân biệt Orc và Goblin.</i></font></font>
+
+1450
+02:03:15,960 --> 02:03:23,860
+{\an8}<font size="10"><font color="#ffc90d"><i>Goblin sợ ánh sáng ban ngày, có thân hình nhỏ hơn, yếu kém và ít tàn bạo hơn Orc. ~</i></font></font>
+
+1451
+02:04:29,850 --> 02:04:33,600
+Ta chợt muốn hát một bài.
+
+1452
+02:04:31,000 --> 02:04:36,000
+{\an8}<font size="10"><font color="#ffc90d"><i>~ Clap! Snap! The black crack! ~</i></font></font>
+
+1453
+02:04:36,410 --> 02:04:39,180
+♪ Rắc rắc, từ Khe Hắc
+
+1454
+02:04:39,370 --> 02:04:41,860
+♪ Ghì, gô, kẹp rồi xô
+
+1455
+02:04:42,000 --> 02:04:43,730
+♪ Đánh rồi lại đập
+
+1456
+02:04:43,820 --> 02:04:48,320
+♪ Khiến chúng run rẩy rồi... gào thét
+
+1457
+02:04:49,080 --> 02:04:51,240
+♪ Ầm ầm...
+
+1458
+02:04:51,350 --> 02:04:57,940
+♪ Xa tận trong lòng đất này
+
+1459
+02:04:59,930 --> 02:05:02,920
+♪ Sâu dưới thị trấn Goblin
+
+1460
+02:05:03,060 --> 02:05:05,320
+♪ Sâu dưới thị trấn Goblin
+
+1461
+02:05:05,510 --> 02:05:08,490
+♪ Với đòn roi và đánh đập,
+vài cú quất thấu xương
+
+1462
+02:05:08,730 --> 02:05:11,580
+♪ Kẻ nào cũng phải khai
+một khi đã sai đường
+
+1463
+02:05:11,770 --> 02:05:15,080
+♪ Ầm ầm... xa tận trong lòng đất
+
+1464
+02:05:15,280 --> 02:05:18,200
+♪ Sâu dưới thị trấn Goblin
+
+1465
+02:05:18,370 --> 02:05:21,030
+♪ Sâu dưới thị trấn Goblin
+
+1466
+02:05:21,200 --> 02:05:23,960
+♪ Búa đâu, kìm đâu,
+mang dùi chiêng lên mau
+
+1467
+02:05:24,100 --> 02:05:29,280
+♪ Ngươi sẽ không sống lâu
+dưới mũi chạc của ta đâu
+
+1468
+02:05:29,880 --> 02:05:33,000
+♪ Chan chát, loảng xoảng,
+nghiền rồi bóp vụn
+
+1469
+02:05:33,190 --> 02:05:35,780
+♪ Đùng đoàng, vỡ nát,
+rùng mình rồi kinh hãi
+
+1470
+02:05:35,960 --> 02:05:40,070
+♪ Rền rĩ nỉ non,
+cũng chẳng ai giúp đâu
+
+1471
+02:05:40,470 --> 02:05:45,650
+♪ Ầm ầm... xa tận trong lòng đất
+
+1472
+02:05:45,820 --> 02:05:52,860
+♪ Sâu dưới thị trấn Goblin
+
+1473
+02:06:08,880 --> 02:06:10,550
+Nghe hay đúng không?
+
+1474
+02:06:11,080 --> 02:06:14,450
+Một trong những tác phẩm
+tự biên của ta đấy.
+
+1475
+02:06:14,820 --> 02:06:18,070
+Bài hát gì thứ đó chứ.
+Đúng là tra tấn lỗ nhĩ!
+
+1476
+02:06:18,250 --> 02:06:22,080
+Tra tấn. Biến dị. Lầm lạc.
+
+1477
+02:06:22,380 --> 02:06:25,180
+Các ngươi sẽ chỉ tìm được vậy
+ở dưới này thôi.
+
+1478
+02:06:28,900 --> 02:06:34,470
+Là bọn nào mà to gan đến mức
+mang vũ khí vào vương quốc của ta?
+
+1479
+02:06:34,670 --> 02:06:38,150
+Gián điệp? Đạo tặc? Sát thủ?
+
+1480
+02:06:38,320 --> 02:06:39,930
+Là Người Lùn, thưa Bạo chúa.
+
+1481
+02:06:40,110 --> 02:06:41,790
+Người Lùn ư?
+
+1482
+02:06:42,140 --> 02:06:43,860
+Chúng tôi thấy bọn chúng ở hiên trước.
+
+1483
+02:06:44,020 --> 02:06:47,790
+Đừng có đứng đực ra đấy,
+lục soát chúng!
+
+1484
+02:06:48,360 --> 02:06:51,170
+Từng ngóc ngách, từng khe hở!
+
+1485
+02:06:58,000 --> 02:07:03,040
+Thưa ngài, tôi chắc rằng
+chúng là đồng bọn của lũ Tiên.
+
+1486
+02:07:03,460 --> 02:07:06,330
+“Chế tác tại Rivendell”?
+
+1487
+02:07:07,590 --> 02:07:11,250
+Kỷ thứ Hai.
+Chẳng chứng tỏ được gì.
+
+1488
+02:07:13,920 --> 02:07:15,840
+Vài món lưu niệm ấy mà.
+
+1489
+02:07:15,980 --> 02:07:18,310
+Các ngươi làm gì ở chốn này?
+
+1490
+02:07:20,250 --> 02:07:22,110
+Mọi người đừng lo.
+
+1491
+02:07:22,490 --> 02:07:24,210
+Để đó cho tôi.
+
+1492
+02:07:25,000 --> 02:07:30,020
+Đừng giở trò đấy.
+Ta cần sự thật, không giấu diếm nửa lời.
+
+1493
+02:07:30,150 --> 02:07:32,870
+Ngươi cần phải nói to lên.
+
+1494
+02:07:33,220 --> 02:07:35,500
+Lính của ngươi
+giẫm bẹp ống nghe của ta rồi.
+
+1495
+02:07:35,640 --> 02:07:39,130
+Ta sẽ cho ngươi bẹp luôn.
+
+1496
+02:07:39,690 --> 02:07:42,580
+Nếu ông cần thông tin,
+thì nên hỏi tôi này.
+
+1497
+02:07:48,160 --> 02:07:51,750
+Chúng tôi đang đi trên đường...
+Thực ra thì không to như đường đi.
+
+1498
+02:07:52,080 --> 02:07:54,740
+Mà nghĩ lại cũng không phải.
+Kiểu như lối mòn ấy.
+
+1499
+02:07:54,950 --> 02:07:58,160
+Tóm lại là, bọn tôi
+đi trên đường kiểu lối mòn...
+
+1500
+02:07:58,290 --> 02:08:00,960
+Rồi bất chợt không còn trên đường,
+thật là không hay...
+
+1501
+02:08:01,120 --> 02:08:04,400
+vì theo lịch, chúng tôi
+phải tới Dunland hôm thứ Ba rồi.
+
+1502
+02:08:04,650 --> 02:08:06,360
+Thăm họ hàng xa.
+
+1503
+02:08:06,980 --> 02:08:08,470
+Mấy người bên đằng ngoại.
+
+1504
+02:08:08,630 --> 02:08:11,520
+Im ngay!!
+
+1505
+02:08:13,180 --> 02:08:15,040
+Nếu chúng không chịu nói...
+
+1506
+02:08:15,150 --> 02:08:17,540
+ta sẽ cho chúng phải gào!
+
+1507
+02:08:17,750 --> 02:08:22,250
+Mang máy cán,
+máy nghiền xương đến đây.
+
+1508
+02:08:22,610 --> 02:08:24,350
+Bắt đầu với tên trẻ nhất.
+
+1509
+02:08:24,350 --> 02:08:25,510
+Khoan!
+
+1510
+02:08:28,050 --> 02:08:30,900
+Ây chà chà!
+
+1511
+02:08:31,420 --> 02:08:33,060
+Xem ai đây này.
+
+1512
+02:08:34,670 --> 02:08:38,300
+Thorin, con trai của Thráin,
+con trai của Thrór...
+
+1513
+02:08:38,930 --> 02:08:42,190
+vị Vua dưới gầm núi.
+
+1514
+02:08:43,780 --> 02:08:46,990
+Mà ta quên, ngươi đâu còn ngọn núi nào.
+
+1515
+02:08:47,300 --> 02:08:51,060
+Và ngươi cũng không phải vua.
+Vậy tóm lại ngươi...
+
+1516
+02:08:51,330 --> 02:08:53,320
+chẳng là ai cả.
+
+1517
+02:08:56,540 --> 02:09:01,590
+Ta biết một kẻ sẵn sàng trả giá cao
+cho cái đầu của ngươi.
+
+1518
+02:09:02,420 --> 02:09:03,930
+Mỗi cái đầu thôi.
+
+1519
+02:09:04,330 --> 02:09:06,250
+Không kèm theo gì khác.
+
+1520
+02:09:07,300 --> 02:09:11,010
+Có lẽ ngươi cũng biết ta nói tới ai.
+
+1521
+02:09:11,240 --> 02:09:14,100
+Một kẻ thù cũ của ngươi.
+
+1522
+02:09:16,210 --> 02:09:21,060
+Tên Orc Xanh lét,
+kẻ cưỡi con Warg trắng.
+
+1523
+02:09:22,400 --> 02:09:25,810
+Azog - kẻ Ô Uế... đã bị tiêu diệt.
+
+1524
+02:09:28,090 --> 02:09:30,480
+Hắn đã tử trận rất lâu rồi.
+
+1525
+02:09:30,720 --> 02:09:34,690
+Vậy nhà ngươi cho rằng
+những ngày ô uế của hắn đã tận?
+
+1526
+02:09:36,430 --> 02:09:38,970
+Gửi lời đến tên Orc Xanh lét...
+
+1527
+02:09:39,140 --> 02:09:42,050
+báo với hắn ta đã có phần thưởng.
+
+1528
+02:10:19,630 --> 02:10:20,780
+Tuyệt.
+
+1529
+02:10:22,570 --> 02:10:23,880
+Tuyệt!
+
+1530
+02:10:25,020 --> 02:10:27,010
+Tuyệtt...
+
+1531
+02:10:29,500 --> 02:10:31,550
+Tuyệtt!
+
+1532
+02:10:31,760 --> 02:10:33,510
+Gollum! Gollum!
+
+1533
+02:11:02,100 --> 02:11:05,200
+Lũ... Goblin... mắc dịch...
+
+1534
+02:11:06,200 --> 02:11:08,770
+Còn hơn là gặm xương, báu vật à.
+
+1535
+02:11:08,950 --> 02:11:10,760
+Có còn hơn không.
+
+1536
+02:11:38,980 --> 02:11:41,710
+Lắm xương quá, báu vật.
+
+1537
+02:11:41,890 --> 02:11:43,860
+Không đủ thịt.
+
+1538
+02:11:44,020 --> 02:11:47,190
+Im mồm! Lột da nó đi!
+
+1539
+02:11:48,570 --> 02:11:50,620
+Làm cái đầu trước.
+
+1540
+02:11:55,620 --> 02:12:03,080
+♪ Đất sao khô khốc lạnh lùng,
+Tay chân tê buốt, khốn cùng thân ta.
+
+1541
+02:12:03,280 --> 02:12:10,220
+♪ Đá trơ tựa đống xương già,
+Mân mê kiếm thịt, chẳng ra miếng nào.
+
+1542
+02:12:10,420 --> 02:12:16,020
+♪ Lạnh tanh như xác dưới ao,
+Không còn tiếng thở, xơi sao cũng đành.
+
+1543
+02:12:54,410 --> 02:12:58,080
+Ối giồi ôi, báu vật ơi!
+
+1544
+02:12:58,260 --> 02:13:01,780
+Quả là một miếng ngon.
+
+1545
+02:13:02,710 --> 02:13:05,220
+Gollum! Gollum!
+
+1546
+02:13:06,530 --> 02:13:09,050
+Lùi lại. Ở nguyên đó.
+
+1547
+02:13:09,210 --> 02:13:13,460
+Ta cảnh cáo ngươi, cấm có lại gần đây.
+
+1548
+02:13:14,430 --> 02:13:16,640
+Nó có thanh gươm của Tiên...
+
+1549
+02:13:16,800 --> 02:13:18,910
+nhưng nó không phải Tiên.
+
+1550
+02:13:20,300 --> 02:13:22,220
+Không phải Tiên à.
+
+1551
+02:13:22,680 --> 02:13:24,600
+Nó là gì hả, báu vật?
+
+1552
+02:13:25,690 --> 02:13:27,100
+Nó là gì?
+
+1553
+02:13:27,430 --> 02:13:28,840
+Tên ta...
+
+1554
+02:13:29,470 --> 02:13:31,230
+là Bilbo Baggins.
+
+1555
+02:13:31,640 --> 02:13:33,130
+Baggins?
+
+1556
+02:13:34,390 --> 02:13:37,810
+Baggins là cái gì hả báu vật?
+
+1557
+02:13:38,220 --> 02:13:41,290
+Ta là... một Hobbit ở xứ Shire.
+
+1558
+02:13:42,600 --> 02:13:47,910
+Bọn ta khoái ăn Goblin, dơi và cá,
+nhưng chưa thử thịt Hobbit bao giờ.
+
+1559
+02:13:49,090 --> 02:13:50,690
+Nó có mềm không?
+
+1560
+02:13:50,890 --> 02:13:52,160
+Có mọng không?
+
+1561
+02:13:52,310 --> 02:13:54,210
+Này, này!. Tránh...
+
+1562
+02:13:54,360 --> 02:13:55,900
+Tránh xa ta ra!
+
+1563
+02:13:55,900 --> 02:13:57,960
+Ta sẽ dùng nó nếu cần đấy.
+
+1564
+02:13:58,790 --> 02:14:02,160
+Ta không muốn rắc rối,
+nhà ngươi hiểu không hả?
+
+1565
+02:14:02,360 --> 02:14:05,460
+Chỉ cho ta đường ra khỏi đây,
+và ta sẽ đi ngay.
+
+1566
+02:14:05,610 --> 02:14:07,610
+Sao vậy? Nó bị lạc à?
+
+1567
+02:14:07,760 --> 02:14:11,200
+Phải. Và ta muốn không bị lạc nữa,
+càng sớm càng tốt.
+
+1568
+02:14:11,360 --> 02:14:16,850
+Ồ, bọn ta biết! Bọn ta biết lối đi
+an toàn cho Hobbit, ở trong bóng tối.
+
+1569
+02:14:17,010 --> 02:14:18,080
+Im mồm!
+
+1570
+02:14:18,510 --> 02:14:19,410
+Ta đã nói gì đâu.
+
+1571
+02:14:19,590 --> 02:14:21,310
+Ta không nói với ngươi!
+
+1572
+02:14:21,440 --> 02:14:24,360
+Đúng mà, báu vật, chúng ta nói mà.
+
+1573
+02:14:24,830 --> 02:14:28,010
+Này, ta không biết trò chơi
+của ngươi là gì, nhưng ta...
+
+1574
+02:14:28,170 --> 02:14:29,400
+Trò chơi?!
+
+1575
+02:14:30,050 --> 02:14:32,630
+Chúng ta thích trò chơi lắm,
+phải không báu vật?
+
+1576
+02:14:32,790 --> 02:14:33,940
+Nó thích chơi không?
+
+1577
+02:14:34,050 --> 02:14:37,380
+Có không, nó có thích chơi không?
+
+1578
+02:14:37,920 --> 02:14:39,130
+Cũng có thể.
+
+1579
+02:14:41,410 --> 02:14:45,770
+Thứ gì: Có gốc chẳng ai thấy,
+
+1580
+02:14:46,200 --> 02:14:48,560
+Vượt trên mọi loài cây.
+
+1581
+02:14:48,730 --> 02:14:51,160
+Cao hơn cả tầng mây,
+
+1582
+02:14:51,320 --> 02:14:54,310
+Mà chẳng thể lớn vậy?
+
+1583
+02:14:55,330 --> 02:14:57,890
+- Ngọn núi.
+- Phải, phải.
+
+1584
+02:14:59,090 --> 02:15:00,920
+Làm thêm câu nữa nhé?
+
+1585
+02:15:01,420 --> 02:15:02,960
+Phải. Đố đi, làm lại nào.
+
+1586
+02:15:03,120 --> 02:15:04,950
+Lại đi, đố bọn ta đi.
+
+1587
+02:15:05,090 --> 02:15:07,470
+Không! Không đố gì hết.
+
+1588
+02:15:08,490 --> 02:15:11,320
+Giết hắn, kết liễu hắn ngay!
+
+1589
+02:15:11,470 --> 02:15:12,990
+Gollum, Gollum!
+
+1590
+02:15:13,380 --> 02:15:15,130
+Ấy! Không, không.
+
+1591
+02:15:15,540 --> 02:15:17,080
+Ta muốn chơi.
+
+1592
+02:15:17,640 --> 02:15:20,920
+Thật đấy. Ta rất muốn chơi.
+Ta có thể thấy...
+
+1593
+02:15:21,120 --> 02:15:22,950
+nhà ngươi...
+
+1594
+02:15:23,120 --> 02:15:24,910
+rất giỏi trò này.
+
+1595
+02:15:25,340 --> 02:15:27,880
+Vậy hay là chúng ta...
+
+1596
+02:15:29,230 --> 02:15:30,910
+chơi trò đối vui đi.
+
+1597
+02:15:31,060 --> 02:15:33,390
+Nhé? Chỉ ngươi và ta thôi.
+
+1598
+02:15:33,820 --> 02:15:35,270
+Phải.
+
+1599
+02:15:35,590 --> 02:15:36,560
+Chỉ...
+
+1600
+02:15:36,730 --> 02:15:38,020
+Chỉ chúng ta thôi.
+
+1601
+02:15:38,300 --> 02:15:40,210
+Phải, phải.
+
+1602
+02:15:40,410 --> 02:15:42,180
+Và nếu ta thắng...
+
+1603
+02:15:42,770 --> 02:15:45,730
+ngươi sẽ chỉ cho ta đường ra.
+Được chứ?
+
+1604
+02:15:46,050 --> 02:15:48,390
+Được. Được!
+
+1605
+02:15:48,580 --> 02:15:51,600
+Còn nếu nó thua, thì sao?
+
+1606
+02:15:51,730 --> 02:15:55,400
+Nếu nó thua, báu vật à,
+chúng ta sẽ ăn nó!
+
+1607
+02:15:56,510 --> 02:16:00,090
+Nếu Baggins thua,
+bọn ta sẽ ăn nó.
+
+1608
+02:16:06,660 --> 02:16:08,130
+Đồng ý.
+
+1609
+02:16:12,650 --> 02:16:14,700
+Baggins đố trước.
+
+1610
+02:16:20,690 --> 02:16:23,920
+Ba mươi con ngựa trắng,
+trên ngọn đồi đỏ tươi.
+
+1611
+02:16:24,120 --> 02:16:28,740
+Trước chúng nhai, sau giậm dai,
+rồi cứ đứng hoài.
+
+1612
+02:16:39,670 --> 02:16:40,590
+Răng à?
+
+1613
+02:16:41,930 --> 02:16:43,130
+Hàm răng!
+
+1614
+02:16:43,970 --> 02:16:45,880
+Đúng rồi báu vật à!
+
+1615
+02:16:46,360 --> 02:16:50,150
+Nhưng bọn ta chỉ có...
+
+1616
+02:16:50,560 --> 02:16:52,690
+chín chiếc.
+
+1617
+02:16:55,520 --> 02:16:56,770
+Lượt bọn ta.
+
+1618
+02:16:57,580 --> 02:17:00,430
+Không tiếng, nó khóc sao.
+
+1619
+02:17:00,860 --> 02:17:03,790
+Không cánh, bay ào ào.
+
+1620
+02:17:03,990 --> 02:17:07,210
+Không răng, cứa như dao.
+
+1621
+02:17:07,350 --> 02:17:11,150
+Không miệng, vẫn thì thào.
+
+1622
+02:17:13,510 --> 02:17:14,830
+Đợi một chút.
+
+1623
+02:17:17,190 --> 02:17:18,660
+Ô, ô!
+
+1624
+02:17:18,830 --> 02:17:20,660
+Ta biết, ta biết!
+
+1625
+02:17:20,810 --> 02:17:22,290
+Im mồm!
+
+1626
+02:17:29,820 --> 02:17:32,270
+Là gió! Tất nhiên rồi.
+
+1627
+02:17:32,480 --> 02:17:35,510
+Giỏi lắm, tên Hobbit.
+
+1628
+02:17:35,760 --> 02:17:37,640
+Thông minh lắm!
+
+1629
+02:17:38,550 --> 02:17:41,960
+Cái hộp không lề, không khóa...
+
+1630
+02:17:42,110 --> 02:17:43,860
+ch... chẳng nắp.
+
+1631
+02:17:44,020 --> 02:17:47,590
+Nhưng ẩn giấu một kho vàng tít tắp.
+
+1632
+02:17:50,240 --> 02:17:51,610
+Hộp...
+
+1633
+02:17:54,400 --> 02:17:56,630
+Hộp. Nắp, khóa...
+
+1634
+02:17:56,800 --> 02:17:57,820
+Sao?
+
+1635
+02:17:58,350 --> 02:17:59,690
+Khó chịu thật.
+
+1636
+02:18:03,790 --> 02:18:04,710
+Chịu chưa?
+
+1637
+02:18:04,830 --> 02:18:08,500
+Cho bọn ta cơ hội đi, báu vật,
+cho bọn ta cơ hội.
+
+1638
+02:18:21,040 --> 02:18:24,180
+Trứng! Là trứng!
+
+1639
+02:18:24,630 --> 02:18:28,210
+Những quả trứng ướt át giòn tan, phải.
+
+1640
+02:18:28,370 --> 02:18:32,410
+Bà nội đã dạy bọn ta phải uống trọn!
+
+1641
+02:18:41,000 --> 02:18:44,130
+Bọn ta có một câu cho ngươi.
+
+1642
+02:18:44,990 --> 02:18:49,090
+Nó ăn hết tất cả.
+
+1643
+02:18:49,290 --> 02:18:54,090
+Chim, thú, cỏ, cây, hoa.
+
+1644
+02:18:54,540 --> 02:18:58,770
+Sắt thép cũng chẳng tha.
+
+1645
+02:18:58,970 --> 02:19:02,330
+Nghiền nát luôn sỏi đá.
+
+1646
+02:19:04,380 --> 02:19:05,960
+Trả lời đi.
+
+1647
+02:19:06,180 --> 02:19:10,270
+Chờ ta một chút, làm ơn,
+ta đã cho ngươi một lúc lâu.
+
+1648
+02:19:10,960 --> 02:19:14,510
+Chim, thú... cây, hoa...
+
+1649
+02:19:14,730 --> 02:19:16,090
+Ta chưa nghe câu này.
+
+1650
+02:19:16,260 --> 02:19:19,460
+Nó ngon không?
+
+1651
+02:19:19,630 --> 02:19:23,750
+Nó tuyệt hảo không?
+
+1652
+02:19:24,170 --> 02:19:26,020
+Nó giòn rụm không?!
+
+1653
+02:19:26,200 --> 02:19:27,590
+Để ta nghĩ!
+
+1654
+02:19:27,780 --> 02:19:28,880
+Để ta nghĩ đã.
+
+1655
+02:19:33,850 --> 02:19:35,710
+Nó bí rồi.
+
+1656
+02:19:36,630 --> 02:19:40,820
+Baggins bí rồi.
+
+1657
+02:19:44,880 --> 02:19:46,470
+Hết thời gian.
+
+1658
+02:19:50,230 --> 02:19:52,030
+Thời gian? Thời gian.
+
+1659
+02:19:52,180 --> 02:19:54,860
+Đáp án là... thời gian.
+
+1660
+02:19:57,070 --> 02:19:58,520
+Thực ra cũng không quá khó.
+
+1661
+02:20:00,890 --> 02:20:02,290
+Câu hỏi cuối.
+
+1662
+02:20:03,960 --> 02:20:05,880
+Cơ hội cuối.
+
+1663
+02:20:05,880 --> 02:20:08,420
+Rồi... ừm...
+
+1664
+02:20:10,150 --> 02:20:11,980
+Hỏi đi.
+
+1665
+02:20:13,320 --> 02:20:16,090
+- Hỏi mau!
+- Rồi. Được rồi.
+
+1666
+02:20:20,410 --> 02:20:22,590
+Ta có gì...
+
+1667
+02:20:23,120 --> 02:20:24,680
+trong túi áo?
+
+1668
+02:20:27,610 --> 02:20:29,760
+Không công bằng.
+
+1669
+02:20:30,240 --> 02:20:34,410
+Chơi xấu.
+Như vậy là trái luật!
+
+1670
+02:20:35,240 --> 02:20:36,780
+Phải hỏi câu khác.
+
+1671
+02:20:37,250 --> 02:20:38,520
+Không. Không.
+
+1672
+02:20:38,680 --> 02:20:40,390
+Ngươi yêu cầu ta hỏi một câu.
+
+1673
+02:20:40,550 --> 02:20:42,670
+Và đó là... câu hỏi của ta.
+
+1674
+02:20:42,810 --> 02:20:45,200
+Ta có gì trong túi áo?
+
+1675
+02:20:47,060 --> 02:20:50,130
+Ba lần đoán, báu vật,
+nó phải cho ta ba lần đoán!
+
+1676
+02:20:50,300 --> 02:20:52,660
+Ba lần đoán. Được, đoán đi.
+
+1677
+02:20:52,890 --> 02:20:54,240
+Bàn tay!
+
+1678
+02:20:54,240 --> 02:20:56,000
+Sai rồi. Đoán lại.
+
+1679
+02:20:57,500 --> 02:21:00,800
+Xương cá, răng Goblin,
+vỏ sò, cánh dơi...
+
+1680
+02:21:04,070 --> 02:21:05,220
+Dao!
+
+1681
+02:21:05,420 --> 02:21:06,180
+Im ngay!
+
+1682
+02:21:06,410 --> 02:21:08,140
+Sai tiếp. Lần cuối.
+
+1683
+02:21:08,300 --> 02:21:09,640
+Sợi dây!
+
+1684
+02:21:10,340 --> 02:21:11,440
+Hay không gì cả.
+
+1685
+02:21:11,630 --> 02:21:13,280
+Hai lần đoán một lúc.
+
+1686
+02:21:13,420 --> 02:21:14,780
+Đều sai.
+
+1687
+02:21:18,470 --> 02:21:19,770
+Vậy...
+
+1688
+02:21:21,580 --> 02:21:22,730
+đi thôi nhỉ.
+
+1689
+02:21:22,950 --> 02:21:25,520
+Ta đã thắng, ngươi hứa là
+sẽ chỉ cho ta lối ra.
+
+1690
+02:21:25,820 --> 02:21:28,410
+Chúng ta nói vậy sao, hả báu vật?
+
+1691
+02:21:28,710 --> 02:21:31,340
+Ta nói vậy sao?
+
+1692
+02:21:34,940 --> 02:21:39,510
+Nó giấu gì trong túi của nó hả?
+
+1693
+02:21:40,740 --> 02:21:42,470
+Đó không phải việc của ngươi.
+
+1694
+02:21:43,150 --> 02:21:44,900
+Ngươi thua mất rồi.
+
+1695
+02:21:45,350 --> 02:21:47,100
+Thua ư?
+
+1696
+02:21:49,050 --> 02:21:50,050
+Thua mất rồi?
+
+1697
+02:21:52,050 --> 02:21:53,520
+Mất rồi?
+
+1698
+02:22:00,250 --> 02:22:01,780
+Nó đâu rồi?
+
+1699
+02:22:02,950 --> 02:22:04,670
+Nó đâu rồi?
+
+1700
+02:22:05,290 --> 02:22:06,280
+Không!
+
+1701
+02:22:09,000 --> 02:22:12,410
+Nó đâu rồi? Không!
+
+1702
+02:22:14,710 --> 02:22:16,250
+Mất rồi!
+
+1703
+02:22:16,370 --> 02:22:18,370
+Trời đất ơi!
+
+1704
+02:22:19,110 --> 02:22:22,970
+Báu vật của ta mất rồi!
+
+1705
+02:22:24,580 --> 02:22:25,420
+Ngươi mất gì?
+
+1706
+02:22:25,570 --> 02:22:29,100
+Đừng hỏi bọn ta, không phải việc của nó.
+
+1707
+02:22:29,100 --> 02:22:31,250
+Khôngg!
+
+1708
+02:22:31,250 --> 02:22:33,780
+Gollum! Gollum!
+
+1709
+02:22:46,340 --> 02:22:49,960
+Có thứ gì...
+
+1710
+02:22:50,110 --> 02:22:56,850
+trong cái túi nhỏ bẩn thỉu của nó hả?
+
+1711
+02:23:05,650 --> 02:23:07,800
+Hắn đánh cắp.
+
+1712
+02:23:08,950 --> 02:23:11,640
+Hắn đánh cắp nó!
+
+1713
+02:23:14,820 --> 02:23:17,060
+Hắn đánh cắp nó!
+
+1714
+02:23:22,530 --> 02:23:25,990
+♪ Xương rồi sẽ vỡ, cổ vặn làm đôi,
+
+1715
+02:23:26,150 --> 02:23:29,570
+♪ Tấm thân dập nát, treo lên làm mồi.
+
+1716
+02:23:29,770 --> 02:23:34,220
+♪ Các ngươi sẽ chết nơi chẳng ai hay,
+
+1717
+02:23:34,380 --> 02:23:38,340
+♪ Sâu trong thị trấn Goblin chốn này.
+
+1718
+02:23:41,170 --> 02:23:43,160
+Ta biết thanh kiếm đó.
+
+1719
+02:23:43,310 --> 02:23:45,210
+Chính là Trảm đôi yêu nghiệt!
+
+1720
+02:23:45,790 --> 02:23:47,000
+Thanh “Nha”!
+
+1721
+02:23:47,630 --> 02:23:50,540
+Lưỡi kiếm từng lấy cả ngàn cái đầu.
+
+1722
+02:23:50,930 --> 02:23:54,890
+Chém chúng, đập chúng, giết chúng!
+
+1723
+02:23:55,050 --> 02:23:56,770
+Giết sạch chúng!
+
+1724
+02:23:57,080 --> 02:23:58,600
+Lấy đầu hắn!
+
+1725
+02:24:28,770 --> 02:24:31,000
+Cầm vũ khí lên.
+
+1726
+02:24:31,620 --> 02:24:33,470
+Đánh.
+
+1727
+02:24:34,230 --> 02:24:35,470
+Đánh!
+
+1728
+02:24:42,300 --> 02:24:47,690
+Hắn mang Đập tan kẻ thù,
+thanh “Phá”, sáng như ánh dương!
+
+1729
+02:24:56,770 --> 02:24:58,110
+Thorin!
+
+1730
+02:25:11,740 --> 02:25:13,220
+Theo ta!
+
+1731
+02:25:13,490 --> 02:25:14,640
+Mau!
+
+1732
+02:25:17,210 --> 02:25:18,850
+Chạy!
+
+1733
+02:25:27,020 --> 02:25:29,280
+Trả nó cho bọn ta!
+
+1734
+02:25:48,570 --> 02:25:51,380
+Của bọn ta.
+
+1735
+02:25:51,680 --> 02:25:55,000
+Của bọn ta!
+
+1736
+02:26:18,900 --> 02:26:20,950
+Quân ăn cướp!
+
+1737
+02:26:22,550 --> 02:26:24,960
+Baggins!
+
+1738
+02:26:31,830 --> 02:26:33,630
+Nhanh lên!
+
+1739
+02:26:34,970 --> 02:26:36,590
+Đừng dừng lại!
+
+1740
+02:26:46,520 --> 02:26:47,680
+Cọc!
+
+1741
+02:26:50,520 --> 02:26:52,600
+Xông lên!
+
+1742
+02:27:38,520 --> 02:27:40,080
+Cắt dây!
+
+1743
+02:28:03,170 --> 02:28:06,070
+- Đi nào, mau!
+- Nhanh, Bombur!
+
+1744
+02:28:13,180 --> 02:28:14,760
+Nào!
+
+1745
+02:28:18,390 --> 02:28:20,120
+Nhảy!
+
+1746
+02:28:25,670 --> 02:28:26,770
+Nhảy nào!
+
+1747
+02:28:47,750 --> 02:28:49,330
+Tiếp tục!
+
+1748
+02:28:51,120 --> 02:28:52,570
+Đẩy!
+
+1749
+02:29:27,130 --> 02:29:29,940
+Ngươi nghĩ thoát được khỏi ta ư?
+
+1750
+02:29:33,350 --> 02:29:35,990
+Giờ ngươi định sao, lão phù thủy?
+
+1751
+02:29:44,340 --> 02:29:45,530
+Nói vậy mà làm thật à?
+
+1752
+02:30:20,890 --> 02:30:23,350
+Thế này vẫn còn may.
+
+1753
+02:30:25,830 --> 02:30:28,530
+Đùa nhau chắc!
+
+1754
+02:30:34,310 --> 02:30:36,160
+Gandalf!
+
+1755
+02:30:40,370 --> 02:30:42,210
+Chúng quá đông,
+ta không thể đánh được.
+
+1756
+02:30:42,370 --> 02:30:44,920
+Chỉ có một thứ cứu được chúng ta.
+Ánh sáng ban ngày!
+
+1757
+02:30:45,110 --> 02:30:46,390
+Mau!
+
+1758
+02:30:46,530 --> 02:30:48,460
+Nào, đứng lên!
+
+1759
+02:30:54,590 --> 02:30:58,020
+Đợi ta với, báu vật!
+
+1760
+02:30:58,180 --> 02:30:59,940
+Đợi ta!
+
+1761
+02:30:59,940 --> 02:31:02,090
+Gollum! Gollum!
+
+1762
+02:32:49,400 --> 02:32:51,970
+Baggins!
+
+1763
+02:32:52,170 --> 02:32:54,880
+Quân ăn cướp!
+
+1764
+02:32:55,020 --> 02:33:00,810
+Ta nguyền rủa,
+ta căm thù mãi mãi!
+
+1765
+02:33:12,130 --> 02:33:15,620
+Năm, sáu, bảy, tám.
+
+1766
+02:33:15,780 --> 02:33:18,060
+Bifur, Bofur, là mười.
+
+1767
+02:33:18,220 --> 02:33:20,820
+Fíli, Kíli, mười hai.
+
+1768
+02:33:20,980 --> 02:33:24,000
+Và Bombur, đã đủ mười ba.
+
+1769
+02:33:24,380 --> 02:33:26,350
+Bilbo đâu?
+
+1770
+02:33:27,050 --> 02:33:29,250
+Cậu Hobbit của chúng ta đâu?
+
+1771
+02:33:30,250 --> 02:33:31,830
+Cậu Hobbit của chúng ta đâu?
+
+1772
+02:33:33,400 --> 02:33:35,150
+Cái gã Bán nhân chết tiệt!
+
+1773
+02:33:35,150 --> 02:33:37,760
+Giờ lại bị lạc?
+Tôi tưởng cậu ta ở cùng Dori!
+
+1774
+02:33:38,010 --> 02:33:39,480
+Sao lại trách tôi?!
+
+1775
+02:33:39,680 --> 02:33:41,150
+Lần cuối ông thấy cậu ta là ở đâu?
+
+1776
+02:33:41,320 --> 02:33:44,080
+Hình như tôi thấy cậu ta lẻn đi
+ban đầu lúc chúng ta bị bao vây.
+
+1777
+02:33:44,240 --> 02:33:46,070
+Vậy chính xác là thế nào?
+Nói tôi nghe!
+
+1778
+02:33:46,240 --> 02:33:48,010
+Để tôi nói cho ông nghe.
+
+1779
+02:33:48,190 --> 02:33:51,250
+Cậu Baggins có cơ hội đào tẩu
+và đã tận dụng nó!
+
+1780
+02:33:52,020 --> 02:33:54,570
+Cậu ta chẳng thiết gì hơn
+chiếc giường êm và lò sưởi...
+
+1781
+02:33:54,720 --> 02:33:57,370
+kể từ khi bước chân ra khỏi nhà.
+
+1782
+02:33:57,570 --> 02:33:59,870
+Chúng ta sẽ không gặp lại
+gã Hobbit đó nữa.
+
+1783
+02:34:00,510 --> 02:34:02,160
+Cậu ta bỏ đi rất xa rồi.
+
+1784
+02:34:14,420 --> 02:34:16,960
+Không, cậu ta chưa đâu.
+
+1785
+02:34:21,200 --> 02:34:22,600
+Bilbo Baggins.
+
+1786
+02:34:23,320 --> 02:34:26,930
+Ta chưa từng gặp lại người nào
+mà thấy vui đến vậy.
+
+1787
+02:34:28,130 --> 02:34:30,270
+Bilbo, chúng tôi cứ nghĩ
+cậu đã bỏ cuộc!
+
+1788
+02:34:30,420 --> 02:34:32,150
+Làm sao cậu qua được đám Goblin?
+
+1789
+02:34:32,390 --> 02:34:33,950
+Phải đấy?
+
+1790
+02:34:43,060 --> 02:34:45,100
+Cũng đâu quan trọng chứ?
+
+1791
+02:34:45,320 --> 02:34:46,790
+Cậu ấy đã trở lại.
+
+1792
+02:34:47,190 --> 02:34:48,130
+Quan trọng đấy.
+
+1793
+02:34:48,640 --> 02:34:50,000
+Tôi muốn biết.
+
+1794
+02:34:52,180 --> 02:34:53,920
+Vì sao cậu quay lại?
+
+1795
+02:34:57,170 --> 02:35:00,390
+Tôi biết ngài nghi ngờ tôi.
+Tôi biết vẫn luôn là như vậy.
+
+1796
+02:35:01,870 --> 02:35:04,670
+Và đúng, tôi hay nghĩ về Bag End.
+
+1797
+02:35:05,350 --> 02:35:07,430
+Tôi nhớ những quyển sách.
+
+1798
+02:35:08,180 --> 02:35:10,740
+Chiếc ghế bành, và khu vườn của tôi nữa.
+
+1799
+02:35:11,980 --> 02:35:13,700
+Đó chính là nơi tôi thuộc về.
+
+1800
+02:35:14,020 --> 02:35:15,590
+Đó là nhà.
+
+1801
+02:35:17,490 --> 02:35:19,660
+Vậy nên tôi đã quay lại, bởi vì...
+
+1802
+02:35:21,940 --> 02:35:24,690
+các ông không có nó.
+Một mái nhà.
+
+1803
+02:35:25,500 --> 02:35:27,120
+Nó đã bị cướp mất.
+
+1804
+02:35:30,070 --> 02:35:32,680
+Nhưng tôi sẽ giúp mọi người
+đoạt lại nó bằng sức của mình.
+
+1805
+02:35:55,620 --> 02:35:57,290
+<font color="#ffc90d">Tìm diệt chúng!</font>
+
+1806
+02:35:57,540 --> 02:36:00,640
+<font color="#ffc90d">Xé xác chúng cho ta!</font>
+
+1807
+02:36:06,030 --> 02:36:09,430
+- Ra khỏi chảo mỡ...
+- Gặp ngay lò lửa.
+
+1808
+02:36:09,430 --> 02:36:10,450
+Chạy.
+
+1809
+02:36:10,450 --> 02:36:11,590
+Chạy mau!
+
+1810
+02:36:55,510 --> 02:36:57,550
+Tất cả leo lên cây mau!
+
+1811
+02:36:57,720 --> 02:37:00,930
+Khẩn trương, leo đi. Bilbo, trèo lên!
+
+1812
+02:37:11,690 --> 02:37:13,770
+Chúng đang tới!
+
+1813
+02:38:14,320 --> 02:38:15,920
+Azog.
+
+1814
+02:38:21,350 --> 02:38:23,660
+<font color="#ffc90d">Ngươi có ngửi thấy không?</font>
+
+1815
+02:38:25,180 --> 02:38:28,410
+<font color="#ffc90d">Mùi của sự sợ hãi?</font>
+
+1816
+02:38:31,180 --> 02:38:37,120
+<font color="#ffc90d">Ta còn nhớ cha ngươi nồng nặc mùi này...</font>
+
+1817
+02:38:37,460 --> 02:38:42,190
+<font color="#ffc90d">Thorin, con trai của Thráin.</font>
+
+1818
+02:38:42,520 --> 02:38:44,400
+Không thể nào...
+
+1819
+02:38:51,600 --> 02:38:53,450
+<font color="#ffc90d">Tên đó là của ta...</font>
+
+1820
+02:38:54,080 --> 02:38:55,970
+<font color="#ffc90d">Giết lũ còn lại!</font>
+
+1821
+02:39:23,560 --> 02:39:25,820
+<font color="#ffc90d">Uống máu chúng!</font>
+
+1822
+02:39:37,200 --> 02:39:38,550
+Nó đang đổ!
+
+1823
+02:40:28,720 --> 02:40:30,180
+Fíli!
+
+1824
+02:41:04,850 --> 02:41:06,070
+Ôi...
+
+1825
+02:41:13,010 --> 02:41:14,400
+Ôi không!
+
+1826
+02:41:19,170 --> 02:41:20,720
+Ông Gandalf!
+
+1827
+02:41:26,310 --> 02:41:27,600
+Không, Nori!
+
+1828
+02:42:57,780 --> 02:43:00,310
+Khôngg!
+
+1829
+02:43:11,660 --> 02:43:14,420
+Thorin! Không!
+
+1830
+02:43:32,360 --> 02:43:36,590
+<font color="#ffc90d">Mang đầu tên Lùn ra đây.</font>
+
+1831
+02:44:25,490 --> 02:44:27,570
+<font color="#ffc90d">Giết hắn.</font>
+
+1832
+02:47:01,580 --> 02:47:03,520
+Bác Thorin!
+
+1833
+02:47:50,240 --> 02:47:58,140
+{\an8}<font size="10"><font color="#ffc90d"><i>~ Great Eagle : Đại Bàng khổng lồ. Một giống loài cổ xưa, cao quý và kiêu hãnh.</i></font></font>
+
+1834
+02:47:58,340 --> 02:48:06,140
+{\an8}<font size="10"><font color="#ffc90d"><i>Được cử từ Valinor tới Trung Địa. Chúng có vua, vương quốc và ngôn ngữ riêng.</i></font></font>
+
+1835
+02:48:06,340 --> 02:48:14,240
+{\an8}<font size="10"><font color="#ffc90d"><i>Gandalf từng cứu giúp Đại Bàng chúa, nên có thể nhờ tới chúng vào lúc hiểm nghèo. ~</i></font></font>
+
+1836
+02:48:18,340 --> 02:48:19,690
+Thorin!
+
+1837
+02:48:23,680 --> 02:48:24,780
+Thorin.
+
+1838
+02:48:42,160 --> 02:48:43,460
+Cậu Bán nhân đâu?
+
+1839
+02:48:44,390 --> 02:48:47,960
+Không sao cả. Bilbo đứng ngay đây.
+
+1840
+02:48:48,400 --> 02:48:50,220
+Cậu ta vẫn bình an.
+
+1841
+02:48:59,970 --> 02:49:01,110
+Cậu!
+
+1842
+02:49:04,980 --> 02:49:06,640
+Cậu nghĩ sao mà làm vậy?
+
+1843
+02:49:07,020 --> 02:49:09,290
+Suýt nữa cậu đã mất mạng.
+
+1844
+02:49:11,490 --> 02:49:14,320
+Chẳng phải ta nói cậu là gánh nặng sao?
+
+1845
+02:49:14,940 --> 02:49:17,660
+Rằng cậu sẽ không thể
+sống sót nơi hoang dã.
+
+1846
+02:49:18,510 --> 02:49:20,620
+Và cậu không có chỗ trong đoàn.
+
+1847
+02:49:26,190 --> 02:49:29,820
+Ta chưa từng sai lầm như vậy trong đời.
+
+1848
+02:49:42,000 --> 02:49:43,820
+Ta xin lỗi đã nghi ngờ cậu.
+
+1849
+02:49:43,820 --> 02:49:46,240
+Không, nếu là tôi
+thì cũng sẽ làm vậy thôi.
+
+1850
+02:49:46,900 --> 02:49:49,780
+Tôi không phải người hùng
+hay chiến binh gì.
+
+1851
+02:49:52,060 --> 02:49:53,940
+Còn chẳng phải một tên trộm.
+
+1852
+02:50:12,780 --> 02:50:15,750
+Kia có phải là...
+
+1853
+02:50:30,820 --> 02:50:32,520
+Erebor.
+
+1854
+02:50:33,420 --> 02:50:35,200
+Ngọn núi Cô đơn.
+
+1855
+02:50:35,490 --> 02:50:40,580
+Vương quốc vĩ đại cuối cùng
+của Người Lùn ở Trung Địa.
+
+1856
+02:50:42,700 --> 02:50:44,670
+Quê nhà.
+
+1857
+02:50:48,960 --> 02:50:50,220
+Có quạ kìa!
+
+1858
+02:50:50,400 --> 02:50:53,720
+Lũ chim đang trở về ngọn núi.
+
+1859
+02:50:56,890 --> 02:51:00,520
+Óin thân mến ơi, đó là con chim hoét.
+
+1860
+02:51:01,820 --> 02:51:05,490
+Chúng ta sẽ coi đó
+là một dấu hiệu, một điềm lành.
+
+1861
+02:51:05,660 --> 02:51:06,970
+Đúng vậy.
+
+1862
+02:51:07,670 --> 02:51:10,640
+Tôi tin là điều tồi tệ nhất đã ở phía sau.
+
+1863
+02:52:18,740 --> 02:52:28,740
+- Biên dịch: SoiNon -
+PhuDeViet.org & GameVN.com
+
+1864
+02:52:23,240 --> 02:57:00,240
+{\an8}<font size="10"><font color="#ffc90d"><i>~ Song of the Lonely Mountain - Neil Finn ~</i></font></font>
+
+1865
+02:53:03,360 --> 02:53:11,220
+♪ Tít trên dãy Núi Mờ sương sừng sững
+
+1866
+02:53:11,420 --> 02:53:19,060
+♪ Nơi ta đang đứng, bát ngát tầng cao
+
+1867
+02:53:19,260 --> 02:53:27,090
+♪ Những gì xưa ấy, lại thấy hôm nay
+
+1868
+02:53:27,290 --> 02:53:34,400
+♪ Vương quốc thân yêu, phía xa tầm mắt
+
+1869
+02:53:34,600 --> 02:53:41,190
+♪ Ngọn núi năm nào rực cháy dưới trăng
+
+1870
+02:53:41,390 --> 02:53:49,290
+♪ Đâu cần mở lời, sẽ tới sớm thôi
+
+1871
+02:53:49,490 --> 02:53:57,400
+♪ Bởi quê nhà là bài hát vang xa
+
+1872
+02:53:57,600 --> 02:54:04,750
+♪ Ai tìm tới ta, sẽ hiểu giai điệu
+
+1873
+02:54:06,260 --> 02:54:10,100
+♪ Có những người ta sẽ chẳng thể quên
+
+1874
+02:54:10,300 --> 02:54:14,220
+♪ Có những loài muôn kiếp chẳng thứ tha
+
+1875
+02:54:14,420 --> 02:54:18,340
+♪ Dẫu chưa thấy ngày trở lại quê nhà
+
+1876
+02:54:18,540 --> 02:54:22,390
+♪ Ta chiến đấu cho tới khi gục ngã
+
+1877
+02:54:22,590 --> 02:54:26,370
+♪ Mọi ánh mắt dõi tìm cánh cửa mật
+
+1878
+02:54:26,570 --> 02:54:30,420
+♪ Dẫn tới lòng Ngọn núi Cô đơn
+
+1879
+02:54:30,620 --> 02:54:34,140
+♪ Ta sẽ cưỡi lên cơn bão dữ tợn
+
+1880
+02:54:34,340 --> 02:54:40,420
+♪ Tới khi tìm lại số vàng lâu đã mất
+
+1881
+02:54:41,170 --> 02:54:48,810
+♪ Ta nằm dài dưới Núi Mờ sương lạnh
+
+1882
+02:54:49,010 --> 02:54:56,920
+♪ Giấc ngủ sâu và mộng tưởng về vàng
+
+1883
+02:54:57,120 --> 02:55:04,920
+♪ Thức dậy đi, tiếng thúc giục trái tim
+
+1884
+02:55:05,120 --> 02:55:11,990
+♪ Trong bóng tối, bó đuốc hồng ta nắm
+
+1885
+02:55:12,190 --> 02:55:19,000
+♪ Từ lâu lắm, ánh lồng đèn đỏ son
+
+1886
+02:55:19,200 --> 02:55:27,110
+♪ Tới hôm nay, tim ta vẫn mỏi mòn
+
+1887
+02:55:27,310 --> 02:55:35,410
+♪ Số phận chưa thấu, của Arkenstone
+
+1888
+02:55:35,610 --> 02:55:42,050
+♪ Những gì đã mất, phải được hoàn trả
+
+1889
+02:55:57,580 --> 02:56:05,440
+♪ Thức dậy đi, tiếng cuộc đời vồn vã
+
+1890
+02:56:05,640 --> 02:56:13,050
+♪ Hãy kiếm tìm, bài hát tâm hồn ta
+
+1891
+02:56:15,240 --> 02:56:19,140
+♪ Có những người ta sẽ chẳng thể quên
+
+1892
+02:56:19,340 --> 02:56:23,320
+♪ Có những loài muôn kiếp chẳng thứ tha
+
+1893
+02:56:23,520 --> 02:56:27,420
+♪ Dẫu chưa thấy được cuối chặng đường dài
+
+1894
+02:56:27,620 --> 02:56:31,440
+♪ Ta chiến đấu cho tới khi gục ngã
+
+1895
+02:56:31,640 --> 02:56:35,470
+♪ Mọi ánh mắt dõi tìm cánh cửa mật
+
+1896
+02:56:35,670 --> 02:56:39,540
+♪ Dẫn tới lòng Ngọn núi Cô đơn
+
+1897
+02:56:39,740 --> 02:56:43,570
+♪ Ta sẽ cưỡi lên cơn bão dữ tợn
+
+1898
+02:56:43,770 --> 02:56:48,780
+♪ Tới khi tìm lại số vàng lâu đã mất
+
+1899
+02:56:50,190 --> 02:56:58,400
+♪ Chốn xa nơi Núi Mờ sương lạnh.
+
