@@ -1,0 +1,4857 @@
+1
+00:01:30,830 --> 00:01:34,080
+<font face="Segoe UI" size="140">Chuyển thể từ tiểu thuyết [Phong Thần Diễn Nghĩa] và [Vũ Vương Phạt Trụ]</font>
+
+2
+00:02:08,000 --> 00:02:12,900
+<font face="Segoe UI" size="90">[Núi Côn Luân]</font>
+
+3
+00:02:14,630 --> 00:02:16,500
+<font face="Segoe UI" size="140">Chúng ta vất vả đưa Ân Giao lên núi.</font>
+
+4
+00:02:16,670 --> 00:02:18,920
+<font face="Segoe UI" size="140">Cứu được thì cứu, không cứu được thì nói thẳng.</font>
+
+5
+00:02:19,080 --> 00:02:20,580
+<font face="Segoe UI" size="140">Đừng lãng phí thời gian !</font>
+
+6
+00:02:19,400 --> 00:02:21,000
+<font face="Segoe UI" size="90">[Na Tra]</font>
+
+7
+00:02:19,400 --> 00:02:21,000
+<font face="Segoe UI" size="90">[Dương Tiễn]</font>
+
+8
+00:02:20,750 --> 00:02:21,710
+<font face="Segoe UI" size="140">Na Tra...</font>
+
+9
+00:02:22,790 --> 00:02:24,130
+<font face="Segoe UI" size="140">Không được vô lễ.</font>
+
+10
+00:02:25,920 --> 00:02:27,500
+<font face="Segoe UI" size="140">Chúng đệ tử vẫn đến muộn một bước.</font>
+
+11
+00:02:29,290 --> 00:02:30,880
+<font face="Segoe UI" size="140">Nên không giữ được mạng của Ân Giao.</font>
+
+12
+00:02:31,750 --> 00:02:33,790
+<font face="Segoe UI" size="140">Người chết không thể sống lại.</font>
+
+13
+00:02:31,940 --> 00:02:35,750
+<font face="Segoe UI" size="90">[Thái Ất Chân Nhân]</font>
+
+14
+00:02:33,960 --> 00:02:35,790
+<font face="Segoe UI" size="140">Đó là lẽ trời.</font>
+
+15
+00:02:36,420 --> 00:02:37,790
+<font face="Segoe UI" size="140">Ân Giao đã chết...</font>
+
+16
+00:02:36,920 --> 00:02:41,590
+<font face="Segoe UI" size="90">[Ngọc Đỉnh Chân Nhân]</font>
+
+17
+00:02:37,960 --> 00:02:41,500
+<font face="Segoe UI" size="140">Nếu cứu sống ắt nghịch thiên.</font>
+
+18
+00:02:42,170 --> 00:02:44,250
+<font face="Segoe UI" size="140">Nghịch thiên hành sự.</font>
+
+19
+00:02:44,420 --> 00:02:46,580
+<font face="Segoe UI" size="140">Ắt gặp đại họa.</font>
+
+20
+00:02:46,750 --> 00:02:48,750
+<font face="Segoe UI" size="140">Xin sư tôn suy nghĩ kỹ.</font>
+
+21
+00:02:49,820 --> 00:02:53,000
+<font face="Segoe UI" size="90">[Nguyên Thủy Thiên Tôn]</font>
+
+22
+00:02:51,130 --> 00:02:52,290
+<font face="Segoe UI" size="140">Mở !</font>
+
+23
+00:02:55,520 --> 00:02:58,350
+<font face="Segoe UI" size="90">[Ân Thương Thái Tử]
+[Ân Giao]</font>
+
+24
+00:03:05,750 --> 00:03:07,920
+<font face="Segoe UI" size="140">Ân Giao, ngươi chưa đánh đã sợ,</font>
+
+25
+00:03:08,080 --> 00:03:09,000
+<font face="Segoe UI" size="140">Làm ta quá thất vọng.</font>
+
+26
+00:03:09,170 --> 00:03:11,630
+<font face="Segoe UI" size="140">Ta nhất định sẽ đưa phụ vương về đoàn tụ.</font>
+
+27
+00:03:11,790 --> 00:03:13,130
+<font face="Segoe UI" size="140">Nàng ta làm gì ở đây?</font>
+
+28
+00:03:14,210 --> 00:03:15,250
+<font face="Segoe UI" size="140">Cút ngay !</font>
+
+29
+00:03:16,460 --> 00:03:18,540
+<font face="Segoe UI" size="140">Con nguyện thay phụ vương tự thiêu tế trời.</font>
+
+30
+00:03:19,170 --> 00:03:22,330
+<font face="Segoe UI" size="140">Ngươi quá nóng lòng muốn chiếm ngôi của ta.</font>
+
+31
+00:03:22,500 --> 00:03:25,130
+<font face="Segoe UI" size="140">Lạ thay, Ân Giao tuy chết.</font>
+
+32
+00:03:25,290 --> 00:03:27,380
+<font face="Segoe UI" size="140">Nhưng nguyên khí vẫn không tan.</font>
+
+33
+00:03:27,540 --> 00:03:30,040
+<font face="Segoe UI" size="140">Ngay cả Phong Thần Bảng cũng không thu nạp được.</font>
+
+34
+00:03:30,210 --> 00:03:32,290
+<font face="Segoe UI" size="140">Ngươi quả nhiên muốn giết cha.</font>
+
+35
+00:03:32,460 --> 00:03:33,960
+<font face="Segoe UI" size="140">Con vô tình làm bị thương phụ vương.</font>
+
+36
+00:03:34,130 --> 00:03:36,000
+<font face="Segoe UI" size="140">Thực ra là để giết yêu nghiệt này.</font>
+
+37
+00:03:36,170 --> 00:03:37,460
+<font face="Segoe UI" size="140">Ngày mai chém đầu ở Ngọ Môn.</font>
+
+38
+00:03:37,630 --> 00:03:38,750
+<font face="Segoe UI" size="140">Mạng nhi thần là do phụ vương ban.</font>
+
+39
+00:03:38,920 --> 00:03:42,000
+<font face="Segoe UI" size="140">Nguyên khí không tan vì lòng đầy oán hận.</font>
+
+40
+00:03:42,170 --> 00:03:43,460
+<font face="Segoe UI" size="140">Không chịu tiêu tan.</font>
+
+41
+00:03:43,630 --> 00:03:46,750
+<font face="Segoe UI" size="140">Việc bất thường ắt có điềm gở.</font>
+
+42
+00:03:47,210 --> 00:03:49,830
+<font face="Segoe UI" size="140">Kẻ oán hận sâu nặng như vậy.</font>
+
+43
+00:03:50,170 --> 00:03:54,210
+<font face="Segoe UI" size="140">Một khi sống lại, hậu quả khôn lường.</font>
+
+44
+00:03:54,830 --> 00:03:58,670
+<font face="Segoe UI" size="140">Tử Nha tin chắc Ân Giao sẽ là minh chủ tương lai.</font>
+
+45
+00:03:59,130 --> 00:04:01,750
+<font face="Segoe UI" size="140">Là người có thể mở Phong Thần Bảng.</font>
+
+46
+00:04:01,920 --> 00:04:03,500
+<font face="Segoe UI" size="140">Vận trời đã đến.</font>
+
+47
+00:04:03,670 --> 00:04:05,830
+<font face="Segoe UI" size="140">Ân Giao là hy vọng cuối cùng của nhân gian.</font>
+
+48
+00:04:06,420 --> 00:04:08,290
+<font face="Segoe UI" size="140">Có lẽ cũng là...</font>
+
+49
+00:04:08,460 --> 00:04:09,750
+<font face="Segoe UI" size="140">Hy vọng cuối cùng của chúng ta.</font>
+
+50
+00:04:11,040 --> 00:04:12,080
+<font face="Segoe UI" size="140">Kết trận !</font>
+
+51
+00:04:53,880 --> 00:04:56,580
+<font face="Segoe UI" size="140">Không ổn, hắn đang hút pháp lực của ta.</font>
+
+52
+00:04:56,750 --> 00:04:58,330
+<font face="Segoe UI" size="140">Ngừng vận công ngay !</font>
+
+53
+00:04:58,540 --> 00:04:59,880
+<font face="Segoe UI" size="140">Không ngừng được !</font>
+
+54
+00:05:00,040 --> 00:05:02,130
+<font face="Segoe UI" size="140">Chúng ta bị mắc kẹt trong trận pháp...</font>
+
+55
+00:05:00,250 --> 00:05:02,200
+<font face="Segoe UI" size="90">[Hoàng Long Chân Nhân]</font>
+
+56
+00:05:02,250 --> 00:05:04,490
+<font face="Segoe UI" size="90">[Cụ Lưu Tôn]</font>
+
+57
+00:05:02,290 --> 00:05:04,130
+<font face="Segoe UI" size="140">Tốc độ hấp thu ngày càng nhanh.</font>
+
+58
+00:05:04,290 --> 00:05:05,580
+<font face="Segoe UI" size="140">Cứ tiếp tục thế này,</font>
+
+59
+00:05:04,900 --> 00:05:08,750
+<font face="Segoe UI" size="90">[Từ Hàng Đạo Nhân]</font>
+
+60
+00:05:06,130 --> 00:05:08,580
+<font face="Segoe UI" size="140">Hắn sẽ hút cạn pháp lực của tất cả chúng ta.</font>
+
+61
+00:05:56,000 --> 00:06:00,710
+<font face="Segoe UI" size="140">Sư tôn, ngài đã mất hết pháp lực vào tay hắn.</font>
+
+62
+00:06:06,670 --> 00:06:10,710
+<font face="Segoe UI" size="140">Chúng ta phạm phải đại tội nghịch thiên.</font>
+
+63
+00:06:16,820 --> 00:06:22,570
+<font face="Segoe UI" size="140">[Phong Thần Tam Bộ Khúc]
+[Đệ Nhị Bộ]</font>
+
+64
+00:06:25,000 --> 00:06:28,800
+<font face="Segoe UI" size="90">[Triều Ca Thành]</font>
+
+65
+00:06:27,000 --> 00:06:29,790
+<font face="Segoe UI" size="140">Ân Thương Thái Sư, Vân Trọng.</font>
+
+66
+00:06:29,960 --> 00:06:35,000
+<font face="Segoe UI" size="140">Chinh chiến Phương Bắc hơn mười năm.</font>
+
+67
+00:06:36,170 --> 00:06:40,500
+<font face="Segoe UI" size="140">Nay thắng trận trở về.</font>
+
+68
+00:06:44,000 --> 00:06:46,100
+<font face="Segoe UI" size="90">[Ma Lễ Thọ]</font>
+
+69
+00:06:52,600 --> 00:06:54,840
+<font face="Segoe UI" size="90">[Ma Lễ Hải]</font>
+
+70
+00:06:56,500 --> 00:06:58,050
+<font face="Segoe UI" size="90">[Ma Lễ Hồng]</font>
+
+71
+00:06:58,640 --> 00:07:00,050
+<font face="Segoe UI" size="90">[Ma Lễ Thanh]</font>
+
+72
+00:07:01,020 --> 00:07:03,660
+<font face="Segoe UI" size="90">[Đặng Thiền Ngọc]</font>
+
+73
+00:07:07,500 --> 00:07:09,800
+<font face="Segoe UI" size="90">[Ân Thương Thái Sư]
+[Văn Trọng]</font>
+
+74
+00:07:14,500 --> 00:07:17,460
+<font face="Segoe UI" size="140">Thần Văn Trọng viễn chinh Bắc Hải.</font>
+
+75
+00:07:17,880 --> 00:07:21,250
+<font face="Segoe UI" size="140">Suốt mười năm dài, hoàn thành trọng trách.</font>
+
+76
+00:07:21,920 --> 00:07:24,420
+<font face="Segoe UI" size="140">Nay xin hoàn trả binh phù.</font>
+
+77
+00:07:30,620 --> 00:07:32,690
+<font face="Segoe UI" size="90">[Tô Đát Kỷ]</font>
+
+78
+00:07:30,620 --> 00:07:32,690
+<font face="Segoe UI" size="90">[Thương Vương]
+[Ân Thọ]</font>
+
+79
+00:07:37,540 --> 00:07:40,670
+<font face="Segoe UI" size="140">Thần Văn Trọng viễn chinh Bắc Hải.</font>
+
+80
+00:07:40,830 --> 00:07:43,790
+<font face="Segoe UI" size="140">Khổ chiến mười năm, hoàn thành trọng trách.</font>
+
+81
+00:07:44,170 --> 00:07:46,790
+<font face="Segoe UI" size="140">Nay xin hoàn trả binh phù.</font>
+
+82
+00:07:48,420 --> 00:07:51,960
+<font face="Segoe UI" size="140">Cơ Phát, con trai Tây Bá Hầu Cơ Xương, ngang nhiên hành thích đại vương.</font>
+
+83
+00:07:52,130 --> 00:07:53,830
+<font face="Segoe UI" size="140">Phản bội trốn về Tây Kỳ.</font>
+
+84
+00:07:54,000 --> 00:07:55,670
+<font face="Segoe UI" size="140">Đại vương tính mạng đang nguy cấp.</font>
+
+85
+00:07:55,830 --> 00:07:58,210
+<font face="Segoe UI" size="140">Không thể thân chinh, lấy làm hận.</font>
+
+86
+00:07:58,380 --> 00:08:00,920
+<font face="Segoe UI" size="140">Thỉnh cầu Thái sư chinh phạt Tây Kỳ.</font>
+
+87
+00:08:02,670 --> 00:08:04,540
+<font face="Segoe UI" size="140">Thần là một bề tôi tận tụy của tiên vương.</font>
+
+88
+00:08:04,710 --> 00:08:07,000
+<font face="Segoe UI" size="140">Tiên vương đã băng hà.</font>
+
+89
+00:08:07,170 --> 00:08:10,040
+<font face="Segoe UI" size="140">Thần cũng già yếu, khó lòng tòng chinh.</font>
+
+90
+00:08:10,420 --> 00:08:14,250
+<font face="Segoe UI" size="140">Nay thần xin được cáo lão từ quan.</font>
+
+91
+00:08:27,580 --> 00:08:30,670
+<font face="Segoe UI" size="140">Thái sư không còn muốn tận trung nữa.</font>
+
+92
+00:08:31,040 --> 00:08:32,790
+<font face="Segoe UI" size="140">Đại vương cũng không ép buộc ngài.</font>
+
+93
+00:08:32,960 --> 00:08:35,710
+<font face="Segoe UI" size="140">Xem ra vận mệnh của Ân Thương đã tận.</font>
+
+94
+00:08:35,920 --> 00:08:36,960
+<font face="Segoe UI" size="140">Đại vương vẫn còn đó.</font>
+
+95
+00:08:37,420 --> 00:08:38,960
+<font face="Segoe UI" size="140">Nhưng Đại Thương.</font>
+
+96
+00:08:39,670 --> 00:08:40,710
+<font face="Segoe UI" size="140">Đã diệt vong rồi.</font>
+
+97
+00:08:42,380 --> 00:08:45,750
+<font face="Segoe UI" size="140">Mạt tướng Đặng Thiền Ngọc nguyện vì đại vương thảo phạt phản tặc.</font>
+
+98
+00:08:48,130 --> 00:08:51,380
+<font face="Segoe UI" size="140">Phụ thân thần, Đặng Cửu Công, cả đời binh nghiệp.</font>
+
+99
+00:08:51,710 --> 00:08:53,580
+<font face="Segoe UI" size="140">May mắn được hi sinh vì đất nước.</font>
+
+100
+00:08:54,460 --> 00:08:56,670
+<font face="Segoe UI" size="140">Mạt tướng từ nhỏ theo tiên phụ chinh chiến.</font>
+
+101
+00:08:57,540 --> 00:08:59,210
+<font face="Segoe UI" size="140">Nguyện hoàn thành chí nguyện của tiên phụ.</font>
+
+102
+00:08:59,790 --> 00:09:02,000
+<font face="Segoe UI" size="140">Lập thêm công trạng cho Đại Thương.</font>
+
+103
+00:09:08,920 --> 00:09:10,790
+<font face="Segoe UI" size="140">Đại vương mời ngươi lại gần.</font>
+
+104
+00:09:30,170 --> 00:09:33,460
+<font face="Segoe UI" size="140">Mạt tướng nguyện dẫn 800 kỵ binh cùng Tứ Đại Ma Tướng.</font>
+
+105
+00:09:34,130 --> 00:09:35,670
+<font face="Segoe UI" size="140">Xuất thành ngay hôm nay.</font>
+
+106
+00:09:37,000 --> 00:09:38,790
+<font face="Segoe UI" size="140">Không bắt được phản tặc Cơ Phát.</font>
+
+107
+00:09:39,670 --> 00:09:42,460
+<font face="Segoe UI" size="140">Xin chịu tội chết !</font>
+
+108
+00:09:46,500 --> 00:09:49,920
+<font face="Segoe UI" size="140">Trẫm ban cho ngươi một bộ chiến giáp !</font>
+
+109
+00:09:53,250 --> 00:09:54,460
+<font face="Segoe UI" size="140">Đi đi !</font>
+
+110
+00:09:58,580 --> 00:10:03,880
+<font face="Segoe UI" size="140">Thay cha ngươi đã khuất chiến đấu vì ta.</font>
+
+111
+00:10:05,670 --> 00:10:08,580
+<font face="Segoe UI" size="140">Vì Đại Thương mà chiến đấu.</font>
+
+112
+00:10:32,050 --> 00:10:36,800
+<font face="Segoe UI" size="140">[Phong Thần Đệ Nhị Bộ : Chiến Hoả Tây Kỳ]</font>
+
+113
+00:10:39,350 --> 00:10:42,700
+<font face="Segoe UI" size="90">[Tây Kỳ Thành]</font>
+
+114
+00:10:45,580 --> 00:10:48,210
+<font face="Segoe UI" size="140">Cơ Xương, ngươi chết thật xứng đáng.</font>
+
+115
+00:10:48,540 --> 00:10:49,670
+<font face="Segoe UI" size="140">Ngươi được lợi rồi !</font>
+
+116
+00:10:50,710 --> 00:10:52,880
+<font face="Segoe UI" size="140">Không phải chứng kiến người dân Tây Kỳ.</font>
+
+117
+00:10:51,000 --> 00:10:54,220
+<font face="Segoe UI" size="90">[Tây Bá Hầu]
+[Cơ Phát]</font>
+
+118
+00:10:53,040 --> 00:10:54,380
+<font face="Segoe UI" size="140">Bị đại vương của chúng ta.</font>
+
+119
+00:10:54,540 --> 00:10:56,330
+<font face="Segoe UI" size="140">Giết sạch từng người một.</font>
+
+120
+00:10:57,440 --> 00:11:00,000
+<font face="Segoe UI" size="90">[Ân Thương Sứ Thần]
+[Ân Phá Bại]</font>
+
+121
+00:10:58,460 --> 00:11:01,580
+<font face="Segoe UI" size="140">Đều do sự dạy dỗ của ngươi.</font>
+
+122
+00:11:01,750 --> 00:11:05,080
+<font face="Segoe UI" size="140">Đã sinh ra một kẻ phản nghịch giết vua.</font>
+
+123
+00:11:09,040 --> 00:11:10,210
+<font face="Segoe UI" size="140">Cơ Phát...</font>
+
+124
+00:11:10,460 --> 00:11:13,880
+<font face="Segoe UI" size="140">Ngươi thực sự tin rằng đại vương đã chết sao ?</font>
+
+125
+00:11:14,670 --> 00:11:16,290
+<font face="Segoe UI" size="140">Chính tay ta đã giết hắn.</font>
+
+126
+00:11:16,830 --> 00:11:18,130
+<font face="Segoe UI" size="140">Tận mắt thấy hắn chết.</font>
+
+127
+00:11:23,130 --> 00:11:24,170
+<font face="Segoe UI" size="140">Cơ Phát...</font>
+
+128
+00:11:24,790 --> 00:11:27,210
+<font face="Segoe UI" size="140">Ngươi còn nhớ cái hộp này không ?</font>
+
+129
+00:11:28,880 --> 00:11:30,170
+<font face="Segoe UI" size="140">Cái hộp này.</font>
+
+130
+00:11:30,540 --> 00:11:32,420
+<font face="Segoe UI" size="140">Từng đựng đầu của Tô Hộ.</font>
+
+131
+00:11:33,670 --> 00:11:35,080
+<font face="Segoe UI" size="140">Còn thanh kiếm này ?</font>
+
+132
+00:11:40,420 --> 00:11:42,290
+<font face="Segoe UI" size="140">Là Quỷ Hầu Kiếm của thái tử Ân Giao.</font>
+
+133
+00:11:43,670 --> 00:11:45,130
+<font face="Segoe UI" size="140">Cũng chính thanh kiếm này.</font>
+
+134
+00:11:46,580 --> 00:11:48,080
+<font face="Segoe UI" size="140">Đã chém đầu thái tử Ân Giao.</font>
+
+135
+00:11:49,500 --> 00:11:50,750
+<font face="Segoe UI" size="140">Ý định của đại vương.</font>
+
+136
+00:11:52,000 --> 00:11:53,460
+<font face="Segoe UI" size="140">Ngươi hiểu rồi chứ ?</font>
+
+137
+00:11:54,170 --> 00:11:56,290
+<font face="Segoe UI" size="140">Ân Thọ muốn lấy đầu ta.</font>
+
+138
+00:11:56,460 --> 00:11:58,210
+<font face="Segoe UI" size="140">Đại vương niệm tình năm xưa.</font>
+
+139
+00:11:58,670 --> 00:12:00,290
+<font face="Segoe UI" size="140">Đặc biệt khai ân.</font>
+
+140
+00:12:01,040 --> 00:12:03,920
+<font face="Segoe UI" size="140">Chỉ cần Cơ Phát ngươi tự sát tạ tội.</font>
+
+141
+00:12:04,750 --> 00:12:07,210
+<font face="Segoe UI" size="140">Đại vương có thể tha cho Tây Kỳ.</font>
+
+142
+00:12:08,850 --> 00:12:10,800
+<font face="Segoe UI" size="90">[Lôi Chấn Tử]</font>
+
+143
+00:12:12,080 --> 00:12:14,670
+<font face="Segoe UI" size="140">Đại quân Ân Thương đang trên đường.</font>
+
+144
+00:12:15,210 --> 00:12:16,500
+<font face="Segoe UI" size="140">Cơ Phát ngươi muốn chết một mình.</font>
+
+145
+00:12:16,670 --> 00:12:19,790
+<font face="Segoe UI" size="140">Hay kéo theo cả Tây Kỳ chết cùng ngươi.</font>
+
+146
+00:12:20,670 --> 00:12:22,380
+<font face="Segoe UI" size="140">Bây giờ ta sẽ chém đầu ngươi !</font>
+
+147
+00:12:22,540 --> 00:12:23,460
+<font face="Segoe UI" size="140">Khoan !</font>
+
+148
+00:12:24,270 --> 00:12:25,600
+<font face="Segoe UI" size="90">[Nam Cung Thích]</font>
+
+149
+00:12:29,130 --> 00:12:30,460
+<font face="Segoe UI" size="140">Thả hắn ra !</font>
+
+150
+00:12:51,100 --> 00:12:55,570
+<font face="Segoe UI" size="90">[Biên giới Thương Chu]
+[Bến đò Mạnh Tân]</font>
+
+151
+00:13:21,170 --> 00:13:23,420
+<font face="Segoe UI" size="140">Bọn thuyền phu Tây Kỳ bị bắt nô dịch này.</font>
+
+152
+00:13:23,880 --> 00:13:25,750
+<font face="Segoe UI" size="140">Làm việc lại rất hăng hái.</font>
+
+153
+00:13:27,130 --> 00:13:28,670
+<font face="Segoe UI" size="140">Nếu chúng biết...</font>
+
+154
+00:13:29,200 --> 00:13:31,870
+<font face="Segoe UI" size="90">[Phó Tướng]
+[Thái Loan]</font>
+
+155
+00:13:29,460 --> 00:13:32,500
+<font face="Segoe UI" size="140">Chúng ta tới đây để giết chúng, chúng còn vui nổi không?</font>
+
+156
+00:13:49,830 --> 00:13:51,130
+<font face="Segoe UI" size="140">Là một nữ tướng quân.</font>
+
+157
+00:13:53,670 --> 00:13:57,080
+<font face="Segoe UI" size="140">♪ Gái xuân thì ♪</font>
+
+158
+00:13:58,290 --> 00:14:01,210
+<font face="Segoe UI" size="140">♪ Sông nước mênh mang ♪</font>
+
+159
+00:14:01,960 --> 00:14:05,630
+<font face="Segoe UI" size="140">♪ Sao không cùng thuyền ♪</font>
+
+160
+00:14:06,540 --> 00:14:09,210
+<font face="Segoe UI" size="140">♪ Chung lướt giữa dòng ♪</font>
+
+161
+00:14:11,170 --> 00:14:14,540
+<font face="Segoe UI" size="140">Sao các ngươi dám hát những lời thô tục này trước mặt tướng quân.</font>
+
+162
+00:14:15,080 --> 00:14:16,330
+<font face="Segoe UI" size="140">Muốn chết à ?</font>
+
+163
+00:14:16,880 --> 00:14:18,210
+<font face="Segoe UI" size="140">Cứ để họ hát.</font>
+
+164
+00:14:18,880 --> 00:14:20,040
+<font face="Segoe UI" size="140">Hát to hơn nữa.</font>
+
+165
+00:14:20,880 --> 00:14:22,380
+<font face="Segoe UI" size="140">Hát to lên cho ta.</font>
+
+166
+00:14:22,580 --> 00:14:23,500
+<font face="Segoe UI" size="140">Nghe rõ chưa ?</font>
+
+167
+00:14:38,830 --> 00:14:40,080
+<font face="Segoe UI" size="140">Xin tướng quân dừng bước.</font>
+
+168
+00:14:40,500 --> 00:14:41,960
+<font face="Segoe UI" size="140">Cơ Phát Tây Kỳ</font>
+
+169
+00:14:44,130 --> 00:14:46,040
+<font face="Segoe UI" size="140">Đặc biệt mời tướng quân dự tiệc.</font>
+
+170
+00:14:52,580 --> 00:14:53,960
+<font face="Segoe UI" size="140">Trúng kế rồi.</font>
+
+171
+00:15:18,580 --> 00:15:19,420
+<font face="Segoe UI" size="140">Cứu ta với !</font>
+
+172
+00:16:06,460 --> 00:16:07,460
+<font face="Segoe UI" size="140">Tấn công !</font>
+
+173
+00:16:08,290 --> 00:16:09,170
+<font face="Segoe UI" size="140">Đuổi theo chúng.</font>
+
+174
+00:16:31,000 --> 00:16:33,170
+<font face="Segoe UI" size="140">Quả là nơi mai phục lý tưởng.</font>
+
+175
+00:16:34,210 --> 00:16:35,670
+<font face="Segoe UI" size="140">Chỉ có một người trong Ma Gia Tứ Tướng kịp theo</font>
+
+176
+00:16:35,830 --> 00:16:37,540
+<font face="Segoe UI" size="140">Có nên đợi ba người còn lại không, thưa tướng quân ?</font>
+
+177
+00:17:08,420 --> 00:17:09,750
+<font face="Segoe UI" size="140">Sao còn không xuống ngựa đầu hàng ?</font>
+
+178
+00:17:24,420 --> 00:17:26,210
+<font face="Segoe UI" size="140">Ngươi mới là kẻ nên đầu hàng</font>
+
+179
+00:17:28,460 --> 00:17:29,460
+<font face="Segoe UI" size="140">Ma Lễ Thanh</font>
+
+180
+00:17:36,170 --> 00:17:37,080
+<font face="Segoe UI" size="140">Thả !</font>
+
+181
+00:17:37,920 --> 00:17:40,040
+<font face="Segoe UI" size="140">Cho chúng nếm thử mùi vị Thanh Vân Kiếm</font>
+
+182
+00:17:57,420 --> 00:17:58,330
+<font face="Segoe UI" size="140">Bắn tên !</font>
+
+183
+00:18:17,960 --> 00:18:19,290
+<font face="Segoe UI" size="140">Các người mau đi đi</font>
+
+184
+00:18:36,750 --> 00:18:38,830
+<font face="Segoe UI" size="140">Rút về Tây Kỳ Thành</font>
+
+185
+00:23:55,670 --> 00:23:56,790
+<font face="Segoe UI" size="140">Đặng tướng quân</font>
+
+186
+00:23:58,420 --> 00:23:59,580
+<font face="Segoe UI" size="140">Đặng tướng quân</font>
+
+187
+00:24:01,960 --> 00:24:04,330
+<font face="Segoe UI" size="140">Chỉ dựa vào chút bản lĩnh này thôi mà ngươi cũng dám mưu phản ?</font>
+
+188
+00:24:04,710 --> 00:24:06,790
+<font face="Segoe UI" size="140">Cô có biết Ân Thọ đã làm những gì không ?</font>
+
+189
+00:24:07,830 --> 00:24:09,880
+<font face="Segoe UI" size="140">Tên húy của đại vương ngươi cũng dám gọi ?</font>
+
+190
+00:24:11,670 --> 00:24:12,710
+<font face="Segoe UI" size="140">Đại vương của cô</font>
+
+191
+00:24:13,460 --> 00:24:14,880
+<font face="Segoe UI" size="140">Giết cha hại huynh</font>
+
+192
+00:24:15,040 --> 00:24:16,710
+<font face="Segoe UI" size="140">Chiếm đoạt vương vị</font>
+
+193
+00:24:16,880 --> 00:24:18,750
+<font face="Segoe UI" size="140">Sủng ái hồ yêu Đát Kỷ</font>
+
+194
+00:24:19,040 --> 00:24:20,830
+<font face="Segoe UI" size="140">Lần lượt sát hại Khương vương hậu</font>
+
+195
+00:24:21,000 --> 00:24:23,130
+<font face="Segoe UI" size="140">Đại Tư Mệnh Tỷ Can, Thái tử Ân Giao</font>
+
+196
+00:24:23,290 --> 00:24:26,460
+<font face="Segoe UI" size="140">Vu cáo Tứ Đại Bá Hầu mưu phản, đẩy họ vào chỗ chết</font>
+
+197
+00:24:27,460 --> 00:24:29,460
+<font face="Segoe UI" size="140">Còn biến huynh trưởng Bá Ấp Khảo của ta thành bánh thịt</font>
+
+198
+00:24:29,960 --> 00:24:32,830
+<font face="Segoe UI" size="140">Lừa phụ thân ta ăn vào</font>
+
+199
+00:24:34,420 --> 00:24:35,920
+<font face="Segoe UI" size="140">Nếu là cô</font>
+
+200
+00:24:36,130 --> 00:24:37,670
+<font face="Segoe UI" size="140">Cô có làm phản không ?</font>
+
+201
+00:24:42,880 --> 00:24:45,290
+<font face="Segoe UI" size="140">Lời của phản tặc ta tin sao được ?</font>
+
+202
+00:24:50,880 --> 00:24:52,000
+<font face="Segoe UI" size="140">Có nguy hiểm !</font>
+
+203
+00:24:52,580 --> 00:24:53,540
+<font face="Segoe UI" size="140">Có nguy hiểm !</font>
+
+204
+00:25:03,830 --> 00:25:05,040
+<font face="Segoe UI" size="140">Mau cởi trói cho ta !</font>
+
+205
+00:25:07,960 --> 00:25:09,080
+<font face="Segoe UI" size="140">Ta có thể giúp cô !</font>
+
+206
+00:25:10,000 --> 00:25:10,920
+<font face="Segoe UI" size="140">Im miệng !</font>
+
+207
+00:26:34,170 --> 00:26:35,000
+<font face="Segoe UI" size="140">Coi chừng !</font>
+
+208
+00:26:35,170 --> 00:26:36,290
+<font face="Segoe UI" size="140">Tránh ra mau !</font>
+
+209
+00:26:36,460 --> 00:26:37,670
+<font face="Segoe UI" size="140">Ngươi tránh ra !</font>
+
+210
+00:27:32,420 --> 00:27:33,670
+<font face="Segoe UI" size="140">Ngũ Quang Thạch, quay về !</font>
+
+211
+00:28:12,500 --> 00:28:17,640
+<font face="Segoe UI" size="90">[Sâu trong Kỳ Sơn]</font>
+
+212
+00:28:26,140 --> 00:28:30,450
+<font face="Segoe UI" size="90">[Khương Tử Nha]</font>
+
+213
+00:28:50,580 --> 00:28:53,000
+<font face="Segoe UI" size="140">Đợi ngươi lớn rồi hãy đến cắn câu ta</font>
+
+214
+00:29:04,250 --> 00:29:05,880
+<font face="Segoe UI" size="140">Thân Công Báo,</font>
+
+215
+00:29:06,040 --> 00:29:08,290
+<font face="Segoe UI" size="140">Mấy con quạ tồi tàn của ngươi</font>
+
+216
+00:29:08,460 --> 00:29:11,130
+<font face="Segoe UI" size="140">Tìm được ta sao ?</font>
+
+217
+00:29:16,710 --> 00:29:20,750
+<font face="Segoe UI" size="140">Cứu ta với, Dương Tiễn, Na Tra, mau đến cứu ta</font>
+
+218
+00:29:27,790 --> 00:29:29,000
+<font face="Segoe UI" size="140">Sao ông lại ở đây</font>
+
+219
+00:29:29,790 --> 00:29:30,880
+<font face="Segoe UI" size="140">Quần ! Quần của ta !</font>
+
+220
+00:29:31,290 --> 00:29:32,170
+<font face="Segoe UI" size="140">Nó tuột rồi !</font>
+
+221
+00:29:33,750 --> 00:29:34,790
+<font face="Segoe UI" size="140">Nhẹ thôi !</font>
+
+222
+00:29:42,580 --> 00:29:43,750
+<font face="Segoe UI" size="140">Giữ lại ! Giữ lại !</font>
+
+223
+00:29:43,920 --> 00:29:45,540
+<font face="Segoe UI" size="140">Giữ lại vài con không thì chúng ta chết hết !</font>
+
+224
+00:29:55,670 --> 00:29:57,960
+<font face="Segoe UI" size="140">Ân Giao bị chém đầu rồi</font>
+
+225
+00:29:58,750 --> 00:30:00,500
+<font face="Segoe UI" size="140">Không ngờ phụ thân ngươi...</font>
+
+226
+00:30:00,670 --> 00:30:01,920
+<font face="Segoe UI" size="140">Mau rời khỏi đây thôi</font>
+
+227
+00:30:02,080 --> 00:30:03,170
+<font face="Segoe UI" size="140">Nơi này quá nguy hiểm</font>
+
+228
+00:30:04,210 --> 00:30:05,170
+<font face="Segoe UI" size="140">Sao vậy ?</font>
+
+229
+00:30:05,670 --> 00:30:07,830
+<font face="Segoe UI" size="140">Chiến tranh đã lan đến Tây Kỳ rồi à !</font>
+
+230
+00:30:09,960 --> 00:30:11,130
+<font face="Segoe UI" size="140">Ta đã ra lệnh</font>
+
+231
+00:30:12,460 --> 00:30:14,250
+<font face="Segoe UI" size="140">Cho bách tính bỏ Tây Kỳ Thành</font>
+
+232
+00:30:14,750 --> 00:30:16,630
+<font face="Segoe UI" size="140">Rút sâu vào Kỳ Sơn</font>
+
+233
+00:30:17,540 --> 00:30:20,460
+<font face="Segoe UI" size="140">Ta dẫn người chặn quân Thương để câu giờ</font>
+
+234
+00:30:20,630 --> 00:30:22,540
+<font face="Segoe UI" size="140">Bỏ Tây Kỳ Thành ư?</font>
+
+235
+00:30:23,540 --> 00:30:25,540
+<font face="Segoe UI" size="140">Ngươi là chủ của Tây Kỳ mà ?</font>
+
+236
+00:30:25,960 --> 00:30:28,710
+<font face="Segoe UI" size="140">Cứ thế chắp tay mà dâng Tây Kỳ Thành cho Ân Thọ sao ?</font>
+
+237
+00:30:29,670 --> 00:30:32,040
+<font face="Segoe UI" size="140">Tây Kỳ mấy trăm năm chưa từng trải qua chiến tranh</font>
+
+238
+00:30:33,750 --> 00:30:35,920
+<font face="Segoe UI" size="140">Chúng ta hoàn toàn không phải đối thủ của Ân Thương</font>
+
+239
+00:30:39,500 --> 00:30:40,960
+<font face="Segoe UI" size="140">Ta vừa giao chiến với họ</font>
+
+240
+00:30:42,540 --> 00:30:44,750
+<font face="Segoe UI" size="140">Không tìm thấy bất kỳ cơ hội chiến thắng nào</font>
+
+241
+00:30:45,130 --> 00:30:47,670
+<font face="Segoe UI" size="140">Ta không xứng làm thủ lĩnh của họ nữa</font>
+
+242
+00:30:53,500 --> 00:30:54,500
+<font face="Segoe UI" size="140">Hiểu rồi</font>
+
+243
+00:30:56,710 --> 00:30:58,040
+<font face="Segoe UI" size="140">Ta có kế này</font>
+
+244
+00:30:58,540 --> 00:31:00,630
+<font face="Segoe UI" size="140">Có thể giải được nỗi lo của Tây Kỳ</font>
+
+245
+00:31:02,670 --> 00:31:03,630
+<font face="Segoe UI" size="140">Thế này nhé !</font>
+
+246
+00:31:03,880 --> 00:31:07,920
+<font face="Segoe UI" size="140">Ngươi dâng ta cùng Phong Thần Bảng cho Ân Thọ</font>
+
+247
+00:31:08,080 --> 00:31:09,420
+<font face="Segoe UI" size="140">Ân Thọ vui lòng</font>
+
+248
+00:31:09,830 --> 00:31:12,000
+<font face="Segoe UI" size="140">Sẽ tha cho Tây Kỳ</font>
+
+249
+00:31:12,170 --> 00:31:15,210
+<font face="Segoe UI" size="140">Ngươi cũng có thể vớ được chức quan nho nhỏ, chẳng phải tốt sao ?</font>
+
+250
+00:31:15,920 --> 00:31:16,830
+<font face="Segoe UI" size="140">Ông...</font>
+
+251
+00:31:19,670 --> 00:31:22,460
+<font face="Segoe UI" size="140">Tuyệt đối không được để Phong Thần Bảng rơi vào tay Ân Thọ</font>
+
+252
+00:31:26,580 --> 00:31:28,420
+<font face="Segoe UI" size="140">Ra là ngươi cũng không ngốc.</font>
+
+253
+00:31:30,750 --> 00:31:34,290
+<font face="Segoe UI" size="140">Tây Kỳ mất rồi, không còn ai chống lại Ân Thọ nữa</font>
+
+254
+00:31:34,460 --> 00:31:37,210
+<font face="Segoe UI" size="140">Hắn sẽ thực sự trở thành bá chủ thiên hạ</font>
+
+255
+00:31:40,080 --> 00:31:41,710
+<font face="Segoe UI" size="140">Người mà Ân Thọ muốn bắt là ta</font>
+
+256
+00:31:43,080 --> 00:31:44,710
+<font face="Segoe UI" size="140">Ta không muốn liên lụy đến bất kỳ ai</font>
+
+257
+00:31:48,960 --> 00:31:51,630
+<font face="Segoe UI" size="140">Ta đã hại chết phụ thân và huynh trưởng</font>
+
+258
+00:31:52,920 --> 00:31:56,170
+<font face="Segoe UI" size="140">Lại biến Tây Kỳ thành chiến trường</font>
+
+259
+00:31:57,630 --> 00:31:59,920
+<font face="Segoe UI" size="140">Ta không muốn ai vì ta mà chết nữa</font>
+
+260
+00:32:00,670 --> 00:32:04,040
+<font face="Segoe UI" size="140">Kẻ hại phụ thân và huynh trưởng của ngươi là Ân Thọ</font>
+
+261
+00:32:04,420 --> 00:32:05,290
+<font face="Segoe UI" size="140">Không phải ngươi.</font>
+
+262
+00:32:06,540 --> 00:32:07,670
+<font face="Segoe UI" size="140">Ngươi mà chết đi,</font>
+
+263
+00:32:08,420 --> 00:32:10,830
+<font face="Segoe UI" size="140">Thiên hạ sẽ thực sự thuộc về Ân Thọ</font>
+
+264
+00:32:13,000 --> 00:32:15,790
+<font face="Segoe UI" size="140">Ngươi chết là hết, không còn áy náy nữa</font>
+
+265
+00:32:16,210 --> 00:32:18,830
+<font face="Segoe UI" size="140">Vậy những người còn sống họ phải làm sao ?</font>
+
+266
+00:32:20,500 --> 00:32:23,630
+<font face="Segoe UI" size="140">Ngươi có dũng khí chết vì mặc cảm tội lỗi</font>
+
+267
+00:32:23,790 --> 00:32:27,460
+<font face="Segoe UI" size="140">Vậy ngươi có dũng khí sống vì bách tính Tây Kỳ không ?</font>
+
+268
+00:32:34,080 --> 00:32:35,250
+<font face="Segoe UI" size="140">Xong rồi ! Xong rồi !</font>
+
+269
+00:32:36,000 --> 00:32:37,750
+<font face="Segoe UI" size="140">Lại có con lớn hơn nữa kìa !</font>
+
+270
+00:33:07,000 --> 00:33:11,390
+<font face="Segoe UI" size="90">[Thân Công Báo]</font>
+
+271
+00:33:24,080 --> 00:33:27,380
+<font face="Segoe UI" size="140">Đại vương sắc lập thái tử Ân Khải !</font>
+
+272
+00:33:27,540 --> 00:33:29,880
+<font face="Segoe UI" size="140">Nay đến bái cáo tổ tông</font>
+
+273
+00:33:30,040 --> 00:33:32,830
+<font face="Segoe UI" size="140">Dám xin tổ tông phù hộ</font>
+
+274
+00:33:33,000 --> 00:33:34,630
+<font face="Segoe UI" size="140">Cho xã tắc Đại Thương</font>
+
+275
+00:33:34,790 --> 00:33:36,790
+<font face="Segoe UI" size="140">Đời đời nối tiếp</font>
+
+276
+00:33:36,960 --> 00:33:39,000
+<font face="Segoe UI" size="140">Muôn đời hưởng lộc</font>
+
+277
+00:33:39,450 --> 00:33:41,820
+<font face="Segoe UI" size="90">[Thương Vương]
+[Đế Ất]</font>
+
+278
+00:33:42,540 --> 00:33:44,320
+<font face="Segoe UI" size="90">[Ân Thọ thời niên thiếu]</font>
+
+279
+00:33:42,880 --> 00:33:44,960
+<font face="Segoe UI" size="140">Có thích khách, bảo vệ đại vương !</font>
+
+280
+00:33:45,130 --> 00:33:46,540
+<font face="Segoe UI" size="140">Bảo vệ thái tử !</font>
+
+281
+00:33:59,470 --> 00:34:02,340
+<font face="Segoe UI" size="90">[Ân Khải thời niên thiếu]</font>
+
+282
+00:34:16,960 --> 00:34:17,960
+<font face="Segoe UI" size="140">Phụ vương !</font>
+
+283
+00:34:19,830 --> 00:34:21,040
+<font face="Segoe UI" size="140">Phụ vương !</font>
+
+284
+00:34:24,330 --> 00:34:25,750
+<font face="Segoe UI" size="140">Cứu con !</font>
+
+285
+00:34:26,580 --> 00:34:28,040
+<font face="Segoe UI" size="140">Phụ vương !</font>
+
+286
+00:34:28,710 --> 00:34:30,000
+<font face="Segoe UI" size="140">Ân Thọ !</font>
+
+287
+00:34:32,630 --> 00:34:33,710
+<font face="Segoe UI" size="140">Cứu con !</font>
+
+288
+00:34:36,040 --> 00:34:37,170
+<font face="Segoe UI" size="140">Cứu con !</font>
+
+289
+00:34:37,330 --> 00:34:38,170
+<font face="Segoe UI" size="140">Cứu con !</font>
+
+290
+00:34:38,960 --> 00:34:40,210
+<font face="Segoe UI" size="140">Cứu con !</font>
+
+291
+00:34:40,790 --> 00:34:41,790
+<font face="Segoe UI" size="140">Ngài đừng sợ...</font>
+
+292
+00:34:42,170 --> 00:34:43,380
+<font face="Segoe UI" size="140">Đó chỉ là giấc mơ mà thôi</font>
+
+293
+00:34:49,630 --> 00:34:51,670
+<font face="Segoe UI" size="140">Ta mãi mãi không thể quên</font>
+
+294
+00:34:52,040 --> 00:34:54,170
+<font face="Segoe UI" size="140">Mùi da thịt cháy khét</font>
+
+295
+00:34:56,500 --> 00:34:57,330
+<font face="Segoe UI" size="140">Bọn họ</font>
+
+296
+00:34:57,830 --> 00:34:59,290
+<font face="Segoe UI" size="140">Đã bị chúng ta giết rồi</font>
+
+297
+00:35:00,960 --> 00:35:02,830
+<font face="Segoe UI" size="140">Sẽ không thể làm hại ngài nữa</font>
+
+298
+00:35:14,170 --> 00:35:15,170
+<font face="Segoe UI" size="140">Ta tưởng rằng</font>
+
+299
+00:35:16,250 --> 00:35:17,540
+<font face="Segoe UI" size="140">Chỉ cần làm vua</font>
+
+300
+00:35:17,960 --> 00:35:20,210
+<font face="Segoe UI" size="140">Là có thể nắm giữ vận mệnh</font>
+
+301
+00:35:21,670 --> 00:35:23,040
+<font face="Segoe UI" size="140">Không ngờ</font>
+
+302
+00:35:23,210 --> 00:35:25,750
+<font face="Segoe UI" size="140">Trời cao lại đối xử bất công với ta</font>
+
+303
+00:35:29,670 --> 00:35:30,920
+<font face="Segoe UI" size="140">Có thiếp ở đây</font>
+
+304
+00:35:32,920 --> 00:35:34,540
+<font face="Segoe UI" size="140">Đại vương sẽ không chết đâu</font>
+
+305
+00:35:36,210 --> 00:35:37,130
+<font face="Segoe UI" size="140">Đại vương</font>
+
+306
+00:35:38,630 --> 00:35:42,580
+<font face="Segoe UI" size="140">Sẽ còn làm vua rất lâu nữa</font>
+
+307
+00:35:44,880 --> 00:35:46,420
+<font face="Segoe UI" size="140">Nàng làm sao vậy ?</font>
+
+308
+00:35:47,790 --> 00:35:49,170
+<font face="Segoe UI" size="140">Thiếp đang dùng pháp thuật</font>
+
+309
+00:35:49,580 --> 00:35:52,580
+<font face="Segoe UI" size="140">Chuyển vết thương của đại vương sang cho thiếp</font>
+
+310
+00:35:55,000 --> 00:35:56,880
+<font face="Segoe UI" size="140">Chỉ cần bảy bảy bốn mươi chín ngày</font>
+
+311
+00:35:58,080 --> 00:35:59,920
+<font face="Segoe UI" size="140">Đại vương sẽ khỏi hẳn</font>
+
+312
+00:36:01,750 --> 00:36:03,130
+<font face="Segoe UI" size="140">Sao nàng phải làm thế ?</font>
+
+313
+00:36:03,960 --> 00:36:05,250
+<font face="Segoe UI" size="140">Nàng sẽ chết đó !</font>
+
+314
+00:36:11,170 --> 00:36:13,130
+<font face="Segoe UI" size="140">Nàng không phải có thể phụ thể sao ?</font>
+
+315
+00:36:14,500 --> 00:36:17,210
+<font face="Segoe UI" size="140">Nàng thích thân thể ai, ta giết cho nàng</font>
+
+316
+00:36:31,750 --> 00:36:33,210
+<font face="Segoe UI" size="140">Đại vương</font>
+
+317
+00:36:35,170 --> 00:36:36,580
+<font face="Segoe UI" size="140">Chúc mừng Đại vương</font>
+
+318
+00:36:36,960 --> 00:36:39,330
+<font face="Segoe UI" size="140">Đã tìm thấy Phong Thần Bảng</font>
+
+319
+00:36:40,880 --> 00:36:42,000
+<font face="Segoe UI" size="140">Ở đâu vậy ?</font>
+
+320
+00:36:42,170 --> 00:36:44,500
+<font face="Segoe UI" size="140">Khương Tử Nha đang mang Phong Thần Bảng</font>
+
+321
+00:36:44,670 --> 00:36:46,330
+<font face="Segoe UI" size="140">Trốn ở Tây Kỳ</font>
+
+322
+00:36:49,040 --> 00:36:50,920
+<font face="Segoe UI" size="140">Lại là Tây Kỳ</font>
+
+323
+00:36:53,080 --> 00:36:54,750
+<font face="Segoe UI" size="140">Đại vương không thể đi</font>
+
+324
+00:36:56,830 --> 00:36:58,460
+<font face="Segoe UI" size="140">Pháp thuật chưa hoàn thành</font>
+
+325
+00:36:59,630 --> 00:37:01,500
+<font face="Segoe UI" size="140">E rằng chưa tới Tây Kỳ</font>
+
+326
+00:37:02,040 --> 00:37:03,790
+<font face="Segoe UI" size="140">Ngài đã chết dọc đường</font>
+
+327
+00:37:08,790 --> 00:37:11,670
+<font face="Segoe UI" size="140">Chúng ta phải lấy bằng được Phong Thần Bảng</font>
+
+328
+00:37:24,960 --> 00:37:26,790
+<font face="Segoe UI" size="140">- Họ đang...
+- Nhìn kìa...</font>
+
+329
+00:37:27,500 --> 00:37:30,420
+<font face="Segoe UI" size="140">Bách tính Tây Kỳ vẫn chưa bỏ cuộc</font>
+
+330
+00:37:31,670 --> 00:37:32,670
+<font face="Segoe UI" size="140">Chém !</font>
+
+331
+00:37:41,960 --> 00:37:42,830
+<font face="Segoe UI" size="140">Đâm !</font>
+
+332
+00:37:45,830 --> 00:37:46,920
+<font face="Segoe UI" size="140">Chém !</font>
+
+333
+00:37:50,830 --> 00:37:52,290
+<font face="Segoe UI" size="140">Là Hầu Gia !</font>
+
+334
+00:38:00,540 --> 00:38:02,080
+<font face="Segoe UI" size="140">Hầu Gia đã về !</font>
+
+335
+00:38:03,210 --> 00:38:04,540
+<font face="Segoe UI" size="140">Hầu Gia đã về !</font>
+
+336
+00:38:05,630 --> 00:38:07,130
+<font face="Segoe UI" size="140">Thần biết ngài sẽ trở về mà !</font>
+
+337
+00:38:09,170 --> 00:38:10,000
+<font face="Segoe UI" size="140">Hầu Gia !</font>
+
+338
+00:38:12,920 --> 00:38:14,170
+<font face="Segoe UI" size="140">Tây Kỳ được cứu rồi !</font>
+
+339
+00:38:14,580 --> 00:38:15,500
+<font face="Segoe UI" size="140">Tây Kỳ được cứu rồi !</font>
+
+340
+00:38:16,130 --> 00:38:17,130
+<font face="Segoe UI" size="140">Hầu Gia !</font>
+
+341
+00:38:19,630 --> 00:38:21,830
+<font face="Segoe UI" size="140">Thần còn tưởng không được gặp lại ngài nữa</font>
+
+342
+00:38:19,990 --> 00:38:22,390
+<font face="Segoe UI" size="90">[Tản Nghi Sinh]</font>
+
+343
+00:38:29,420 --> 00:38:31,420
+<font face="Segoe UI" size="140">Sao các ngươi chưa rút vào Kỳ Sơn ?</font>
+
+344
+00:38:31,580 --> 00:38:35,130
+<font face="Segoe UI" size="140">Toàn dân Tây Kỳ quyết chiến,
+Nguyện theo Hầu Gia đánh với Ân Thương !</font>
+
+345
+00:38:35,540 --> 00:38:36,420
+<font face="Segoe UI" size="140">Quyết chiến !</font>
+
+346
+00:38:42,040 --> 00:38:43,670
+<font face="Segoe UI" size="140">Người Ân Thọ muốn bắt là ta</font>
+
+347
+00:38:46,170 --> 00:38:48,170
+<font face="Segoe UI" size="140">Ta không muốn các ngươi chết vì ta</font>
+
+348
+00:38:48,790 --> 00:38:49,670
+<font face="Segoe UI" size="140">Con ơi !</font>
+
+349
+00:38:50,040 --> 00:38:51,130
+<font face="Segoe UI" size="140">Con sai rồi !</font>
+
+350
+00:38:52,790 --> 00:38:55,960
+<font face="Segoe UI" size="140">Chúng ta ở lại không phải vì con,</font>
+
+351
+00:38:56,130 --> 00:38:57,460
+<font face="Segoe UI" size="140">Mà là vì chính chúng ta</font>
+
+352
+00:38:58,500 --> 00:39:00,830
+<font face="Segoe UI" size="140">Tây Kỳ là nhà của con,</font>
+
+353
+00:39:01,290 --> 00:39:03,920
+<font face="Segoe UI" size="140">Cũng là nhà của chúng ta</font>
+
+354
+00:39:08,580 --> 00:39:10,290
+<font face="Segoe UI" size="140">Bảo vệ Tây Kỳ !</font>
+
+355
+00:39:14,540 --> 00:39:15,630
+<font face="Segoe UI" size="140">Lão nhân gia ơi !</font>
+
+356
+00:39:16,670 --> 00:39:17,960
+<font face="Segoe UI" size="140">Ngài là tiên nhân sao !</font>
+
+357
+00:39:20,960 --> 00:39:22,000
+<font face="Segoe UI" size="140">Trước đây thôi !</font>
+
+358
+00:39:27,170 --> 00:39:28,670
+<font face="Segoe UI" size="140">Đến nhanh thật đấy !</font>
+
+359
+00:39:57,450 --> 00:39:59,220
+<font face="Segoe UI" size="90">[Tân Giáp]</font>
+
+360
+00:39:57,500 --> 00:39:59,880
+<font face="Segoe UI" size="140">Mấy tên khổng lồ biết pháp thuật là khó đối phó nhất !</font>
+
+361
+00:40:00,670 --> 00:40:03,170
+<font face="Segoe UI" size="140">Ngài là tiên nhân ắt phải biết pháp thuật chứ ?</font>
+
+362
+00:40:04,750 --> 00:40:05,750
+<font face="Segoe UI" size="140">Trước đây ta biết !</font>
+
+363
+00:40:06,500 --> 00:40:07,420
+<font face="Segoe UI" size="140">Vậy còn bây giờ ?</font>
+
+364
+00:40:07,580 --> 00:40:10,040
+<font face="Segoe UI" size="140">Bây giờ ta chỉ biết câu cá thôi !</font>
+
+365
+00:40:10,960 --> 00:40:12,420
+<font face="Segoe UI" size="140">Đại quân áp sát biên giới rồi !</font>
+
+366
+00:40:12,710 --> 00:40:14,540
+<font face="Segoe UI" size="140">Biết câu cá thì có ích gì chứ !</font>
+
+367
+00:40:15,420 --> 00:40:18,170
+<font face="Segoe UI" size="140">Bởi vì ta không thấy đại quân !</font>
+
+368
+00:40:18,330 --> 00:40:20,920
+<font face="Segoe UI" size="140">Ta chỉ thấy cá lớn thôi !</font>
+
+369
+00:40:24,540 --> 00:40:27,210
+<font face="Segoe UI" size="140">Lão nhân gia, khi nào câu cá là thích hợp ?</font>
+
+370
+00:40:28,920 --> 00:40:30,290
+<font face="Segoe UI" size="140">Câu đêm là tốt nhất !</font>
+
+371
+00:40:53,420 --> 00:40:54,960
+<font face="Segoe UI" size="140">Nhìn thấy Thái sư</font>
+
+372
+00:40:56,040 --> 00:40:58,290
+<font face="Segoe UI" size="140">Ta lại nhớ đến Tiên vương</font>
+
+373
+00:40:59,670 --> 00:41:01,210
+<font face="Segoe UI" size="140">Khiến lòng ta đau xót</font>
+
+374
+00:41:03,000 --> 00:41:04,920
+<font face="Segoe UI" size="140">Lão thần đã từ quan rồi</font>
+
+375
+00:41:05,750 --> 00:41:07,880
+<font face="Segoe UI" size="140">Không còn là Thái sư nữa</font>
+
+376
+00:41:14,830 --> 00:41:16,000
+<font face="Segoe UI" size="140">Đúng vậy...</font>
+
+377
+00:41:22,250 --> 00:41:24,500
+<font face="Segoe UI" size="140">Ông không còn là Thái sư nữa</font>
+
+378
+00:41:39,540 --> 00:41:41,170
+<font face="Segoe UI" size="140">Một khi ta tử trận</font>
+
+379
+00:41:41,710 --> 00:41:43,170
+<font face="Segoe UI" size="140">Ông hãy lên ngôi vương</font>
+
+380
+00:41:46,710 --> 00:41:49,460
+<font face="Segoe UI" size="140">Ta không giữ nổi giang sơn của phụ vương</font>
+
+381
+00:41:51,630 --> 00:41:52,790
+<font face="Segoe UI" size="140">Ít nhất</font>
+
+382
+00:41:54,670 --> 00:41:56,880
+<font face="Segoe UI" size="140">Ta còn có thể trao lại giang sơn</font>
+
+383
+00:41:57,500 --> 00:41:59,880
+<font face="Segoe UI" size="140">Cho người mà phụ vương tin tưởng nhất</font>
+
+384
+00:42:05,250 --> 00:42:07,420
+<font face="Segoe UI" size="140">Đại vương sao lại nói như vậy ?</font>
+
+385
+00:42:10,170 --> 00:42:12,130
+<font face="Segoe UI" size="140">Phong Thần Bảng ở Tây Kỳ</font>
+
+386
+00:42:12,880 --> 00:42:14,630
+<font face="Segoe UI" size="140">Muốn giải trừ thiên vận</font>
+
+387
+00:42:14,790 --> 00:42:16,710
+<font face="Segoe UI" size="140">Bảo vệ xã tắc nhà Ân Thương</font>
+
+388
+00:42:16,880 --> 00:42:19,940
+<font face="Segoe UI" size="140">Bản vương phải đích thân thân chinh đoạt lấy Phong Thần Bảng</font>
+
+389
+00:42:24,020 --> 00:42:30,040
+<font face="Segoe UI" size="140">Phong Thần Bảng thật sự có thể giải trừ thiên vận ?</font>
+
+390
+00:42:43,220 --> 00:42:46,820
+<font face="Segoe UI" size="90">[Quân doanh của Đặng Thiền Ngọc]</font>
+
+391
+00:44:12,420 --> 00:44:13,290
+<font face="Segoe UI" size="140">Ma Lễ Thanh</font>
+
+392
+00:44:13,460 --> 00:44:14,500
+<font face="Segoe UI" size="140">Quay lại !</font>
+
+393
+00:44:38,920 --> 00:44:39,920
+<font face="Segoe UI" size="140">Mau !</font>
+
+394
+00:44:57,670 --> 00:44:58,920
+<font face="Segoe UI" size="140">Tướng quân !</font>
+
+395
+00:45:06,000 --> 00:45:06,880
+<font face="Segoe UI" size="140">Nói đi !</font>
+
+396
+00:45:08,630 --> 00:45:11,420
+<font face="Segoe UI" size="140">Tây Kỳ tập kích trong đêm, doanh trại hỗn loạn.</font>
+
+397
+00:45:17,920 --> 00:45:19,000
+<font face="Segoe UI" size="140">Truyền lệnh !</font>
+
+398
+00:45:21,500 --> 00:45:22,750
+<font face="Segoe UI" size="140">Cố thủ ! Không được manh động !</font>
+
+399
+00:45:27,080 --> 00:45:27,960
+<font face="Segoe UI" size="140">Đi đi.</font>
+
+400
+00:45:29,920 --> 00:45:30,920
+<font face="Segoe UI" size="140">Tuân lệnh !</font>
+
+401
+00:45:36,880 --> 00:45:37,830
+<font face="Segoe UI" size="140">Nước!</font>
+
+402
+00:45:39,250 --> 00:45:40,380
+<font face="Segoe UI" size="140">Cởi dây cương ra !</font>
+
+403
+00:45:44,080 --> 00:45:44,830
+<font face="Segoe UI" size="140">Đi !</font>
+
+404
+00:46:13,500 --> 00:46:14,500
+<font face="Segoe UI" size="140">Ma Lễ Hải</font>
+
+405
+00:46:14,670 --> 00:46:15,960
+<font face="Segoe UI" size="140">Quay về cho ta !</font>
+
+406
+00:46:18,460 --> 00:46:20,710
+<font face="Segoe UI" size="140">Không phải bảo ngươi cố thủ tại chỗ hay sao !</font>
+
+407
+00:46:21,960 --> 00:46:25,000
+<font face="Segoe UI" size="140">Là con chim lớn lông xanh trong khe núi,
+Nó đã trộm kiếm của Ma Lễ Thanh</font>
+
+408
+00:46:25,170 --> 00:46:27,420
+<font face="Segoe UI" size="140">Ma Gia Tứ Tướng đều đuổi theo nó rồi</font>
+
+409
+00:46:28,790 --> 00:46:31,420
+<font face="Segoe UI" size="140">Hay là để thần đi gọi họ về ?</font>
+
+410
+00:46:31,580 --> 00:46:32,460
+<font face="Segoe UI" size="140">Không cần.</font>
+
+411
+00:46:33,750 --> 00:46:34,880
+<font face="Segoe UI" size="140">Lập tức bố phòng.</font>
+
+412
+00:46:36,460 --> 00:46:38,500
+<font face="Segoe UI" size="140">- Giữ vững trung quân. 
+- Rõ !</font>
+
+413
+00:47:05,920 --> 00:47:06,790
+<font face="Segoe UI" size="140">Bắn !</font>
+
+414
+00:47:47,830 --> 00:47:48,880
+<font face="Segoe UI" size="140">Hạ xuống !</font>
+
+415
+00:47:58,460 --> 00:47:59,290
+<font face="Segoe UI" size="140">Lão tiên nhân</font>
+
+416
+00:47:59,790 --> 00:48:02,290
+<font face="Segoe UI" size="140">Kỹ thuật câu cá của ngài quả nhiên hiệu nghiệm</font>
+
+417
+00:48:04,080 --> 00:48:04,880
+<font face="Segoe UI" size="140">Đáng tiếc thay</font>
+
+418
+00:48:06,460 --> 00:48:08,750
+<font face="Segoe UI" size="140">Chỉ câu được con cá nhỏ</font>
+
+419
+00:48:09,830 --> 00:48:11,710
+<font face="Segoe UI" size="140">Đây chưa phải cá lớn</font>
+
+420
+00:48:13,920 --> 00:48:15,880
+<font face="Segoe UI" size="140">Cá lớn thực sự là Đặng Thiền Ngọc</font>
+
+421
+00:48:18,250 --> 00:48:19,500
+<font face="Segoe UI" size="140">Thế Đặng Thiền Ngọc đâu ?</font>
+
+422
+00:48:20,920 --> 00:48:23,000
+<font face="Segoe UI" size="140">Bắt giặc phải bắt vua !</font>
+
+423
+00:48:23,830 --> 00:48:26,750
+<font face="Segoe UI" size="140">Dụ bốn tướng họ Ma rời đi, nhân hỗn loạn bắt Đặng Thiền Ngọc</font>
+
+424
+00:48:26,920 --> 00:48:28,250
+<font face="Segoe UI" size="140">Đây mới là mục đích chính !</font>
+
+425
+00:48:28,420 --> 00:48:30,460
+<font face="Segoe UI" size="140">Ma Lễ Thanh giết huynh đệ Thái Điện của ta !</font>
+
+426
+00:48:32,000 --> 00:48:33,540
+<font face="Segoe UI" size="140">Chúng ta muốn báo thù!</font>
+
+427
+00:48:35,000 --> 00:48:36,710
+<font face="Segoe UI" size="140">Ngươi coi cái gì là quan trọng!</font>
+
+428
+00:48:38,880 --> 00:48:41,000
+<font face="Segoe UI" size="140">Cơ hội khó có được !</font>
+
+429
+00:48:41,670 --> 00:48:42,960
+<font face="Segoe UI" size="140">Ngươi thân làm chủ soái,</font>
+
+430
+00:48:43,130 --> 00:48:45,880
+<font face="Segoe UI" size="140">Lại để lỡ thời cơ</font>
+
+431
+00:48:55,710 --> 00:48:56,670
+<font face="Segoe UI" size="140">Bình minh</font>
+
+432
+00:48:58,040 --> 00:49:00,080
+<font face="Segoe UI" size="140">Ắt có trận ác chiến !</font>
+
+433
+00:49:00,920 --> 00:49:02,250
+<font face="Segoe UI" size="140">Dù đã giết được Ma Lễ Thanh</font>
+
+434
+00:49:02,420 --> 00:49:04,330
+<font face="Segoe UI" size="140">Ba tên còn lại, e rằng khó đối phó hơn cả</font>
+
+435
+00:49:04,920 --> 00:49:06,630
+<font face="Segoe UI" size="140">Đã giết được một Ma Lễ Thanh</font>
+
+436
+00:49:07,750 --> 00:49:09,630
+<font face="Segoe UI" size="140">Thì cũng sẽ giết được ba tên kia.</font>
+
+437
+00:49:46,460 --> 00:49:49,460
+<font face="Segoe UI" size="140">Tây Kỳ đêm qua tập kích thành công, sĩ khí đang lên cao.</font>
+
+438
+00:49:49,630 --> 00:49:51,380
+<font face="Segoe UI" size="140">Bây giờ tấn công liệu có...</font>
+
+439
+00:49:51,540 --> 00:49:53,790
+<font face="Segoe UI" size="140">Ham thắng nhỏ ắt sẽ chuốc lấy thất bại lớn !</font>
+
+440
+00:49:53,960 --> 00:49:55,290
+<font face="Segoe UI" size="140">Cơ Phát không biết đánh trận.</font>
+
+441
+00:49:56,790 --> 00:49:58,330
+<font face="Segoe UI" size="140">Hôm nay ta dạy cho hắn bài học</font>
+
+442
+00:50:21,500 --> 00:50:22,790
+<font face="Segoe UI" size="140">Giết !</font>
+
+443
+00:50:47,630 --> 00:50:48,380
+<font face="Segoe UI" size="140">Bắn!</font>
+
+444
+00:50:54,210 --> 00:50:55,580
+<font face="Segoe UI" size="140">Đây là pháp thuật gì vậy ?</font>
+
+445
+00:50:55,750 --> 00:50:58,670
+<font face="Segoe UI" size="140">Đây là Hỗn Nguyên Tản của Ma Lễ Hồng</font>
+
+446
+00:51:29,460 --> 00:51:30,710
+<font face="Segoe UI" size="140">Rút lui !</font>
+
+447
+00:51:32,170 --> 00:51:33,130
+<font face="Segoe UI" size="140">Rút nhanh !</font>
+
+448
+00:51:33,290 --> 00:51:34,920
+<font face="Segoe UI" size="140">Mau!</font>
+
+449
+00:52:10,540 --> 00:52:13,750
+<font face="Segoe UI" size="140">Vừa Tỳ Bà Phong Hỏa, vừa Hỗn Nguyên Tản</font>
+
+450
+00:52:13,920 --> 00:52:15,670
+<font face="Segoe UI" size="140">Mọi người cẩn thận !</font>
+
+451
+00:52:22,790 --> 00:52:24,080
+<font face="Segoe UI" size="140">Giết !</font>
+
+452
+00:52:53,000 --> 00:52:53,960
+<font face="Segoe UI" size="140">Lôi Chấn Tử !</font>
+
+453
+00:52:57,500 --> 00:52:58,880
+<font face="Segoe UI" size="140">Kéo cầu treo lên !</font>
+
+454
+00:52:59,630 --> 00:53:00,380
+<font face="Segoe UI" size="140">Khoan đã !</font>
+
+455
+00:53:17,460 --> 00:53:18,630
+<font face="Segoe UI" size="140">Kéo, kéo nhanh lên !</font>
+
+456
+00:53:19,170 --> 00:53:20,580
+<font face="Segoe UI" size="140">Kéo cầu treo !</font>
+
+457
+00:53:56,250 --> 00:53:57,250
+<font face="Segoe UI" size="140">Tấn công !</font>
+
+458
+00:53:59,250 --> 00:54:02,170
+<font face="Segoe UI" size="140">Hôm nay nhất định phải phá được Tây Kỳ !</font>
+
+459
+00:55:47,750 --> 00:55:49,420
+<font face="Segoe UI" size="140">Giữ vững cổng thành !</font>
+
+460
+00:55:54,830 --> 00:55:58,080
+<font face="Segoe UI" size="140">Là con Hoa Hồ Điêu giỏi đào hang khoét lỗ nhất !</font>
+
+461
+00:56:35,130 --> 00:56:35,880
+<font face="Segoe UI" size="140">Rút lui !</font>
+
+462
+00:57:04,920 --> 00:57:06,040
+<font face="Segoe UI" size="140">Đây là quái vật gì vậy ?</font>
+
+463
+00:57:10,540 --> 00:57:11,830
+<font face="Segoe UI" size="140">Chẳng lẽ là...</font>
+
+464
+00:57:12,000 --> 00:57:13,170
+<font face="Segoe UI" size="140">Còn ai vào đây nữa !</font>
+
+465
+00:57:15,830 --> 00:57:20,210
+<font face="Segoe UI" size="140">Đây là Ân Giao sau khi hấp thụ pháp lực của Thiên Tôn,
+Biến hóa ra pháp tướng ba đầu sáu tay</font>
+
+466
+00:58:05,750 --> 00:58:07,210
+<font face="Segoe UI" size="140">Mau đi giúp Ân Giao đi</font>
+
+467
+00:58:07,670 --> 00:58:10,920
+<font face="Segoe UI" size="140">Sư thúc đừng lo, vết thương này chẳng hề gì</font>
+
+468
+00:58:11,080 --> 00:58:12,670
+<font face="Segoe UI" size="140">Hắn còn nhiều chiêu thức lắm</font>
+
+469
+00:59:13,080 --> 00:59:14,130
+<font face="Segoe UI" size="140">Tây Kỳ được cứu rồi !</font>
+
+470
+00:59:14,960 --> 00:59:16,670
+<font face="Segoe UI" size="140">Thiên hạ được cứu rồi !</font>
+
+471
+00:59:21,580 --> 00:59:22,460
+<font face="Segoe UI" size="140">Đừng động đậy !</font>
+
+472
+00:59:26,710 --> 00:59:28,330
+<font face="Segoe UI" size="140">Người tu đạo không được sát sinh !</font>
+
+473
+01:00:06,460 --> 01:00:07,790
+<font face="Segoe UI" size="140">Cô tỉnh rồi à ?</font>
+
+474
+01:00:07,960 --> 01:00:09,250
+<font face="Segoe UI" size="140">Chiến giáp của ta đâu ?</font>
+
+475
+01:00:10,170 --> 01:00:11,330
+<font face="Segoe UI" size="140">Ta cởi cho cô rồi</font>
+
+476
+01:00:18,670 --> 01:00:19,580
+<font face="Segoe UI" size="140">Ta mà không cởi giúp</font>
+
+477
+01:00:19,750 --> 01:00:21,080
+<font face="Segoe UI" size="140">Thì cô đã chết đuối rồi</font>
+
+478
+01:00:24,290 --> 01:00:25,630
+<font face="Segoe UI" size="140">Ta đã cứu mạng cô</font>
+
+479
+01:00:28,040 --> 01:00:30,040
+<font face="Segoe UI" size="140">Cô cũng phải làm một việc để báo đáp ta !</font>
+
+480
+01:01:04,540 --> 01:01:05,580
+<font face="Segoe UI" size="140">Trói ta lại.</font>
+
+481
+01:01:07,210 --> 01:01:08,210
+<font face="Segoe UI" size="140">Ta đầu hàng.</font>
+
+482
+01:01:11,000 --> 01:01:12,420
+<font face="Segoe UI" size="140">Ngươi chưa thua,</font>
+
+483
+01:01:14,630 --> 01:01:16,040
+<font face="Segoe UI" size="140">Sao lại đi đầu hàng ?</font>
+
+484
+01:01:17,920 --> 01:01:19,540
+<font face="Segoe UI" size="140">Ta theo Ân Thọ</font>
+
+485
+01:01:20,420 --> 01:01:22,170
+<font face="Segoe UI" size="140">Tàn sát Ký Châu Thành</font>
+
+486
+01:01:25,420 --> 01:01:27,670
+<font face="Segoe UI" size="140">Ta tự tay phá tan nhà cửa của người khác.</font>
+
+487
+01:01:29,290 --> 01:01:31,460
+<font face="Segoe UI" size="140">Giờ đây, họ sẽ phá hủy nhà của ta.</font>
+
+488
+01:01:34,580 --> 01:01:36,960
+<font face="Segoe UI" size="140">Ta không muốn Tây Kỳ thành Ký Châu thứ hai</font>
+
+489
+01:01:39,670 --> 01:01:40,880
+<font face="Segoe UI" size="140">Ta đã cố hết sức...</font>
+
+490
+01:01:42,000 --> 01:01:43,920
+<font face="Segoe UI" size="140">Kiếm của ta đã không thể bảo vệ Tây Kỳ.</font>
+
+491
+01:01:45,080 --> 01:01:46,920
+<font face="Segoe UI" size="140">Ta chỉ còn mạng này...</font>
+
+492
+01:01:49,170 --> 01:01:52,750
+<font face="Segoe UI" size="140">Đặng tướng quân đánh lén sau lưng, thật là anh hùng.</font>
+
+493
+01:01:53,420 --> 01:01:54,540
+<font face="Segoe UI" size="140">Đừng phí lời nữa.</font>
+
+494
+01:01:55,710 --> 01:01:57,130
+<font face="Segoe UI" size="140">Lần này ngươi đừng hòng chạy thoát !</font>
+
+495
+01:01:57,500 --> 01:02:00,040
+<font face="Segoe UI" size="140">Yên tâm, ta sẽ không chạy nữa đâu.</font>
+
+496
+01:02:02,750 --> 01:02:04,080
+<font face="Segoe UI" size="140">Chỉ khi ta đầu hàng,</font>
+
+497
+01:02:04,540 --> 01:02:05,960
+<font face="Segoe UI" size="140">Mới cứu được Tây Kỳ.</font>
+
+498
+01:02:07,290 --> 01:02:08,960
+<font face="Segoe UI" size="140">Vậy ngươi nên sớm đầu hàng mới phải !</font>
+
+499
+01:02:09,960 --> 01:02:11,830
+<font face="Segoe UI" size="140">Như thế cũng sẽ không có nhiều người chết vì ngươi.</font>
+
+500
+01:02:16,960 --> 01:02:18,670
+<font face="Segoe UI" size="140">Họ hy sinh để bảo vệ nhà của mình.</font>
+
+501
+01:02:22,210 --> 01:02:23,540
+<font face="Segoe UI" size="140">Cô không có nhà hay sao ?</font>
+
+502
+01:02:26,170 --> 01:02:28,210
+<font face="Segoe UI" size="140">Ta lớn lên nơi chiến trường.</font>
+
+503
+01:02:29,210 --> 01:02:30,460
+<font face="Segoe UI" size="140">Không có nhà.</font>
+
+504
+01:02:35,250 --> 01:02:36,960
+<font face="Segoe UI" size="140">Vậy ít nhất cô cũng phải có gia đình chứ ?</font>
+
+505
+01:02:40,170 --> 01:02:42,040
+<font face="Segoe UI" size="140">Đặng gia chỉ còn mình ta là người sống sót</font>
+
+506
+01:02:45,000 --> 01:02:46,710
+<font face="Segoe UI" size="140">Một ngày nào đó ta cũng sẽ như phụ thân</font>
+
+507
+01:02:48,080 --> 01:02:49,500
+<font face="Segoe UI" size="140">Tử trận nơi sa trường</font>
+
+508
+01:02:50,630 --> 01:02:52,000
+<font face="Segoe UI" size="140">Không phụ danh tiếng nhà họ Đặng !</font>
+
+509
+01:02:55,290 --> 01:02:56,500
+<font face="Segoe UI" size="140">Không ngờ là...</font>
+
+510
+01:02:58,330 --> 01:02:59,750
+<font face="Segoe UI" size="140">Chúng ta đều chiến đấu vì gia đình !</font>
+
+511
+01:03:05,830 --> 01:03:08,170
+<font face="Segoe UI" size="140">Vậy cô biết khác biệt giữa chúng ta là gì không ?</font>
+
+512
+01:03:10,580 --> 01:03:11,710
+<font face="Segoe UI" size="140">Ta thắng !</font>
+
+513
+01:03:14,080 --> 01:03:15,790
+<font face="Segoe UI" size="140">Còn ngươi thua. 
+- Không !</font>
+
+514
+01:03:17,130 --> 01:03:18,790
+<font face="Segoe UI" size="140">Ta chiến đấu vì người sống,</font>
+
+515
+01:03:19,500 --> 01:03:20,380
+<font face="Segoe UI" size="140">Còn cô thì sao ?</font>
+
+516
+01:03:24,080 --> 01:03:25,500
+<font face="Segoe UI" size="140">Cô chiến đấu vì người đã chết.</font>
+
+517
+01:03:35,740 --> 01:03:38,320
+<font face="Segoe UI" size="90">[Lộc Đài]</font>
+
+518
+01:04:09,540 --> 01:04:10,500
+<font face="Segoe UI" size="140">Ăn đi.</font>
+
+519
+01:04:22,630 --> 01:04:23,710
+<font face="Segoe UI" size="140">Có ngọt không ?</font>
+
+520
+01:04:25,540 --> 01:04:26,960
+<font face="Segoe UI" size="140">Ăn thêm chút nữa.</font>
+
+521
+01:05:49,670 --> 01:05:51,920
+<font face="Segoe UI" size="140">Nguyên khí của thiếp sắp cạn kiệt.</font>
+
+522
+01:05:54,420 --> 01:05:57,000
+<font face="Segoe UI" size="140">Không thể rời khỏi thân thể này nữa.</font>
+
+523
+01:06:01,920 --> 01:06:04,960
+<font face="Segoe UI" size="140">Thân thể thiếp sớm muộn cũng sẽ thối rữa.</font>
+
+524
+01:06:18,170 --> 01:06:19,670
+<font face="Segoe UI" size="140">Ta vì Đại Thương</font>
+
+525
+01:06:19,830 --> 01:06:21,420
+<font face="Segoe UI" size="140">Đã liều mạng cả đời này</font>
+
+526
+01:06:23,000 --> 01:06:24,750
+<font face="Segoe UI" size="140">Há lại trước khi chết.</font>
+
+527
+01:06:25,670 --> 01:06:28,040
+<font face="Segoe UI" size="140">Mắt nhìn nó tan thành mây khói ?</font>
+
+528
+01:06:38,540 --> 01:06:39,920
+<font face="Segoe UI" size="140">Là Đặng tướng quân!</font>
+
+529
+01:06:41,880 --> 01:06:44,130
+<font face="Segoe UI" size="140">Đặng tướng quân cuối cùng cũng tìm được người rồi !</font>
+
+530
+01:06:46,080 --> 01:06:49,380
+<font face="Segoe UI" size="140">Đại quân của thái sư đã vượt Hoàng Hà, đang chờ hội quân với chúng ta.</font>
+
+531
+01:07:21,920 --> 01:07:26,470
+<font face="Segoe UI" size="90">[Quân doanh của Văn Trọng]</font>
+
+532
+01:07:26,920 --> 01:07:29,420
+<font face="Segoe UI" size="140">Lão phu thân chinh dẫn quân đến đây.</font>
+
+533
+01:07:29,920 --> 01:07:33,040
+<font face="Segoe UI" size="140">Chưa cả giao chiến.
+Một mũi tên còn chưa bắn !</font>
+
+534
+01:07:33,500 --> 01:07:34,290
+<font face="Segoe UI" size="140">Cơ Phát !</font>
+
+535
+01:07:34,960 --> 01:07:37,830
+<font face="Segoe UI" size="140">Vậy mà ngươi đã muốn đầu hàng nhận tội rồi ?</font>
+
+536
+01:07:38,170 --> 01:07:39,580
+<font face="Segoe UI" size="140">Ta không nhận tội.</font>
+
+537
+01:07:40,000 --> 01:07:41,460
+<font face="Segoe UI" size="140">Ta chỉ nhận thua thôi.</font>
+
+538
+01:07:41,960 --> 01:07:43,330
+<font face="Segoe UI" size="140">Ân Thọ muốn bắt ta...</font>
+
+539
+01:07:43,920 --> 01:07:46,710
+<font face="Segoe UI" size="140">Ông rút quân tha cho bách tính Tây Kỳ, ta theo ông về Triều Ca !</font>
+
+540
+01:07:46,880 --> 01:07:49,500
+<font face="Segoe UI" size="140">Ngươi không có tư cách thương lượng với ta.</font>
+
+541
+01:07:50,000 --> 01:07:51,500
+<font face="Segoe UI" size="140">Tây Kỳ mưu phản.</font>
+
+542
+01:07:51,670 --> 01:07:53,040
+<font face="Segoe UI" size="140">Phải tiêu diệt cả thành.</font>
+
+543
+01:07:53,540 --> 01:07:55,380
+<font face="Segoe UI" size="140">Để chấn hưng uy danh Đại Thương.</font>
+
+544
+01:07:55,540 --> 01:07:58,040
+<font face="Segoe UI" size="140">Thái sư, Tây Kỳ vì sao phản ?</font>
+
+545
+01:07:58,210 --> 01:07:59,710
+<font face="Segoe UI" size="140">Chẳng lẽ thái sư không biết hay sao ?</font>
+
+546
+01:07:59,880 --> 01:08:01,710
+<font face="Segoe UI" size="140">Trung thành không cần điều kiện...</font>
+
+547
+01:08:02,830 --> 01:08:06,250
+<font face="Segoe UI" size="140">Chỉ có phản tặc mới viện cớ biện minh cho mình.</font>
+
+548
+01:08:12,960 --> 01:08:14,420
+<font face="Segoe UI" size="140">Ai cũng nói thái sư...</font>
+
+549
+01:08:15,790 --> 01:08:17,250
+<font face="Segoe UI" size="140">Xử sự công bằng...</font>
+
+550
+01:08:18,130 --> 01:08:19,710
+<font face="Segoe UI" size="140">Biết phân biệt phải trái đúng sai.</font>
+
+551
+01:08:20,830 --> 01:08:21,920
+<font face="Segoe UI" size="140">Không ngờ...</font>
+
+552
+01:08:24,000 --> 01:08:26,500
+<font face="Segoe UI" size="140">Cũng là chó săn của Ân Thọ.</font>
+
+553
+01:08:27,920 --> 01:08:28,630
+<font face="Segoe UI" size="140">Câm mồm lại !</font>
+
+554
+01:08:29,210 --> 01:08:30,000
+<font face="Segoe UI" size="140">Quỳ xuống !</font>
+
+555
+01:08:30,670 --> 01:08:32,710
+<font face="Segoe UI" size="140">Vì Đại Thương tận trung.</font>
+
+556
+01:08:33,460 --> 01:08:35,790
+<font face="Segoe UI" size="140">Làm chó săn thì đã sao ?</font>
+
+557
+01:08:41,630 --> 01:08:42,460
+<font face="Segoe UI" size="140">Thái sư</font>
+
+558
+01:08:43,040 --> 01:08:44,750
+<font face="Segoe UI" size="140">Cơ Phát đã đầu hàng rồi,</font>
+
+559
+01:08:46,290 --> 01:08:48,380
+<font face="Segoe UI" size="140">Sao người còn cố chấp tấn công Tây Kỳ ?</font>
+
+560
+01:08:51,080 --> 01:08:52,290
+<font face="Segoe UI" size="140">Cái tát này...</font>
+
+561
+01:08:52,460 --> 01:08:53,880
+<font face="Segoe UI" size="140">Ta thay cha ngươi trừng phạt.</font>
+
+562
+01:08:54,710 --> 01:08:55,790
+<font face="Segoe UI" size="140">Ngươi làm tiên phong.</font>
+
+563
+01:08:56,580 --> 01:08:59,290
+<font face="Segoe UI" size="140">Thua trận mất tướng, không chỉ làm ta nhục.</font>
+
+564
+01:09:00,040 --> 01:09:01,540
+<font face="Segoe UI" size="140">Còn khiến Đặng gia nhục nhã.</font>
+
+565
+01:09:02,040 --> 01:09:05,250
+<font face="Segoe UI" size="140">Không nghĩ đến báo thù rửa nhục, lại còn đi xin xỏ cho phản tặc !</font>
+
+566
+01:09:09,170 --> 01:09:11,130
+<font face="Segoe UI" size="140">Ta chỉ nhớ phụ thân từng nói...</font>
+
+567
+01:09:13,670 --> 01:09:15,250
+<font face="Segoe UI" size="140">Tàn sát bách tính, dân lành...</font>
+
+568
+01:09:17,080 --> 01:09:18,880
+<font face="Segoe UI" size="140">Mới là nỗi nhục lớn nhất của quân nhân.</font>
+
+569
+01:09:19,040 --> 01:09:20,170
+<font face="Segoe UI" size="140">To gan !</font>
+
+570
+01:09:20,920 --> 01:09:23,080
+<font face="Segoe UI" size="140">Tiêu diệt Tây Kỳ, không được để ai sống sót.</font>
+
+571
+01:09:23,670 --> 01:09:25,330
+<font face="Segoe UI" size="140">Đây là mệnh lệnh của đại vương.</font>
+
+572
+01:09:28,540 --> 01:09:29,500
+<font face="Segoe UI" size="140">Tướng quân.</font>
+
+573
+01:09:32,000 --> 01:09:34,170
+<font face="Segoe UI" size="140">Đây là cơ hội tốt để chúng ta lập công.</font>
+
+574
+01:09:34,630 --> 01:09:37,130
+<font face="Segoe UI" size="140">Vì thanh danh Đặng gia, không được mềm lòng.</font>
+
+575
+01:09:37,290 --> 01:09:38,210
+<font face="Segoe UI" size="140">Im miệng !</font>
+
+576
+01:09:40,710 --> 01:09:43,580
+<font face="Segoe UI" size="140">Ngươi từng thấy cha ta tàn sát người dân vô tội hay chưa ?</font>
+
+577
+01:09:47,460 --> 01:09:49,040
+<font face="Segoe UI" size="140">Đao của ta chỉ giết địch.</font>
+
+578
+01:09:51,250 --> 01:09:53,500
+<font face="Segoe UI" size="140">Chứ không giết dân thường.</font>
+
+579
+01:10:37,170 --> 01:10:38,040
+<font face="Segoe UI" size="140">Theo ta !</font>
+
+580
+01:10:40,580 --> 01:10:42,000
+<font face="Segoe UI" size="140">- Ai đó ?
+- Tránh ra...</font>
+
+581
+01:10:42,500 --> 01:10:43,880
+<font face="Segoe UI" size="140">Chặn bọn chúng lại !</font>
+
+582
+01:10:44,540 --> 01:10:45,960
+<font face="Segoe UI" size="140">Đóng cổng !</font>
+
+583
+01:10:47,080 --> 01:10:48,330
+<font face="Segoe UI" size="140">Đóng cổng !</font>
+
+584
+01:10:49,500 --> 01:10:50,500
+<font face="Segoe UI" size="140">Là Đặng tướng quân !</font>
+
+585
+01:11:02,460 --> 01:11:03,790
+<font face="Segoe UI" size="140">Sao cô lại cứu ta ?</font>
+
+586
+01:11:03,960 --> 01:11:05,210
+<font face="Segoe UI" size="140">Mạng đổi mạng.</font>
+
+587
+01:11:05,630 --> 01:11:06,880
+<font face="Segoe UI" size="140">Ta không còn nợ ngươi nữa.</font>
+
+588
+01:11:36,000 --> 01:11:37,080
+<font face="Segoe UI" size="140">Dừng tay !</font>
+
+589
+01:11:59,580 --> 01:12:02,170
+<font face="Segoe UI" size="140">Cơ Phát, các ngươi đi trước đi.</font>
+
+590
+01:12:16,830 --> 01:12:18,460
+<font face="Segoe UI" size="140">Văn Trọng to gan !</font>
+
+591
+01:12:18,710 --> 01:12:21,960
+<font face="Segoe UI" size="140">Thấy ta Ân Giao, còn không mau quỳ lạy ?</font>
+
+592
+01:12:23,000 --> 01:12:25,130
+<font face="Segoe UI" size="140">Ngươi là thái tử điện hạ ?</font>
+
+593
+01:12:26,040 --> 01:12:29,500
+<font face="Segoe UI" size="140">Là ta, hậu duệ đời thứ 31 của Thành Thang.</font>
+
+594
+01:12:29,670 --> 01:12:33,710
+<font face="Segoe UI" size="140">Thái tử Đại Thương, Ân Giao !</font>
+
+595
+01:12:34,210 --> 01:12:36,170
+<font face="Segoe UI" size="140">Sao người lại thành ra thế này ?</font>
+
+596
+01:12:37,040 --> 01:12:40,790
+<font face="Segoe UI" size="140">Là Ân Thọ giết ta !</font>
+
+597
+01:12:40,960 --> 01:12:43,000
+<font face="Segoe UI" size="140">Ngươi lẽ nào không biết ư ?</font>
+
+598
+01:12:43,960 --> 01:12:46,880
+<font face="Segoe UI" size="140">Ân Thọ giết cha hại huynh,</font>
+
+599
+01:12:47,040 --> 01:12:49,000
+<font face="Segoe UI" size="140">Giết cả vợ con.</font>
+
+600
+01:12:49,170 --> 01:12:50,630
+<font face="Segoe UI" size="140">Cấu kết với hồ yêu,</font>
+
+601
+01:12:50,790 --> 01:12:52,080
+<font face="Segoe UI" size="140">Cướp ngôi xưng vương.</font>
+
+602
+01:12:52,250 --> 01:12:55,420
+<font face="Segoe UI" size="140">Vậy mà ngươi vẫn còn bán mạng cho hắn.</font>
+
+603
+01:12:57,670 --> 01:13:00,250
+<font face="Segoe UI" size="140">Ta liều mạng vì Đại Thương.</font>
+
+604
+01:13:01,710 --> 01:13:04,500
+<font face="Segoe UI" size="140">Ta là thái tử Đại Thương.</font>
+
+605
+01:13:04,670 --> 01:13:06,130
+<font face="Segoe UI" size="140">Quỳ xuống, thề trung thành với ta.</font>
+
+606
+01:13:06,290 --> 01:13:09,580
+<font face="Segoe UI" size="140">Người là thái tử, Ân Thọ mới là vua.</font>
+
+607
+01:13:10,210 --> 01:13:12,420
+<font face="Segoe UI" size="140">Ta nghe mệnh vua giết người,</font>
+
+608
+01:13:13,000 --> 01:13:14,710
+<font face="Segoe UI" size="140">Cùng lắm chỉ bị chê là ngu trung,</font>
+
+609
+01:13:15,420 --> 01:13:17,960
+<font face="Segoe UI" size="140">Nếu ta trung thành với người,</font>
+
+610
+01:13:18,500 --> 01:13:19,920
+<font face="Segoe UI" size="140">Chống lại vua, đó là mưu phản.</font>
+
+611
+01:13:21,080 --> 01:13:24,040
+<font face="Segoe UI" size="140">Ta thà làm ngu trung chứ không bao giờ mưu phản.</font>
+
+612
+01:13:24,580 --> 01:13:26,080
+<font face="Segoe UI" size="140">Lão già nhà ngươi,</font>
+
+613
+01:13:26,250 --> 01:13:29,920
+<font face="Segoe UI" size="140">Chỉ lo cho cái danh hão của mình,</font>
+
+614
+01:13:31,500 --> 01:13:32,960
+<font face="Segoe UI" size="140">Ngươi không phải ngu trung,</font>
+
+615
+01:13:33,580 --> 01:13:36,460
+<font face="Segoe UI" size="140">Ngươi là ngu xuẩn mới đúng !</font>
+
+616
+01:13:37,670 --> 01:13:39,250
+<font face="Segoe UI" size="140">Ta tạm tha mạng cho ngươi !</font>
+
+617
+01:13:40,580 --> 01:13:42,210
+<font face="Segoe UI" size="140">Quay về nói với Ân Thọ,</font>
+
+618
+01:13:42,920 --> 01:13:45,670
+<font face="Segoe UI" size="140">Ân Giao ta đã trở lại.</font>
+
+619
+01:13:46,170 --> 01:13:48,210
+<font face="Segoe UI" size="140">Nếu ngươi còn dám bén mảng đến Tây Kỳ.</font>
+
+620
+01:13:49,460 --> 01:13:52,170
+<font face="Segoe UI" size="140">Ta tất sẽ giết ngươi.</font>
+
+621
+01:14:08,960 --> 01:14:09,960
+<font face="Segoe UI" size="140">Ngươi về đến nhà rồi.</font>
+
+622
+01:14:12,830 --> 01:14:15,830
+<font face="Segoe UI" size="140">Cô thả ta đi thì cô sẽ giống như ta !</font>
+
+623
+01:14:16,080 --> 01:14:17,880
+<font face="Segoe UI" size="140">Trở thành phản tặc của Ân Thương.</font>
+
+624
+01:14:24,830 --> 01:14:26,130
+<font face="Segoe UI" size="140">Ta chỉ hối tiếc một điều.</font>
+
+625
+01:14:30,170 --> 01:14:32,630
+<font face="Segoe UI" size="140">Không được tử chiến cùng phụ thân.</font>
+
+626
+01:14:41,250 --> 01:14:42,500
+<font face="Segoe UI" size="140">Ngươi thì còn cơ hội.</font>
+
+627
+01:14:46,210 --> 01:14:48,330
+<font face="Segoe UI" size="140">Hãy tử chiến bên gia đình mình.</font>
+
+628
+01:14:56,750 --> 01:14:57,960
+<font face="Segoe UI" size="140">Mở !</font>
+
+629
+01:14:58,670 --> 01:14:59,500
+<font face="Segoe UI" size="140">Hầu gia !</font>
+
+630
+01:14:59,670 --> 01:15:00,750
+<font face="Segoe UI" size="140">Hầu gia !</font>
+
+631
+01:15:00,920 --> 01:15:02,330
+<font face="Segoe UI" size="140">Hầu gia về rồi !</font>
+
+632
+01:15:03,210 --> 01:15:04,040
+<font face="Segoe UI" size="140">Hầu gia !</font>
+
+633
+01:15:06,500 --> 01:15:07,290
+<font face="Segoe UI" size="140">Hầu gia !</font>
+
+634
+01:15:07,460 --> 01:15:08,460
+<font face="Segoe UI" size="140">Hầu gia của ta !</font>
+
+635
+01:15:12,380 --> 01:15:15,000
+<font face="Segoe UI" size="140">Đặng tướng quân không phải kẻ địch,
+Cô ấy là ân nhân cứu mạng ta.</font>
+
+636
+01:15:17,750 --> 01:15:20,040
+<font face="Segoe UI" size="140">Đa tạ Đặng tướng quân hộ tống Cơ Phát trở về.</font>
+
+637
+01:15:21,710 --> 01:15:23,790
+<font face="Segoe UI" size="140">Nếu đã tới cửa nhà.</font>
+
+638
+01:15:24,880 --> 01:15:26,500
+<font face="Segoe UI" size="140">Thì không cần tiễn nữa.</font>
+
+639
+01:15:27,790 --> 01:15:28,960
+<font face="Segoe UI" size="140">Mời cô về đi.</font>
+
+640
+01:15:41,790 --> 01:15:43,040
+<font face="Segoe UI" size="140">Đây là khách của ta.</font>
+
+641
+01:15:45,540 --> 01:15:47,000
+<font face="Segoe UI" size="140">Hai quân đối địch.</font>
+
+642
+01:15:47,170 --> 01:15:50,130
+<font face="Segoe UI" size="140">Đặng tướng quân ở lại Tây Kỳ Thành.</font>
+
+643
+01:15:50,710 --> 01:15:52,330
+<font face="Segoe UI" size="140">E rằng không tiện lắm.</font>
+
+644
+01:15:53,670 --> 01:15:54,830
+<font face="Segoe UI" size="140">Cô ấy không còn nơi nào để đi.</font>
+
+645
+01:15:57,670 --> 01:16:00,880
+<font face="Segoe UI" size="140">Đuổi đi là đẩy cô ấy vào chỗ chết.</font>
+
+646
+01:16:03,210 --> 01:16:04,540
+<font face="Segoe UI" size="140">Cơ Phát...</font>
+
+647
+01:16:06,080 --> 01:16:07,710
+<font face="Segoe UI" size="140">Còn nhận ra ta không ?</font>
+
+648
+01:16:37,670 --> 01:16:38,710
+<font face="Segoe UI" size="140">Ân Giao !</font>
+
+649
+01:16:45,210 --> 01:16:46,880
+<font face="Segoe UI" size="140">Ngươi còn nhớ mình là ai không ?</font>
+
+650
+01:16:48,080 --> 01:16:48,920
+<font face="Segoe UI" size="140">Nhớ !</font>
+
+651
+01:16:50,460 --> 01:16:51,750
+<font face="Segoe UI" size="140">Ta là Ân Giao.</font>
+
+652
+01:16:52,580 --> 01:16:54,250
+<font face="Segoe UI" size="140">Vậy Ân Giao là ai ?</font>
+
+653
+01:16:56,500 --> 01:16:57,290
+<font face="Segoe UI" size="140">Ân Giao.</font>
+
+654
+01:16:58,130 --> 01:17:00,080
+<font face="Segoe UI" size="140">Hậu duệ đời thứ 31 của Thành Thang.</font>
+
+655
+01:17:00,500 --> 01:17:01,880
+<font face="Segoe UI" size="140">Thái tử Ân Thương.</font>
+
+656
+01:17:04,960 --> 01:17:07,000
+<font face="Segoe UI" size="140">Nhưng phụ thân đã giết ta.</font>
+
+657
+01:17:10,170 --> 01:17:11,420
+<font face="Segoe UI" size="140">Không chỉ giết ta.</font>
+
+658
+01:17:11,580 --> 01:17:13,170
+<font face="Segoe UI" size="140">Mà còn giết cả mẫu thân.</font>
+
+659
+01:17:14,710 --> 01:17:16,750
+<font face="Segoe UI" size="140">Chính là oán niệm trong lòng ngươi.</font>
+
+660
+01:17:17,210 --> 01:17:19,540
+<font face="Segoe UI" size="140">Khiến hồn phách ngươi không tan sau khi chết.</font>
+
+661
+01:17:20,540 --> 01:17:22,250
+<font face="Segoe UI" size="140">Ngươi đã hút hết pháp lực của ta.</font>
+
+662
+01:17:22,420 --> 01:17:24,670
+<font face="Segoe UI" size="140">Nên mới thành ra thế này.</font>
+
+663
+01:17:26,130 --> 01:17:28,750
+<font face="Segoe UI" size="140">Ngươi phải học cách kiềm chế phẫn nộ trong lòng.</font>
+
+664
+01:17:29,540 --> 01:17:31,540
+<font face="Segoe UI" size="140">Nếu không một ngày nào đó,</font>
+
+665
+01:17:31,710 --> 01:17:34,040
+<font face="Segoe UI" size="140">Cơn phẫn nộ sẽ kiểm soát ngươi.</font>
+
+666
+01:17:35,080 --> 01:17:36,210
+<font face="Segoe UI" size="140">Đến lúc đó,</font>
+
+667
+01:17:36,580 --> 01:17:38,420
+<font face="Segoe UI" size="140">Ngươi sẽ không còn là chính mình nữa.</font>
+
+668
+01:17:41,210 --> 01:17:42,920
+<font face="Segoe UI" size="140">Ta thà giữ lấy thù hận...</font>
+
+669
+01:17:44,540 --> 01:17:47,250
+<font face="Segoe UI" size="140">Ta phải báo thù Ân Thọ.</font>
+
+670
+01:17:51,630 --> 01:17:55,540
+<font face="Segoe UI" size="140">Khương Tử Nha cứu ngươi là hy vọng ngươi trở lại nhân gian</font>
+
+671
+01:17:55,710 --> 01:17:57,500
+<font face="Segoe UI" size="140">Trở thành minh chủ thiên hạ</font>
+
+672
+01:17:57,670 --> 01:18:00,790
+<font face="Segoe UI" size="140">Mở Phong Thần Bảng cứu độ chúng sinh</font>
+
+673
+01:18:01,420 --> 01:18:04,500
+<font face="Segoe UI" size="140">Vì thế hắn đã hy sinh toàn bộ pháp lực</font>
+
+674
+01:18:04,670 --> 01:18:06,500
+<font face="Segoe UI" size="140">Trở thành phàm nhân</font>
+
+675
+01:18:08,080 --> 01:18:10,210
+<font face="Segoe UI" size="140">Ngươi là hy vọng cuối cùng của nhân gian</font>
+
+676
+01:18:10,750 --> 01:18:13,380
+<font face="Segoe UI" size="140">Mong ngươi không phụ lòng hắn</font>
+
+677
+01:18:13,540 --> 01:18:15,000
+<font face="Segoe UI" size="140">Ta phải đến Triều Ca</font>
+
+678
+01:18:15,170 --> 01:18:16,670
+<font face="Segoe UI" size="140">Giết Ân Thọ</font>
+
+679
+01:18:16,830 --> 01:18:19,880
+<font face="Segoe UI" size="140">Báo thù cho ta và mẫu thân.</font>
+
+680
+01:18:21,830 --> 01:18:24,170
+<font face="Segoe UI" size="140">Ngươi tuyệt đối không được một mình đến Triều Ca.</font>
+
+681
+01:18:24,790 --> 01:18:26,710
+<font face="Segoe UI" size="140">Nếu không chắc chắn sẽ gặp đại họa.</font>
+
+682
+01:18:27,040 --> 01:18:29,540
+<font face="Segoe UI" size="140">Nhớ kỹ, nhớ kỹ.</font>
+
+683
+01:18:30,920 --> 01:18:34,210
+<font face="Segoe UI" size="140">Khương Tử Nha đang ở Tây Kỳ giúp huynh đệ ngươi là Cơ Phát.</font>
+
+684
+01:18:35,040 --> 01:18:37,750
+<font face="Segoe UI" size="140">Bọn họ đang cần ngươi.</font>
+
+685
+01:18:52,790 --> 01:18:54,040
+<font face="Segoe UI" size="140">Không ngờ.</font>
+
+686
+01:18:55,250 --> 01:18:56,960
+<font face="Segoe UI" size="140">Thanh kiếm này lại ở chỗ huynh.</font>
+
+687
+01:19:01,500 --> 01:19:02,920
+<font face="Segoe UI" size="140">Huynh đã trở về.</font>
+
+688
+01:19:03,420 --> 01:19:04,790
+<font face="Segoe UI" size="140">Vật quay về chủ cũ.</font>
+
+689
+01:19:08,250 --> 01:19:09,250
+<font face="Segoe UI" size="140">Nếu một ngày nào đó.</font>
+
+690
+01:19:11,420 --> 01:19:12,830
+<font face="Segoe UI" size="140">Ta không nhớ mình là ai.</font>
+
+691
+01:19:20,960 --> 01:19:22,500
+<font face="Segoe UI" size="140">Huynh phải dùng nó nhắc nhở ta.</font>
+
+692
+01:19:23,710 --> 01:19:24,830
+<font face="Segoe UI" size="140">Chính thanh kiếm này.</font>
+
+693
+01:19:26,540 --> 01:19:28,130
+<font face="Segoe UI" size="140">Đã chém đầu ta.</font>
+
+694
+01:19:35,960 --> 01:19:38,290
+<font face="Segoe UI" size="140">♪ Khoác giáp cầm gươm ♪</font>
+
+695
+01:19:41,750 --> 01:19:44,960
+<font face="Segoe UI" size="140">♪ Chinh phạt bốn phương ♪</font>
+
+696
+01:19:46,040 --> 01:19:48,460
+<font face="Segoe UI" size="140">♪ Mài giáo rèn đao ♪</font>
+
+697
+01:19:50,040 --> 01:19:52,170
+<font face="Segoe UI" size="140">Ta lại có thể cùng nhau chiến đấu rồi.</font>
+
+698
+01:19:56,170 --> 01:19:57,170
+<font face="Segoe UI" size="140">Cơ Phát,</font>
+
+699
+01:20:00,000 --> 01:20:01,170
+<font face="Segoe UI" size="140">Ta thật ghen tị với huynh...</font>
+
+700
+01:20:03,000 --> 01:20:04,420
+<font face="Segoe UI" size="140">Huynh có thể chiến đấu vì gia đình.</font>
+
+701
+01:20:09,540 --> 01:20:10,630
+<font face="Segoe UI" size="140">Còn ta,</font>
+
+702
+01:20:13,130 --> 01:20:14,580
+<font face="Segoe UI" size="140">Không có gia đình.</font>
+
+703
+01:20:21,080 --> 01:20:22,580
+<font face="Segoe UI" size="140">Chỉ có kẻ thù.</font>
+
+704
+01:20:28,040 --> 01:20:29,290
+<font face="Segoe UI" size="140">Huynh yên tâm.</font>
+
+705
+01:20:30,580 --> 01:20:32,080
+<font face="Segoe UI" size="140">Đợi khi ta đánh bại Văn Trọng.</font>
+
+706
+01:20:32,630 --> 01:20:35,500
+<font face="Segoe UI" size="140">Liên minh với chư hầu tứ phương, tiến thẳng đến Triều Ca.</font>
+
+707
+01:20:38,580 --> 01:20:40,130
+<font face="Segoe UI" size="140">Ta sẽ dùng thanh kiếm này.</font>
+
+708
+01:20:41,130 --> 01:20:42,290
+<font face="Segoe UI" size="140">Giết Ân Thọ.</font>
+
+709
+01:20:42,920 --> 01:20:44,080
+<font face="Segoe UI" size="140">Báo thù cho huynh.</font>
+
+710
+01:20:46,170 --> 01:20:47,040
+<font face="Segoe UI" size="140">Không...</font>
+
+711
+01:20:54,210 --> 01:20:56,040
+<font face="Segoe UI" size="140">Ta muốn tự tay giết ông ta.</font>
+
+712
+01:21:15,420 --> 01:21:16,920
+<font face="Segoe UI" size="140">Ngài đừng tới gần.</font>
+
+713
+01:21:20,210 --> 01:21:22,250
+<font face="Segoe UI" size="140">Đừng nhìn thiếp lúc này.</font>
+
+714
+01:21:25,960 --> 01:21:28,960
+<font face="Segoe UI" size="140">Mọi vết thương trên người nàng đều do ta gây ra...</font>
+
+715
+01:21:31,170 --> 01:21:33,250
+<font face="Segoe UI" size="140">Là nàng thay ta chịu khổ.</font>
+
+716
+01:21:39,170 --> 01:21:41,460
+<font face="Segoe UI" size="140">Đại vương có thể tuyển khắp thiên hạ.</font>
+
+717
+01:21:41,960 --> 01:21:43,670
+<font face="Segoe UI" size="140">Những người phụ nữ trẻ trung hơn.</font>
+
+718
+01:21:44,460 --> 01:21:46,040
+<font face="Segoe UI" size="140">Xinh đẹp hơn.</font>
+
+719
+01:21:47,880 --> 01:21:49,830
+<font face="Segoe UI" size="140">Tiếp tục hầu hạ Đại vương.</font>
+
+720
+01:21:58,460 --> 01:21:59,960
+<font face="Segoe UI" size="140">Nàng là độc nhất vô nhị.</font>
+
+721
+01:22:01,920 --> 01:22:03,460
+<font face="Segoe UI" size="140">Không ai có thể thay thế nàng.</font>
+
+722
+01:22:21,960 --> 01:22:24,790
+<font face="Segoe UI" size="140">Họ sẽ chỉ nhớ đến nàng lúc đẹp nhất.</font>
+
+723
+01:22:31,000 --> 01:22:32,000
+<font face="Segoe UI" size="140">Bẩm Đại vương,</font>
+
+724
+01:22:32,500 --> 01:22:34,170
+<font face="Segoe UI" size="140">Văn Thái sư có thư khẩn.</font>
+
+725
+01:22:34,750 --> 01:22:35,670
+<font face="Segoe UI" size="140">Đọc !</font>
+
+726
+01:22:38,670 --> 01:22:40,380
+<font face="Segoe UI" size="140">Thái sư đã lấy được Phong Thần Bảng sao ?</font>
+
+727
+01:22:41,670 --> 01:22:45,170
+<font face="Segoe UI" size="140">Thái sư nói Ân Giao còn sống.</font>
+
+728
+01:22:46,960 --> 01:22:48,080
+<font face="Segoe UI" size="140">Thái sư còn nói,</font>
+
+729
+01:22:48,250 --> 01:22:50,670
+<font face="Segoe UI" size="140">Ân Giao là con trai duy nhất của Đại vương.</font>
+
+730
+01:22:50,830 --> 01:22:54,880
+<font face="Segoe UI" size="140">Sau khi Đại vương băng hà,
+Xã tắc Đại thương phải có người kế thừa.</font>
+
+731
+01:22:55,500 --> 01:22:58,040
+<font face="Segoe UI" size="140">Mong Đại vương xá tội cho Ân Giao.</font>
+
+732
+01:22:58,920 --> 01:23:01,630
+<font face="Segoe UI" size="140">Khôi phục ngôi Thái tử.</font>
+
+733
+01:23:14,830 --> 01:23:15,710
+<font face="Segoe UI" size="140">Được !</font>
+
+734
+01:23:17,170 --> 01:23:18,670
+<font face="Segoe UI" size="140">Ngươi truyền lệnh cho Văn Trọng !</font>
+
+735
+01:23:19,170 --> 01:23:21,000
+<font face="Segoe UI" size="140">Chỉ cần hắn diệt được Tây Kỳ !</font>
+
+736
+01:23:21,170 --> 01:23:23,040
+<font face="Segoe UI" size="140">Lấy được Phong Thần Bảng,</font>
+
+737
+01:23:23,540 --> 01:23:25,000
+<font face="Segoe UI" size="140">Ta đồng ý !</font>
+
+738
+01:23:28,130 --> 01:23:29,750
+<font face="Segoe UI" size="140">Còn không mau đi đi.</font>
+
+739
+01:23:35,250 --> 01:23:36,460
+<font face="Segoe UI" size="140">Xá tội cho Ân Giao,</font>
+
+740
+01:23:41,750 --> 01:23:44,670
+<font face="Segoe UI" size="140">Ngài quên lời tiên tri của Cơ Xương rồi sao ?</font>
+
+741
+01:23:47,290 --> 01:23:50,170
+<font face="Segoe UI" size="140">Quân tinh nhuệ nhà Ân Thương đều nằm trong tay Văn Trọng.</font>
+
+742
+01:23:53,000 --> 01:23:54,540
+<font face="Segoe UI" size="140">Ta phải xoa dịu hắn trước đã.</font>
+
+743
+01:23:55,670 --> 01:23:57,460
+<font face="Segoe UI" size="140">Đợi đến khi lấy được Phong Thần Bảng.</font>
+
+744
+01:23:58,040 --> 01:24:00,790
+<font face="Segoe UI" size="140">Rồi trừ khử hắn cũng chưa muộn.</font>
+
+745
+01:24:03,890 --> 01:24:10,120
+<font face="Segoe UI" size="90">[Kim Ngao Đảo]</font>
+
+746
+01:24:19,040 --> 01:24:21,850
+<font face="Segoe UI" size="90">[Vân Tiêu]</font>
+
+747
+01:24:19,040 --> 01:24:21,850
+<font face="Segoe UI" size="90">[Quỳnh Tiêu]</font>
+
+748
+01:24:19,040 --> 01:24:21,850
+<font face="Segoe UI" size="90">[Bích Tiêu]</font>
+
+749
+01:24:24,290 --> 01:24:27,500
+<font face="Segoe UI" size="140">Thân Công Báo...</font>
+
+750
+01:24:28,000 --> 01:24:30,080
+<font face="Segoe UI" size="140">Không lấy được Phong Thần Bảng,</font>
+
+751
+01:24:31,290 --> 01:24:33,330
+<font face="Segoe UI" size="140">Còn dám đến gặp ta !</font>
+
+752
+01:24:33,500 --> 01:24:37,250
+<font face="Segoe UI" size="140">Lão đạo nhân Côn Luân kia thật xảo quyệt gian manh,</font>
+
+753
+01:24:37,420 --> 01:24:40,710
+<font face="Segoe UI" size="140">Nhưng ta đã tra ra tung tích của hắn.</font>
+
+754
+01:24:40,880 --> 01:24:43,790
+<font face="Segoe UI" size="140">Cầu xin sư phụ ban thêm bảo vật.</font>
+
+755
+01:24:43,960 --> 01:24:47,960
+<font face="Segoe UI" size="140">Cho đồ đệ cơ hội lấy công chuộc tội.</font>
+
+756
+01:25:06,630 --> 01:25:10,170
+<font face="Segoe UI" size="140">Ngày ta xuất quan không còn xa.</font>
+
+757
+01:25:10,580 --> 01:25:12,290
+<font face="Segoe UI" size="140">Cho ngươi cái hồ lô này.</font>
+
+758
+01:25:13,000 --> 01:25:14,960
+<font face="Segoe UI" size="140">Nó có thể giúp ngươi.</font>
+
+759
+01:25:16,710 --> 01:25:18,960
+<font face="Segoe UI" size="140">Đây là Ngũ Độc Hồ Lô.</font>
+
+760
+01:25:19,170 --> 01:25:22,040
+<font face="Segoe UI" size="140">Có thể biến người sống thành binh lính côn trùng.</font>
+
+761
+01:25:22,210 --> 01:25:24,630
+<font face="Segoe UI" size="140">Tùy ngươi sai khiến.</font>
+
+762
+01:25:35,130 --> 01:25:35,920
+<font face="Segoe UI" size="140">Mau đi !</font>
+
+763
+01:25:36,630 --> 01:25:37,670
+<font face="Segoe UI" size="140">Đi !</font>
+
+764
+01:25:39,290 --> 01:25:40,130
+<font face="Segoe UI" size="140">Mau đi !</font>
+
+765
+01:25:40,460 --> 01:25:41,130
+<font face="Segoe UI" size="140">Đi !</font>
+
+766
+01:25:43,460 --> 01:25:45,500
+<font face="Segoe UI" size="140">Đại vương cuối cùng cũng tha thứ cho chúng ta rồi !</font>
+
+767
+01:25:46,840 --> 01:25:49,020
+<font face="Segoe UI" size="90">[Đấu Thú Trường]</font>
+
+768
+01:25:47,670 --> 01:25:49,290
+<font face="Segoe UI" size="140">Những huynh đệ của các ngươi.</font>
+
+769
+01:25:50,080 --> 01:25:56,460
+<font face="Segoe UI" size="140">Ân Giao, Cơ Phát, Khương Văn Hoán, Ngạc Thuận</font>
+
+770
+01:25:56,880 --> 01:25:59,580
+<font face="Segoe UI" size="140">Từng đứa từng đứa một đều phản bội ta.</font>
+
+771
+01:26:00,670 --> 01:26:02,710
+<font face="Segoe UI" size="140">Ta nhốt các ngươi vào ngục tối.</font>
+
+772
+01:26:03,250 --> 01:26:05,580
+<font face="Segoe UI" size="140">Chính là để thử thách lòng trung thành của các ngươi.</font>
+
+773
+01:26:08,670 --> 01:26:11,670
+<font face="Segoe UI" size="140">Hôm nay, ta cho các ngươi một cơ hội...</font>
+
+774
+01:26:13,830 --> 01:26:16,210
+<font face="Segoe UI" size="140">Các ngươi có muốn chứng minh lòng trung thành của mình không ?</font>
+
+775
+01:26:16,380 --> 01:26:18,710
+<font face="Segoe UI" size="140">Chúng thần vĩnh viễn trung thành với đại vương !</font>
+
+776
+01:26:19,750 --> 01:26:22,290
+<font face="Segoe UI" size="140">Các ngươi có muốn dùng mạng sống để chứng minh không ?</font>
+
+777
+01:26:22,670 --> 01:26:23,670
+<font face="Segoe UI" size="140">Chúng thần nguyện ý !</font>
+
+778
+01:27:36,130 --> 01:27:38,330
+<font face="Segoe UI" size="140">Côn Luân là cái thá gì !</font>
+
+779
+01:27:38,500 --> 01:27:39,540
+<font face="Segoe UI" size="140">Xét về pháp thuật,</font>
+
+780
+01:27:39,710 --> 01:27:42,670
+<font face="Segoe UI" size="140">Vẫn phải xem Kim Ngao Đảo của chúng ta.</font>
+
+781
+01:27:56,630 --> 01:27:58,000
+<font face="Segoe UI" size="140">Những binh lính côn trùng này,</font>
+
+782
+01:27:58,170 --> 01:27:59,540
+<font face="Segoe UI" size="140">Không có cảm xúc,</font>
+
+783
+01:28:00,880 --> 01:28:02,210
+<font face="Segoe UI" size="140">Cũng không biết sợ hãi.</font>
+
+784
+01:28:03,170 --> 01:28:05,210
+<font face="Segoe UI" size="140">Chúng chỉ hiểu một điều.</font>
+
+785
+01:28:06,290 --> 01:28:08,170
+<font face="Segoe UI" size="140">Đó là vâng lời.</font>
+
+786
+01:28:29,790 --> 01:28:32,630
+<font face="Segoe UI" size="140">- Rượu này bao nhiêu năm ?
+- Không say không về.</font>
+
+787
+01:28:32,790 --> 01:28:33,880
+<font face="Segoe UI" size="140">- Ít nhất ba mươi năm.
+- Vậy càng phải khiến chúng có đi không về.</font>
+
+788
+01:28:34,040 --> 01:28:35,830
+<font face="Segoe UI" size="140">Có đi không về.</font>
+
+789
+01:28:37,750 --> 01:28:39,040
+<font face="Segoe UI" size="140">Ôi !</font>
+
+790
+01:28:40,210 --> 01:28:41,580
+<font face="Segoe UI" size="140">Đừng lấy hết chứ !</font>
+
+791
+01:28:42,710 --> 01:28:44,130
+<font face="Segoe UI" size="140">Chừa lại một ít nào !</font>
+
+792
+01:28:44,670 --> 01:28:47,130
+<font face="Segoe UI" size="140">Tối nay nhất định phải uống cho đã.</font>
+
+793
+01:28:51,830 --> 01:28:54,250
+<font face="Segoe UI" size="140">Hầu gia, nhà kho sắp bị hắn chuyển đi hết rồi !</font>
+
+794
+01:28:54,710 --> 01:28:56,130
+<font face="Segoe UI" size="140">Hôm nay rượu này.</font>
+
+795
+01:28:56,540 --> 01:28:57,960
+<font face="Segoe UI" size="140">Phải đủ no say.</font>
+
+796
+01:28:58,880 --> 01:29:01,040
+<font face="Segoe UI" size="140">Không chỉ vì ta thắng trận.</font>
+
+797
+01:29:01,210 --> 01:29:03,830
+<font face="Segoe UI" size="140">Quan trọng hơn là Ân Giao đã trở về.</font>
+
+798
+01:29:04,500 --> 01:29:05,710
+<font face="Segoe UI" size="140">Huynh đệ của ta về rồi.</font>
+
+799
+01:29:06,460 --> 01:29:08,630
+<font face="Segoe UI" size="140">Vị minh chủ tương lai của thiên hạ đã trở về.</font>
+
+800
+01:29:10,380 --> 01:29:11,130
+<font face="Segoe UI" size="140">Nào !</font>
+
+801
+01:29:13,000 --> 01:29:14,000
+<font face="Segoe UI" size="140">Nào !</font>
+
+802
+01:29:18,080 --> 01:29:19,420
+<font face="Segoe UI" size="140">Đừng ủ rũ nữa !</font>
+
+803
+01:29:19,920 --> 01:29:20,710
+<font face="Segoe UI" size="140">Vui lên đi !</font>
+
+804
+01:29:25,580 --> 01:29:26,420
+<font face="Segoe UI" size="140">Cạn chén !</font>
+
+805
+01:29:27,960 --> 01:29:29,630
+<font face="Segoe UI" size="140">- Cạn.
+- Mời Hầu gia.</font>
+
+806
+01:30:12,750 --> 01:30:13,580
+<font face="Segoe UI" size="140">Cảm ơn.</font>
+
+807
+01:30:25,670 --> 01:30:28,130
+<font face="Segoe UI" size="140">Hôm nay ta uống rượu mừng công.</font>
+
+808
+01:30:30,670 --> 01:30:31,750
+<font face="Segoe UI" size="140">Bao giờ,</font>
+
+809
+01:30:32,210 --> 01:30:34,750
+<font face="Segoe UI" size="140">Mới được uống rượu hỷ của hai người đây ?</font>
+
+810
+01:30:35,540 --> 01:30:37,790
+<font face="Segoe UI" size="140">Rượu hỷ ! Rượu hỷ ! Rượu hỷ !</font>
+
+811
+01:30:52,420 --> 01:30:55,130
+<font face="Segoe UI" size="140">Người tu tiên như chúng ta không được uống rượu.</font>
+
+812
+01:30:59,000 --> 01:30:59,830
+<font face="Segoe UI" size="140">Cẩn thận đấy !</font>
+
+813
+01:31:03,290 --> 01:31:05,130
+<font face="Segoe UI" size="140">Hôn một cái đi !</font>
+
+814
+01:31:14,670 --> 01:31:15,710
+<font face="Segoe UI" size="140">Ngài xem !</font>
+
+815
+01:31:17,500 --> 01:31:21,250
+<font face="Segoe UI" size="140">Đây mới là cuộc sống đáng có của thiên hạ !</font>
+
+816
+01:31:28,130 --> 01:31:29,710
+<font face="Segoe UI" size="140">Ta nhất định sẽ giúp Cơ Phát.</font>
+
+817
+01:31:30,630 --> 01:31:31,710
+<font face="Segoe UI" size="140">Bảo vệ Tây Kỳ.</font>
+
+818
+01:31:32,460 --> 01:31:33,830
+<font face="Segoe UI" size="140">Đánh bại Văn Trọng.</font>
+
+819
+01:31:37,040 --> 01:31:38,830
+<font face="Segoe UI" size="140">Ta biết ngài đang nghĩ gì.</font>
+
+820
+01:31:39,670 --> 01:31:41,960
+<font face="Segoe UI" size="140">Muốn lập tức giết Ân Thọ.</font>
+
+821
+01:31:42,130 --> 01:31:44,500
+<font face="Segoe UI" size="140">Nhưng không nên một mình đến Triều Ca.</font>
+
+822
+01:31:45,670 --> 01:31:48,580
+<font face="Segoe UI" size="140">Nên dẫn theo cả thiên hạ.</font>
+
+823
+01:31:48,750 --> 01:31:52,080
+<font face="Segoe UI" size="140">Trên thuận ý trời, dưới hợp lòng dân.</font>
+
+824
+01:31:52,250 --> 01:31:53,750
+<font face="Segoe UI" size="140">Kêu gọi muôn dân.</font>
+
+825
+01:31:53,920 --> 01:31:55,290
+<font face="Segoe UI" size="140">Tứ phương hưởng ứng.</font>
+
+826
+01:31:55,460 --> 01:31:58,460
+<font face="Segoe UI" size="140">Dẫn quân về Triều Ca, cứu dân phạt ác !</font>
+
+827
+01:31:58,630 --> 01:32:00,460
+<font face="Segoe UI" size="140">Lấy đầu Ân Thọ.</font>
+
+828
+01:32:00,630 --> 01:32:03,630
+<font face="Segoe UI" size="140">Định thiên hạ, yên muôn dân.</font>
+
+829
+01:32:04,960 --> 01:32:06,540
+<font face="Segoe UI" size="140">Bậc minh chủ thiên hạ.</font>
+
+830
+01:32:07,540 --> 01:32:09,250
+<font face="Segoe UI" size="140">Đương nhiên phải như thế.</font>
+
+831
+01:32:12,540 --> 01:32:13,500
+<font face="Segoe UI" size="140">Lão tiền bối.</font>
+
+832
+01:32:14,670 --> 01:32:16,000
+<font face="Segoe UI" size="140">Cảm ơn ngài đã cứu ta.</font>
+
+833
+01:32:31,250 --> 01:32:33,130
+<font face="Segoe UI" size="140">Cô nương xinh đẹp thế này.</font>
+
+834
+01:32:33,880 --> 01:32:35,790
+<font face="Segoe UI" size="140">Chắc đã có nơi gửi gắm rồi nhỉ ?</font>
+
+835
+01:32:39,540 --> 01:32:42,130
+<font face="Segoe UI" size="140">Hầu gia của chúng tôi cũng chưa lấy vợ.</font>
+
+836
+01:32:42,290 --> 01:32:45,170
+<font face="Segoe UI" size="140">Hay là để ta mai mối cho hai người.</font>
+
+837
+01:32:52,960 --> 01:32:55,500
+<font face="Segoe UI" size="140">Nếu cô có thể lấy Hầu gia.</font>
+
+838
+01:32:55,670 --> 01:32:57,500
+<font face="Segoe UI" size="140">Thật là tốt biết bao.</font>
+
+839
+01:32:57,670 --> 01:33:00,670
+<font face="Segoe UI" size="140">Sau này Tây Kỳ sẽ là nhà của cô.</font>
+
+840
+01:33:01,080 --> 01:33:04,040
+<font face="Segoe UI" size="140">Chúng ta chính là gia đình của cô.</font>
+
+841
+01:34:06,750 --> 01:34:08,130
+<font face="Segoe UI" size="140">Đa tạ lão thần tiên.</font>
+
+842
+01:34:08,290 --> 01:34:09,880
+<font face="Segoe UI" size="140">Đã bảo hộ Tây Kỳ chúng ta.</font>
+
+843
+01:34:10,040 --> 01:34:12,580
+<font face="Segoe UI" size="140">Tự lực cánh sinh, thiên nhân cũng giúp.</font>
+
+844
+01:34:24,250 --> 01:34:25,750
+<font face="Segoe UI" size="140">Đẹp quá !</font>
+
+845
+01:34:43,920 --> 01:34:45,580
+<font face="Segoe UI" size="140">Cảm ơn tỷ tỷ !</font>
+
+846
+01:34:46,630 --> 01:34:48,710
+<font face="Segoe UI" size="140">- Gia nhập cùng chúng tôi đi !
+- Mau đến cùng chúng tôi đi !</font>
+
+847
+01:36:03,290 --> 01:36:04,880
+<font face="Segoe UI" size="140">Tìm vị hôn thê của ngươi đi.</font>
+
+848
+01:36:15,500 --> 01:36:16,540
+<font face="Segoe UI" size="140">Nhảy nào nhảy !</font>
+
+849
+01:36:16,710 --> 01:36:18,250
+<font face="Segoe UI" size="140">Lại đây.</font>
+
+850
+01:36:23,000 --> 01:36:23,710
+<font face="Segoe UI" size="140">Nhảy đi !</font>
+
+851
+01:36:24,130 --> 01:36:25,000
+<font face="Segoe UI" size="140">Đừng nghịch nữa !</font>
+
+852
+01:36:25,170 --> 01:36:27,000
+<font face="Segoe UI" size="140">Ta đang bận việc thiên hạ đại sự mà.</font>
+
+853
+01:36:27,170 --> 01:36:28,250
+<font face="Segoe UI" size="140">Bách tính vui vẻ,</font>
+
+854
+01:36:28,420 --> 01:36:30,290
+<font face="Segoe UI" size="140">Mới là đại sự thiên hạ.</font>
+
+855
+01:36:30,630 --> 01:36:32,750
+<font face="Segoe UI" size="140">Nhảy nào nhảy !</font>
+
+856
+01:37:15,070 --> 01:37:20,320
+<font face="Segoe UI" size="90">[Văn Trọng Pháp Đàn]</font>
+
+857
+01:37:19,670 --> 01:37:21,290
+<font face="Segoe UI" size="140">Thập Tuyệt Sát Trận</font>
+
+858
+01:37:21,630 --> 01:37:23,250
+<font face="Segoe UI" size="140">Câu Phách Tỏa Hồn</font>
+
+859
+01:37:23,880 --> 01:37:25,500
+<font face="Segoe UI" size="140">Uống nước bùa này,</font>
+
+860
+01:37:25,670 --> 01:37:27,670
+<font face="Segoe UI" size="140">Mới có thể hộ thân.</font>
+
+861
+01:37:33,830 --> 01:37:36,460
+<font face="Segoe UI" size="140">- Rót đầy chén đi.
+- Rót đầy chén đi.</font>
+
+862
+01:37:48,500 --> 01:37:49,540
+<font face="Segoe UI" size="140">Nâng chén lên !</font>
+
+863
+01:37:53,000 --> 01:37:53,670
+<font face="Segoe UI" size="140">Uống !</font>
+
+864
+01:39:43,920 --> 01:39:45,420
+<font face="Segoe UI" size="140">Qua đêm nay,</font>
+
+865
+01:39:45,830 --> 01:39:50,670
+<font face="Segoe UI" size="140">Tây Kỳ không cho phép một ai sống sót.</font>
+
+866
+01:39:52,500 --> 01:39:54,170
+<font face="Segoe UI" size="140">Dũng sĩ Ân Thương,</font>
+
+867
+01:39:54,920 --> 01:39:57,250
+<font face="Segoe UI" size="140">Lão phu ở đây trấn thủ.</font>
+
+868
+01:39:57,830 --> 01:40:01,170
+<font face="Segoe UI" size="140">Đợi chờ các ngươi khải hoàn.</font>
+
+869
+01:40:15,540 --> 01:40:16,670
+<font face="Segoe UI" size="140">Thế nào rồi !</font>
+
+870
+01:40:16,830 --> 01:40:18,710
+<font face="Segoe UI" size="140">Không hiểu sao ánh trăng sao đều biến mất.</font>
+
+871
+01:40:26,040 --> 01:40:27,330
+<font face="Segoe UI" size="140">Không ổn rồi !</font>
+
+872
+01:40:39,750 --> 01:40:41,670
+<font face="Segoe UI" size="140">- Có quân địch !
+- Bắn tên !</font>
+
+873
+01:40:42,460 --> 01:40:44,670
+<font face="Segoe UI" size="140">Cung thủ vào vị trí !</font>
+
+874
+01:40:46,210 --> 01:40:47,460
+<font face="Segoe UI" size="140">Châm lửa !</font>
+
+875
+01:40:48,250 --> 01:40:49,330
+<font face="Segoe UI" size="140">Bắn!</font>
+
+876
+01:40:54,210 --> 01:40:55,750
+<font face="Segoe UI" size="140">Chuẩn bị nghênh chiến !</font>
+
+877
+01:41:37,750 --> 01:41:39,210
+<font face="Segoe UI" size="140">Tránh những tia sáng !</font>
+
+878
+01:41:39,670 --> 01:41:41,080
+<font face="Segoe UI" size="140">Ẩn trong bóng tối !</font>
+
+879
+01:41:41,250 --> 01:41:41,920
+<font face="Segoe UI" size="140">Lùi lại !</font>
+
+880
+01:41:52,540 --> 01:41:54,170
+<font face="Segoe UI" size="140">Đây là tà thuật gì vậy ?</font>
+
+881
+01:41:55,040 --> 01:41:56,500
+<font face="Segoe UI" size="140">Tính mạng thì còn,</font>
+
+882
+01:41:57,170 --> 01:41:58,790
+<font face="Segoe UI" size="140">Nhưng thân thể đã tê liệt rồi.</font>
+
+883
+01:41:59,790 --> 01:42:01,540
+<font face="Segoe UI" size="140">Vậy chẳng phải thành thịt cá trên thớt sao.</font>
+
+884
+01:42:03,290 --> 01:42:06,250
+<font face="Segoe UI" size="140">Phải nghĩ cách phá hủy những tấm gương này.</font>
+
+885
+01:42:09,170 --> 01:42:10,210
+<font face="Segoe UI" size="140">Cẩn thận !</font>
+
+886
+01:42:57,460 --> 01:42:58,380
+<font face="Segoe UI" size="140">Lùi lại !</font>
+
+887
+01:43:02,790 --> 01:43:05,460
+<font face="Segoe UI" size="140">Trời đất tối đen, gương đồng phát sáng.</font>
+
+888
+01:43:05,630 --> 01:43:06,960
+<font face="Segoe UI" size="140">Người bị ánh sáng chiếu vào.</font>
+
+889
+01:43:07,130 --> 01:43:08,500
+<font face="Segoe UI" size="140">Hồn phách tiêu tan.</font>
+
+890
+01:43:08,750 --> 01:43:09,880
+<font face="Segoe UI" size="140">Khoanh tay chờ chết.</font>
+
+891
+01:43:10,040 --> 01:43:11,330
+<font face="Segoe UI" size="140">Như cừu non yếu ớt.</font>
+
+892
+01:43:11,500 --> 01:43:12,960
+<font face="Segoe UI" size="140">Thập Tuyệt Trận xuất hiện.</font>
+
+893
+01:43:13,130 --> 01:43:15,080
+<font face="Segoe UI" size="140">Người tiên đều diệt vong.</font>
+
+894
+01:43:15,580 --> 01:43:18,580
+<font face="Segoe UI" size="140">Đây là Thập Tuyệt Trận đoạt ba hồn bảy phách.</font>
+
+895
+01:43:21,790 --> 01:43:22,960
+<font face="Segoe UI" size="140">Có phá được không ?</font>
+
+896
+01:43:24,790 --> 01:43:26,170
+<font face="Segoe UI" size="140">Muốn phá trận này,</font>
+
+897
+01:43:27,170 --> 01:43:29,630
+<font face="Segoe UI" size="140">Phải tìm được pháp đàn của Văn Trọng.</font>
+
+898
+01:43:30,000 --> 01:43:31,670
+<font face="Segoe UI" size="140">Các ngươi chia nhau đi tìm ngay.</font>
+
+899
+01:43:33,580 --> 01:43:34,420
+<font face="Segoe UI" size="140">Được !</font>
+
+900
+01:43:44,080 --> 01:43:45,630
+<font face="Segoe UI" size="140">Phải giữ chặt cổng thành.</font>
+
+901
+01:43:45,830 --> 01:43:47,580
+<font face="Segoe UI" size="140">Mau thông báo cho bách tính.</font>
+
+902
+01:43:48,630 --> 01:43:50,460
+<font face="Segoe UI" size="140">Chi viện cổng thành, đi !</font>
+
+903
+01:43:54,710 --> 01:43:56,500
+<font face="Segoe UI" size="140">Một, hai !</font>
+
+904
+01:43:56,670 --> 01:43:57,630
+<font face="Segoe UI" size="140">Đẩy !</font>
+
+905
+01:43:58,960 --> 01:44:00,540
+<font face="Segoe UI" size="140">Một, hai ! Đẩy !
+Một, hai ! Đẩy !</font>
+
+906
+01:44:22,040 --> 01:44:23,000
+<font face="Segoe UI" size="140">Coi chừng ánh gương !</font>
+
+907
+01:45:06,750 --> 01:45:07,580
+<font face="Segoe UI" size="140">Mau lên !</font>
+
+908
+01:45:13,540 --> 01:45:15,630
+<font face="Segoe UI" size="140">Có ánh gương, không qua được.</font>
+
+909
+01:45:20,580 --> 01:45:23,630
+<font face="Segoe UI" size="140">Lã Công Vọng !</font>
+
+910
+01:45:28,830 --> 01:45:29,960
+<font face="Segoe UI" size="140">Đưa ta.</font>
+
+911
+01:45:31,170 --> 01:45:33,080
+<font face="Segoe UI" size="140">Không thể qua,</font>
+
+912
+01:45:49,670 --> 01:45:50,380
+<font face="Segoe UI" size="140">Đi mau !</font>
+
+913
+01:45:56,920 --> 01:45:58,580
+<font face="Segoe UI" size="140">Lã Công Vọng !</font>
+
+914
+01:46:14,920 --> 01:46:17,250
+<font face="Segoe UI" size="140">Mau đưa dân chúng vào phủ Tây Bá Hầu.</font>
+
+915
+01:46:17,420 --> 01:46:18,170
+<font face="Segoe UI" size="140">Nhanh !</font>
+
+916
+01:46:48,920 --> 01:46:50,710
+<font face="Segoe UI" size="140">Giết !</font>
+
+917
+01:47:01,580 --> 01:47:03,750
+<font face="Segoe UI" size="140">Trừ Thái tử, không chừa một ai.</font>
+
+918
+01:47:04,170 --> 01:47:05,880
+<font face="Segoe UI" size="140">Giết hết cho ta !</font>
+
+919
+01:47:07,500 --> 01:47:08,580
+<font face="Segoe UI" size="140">Đốt sạch đi !</font>
+
+920
+01:47:42,330 --> 01:47:43,500
+<font face="Segoe UI" size="140">Xuống đây ngay !</font>
+
+921
+01:47:45,710 --> 01:47:46,460
+<font face="Segoe UI" size="140">Vây hắn lại !</font>
+
+922
+01:47:55,630 --> 01:47:56,500
+<font face="Segoe UI" size="140">Mẹ ơi !</font>
+
+923
+01:47:58,080 --> 01:47:59,130
+<font face="Segoe UI" size="140">Mẹ ơi !</font>
+
+924
+01:48:06,880 --> 01:48:09,170
+<font face="Segoe UI" size="140">Bắt lão già kia, hắn chính là Khương Tử Nha !</font>
+
+925
+01:48:09,670 --> 01:48:11,290
+<font face="Segoe UI" size="140">- Đứng lại !
+- Na Tra !</font>
+
+926
+01:48:11,630 --> 01:48:12,670
+<font face="Segoe UI" size="140">Dương Tiễn !</font>
+
+927
+01:48:14,420 --> 01:48:15,670
+<font face="Segoe UI" size="140">Hai cái đứa này...</font>
+
+928
+01:48:16,880 --> 01:48:17,880
+<font face="Segoe UI" size="140">Dừng !</font>
+
+929
+01:48:24,580 --> 01:48:25,670
+<font face="Segoe UI" size="140">Dương Tiễn !</font>
+
+930
+01:48:26,040 --> 01:48:27,380
+<font face="Segoe UI" size="140">Thủy độn !</font>
+
+931
+01:48:28,960 --> 01:48:30,750
+<font face="Segoe UI" size="140">Thủy độn !</font>
+
+932
+01:48:31,830 --> 01:48:33,880
+<font face="Segoe UI" size="140">Thủy độn !</font>
+
+933
+01:48:34,040 --> 01:48:36,130
+<font face="Segoe UI" size="140">Thủy độn !</font>
+
+934
+01:48:36,580 --> 01:48:37,580
+<font face="Segoe UI" size="140">Hai cái đứa này...</font>
+
+935
+01:48:37,750 --> 01:48:39,420
+<font face="Segoe UI" size="140">Lúc cần các ngươi thì chẳng thấy đâu.</font>
+
+936
+01:48:39,630 --> 01:48:40,880
+<font face="Segoe UI" size="140">Thủy độn !</font>
+
+937
+01:48:45,710 --> 01:48:46,460
+<font face="Segoe UI" size="140">Sư thúc,</font>
+
+938
+01:48:46,630 --> 01:48:47,460
+<font face="Segoe UI" size="140">Người không sao chứ ?</font>
+
+939
+01:49:00,830 --> 01:49:01,960
+<font face="Segoe UI" size="140">Sư thúc, con về rồi.</font>
+
+940
+01:49:03,750 --> 01:49:04,710
+<font face="Segoe UI" size="140">Coi chừng ánh gương.</font>
+
+941
+01:49:07,080 --> 01:49:08,000
+<font face="Segoe UI" size="140">Sư thúc,</font>
+
+942
+01:49:13,960 --> 01:49:15,960
+<font face="Segoe UI" size="140">Sư thúc, ngoài thành tối đen như mực.</font>
+
+943
+01:49:16,130 --> 01:49:17,040
+<font face="Segoe UI" size="140">Chẳng thấy gì cả.</font>
+
+944
+01:49:17,210 --> 01:49:20,250
+<font face="Segoe UI" size="140">Chúng ta đi một vòng mà không tìm thấy pháp đàn.</font>
+
+945
+01:49:20,670 --> 01:49:23,830
+<font face="Segoe UI" size="140">Chắc là Văn Trọng đã dùng tà thuật để che giấu.</font>
+
+946
+01:49:24,830 --> 01:49:27,290
+<font face="Segoe UI" size="140">Lão tiền bối, còn cách nào khác không ?</font>
+
+947
+01:49:41,790 --> 01:49:43,460
+<font face="Segoe UI" size="140">Ta thật ngu ngốc...</font>
+
+948
+01:49:44,460 --> 01:49:45,960
+<font face="Segoe UI" size="140">Ta tìm Văn Trọng,</font>
+
+949
+01:49:46,540 --> 01:49:48,630
+<font face="Segoe UI" size="140">Hắn cũng đang tìm ta !</font>
+
+950
+01:49:55,460 --> 01:49:57,130
+<font face="Segoe UI" size="140">Mau lên ! Vào nhanh đi !</font>
+
+951
+01:49:57,290 --> 01:49:58,330
+<font face="Segoe UI" size="140">Đứng dậy đi.</font>
+
+952
+01:50:01,830 --> 01:50:03,460
+<font face="Segoe UI" size="140">Mau, bảo mọi người tránh xa cửa sổ.</font>
+
+953
+01:50:04,420 --> 01:50:05,710
+<font face="Segoe UI" size="140">Đi sâu vào, nhanh !</font>
+
+954
+01:50:06,170 --> 01:50:07,040
+<font face="Segoe UI" size="140">Cẩn thận!</font>
+
+955
+01:50:07,790 --> 01:50:09,380
+<font face="Segoe UI" size="140">Tránh xa cửa sổ !</font>
+
+956
+01:50:14,040 --> 01:50:14,880
+<font face="Segoe UI" size="140">Đưa cho ta.</font>
+
+957
+01:50:16,210 --> 01:50:18,790
+<font face="Segoe UI" size="140">Nể tình nghĩa với phụ thân ngươi,</font>
+
+958
+01:50:19,250 --> 01:50:21,080
+<font face="Segoe UI" size="140">Ta cho ngươi một cơ hội nữa.</font>
+
+959
+01:50:21,960 --> 01:50:24,580
+<font face="Segoe UI" size="140">Chỉ cần ngươi lấy cho ta một thứ.</font>
+
+960
+01:50:25,210 --> 01:50:27,960
+<font face="Segoe UI" size="140">Ta sẽ để cho bách tính Tây Kỳ được sống.</font>
+
+961
+01:50:30,880 --> 01:50:31,880
+<font face="Segoe UI" size="140">Là thứ gì ?</font>
+
+962
+01:50:32,960 --> 01:50:34,330
+<font face="Segoe UI" size="140">Phong Thần Bảng.</font>
+
+963
+01:50:35,670 --> 01:50:37,790
+<font face="Segoe UI" size="140">Tìm cho kỹ, đừng bỏ sót thứ gì.</font>
+
+964
+01:50:37,960 --> 01:50:39,750
+<font face="Segoe UI" size="140">Ngươi vào Tây Kỳ Thành.</font>
+
+965
+01:50:39,920 --> 01:50:41,880
+<font face="Segoe UI" size="140">Bắt sống Khương Tử Nha.</font>
+
+966
+01:50:42,040 --> 01:50:44,630
+<font face="Segoe UI" size="140">Phong Thần Bảng đang ở trên người hắn.</font>
+
+967
+01:50:45,670 --> 01:50:46,670
+<font face="Segoe UI" size="140">Tây Kỳ Thành.</font>
+
+968
+01:50:48,500 --> 01:50:50,000
+<font face="Segoe UI" size="140">Làm sao ta vào được ?</font>
+
+969
+01:50:50,670 --> 01:50:52,210
+<font face="Segoe UI" size="140">Ngươi thả Cơ Phát ra.</font>
+
+970
+01:50:52,880 --> 01:50:54,290
+<font face="Segoe UI" size="140">Thế chẳng phải là vào được sao ?</font>
+
+971
+01:51:01,540 --> 01:51:03,290
+<font face="Segoe UI" size="140">Ta có thể giúp ngươi diễn một vở kịch.</font>
+
+972
+01:51:20,920 --> 01:51:22,500
+<font face="Segoe UI" size="140">Ta đoán không sai.</font>
+
+973
+01:51:22,670 --> 01:51:24,880
+<font face="Segoe UI" size="140">Quả nhiên cô vì Phong Thần Bảng mà đến.</font>
+
+974
+01:51:54,130 --> 01:51:56,170
+<font face="Segoe UI" size="140">Hỗn Thiên Linh, chặn ánh gương !</font>
+
+975
+01:52:13,080 --> 01:52:13,960
+<font face="Segoe UI" size="140">Coi chừng ánh sáng.</font>
+
+976
+01:52:14,130 --> 01:52:14,920
+<font face="Segoe UI" size="140">Nhanh !</font>
+
+977
+01:52:15,080 --> 01:52:16,130
+<font face="Segoe UI" size="140">Mọi người nhanh lên !</font>
+
+978
+01:52:28,670 --> 01:52:29,880
+<font face="Segoe UI" size="140">Thổ độn !</font>
+
+979
+01:52:36,000 --> 01:52:37,380
+<font face="Segoe UI" size="140">Không sao chứ ?</font>
+
+980
+01:52:40,920 --> 01:52:42,380
+<font face="Segoe UI" size="140">Hỏa độn !</font>
+
+981
+01:52:51,830 --> 01:52:52,880
+<font face="Segoe UI" size="140">Giao người này cho ông !</font>
+
+982
+01:52:53,460 --> 01:52:54,790
+<font face="Segoe UI" size="140">Đại nương, nào !</font>
+
+983
+01:53:02,830 --> 01:53:04,330
+<font face="Segoe UI" size="140">Mộc độn !</font>
+
+984
+01:53:25,040 --> 01:53:26,250
+<font face="Segoe UI" size="140">Vòng Càn Khôn, đi !</font>
+
+985
+01:53:31,290 --> 01:53:33,420
+<font face="Segoe UI" size="140">Lục soát từng nhà !</font>
+
+986
+01:53:33,830 --> 01:53:35,960
+<font face="Segoe UI" size="140">Đuổi hết tất cả những ai còn thở ra.</font>
+
+987
+01:53:41,170 --> 01:53:42,420
+<font face="Segoe UI" size="140">Cẩn thận !</font>
+
+988
+01:53:55,920 --> 01:53:57,830
+<font face="Segoe UI" size="140">Chúng ta đã hẹn là ba ngày.</font>
+
+989
+01:53:58,000 --> 01:54:00,000
+<font face="Segoe UI" size="140">Tại sao ông lại tấn công trước hẹn ?</font>
+
+990
+01:54:01,580 --> 01:54:05,250
+<font face="Segoe UI" size="140">Ngươi thật sự có thể mang Khương Tử Nha và Phong Thần Bảng trở về.</font>
+
+991
+01:54:05,670 --> 01:54:08,040
+<font face="Segoe UI" size="140">Quả nhiên là con gái Đặng Cửu Công.</font>
+
+992
+01:54:09,040 --> 01:54:10,420
+<font face="Segoe UI" size="140">Ông đã hứa với ta.</font>
+
+993
+01:54:10,580 --> 01:54:12,750
+<font face="Segoe UI" size="140">Để bách tính Tây Kỳ được sống.</font>
+
+994
+01:54:13,710 --> 01:54:15,330
+<font face="Segoe UI" size="140">Ngừng chiến ngay !</font>
+
+995
+01:54:16,670 --> 01:54:18,960
+<font face="Segoe UI" size="140">Ngươi đã làm xong việc của mình.</font>
+
+996
+01:54:19,460 --> 01:54:21,210
+<font face="Segoe UI" size="140">Đưa Phong Thần Bảng đây.</font>
+
+997
+01:54:22,130 --> 01:54:25,420
+<font face="Segoe UI" size="140">Không ngừng chiến thì đừng mơ có Phong Thần Bảng.</font>
+
+998
+01:54:26,170 --> 01:54:27,750
+<font face="Segoe UI" size="140">Mệnh lệnh của Đại vương.</font>
+
+999
+01:54:28,250 --> 01:54:30,540
+<font face="Segoe UI" size="140">Là giết sạch người dân Tây Kỳ.</font>
+
+1000
+01:54:31,830 --> 01:54:33,040
+<font face="Segoe UI" size="140">Qua giờ Dần.</font>
+
+1001
+01:54:33,880 --> 01:54:36,880
+<font face="Segoe UI" size="140">Những kẻ bị giam giữ linh hồn trong gương.</font>
+
+1002
+01:54:37,040 --> 01:54:38,580
+<font face="Segoe UI" size="140">Đều sẽ chết hết.</font>
+
+1003
+01:54:39,500 --> 01:54:40,880
+<font face="Segoe UI" size="140">Ngươi thật sự tin,</font>
+
+1004
+01:54:41,040 --> 01:54:43,420
+<font face="Segoe UI" size="140">Ta dám trái lệnh đại vương,</font>
+
+1005
+01:54:43,920 --> 01:54:46,040
+<font face="Segoe UI" size="140">Để giao dịch với ngươi sao ?</font>
+
+1006
+01:54:52,790 --> 01:54:54,880
+<font face="Segoe UI" size="140">Cầm lấy Phong Thần Bảng, đi nhanh !</font>
+
+1007
+01:54:55,420 --> 01:54:57,040
+<font face="Segoe UI" size="140">Thằng nhóc không nhìn lầm người !</font>
+
+1008
+01:54:57,710 --> 01:54:59,710
+<font face="Segoe UI" size="140">Cô không phải đang giúp họ.</font>
+
+1009
+01:54:59,880 --> 01:55:02,630
+<font face="Segoe UI" size="140">Cô đang giúp Tây Kỳ đấy !</font>
+
+1010
+01:55:14,040 --> 01:55:17,080
+<font face="Segoe UI" size="140">Vậy ta lại đi câu lần nữa.</font>
+
+1011
+01:55:18,880 --> 01:55:20,830
+<font face="Segoe UI" size="140">Lần này ta làm mồi</font>
+
+1012
+01:55:21,630 --> 01:55:22,830
+<font face="Segoe UI" size="140">Vậy con cá này là ai ?</font>
+
+1013
+01:55:25,830 --> 01:55:28,250
+<font face="Segoe UI" size="140">Kẻ nào muốn tự khắc sẽ cắn câu.</font>
+
+1014
+01:55:30,290 --> 01:55:33,330
+<font face="Segoe UI" size="140">Chỉ cần Phong Thần Bảng còn, hy vọng vẫn còn.</font>
+
+1015
+01:55:34,170 --> 01:55:35,170
+<font face="Segoe UI" size="140">Giữ kỹ lấy nó !</font>
+
+1016
+01:55:37,500 --> 01:55:39,710
+<font face="Segoe UI" size="140">Đến lúc ta bắn pháo hiệu.</font>
+
+1017
+01:55:39,880 --> 01:55:41,210
+<font face="Segoe UI" size="140">Các ngươi theo pháo hiệu.</font>
+
+1018
+01:55:41,380 --> 01:55:43,460
+<font face="Segoe UI" size="140">Sẽ tìm được pháp đàn của Văn Trọng.</font>
+
+1019
+01:55:43,630 --> 01:55:46,920
+<font face="Segoe UI" size="140">Trận nhãn của Thập Tuyệt Trận ắt nằm ở pháp đàn của Văn Trọng.</font>
+
+1020
+01:55:47,580 --> 01:55:49,000
+<font face="Segoe UI" size="140">Phá được trận nhãn,</font>
+
+1021
+01:55:49,170 --> 01:55:51,420
+<font face="Segoe UI" size="140">Thập Tuyệt Trận sẽ bị phá.</font>
+
+1022
+01:55:54,830 --> 01:55:56,210
+<font face="Segoe UI" size="140">Các ngươi dám gài bẫy ta ?</font>
+
+1023
+01:55:56,790 --> 01:55:58,710
+<font face="Segoe UI" size="140">Giết chúng !</font>
+
+1024
+01:56:14,580 --> 01:56:16,750
+<font face="Segoe UI" size="140">Ân Giao, huynh đến quá muộn rồi !</font>
+
+1025
+01:56:17,210 --> 01:56:19,170
+<font face="Segoe UI" size="140">Cơ Phát, do huynh chạy quá chậm !</font>
+
+1026
+01:56:38,210 --> 01:56:41,040
+<font face="Segoe UI" size="140">Cơ Phát, thân thể ta càng lúc càng nặng.</font>
+
+1027
+01:56:41,210 --> 01:56:42,790
+<font face="Segoe UI" size="140">Ân Giao, cố lên !</font>
+
+1028
+01:56:44,670 --> 01:56:47,580
+<font face="Segoe UI" size="140">Ân Giao, huynh không thể yếu đuối thế được !</font>
+
+1029
+01:57:02,960 --> 01:57:06,000
+<font face="Segoe UI" size="140">Ân Giao đừng gục ngã, chúng ta còn phải cùng nhau giết Ân Thọ nữa.</font>
+
+1030
+01:57:06,170 --> 01:57:08,460
+<font face="Segoe UI" size="140">Cơ Phát, trông cậy vào huynh !</font>
+
+1031
+01:57:14,500 --> 01:57:15,380
+<font face="Segoe UI" size="140">Ân Giao !</font>
+
+1032
+01:57:20,710 --> 01:57:21,580
+<font face="Segoe UI" size="140">Đi thôi !</font>
+
+1033
+01:57:21,750 --> 01:57:23,250
+<font face="Segoe UI" size="140">Đến pháp đàn !</font>
+
+1034
+01:57:26,580 --> 01:57:28,460
+<font face="Segoe UI" size="140">Lôi Chấn Tử coi chừng ánh gương !</font>
+
+1035
+01:57:43,000 --> 01:57:44,250
+<font face="Segoe UI" size="140">Lôi Chấn Tử !</font>
+
+1036
+01:57:50,670 --> 01:57:52,000
+<font face="Segoe UI" size="140">Xông vào đi !</font>
+
+1037
+01:58:21,830 --> 01:58:22,920
+<font face="Segoe UI" size="140">Cơ Phát...</font>
+
+1038
+01:58:46,170 --> 01:58:47,830
+<font face="Segoe UI" size="140">Đâm trúng con mắt giữa trán của Văn Trọng.</font>
+
+1039
+01:58:48,920 --> 01:58:50,380
+<font face="Segoe UI" size="140">Chiến tranh sẽ kết thúc !</font>
+
+1040
+01:58:58,000 --> 01:58:59,500
+<font face="Segoe UI" size="140">Còn chần chờ gì nữa.</font>
+
+1041
+01:59:22,670 --> 01:59:24,080
+<font face="Segoe UI" size="140">Mau vào đi !</font>
+
+1042
+01:59:24,250 --> 01:59:25,170
+<font face="Segoe UI" size="140">Nhanh lên !</font>
+
+1043
+02:00:11,460 --> 02:00:12,500
+<font face="Segoe UI" size="140">Đóng cửa lại !</font>
+
+1044
+02:00:15,920 --> 02:00:17,000
+<font face="Segoe UI" size="140">Giết hết bọn chúng !</font>
+
+1045
+02:00:17,170 --> 02:00:18,000
+<font face="Segoe UI" size="140">Xông lên !</font>
+
+1046
+02:00:30,750 --> 02:00:31,540
+<font face="Segoe UI" size="140">Này !</font>
+
+1047
+02:01:25,630 --> 02:01:27,330
+<font face="Segoe UI" size="140">Xông vào phủ Tây Bá Hầu !</font>
+
+1048
+02:01:59,830 --> 02:02:01,000
+<font face="Segoe UI" size="140">Còn chần chờ gì nữa.</font>
+
+1049
+02:02:09,250 --> 02:02:11,420
+<font face="Segoe UI" size="140">Là ngừng chiến hay chết.</font>
+
+1050
+02:02:12,170 --> 02:02:13,290
+<font face="Segoe UI" size="140">Ông tự chọn đi.</font>
+
+1051
+02:02:14,210 --> 02:02:16,170
+<font face="Segoe UI" size="140">Ta nắm chắc phần thắng.</font>
+
+1052
+02:02:16,500 --> 02:02:17,880
+<font face="Segoe UI" size="140">Sao phải ngừng chiến.</font>
+
+1053
+02:02:38,920 --> 02:02:39,920
+<font face="Segoe UI" size="140">Cố lên !</font>
+
+1054
+02:02:47,630 --> 02:02:48,500
+<font face="Segoe UI" size="140">Cơ Phát !</font>
+
+1055
+02:02:57,580 --> 02:02:59,080
+<font face="Segoe UI" size="140">Đặng Thiền Ngọc, mau lên !</font>
+
+1056
+02:02:59,880 --> 02:03:01,290
+<font face="Segoe UI" size="140">Ta cho ngươi cơ hội cuối.</font>
+
+1057
+02:03:02,000 --> 02:03:03,420
+<font face="Segoe UI" size="140">Mau lại đây giết Cơ Phát.</font>
+
+1058
+02:03:05,420 --> 02:03:06,290
+<font face="Segoe UI" size="140">Mơ đi !</font>
+
+1059
+02:03:08,880 --> 02:03:11,210
+<font face="Segoe UI" size="140">Ngươi thật sự muốn làm phản tặc của Ân Thương sao.</font>
+
+1060
+02:03:11,670 --> 02:03:14,290
+<font face="Segoe UI" size="140">Đừng quên rằng ngươi đã uống nước bùa của ta.</font>
+
+1061
+02:03:14,460 --> 02:03:16,750
+<font face="Segoe UI" size="140">Phá Thập Tuyệt Trận, ngươi cũng sẽ phải chết.</font>
+
+1062
+02:03:20,670 --> 02:03:21,670
+<font face="Segoe UI" size="140">Mau lên !</font>
+
+1063
+02:03:21,830 --> 02:03:24,080
+<font face="Segoe UI" size="140">Giờ Dần sắp đến rồi !</font>
+
+1064
+02:03:39,000 --> 02:03:39,960
+<font face="Segoe UI" size="140">Cơ Phát !</font>
+
+1065
+02:03:47,210 --> 02:03:49,460
+<font face="Segoe UI" size="140">Cơ Phát, nhanh lên !</font>
+
+1066
+02:04:27,420 --> 02:04:28,420
+<font face="Segoe UI" size="140">Ngươi còn chờ gì nữa ?</font>
+
+1067
+02:05:28,250 --> 02:05:29,380
+<font face="Segoe UI" size="140">Xin lỗi !</font>
+
+1068
+02:05:30,670 --> 02:05:31,790
+<font face="Segoe UI" size="140">Ta đã lừa ngươi !</font>
+
+1069
+02:05:32,790 --> 02:05:33,830
+<font face="Segoe UI" size="140">Không.</font>
+
+1070
+02:05:34,580 --> 02:05:35,880
+<font face="Segoe UI" size="140">Cô đã cứu Tây Kỳ.</font>
+
+1071
+02:05:36,290 --> 02:05:38,040
+<font face="Segoe UI" size="140">Tây Kỳ chính là nhà của cô.</font>
+
+1072
+02:05:43,580 --> 02:05:46,080
+<font face="Segoe UI" size="140">Lần đầu chúng ta gặp nhau ở bến sông Hoàng Hà.</font>
+
+1073
+02:05:48,710 --> 02:05:50,540
+<font face="Segoe UI" size="140">Bài hát các ngươi hát lúc đó.</font>
+
+1074
+02:05:52,420 --> 02:05:53,710
+<font face="Segoe UI" size="140">Ta thích lắm.</font>
+
+1075
+02:05:55,330 --> 02:05:56,960
+<font face="Segoe UI" size="140">Ta muốn nghe lại lần nữa.</font>
+
+1076
+02:06:04,880 --> 02:06:08,710
+<font face="Segoe UI" size="140">♪ Thiếu nữ động lòng xuân ♪</font>
+
+1077
+02:06:10,000 --> 02:06:12,330
+<font face="Segoe UI" size="140">♪ Sông nước mênh mông ♪</font>
+
+1078
+02:06:14,830 --> 02:06:18,750
+<font face="Segoe UI" size="140">♪ Sao chẳng chung thuyền ♪</font>
+
+1079
+02:06:22,000 --> 02:06:25,000
+<font face="Segoe UI" size="140">♪ Cùng dạo giữa dòng ♪</font>
+
+1080
+02:06:29,790 --> 02:06:31,170
+<font face="Segoe UI" size="140">♪ Khép mi mắt lại ♪</font>
+
+1081
+02:06:42,540 --> 02:06:46,460
+<font face="Segoe UI" size="140">♪ Thiếu nữ cô đơn ♪</font>
+
+1082
+02:06:47,460 --> 02:06:50,170
+<font face="Segoe UI" size="140">♪ Núi rừng hoang vu ♪</font>
+
+1083
+02:06:51,580 --> 02:06:55,580
+<font face="Segoe UI" size="140">♪ Sao chẳng chung xe ♪</font>
+
+1084
+02:06:56,330 --> 02:06:59,960
+<font face="Segoe UI" size="140">♪ Cùng vượt đường xa ♪</font>
+
+1085
+02:07:05,630 --> 02:07:07,290
+<font face="Segoe UI" size="140">Tướng quân xin dừng bước.</font>
+
+1086
+02:07:12,420 --> 02:07:13,920
+<font face="Segoe UI" size="140">Ta về nhà đây.</font>
+
+1087
+02:07:17,080 --> 02:07:21,290
+<font face="Segoe UI" size="140">♪ Thiếu nữ ưu tư ♪</font>
+
+1088
+02:07:22,420 --> 02:07:25,500
+<font face="Segoe UI" size="140">♪ Mưa tuyết dạt dào ♪</font>
+
+1089
+02:07:25,960 --> 02:07:30,880
+<font face="Segoe UI" size="140">♪ Sao chẳng cùng dừng ♪</font>
+
+1090
+02:07:31,040 --> 02:07:34,170
+<font face="Segoe UI" size="140">♪ Mong xoa dịu lòng nàng ♪</font>
+
+1091
+02:07:34,920 --> 02:07:39,500
+<font face="Segoe UI" size="140">♪ Thiếu nữ vô gia ♪</font>
+
+1092
+02:07:39,670 --> 02:07:42,420
+<font face="Segoe UI" size="140">♪ Gió bấc lạnh lùng ♪</font>
+
+1093
+02:07:42,920 --> 02:07:46,790
+<font face="Segoe UI" size="140">♪ Sao chẳng chung tổ ♪</font>
+
+1094
+02:07:46,960 --> 02:07:50,580
+<font face="Segoe UI" size="140">♪ Nguyện làm đôi uyên ương ♪</font>
+
+1095
+02:09:03,170 --> 02:09:04,040
+<font face="Segoe UI" size="140">Sư thúc,</font>
+
+1096
+02:09:44,040 --> 02:09:47,130
+<font face="Segoe UI" size="140">♪ Có cô gái lòng đầy mộng mơ ♪</font>
+
+1097
+02:09:48,670 --> 02:09:51,170
+<font face="Segoe UI" size="140">♪ Bên dòng sông yên bình, mênh mông ♪</font>
+
+1098
+02:09:52,460 --> 02:09:56,330
+<font face="Segoe UI" size="140">♪ Sao không cùng nhau lướt sóng, tình nhân ♪</font>
+
+1099
+02:09:54,620 --> 02:10:10,740
+<font face="Segoe UI" size="90">[Phía sau có ba đoạn phim thêm, mời mọi người tiếp tục theo dõi.]</font>
+
+1100
+02:09:57,040 --> 02:10:00,000
+<font face="Segoe UI" size="140">♪ Cùng phiêu bồng theo gió ? ♪</font>
+
+1101
+02:10:00,750 --> 02:10:04,580
+<font face="Segoe UI" size="140">♪ Có cô gái lang thang ♪</font>
+
+1102
+02:10:05,170 --> 02:10:08,420
+<font face="Segoe UI" size="140">♪ Giữa non ngàn hoang dã, khắc nghiệt ♪</font>
+
+1103
+02:10:09,000 --> 02:10:13,080
+<font face="Segoe UI" size="140">♪ Sao không cùng nhau lăn xả, lên đường ♪</font>
+
+1104
+02:10:13,670 --> 02:10:17,380
+<font face="Segoe UI" size="140">♪ Và kề vai đối mặt thời gian ? ♪</font>
+
+1105
+02:10:20,040 --> 02:10:23,960
+<font face="Segoe UI" size="140">♪ Có cô gái dưới trời giông tố ♪</font>
+
+1106
+02:10:24,710 --> 02:10:27,880
+<font face="Segoe UI" size="140">♪ Mưa tuyết rơi không ngừng ♪</font>
+
+1107
+02:10:28,500 --> 02:10:32,880
+<font face="Segoe UI" size="140">♪ Sao không dành một khoảnh khắc ♪</font>
+
+1108
+02:10:33,040 --> 02:10:36,540
+<font face="Segoe UI" size="140">♪ An ủi trái tim run rẩy của nàng? ♪</font>
+
+1109
+02:10:36,710 --> 02:10:40,790
+<font face="Segoe UI" size="140">♪ Có cô gái số phận phiêu bạt ♪</font>
+
+1110
+02:10:41,170 --> 02:10:44,040
+<font face="Segoe UI" size="140">♪ Gió bấc thổi lạnh buốt ♪</font>
+
+1111
+02:10:45,000 --> 02:10:49,540
+<font face="Segoe UI" size="140">♪ Sao không mơ mộng, yêu thương ♪</font>
+
+1112
+02:10:49,710 --> 02:10:53,380
+<font face="Segoe UI" size="140">♪ Về tổ ấm ngọt ngào, an lành? ♪</font>
+
+1113
+02:10:54,040 --> 02:10:58,080
+<font face="Segoe UI" size="140">♪ Có cô gái số phận phiêu bạt ♪</font>
+
+1114
+02:10:58,540 --> 02:11:01,460
+<font face="Segoe UI" size="140">♪ Gió bấc thổi lạnh buốt ♪</font>
+
+1115
+02:11:02,380 --> 02:11:06,880
+<font face="Segoe UI" size="140">♪ Sao không mơ mộng, yêu thương ♪</font>
+
+1116
+02:11:07,040 --> 02:11:09,170
+<font face="Segoe UI" size="140">♪ Về tổ ấm ngọt ngào, an lành? ♪</font>
+
+1117
+02:11:10,270 --> 02:11:17,250
+<font face="Segoe UI" size="140">Cảm ơn tất cả khán giả của [Phong Thần Đệ Nhất Bộ].
+Nhờ có các bạn, [Phong Thần Đệ Nhị Bộ] mới có cơ hội ra mắt.</font>
+
+1118
+02:11:19,040 --> 02:11:20,620
+<font face="Segoe UI" size="90">[Triều Ca Thành]</font>
+
+1119
+02:12:26,170 --> 02:12:29,550
+<font face="Segoe UI" size="90">[Khương Vương Hậu]</font>
+
+1120
+02:12:26,540 --> 02:12:27,460
+<font face="Segoe UI" size="140">Giao nhi.</font>
+
+1121
+02:12:28,420 --> 02:12:29,330
+<font face="Segoe UI" size="140">Mau lại đây.</font>
+
+1122
+02:12:29,500 --> 02:12:31,790
+<font face="Segoe UI" size="140">Mẫu hậu dạy con gảy một khúc nhạc vui tươi.</font>
+
+1123
+02:13:34,830 --> 02:13:35,630
+<font face="Segoe UI" size="140">Ân Thọ.</font>
+
+1124
+02:13:36,540 --> 02:13:37,420
+<font face="Segoe UI" size="140">Ta đã nói rằng,</font>
+
+1125
+02:13:41,670 --> 02:13:43,960
+<font face="Segoe UI" size="140">Chết cũng không tha cho ông.</font>
+
+1126
+02:13:44,880 --> 02:13:46,750
+<font face="Segoe UI" size="140">Giết nó cho ta.</font>
+
+1127
+02:14:07,460 --> 02:14:10,000
+<font face="Segoe UI" size="140">Chịu chết đi.</font>
+
+1128
+02:14:54,540 --> 02:14:55,630
+<font face="Segoe UI" size="140">Ân Giao.</font>
+
+1129
+02:14:59,040 --> 02:15:03,540
+<font face="Segoe UI" size="140">Kim Ngao Đảo Đông Hải, Thông Thiên Giáo Chủ ở đây !</font>
+
+1130
+02:15:06,630 --> 02:15:08,420
+<font face="Segoe UI" size="140">Còn không mau quy hàng !</font>
+
+1131
+02:15:31,290 --> 02:15:36,290
+<font face="Segoe UI" size="140">♪ Có cô gái, cô độc mà dũng mãnh ♪</font>
+
+1132
+02:15:36,630 --> 02:15:40,540
+<font face="Segoe UI" size="140">♪ Trên lưng ngựa phi nước đại ♪</font>
+
+1133
+02:15:41,830 --> 02:15:47,170
+<font face="Segoe UI" size="140">♪ Gió gào, trống thét ♪</font>
+
+1134
+02:15:47,330 --> 02:15:52,330
+<font face="Segoe UI" size="140">♪ Giáp sắt rèn từ cát cháy ♪</font>
+
+1135
+02:15:57,500 --> 02:16:02,580
+<font face="Segoe UI" size="140">♪ Có cô gái lòng đầy dũng khí ♪</font>
+
+1136
+02:16:02,750 --> 02:16:06,130
+<font face="Segoe UI" size="140">♪ Máu sôi không ngừng ♪</font>
+
+1137
+02:16:07,920 --> 02:16:12,920
+<font face="Segoe UI" size="140">♪ Ai gọi nàng, trong giấc mơ hư ảo ♪</font>
+
+1138
+02:16:13,380 --> 02:16:18,380
+<font face="Segoe UI" size="140">♪ Trăng vẫy gọi bằng ánh dịu êm ♪</font>
+
+1139
+02:16:21,170 --> 02:16:23,790
+<font face="Segoe UI" size="140">♪ Trăng soi tỏ khoảnh khắc này ♪</font>
+
+1140
+02:16:24,330 --> 02:16:27,040
+<font face="Segoe UI" size="140">♪ Ta yêu tấm lòng nhân hậu của chàng ♪</font>
+
+1141
+02:16:27,630 --> 02:16:30,670
+<font face="Segoe UI" size="140">♪ Giữa thế gian hỗn loạn ♪</font>
+
+1142
+02:16:30,830 --> 02:16:34,790
+<font face="Segoe UI" size="140">♪ Như ngọn lửa trại ấm áp ♪</font>
+
+1143
+02:16:37,380 --> 02:16:39,880
+<font face="Segoe UI" size="140">♪ Con đường về bỗng hiện ra ♪</font>
+
+1144
+02:16:40,040 --> 02:16:42,960
+<font face="Segoe UI" size="140">♪ Và ta sẽ không còn là linh hồn lạc lối ♪</font>
+
+1145
+02:16:43,130 --> 02:16:48,710
+<font face="Segoe UI" size="140">♪ Mong chàng hiểu vì sao ta bước tiếp ♪</font>
+
+1146
+02:16:49,080 --> 02:16:52,920
+<font face="Segoe UI" size="140">♪ Tiến về vực thẳm kinh hoàng ♪</font>
+
+1147
+02:16:53,080 --> 02:16:56,250
+<font face="Segoe UI" size="140">♪ Vì thành phố rực rỡ này ♪</font>
+
+1148
+02:16:56,420 --> 02:17:00,040
+<font face="Segoe UI" size="140">♪ Vì rượu ngon cùng khúc ca êm ái ♪</font>
+
+1149
+02:17:00,540 --> 02:17:05,790
+<font face="Segoe UI" size="140">♪ Một tình yêu thuần khiết vững bền ♪</font>
+
+1150
+02:17:21,460 --> 02:17:26,540
+<font face="Segoe UI" size="140">♪ Có cô gái, lặng thinh trong gió ♪</font>
+
+1151
+02:17:26,710 --> 02:17:31,040
+<font face="Segoe UI" size="140">♪ Bên dòng sông rộng lớn mênh mông ♪</font>
+
+1152
+02:17:31,880 --> 02:17:37,000
+<font face="Segoe UI" size="140">♪ Giữa núi non trùng điệp chơi vơi ♪</font>
+
+1153
+02:17:37,170 --> 02:17:42,170
+<font face="Segoe UI" size="140">♪ Dưới làn gió bấc cắt da ♪</font>
+
+1154
+02:17:45,170 --> 02:17:50,170
+<font face="Segoe UI" size="140">♪ Cùng phi ngựa, vó câu dồn dập ♪</font>
+
+1155
+02:17:50,630 --> 02:17:55,630
+<font face="Segoe UI" size="140">♪ Sinh tử kết bằng lời thề son ♪</font>
+
+1156
+02:17:56,080 --> 02:18:01,210
+<font face="Segoe UI" size="140">♪ Giữ mãi hình bóng ta trong tim ♪</font>
+
+1157
+02:18:01,380 --> 02:18:06,380
+<font face="Segoe UI" size="140">♪ Như vị tướng quân, oai phong lẫm liệt ♪</font>
+
+1158
+02:18:28,570 --> 02:18:31,620
+<font face="Segoe UI" size="90">[Bên trong biên giới Tây Kỳ]</font>
+
+1159
+02:18:28,570 --> 02:18:31,620
+<font face="Segoe UI" size="90">[Tuyệt Long Lĩnh]</font>
+
+1160
+02:19:03,080 --> 02:19:07,500
+<font face="Segoe UI" size="140">Chiếc hộp này do đại vương ban.</font>
+
+1161
+02:19:11,040 --> 02:19:12,330
+<font face="Segoe UI" size="140">Hoặc là,</font>
+
+1162
+02:19:13,460 --> 02:19:15,880
+<font face="Segoe UI" size="140">Đựng đầu của Cơ Phát.</font>
+
+1163
+02:19:17,130 --> 02:19:18,420
+<font face="Segoe UI" size="140">Hoặc là...</font>
+
+1164
+02:19:22,040 --> 02:19:25,500
+<font face="Segoe UI" size="140">Tóm lại ta không thể về tay không.</font>
+
+1165
+02:19:46,830 --> 02:19:50,500
+<font face="Segoe UI" size="140">Đại vương muốn đầu của ta.</font>
+
+1166
+02:19:50,670 --> 02:19:58,630
+<font face="Segoe UI" size="140">Thái sư quả là người sáng suốt,</font>
+
+1167
+02:20:12,540 --> 02:20:13,710
+<font face="Segoe UI" size="140">Cầm lấy !</font>
+
+1168
+02:20:25,880 --> 02:20:27,630
+<font face="Segoe UI" size="140">Thái sư,</font>
+
+1169
+02:20:27,790 --> 02:20:29,790
+<font face="Segoe UI" size="140">Hãy nhắm mắt đi !</font>
+
+1170
+02:21:09,420 --> 02:21:10,420
+<font face="Segoe UI" size="140">Lên đường,</font>
+
+1171
+02:21:11,080 --> 02:21:12,920
+<font face="Segoe UI" size="140">Đến Tây Kỳ !</font>
+
+1172
+02:21:41,880 --> 02:21:45,540
+<font face="Segoe UI" size="140">♪ Phượng hoàng hót trên Kỳ Sơn ♪</font>
+
+1173
+02:21:47,170 --> 02:21:51,790
+<font face="Segoe UI" size="140">♪ Từ đỉnh cao, chào bình minh vô tận ♪</font>
+
+1174
+02:21:54,880 --> 02:21:58,540
+<font face="Segoe UI" size="140">♪ Cá lượn mình trong sông Vị ♪</font>
+
+1175
+02:22:00,130 --> 02:22:04,630
+<font face="Segoe UI" size="140">♪ Dưới làn nước trong vắt, những ngày tháng năm tươi đẹp ♪</font>
+
+1176
+02:22:07,880 --> 02:22:11,000
+<font face="Segoe UI" size="140">♪ Những đợt sóng lúa vàng lấp lánh ♪</font>
+
+1177
+02:22:11,170 --> 02:22:12,880
+<font face="Segoe UI" size="140">♪ Quanh ta, ánh sáng rực rỡ ngập tràn ♪</font>
+
+1178
+02:22:13,040 --> 02:22:18,500
+<font face="Segoe UI" size="140">♪ Ngọt ngào và giàu có như bữa tiệc ♪</font>
+
+1179
+02:22:20,830 --> 02:22:24,540
+<font face="Segoe UI" size="140">♪ Lau sậy thì thầm trong gió êm đềm ♪</font>
+
+1180
+02:22:24,710 --> 02:22:26,380
+<font face="Segoe UI" size="140">♪ Gió nam dịu dàng quyến rũ ♪</font>
+
+1181
+02:22:26,540 --> 02:22:32,080
+<font face="Segoe UI" size="140">♪ Hãy đến cùng chia sẻ khúc ca này ♪</font>
+
+1182
+02:22:33,670 --> 02:22:39,460
+<font face="Segoe UI" size="140">♪ Trên mảnh đất hạnh phúc ♪</font>
+
+1183
+02:22:39,880 --> 02:22:45,500
+<font face="Segoe UI" size="140">♪ Đây là nhà của tôi ♪</font>
+
+1184
+02:22:46,460 --> 02:22:48,330
+<font face="Segoe UI" size="140">♪ Nơi tôi sinh ra ♪</font>
+
+1185
+02:22:48,500 --> 02:22:50,790
+<font face="Segoe UI" size="140">♪ Nơi tôi lớn lên ♪</font>
+
+1186
+02:22:50,960 --> 02:22:57,040
+<font face="Segoe UI" size="140">♪ Quê hương tôi, niềm vui ngập tràn ♪</font>
+
+1187
+02:22:58,420 --> 02:23:03,880
+<font face="Segoe UI" size="140">♪ Mảnh đất ngọt ngào yêu dấu ♪</font>
+
+1188
+02:23:04,540 --> 02:23:10,000
+<font face="Segoe UI" size="140">♪ Tôi tự hào bảo vệ ♪</font>
+
+1189
+02:23:10,170 --> 02:23:17,460
+<font face="Segoe UI" size="140">♪ Bạn bè luôn chào đón Kẻ thù bị đánh bại ♪</font>
+
+1190
+02:23:19,710 --> 02:23:25,500
+<font face="Segoe UI" size="140">♪ Trên mảnh đất hạnh phúc ♪</font>
+
+1191
+02:23:25,920 --> 02:23:31,580
+<font face="Segoe UI" size="140">♪ Đây là nhà của tôi ♪</font>
+
+1192
+02:23:31,750 --> 02:23:37,290
+<font face="Segoe UI" size="140">♪ Mảnh đất ngọt ngào yêu dấu ♪</font>
+
+1193
+02:23:37,880 --> 02:23:43,420
+<font face="Segoe UI" size="140">♪ Tôi tự hào bảo vệ ♪</font>
+
+1194
+02:23:43,750 --> 02:23:49,540
+<font face="Segoe UI" size="140">♪ Trên mảnh đất hạnh phúc ♪</font>
+
+1195
+02:23:49,960 --> 02:23:55,630
+<font face="Segoe UI" size="140">♪ Đây là nhà của tôi ♪</font>
+
+1196
+02:23:55,790 --> 02:24:01,330
+<font face="Segoe UI" size="140">♪ Mảnh đất ngọt ngào yêu dấu ♪</font>
+
+1197
+02:24:01,920 --> 02:24:07,460
+<font face="Segoe UI" size="140">♪ Tôi sẽ bảo vệ người ♪</font>
+
+1198
+02:24:07,630 --> 02:24:12,420
+<font face="Segoe UI" size="140">♪ Đến khi ngã xuống ♪</font>
+
+1199
+02:24:28,100 --> 02:24:30,000
+<font face="Segoe UI" size="90">[Thông Thiên Giáo Chủ]</font>
+
+1200
+02:24:29,330 --> 02:24:30,330
+<font face="Segoe UI" size="140">Tỉnh dậy đi.</font>
+
+1201
+02:24:30,740 --> 02:24:34,150
+<font face="Segoe UI" size="90">[Triều Ca Thành]</font>
+
+1202
+02:24:48,580 --> 02:24:49,830
+<font face="Segoe UI" size="140">Thu.</font>
+
+1203
+02:24:57,540 --> 02:24:59,920
+<font face="Segoe UI" size="140">Hành lễ với phụ vương ngươi đi.</font>
+
+1204
+02:25:03,670 --> 02:25:04,540
+<font face="Segoe UI" size="140">Phụ thân.</font>
+
+1205
+02:25:06,750 --> 02:25:09,880
+<font face="Segoe UI" size="140">Đây là mẫu thân của ngươi.</font>
+
+1206
+02:25:11,330 --> 02:25:12,380
+<font face="Segoe UI" size="140">Mẫu thân.</font>
+
+1207
+02:25:13,160 --> 02:25:15,470
+<font face="Segoe UI" size="140">[Phong Thần Tam Bộ Khúc]
+[Phong Thần Đệ Tam Bộ]</font>
+
