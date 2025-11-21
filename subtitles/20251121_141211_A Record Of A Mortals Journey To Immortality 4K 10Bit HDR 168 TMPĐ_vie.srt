@@ -1,0 +1,1123 @@
+1
+00:00:00,000 --> 00:00:45,820
+<font face="UVN La Xanh" size="166"><b>4K Eac3 5.1 PĐ_kimngonx5 
+Donate hoặc mua Fshare Point ủng hộ. ZL, Momo, BIDV: 0848245445 
+Cảm ơn mọi người, Chúc mọi người xem phim vui vẻ</b></font>
+
+2
+00:01:01,900 --> 00:01:03,780
+<font face="UTM Silk Script" size="166"><b>♪ Nhân lúc niên thiếu, tạm biệt hôm nay ♪</b></font>
+
+3
+00:01:03,780 --> 00:01:05,580
+<font face="UTM Silk Script" size="166"><b>♪ Lên đường dẫm bước đồng cỏ hoang ♪</b></font>
+
+4
+00:01:07,220 --> 00:01:09,580
+<font face="UTM Silk Script" size="166"><b>♪ Cáo biệt bình phàm, tìm kiếm tiêu dao ♪</b></font>
+
+5
+00:01:09,580 --> 00:01:11,500
+<font face="UTM Silk Script" size="166"><b>♪ Không huênh hoang, trốn cõi trần ồn ã ♪</b></font>
+
+6
+00:01:11,500 --> 00:01:14,700
+<font face="UTM Silk Script" size="166"><b>♪ Nề hà chi lòng người khó đoán ♪</b></font>
+
+7
+00:01:17,260 --> 00:01:19,100
+<font face="UTM Silk Script" size="166"><b>♪ Chiêu thức ẩn tàng, không ai nhìn thấy ♪</b></font>
+
+8
+00:01:19,100 --> 00:01:21,260
+<font face="UTM Silk Script" size="166"><b>♪ Chấp niệm chưa từng dao động ♪</b></font>
+
+9
+00:01:22,500 --> 00:01:24,860
+<font face="UTM Silk Script" size="166"><b>♪ Để những lừa gạt giả dối đều uổng phí ♪</b></font>
+
+10
+00:01:24,860 --> 00:01:26,780
+<font face="UTM Silk Script" size="166"><b>♪ Bảo vật trong tay. Đao trong tim ♪</b></font>
+
+11
+00:01:26,780 --> 00:01:30,140
+<font face="UTM Silk Script" size="166"><b>♪ Tà ma đừng mong đắc đạo ♪</b></font>
+
+12
+00:01:30,460 --> 00:01:32,620
+<font face="UTM Silk Script" size="166"><b>♪ Cô độc rèn luyện, nhiệt huyết sục sôi ♪</b></font>
+
+13
+00:01:32,620 --> 00:01:34,500
+<font face="UTM Silk Script" size="166"><b>♪ Ngoái nhìn gò má quen thuộc lần nữa ♪</b></font>
+
+14
+00:01:34,500 --> 00:01:36,460
+<font face="UTM Silk Script" size="166"><b>♪ Hãy buông bỏ không cần lo lắng ♪</b></font>
+
+15
+00:01:36,460 --> 00:01:38,020
+<font face="UTM Silk Script" size="166"><b>♪ Bỏ hết phía sau, bốn bể là nhà ♪</b></font>
+
+16
+00:01:38,020 --> 00:01:40,260
+<font face="UTM Silk Script" size="166"><b>♪ Từ đó quên đi ngày tận thế ♪</b></font>
+
+17
+00:01:40,260 --> 00:01:42,020
+<font face="UTM Silk Script" size="166"><b>♪ Hào hiệp, cẩn thận, đầy trượng nghĩa ♪</b></font>
+
+18
+00:01:42,260 --> 00:01:44,060
+<font face="UTM Silk Script" size="166"><b>♪ Vô tình gặp kì ngộ tạo hóa ♪</b></font>
+
+19
+00:01:44,140 --> 00:01:47,820
+<font face="UTM Silk Script" size="166"><b>♪ Ngàn vạn năm ngỡ như trong chớp mắt ♪</b></font>
+
+20
+00:01:48,180 --> 00:01:50,020
+<font face="UTM Silk Script" size="166"><b>♪ Con đường này phá trời ♪</b></font>
+
+21
+00:01:50,100 --> 00:01:53,220
+<font face="UTM Silk Script" size="166"><b>♪ Khó khăn có nghìn trùng, ai hiểu được? ♪</b></font>
+
+22
+00:01:53,220 --> 00:01:55,820
+<font face="UTM Silk Script" size="166"><b>♪ Chỉ cầu có ngày lại tương phùng ♪</b></font>
+
+23
+00:01:55,820 --> 00:01:57,700
+<font face="UTM Silk Script" size="166"><b>♪ Tu luyện giữa trần thế ♪</b></font>
+
+24
+00:01:57,700 --> 00:02:00,860
+<font face="UTM Silk Script" size="166"><b>♪ Duyên thù vạn sự hóa hư không ♪</b></font>
+
+25
+00:02:00,860 --> 00:02:02,980
+<font face="UTM Silk Script" size="166"><b>♪ Đến cuối cùng, bình phàm chứ không tầm thường ♪</b></font>
+
+26
+00:02:03,620 --> 00:02:06,900
+<font face="UTM Silk Script" size="166"><b>♪ Tu luyện giữa trần thế ♪</b></font>
+
+27
+00:02:07,460 --> 00:02:14,740
+<font face="UTM Silk Script" size="166"><b>♪ Đến cuối cùng, bình phàm chứ không tầm thường ♪</b></font>
+
+28
+00:02:14,740 --> 00:02:21,460
+<font face="UVN La Xanh" size="166"><b>{\an8}4K Eac3 5.1 PĐ_kimngonx5
+=Phàm Nhân Tu Tiên Truyện=</b></font>
+
+29
+00:02:14,740 --> 00:02:21,460
+<font face="UVN La Xanh" size="166"><b><font color="#e3c498">Nguyên Tác: Vong Ngữ
+=Chương Trở Lại Thiên Nam=</font></b></font>
+
+30
+00:02:22,780 --> 00:02:23,900
+<font face="UVN La Xanh" size="166"><b>Hiện giờ đây</b></font>
+
+31
+00:02:23,900 --> 00:02:28,020
+<font face="UVN La Xanh" size="166"><b>Chủ nhân nhà ta đã tiến giai Nguyên Anh thành công</b></font>
+
+32
+00:02:28,420 --> 00:02:29,820
+<font face="UVN La Xanh" size="166"><b>Các huynh đệ, các tỷ muội ơi</b></font>
+
+33
+00:02:29,820 --> 00:02:31,300
+<font face="UVN La Xanh" size="166"><b>Đã đến rồi thì đừng quên</b></font>
+
+34
+00:02:31,300 --> 00:02:33,540
+<font face="UVN La Xanh" size="166"><b>Thả tim, donate, và theo dõi kimngonx5 nhé!</b></font>
+
+35
+00:02:33,540 --> 00:02:35,540
+<font face="UVN La Xanh" size="166"><b>Giúp kimngonx5 bổ sung linh lực!</b></font>
+
+36
+00:02:39,420 --> 00:02:43,380
+<font face="UVN La Xanh" size="166"><b><font size="166">=Tập 168=
+=Trở Lại Thiên Nam Mùa 3=</font></b></font>
+
+37
+00:02:44,380 --> 00:02:49,340
+<font face="UVN La Xanh" size="166"><b><font size="166">[Âm thanh 5.1 đã được thêm vào hãy trải nghiệm]</font></b></font>
+
+38
+00:02:51,540 --> 00:02:53,140
+<font face="UVN La Xanh" size="166"><b>Hàn Lập</b></font>
+
+39
+00:02:53,900 --> 00:02:56,820
+<font face="UVN La Xanh" size="166"><b>Tu sĩ Nguyên Anh vừa lên cấp</b></font>
+
+40
+00:02:57,340 --> 00:02:58,740
+<font face="UVN La Xanh" size="166"><b>Thú vị đấy</b></font>
+
+41
+00:02:59,740 --> 00:03:02,300
+<font face="UVN La Xanh" size="166"><b>Chỉ là không biết thần thông thế nào thôi</b></font>
+
+42
+00:03:04,980 --> 00:03:06,980
+<font face="UVN La Xanh" size="166"><b>Để bổn hầu thử xem nào</b></font>
+
+43
+00:03:13,980 --> 00:03:14,580
+<font face="UVN La Xanh" size="166"><b>Không</b></font>
+
+44
+00:03:14,580 --> 00:03:15,460
+<font face="UVN La Xanh" size="166"><b>Không thể được</b></font>
+
+45
+00:03:16,380 --> 00:03:18,860
+<font face="UVN La Xanh" size="166"><b>Hàn sư đệ ngưng kết Nguyên Anh mới mấy chục năm</b></font>
+
+46
+00:03:18,860 --> 00:03:20,820
+<font face="UVN La Xanh" size="166"><b>Sao có thể là đối thủ của Nam Lũng đạo hữu được?</b></font>
+
+47
+00:03:21,940 --> 00:03:23,140
+<font face="UVN La Xanh" size="166"><b>Yên tâm đi</b></font>
+
+48
+00:03:24,540 --> 00:03:27,180
+<font face="UVN La Xanh" size="166"><b>Bổn hầu sẽ không ỷ mạnh hiếp yếu đâu</b></font>
+
+49
+00:03:27,820 --> 00:03:30,340
+<font face="UVN La Xanh" size="166"><b>Ta chỉ dùng thần thức so bì một chút thôi</b></font>
+
+50
+00:03:32,060 --> 00:03:33,500
+<font face="UVN La Xanh" size="166"><b>Quân Hầu nói đùa rồi</b></font>
+
+51
+00:03:34,100 --> 00:03:36,180
+<font face="UVN La Xanh" size="166"><b>Đấu thần thức cực kỳ nguy hiểm</b></font>
+
+52
+00:03:36,660 --> 00:03:38,260
+<font face="UVN La Xanh" size="166"><b>Sao có thể tùy tiện lấy ra so đấu?</b></font>
+
+53
+00:03:41,820 --> 00:03:44,100
+<font face="UVN La Xanh" size="166"><b>Ngươi vội cái gì?</b></font>
+
+54
+00:03:48,620 --> 00:03:50,540
+<font face="UVN La Xanh" size="166"><b>Có khi Hàn đạo hữu đây</b></font>
+
+55
+00:03:50,540 --> 00:03:52,420
+<font face="UVN La Xanh" size="166"><b>Lại tự nguyện tỉ thí thì sao?</b></font>
+
+56
+00:03:56,540 --> 00:03:57,500
+<font face="UVN La Xanh" size="166"><b>Huống hồ</b></font>
+
+57
+00:03:58,020 --> 00:04:01,220
+<font face="UVN La Xanh" size="166"><b>Nơi này đã cách Điền Thiên Thành cả ngàn dặm</b></font>
+
+58
+00:04:01,700 --> 00:04:03,340
+<font face="UVN La Xanh" size="166"><b>Hình như sở giao dịch</b></font>
+
+59
+00:04:03,940 --> 00:04:06,980
+<font face="UVN La Xanh" size="166"><b>Có một quy định đặc thù thì phải</b></font>
+
+60
+00:04:08,740 --> 00:04:10,820
+<font face="UVN La Xanh" size="166"><b>Quân Hầu đang nói đến</b></font>
+
+61
+00:04:11,540 --> 00:04:12,940
+<font face="UVN La Xanh" size="166"><b>Cưỡng chế giao dịch?</b></font>
+
+62
+00:04:15,780 --> 00:04:16,780
+<font face="UVN La Xanh" size="166"><b>Đúng đấy</b></font>
+
+63
+00:04:20,420 --> 00:04:21,820
+<font face="UVN La Xanh" size="166"><b>Vị cô nương kia</b></font>
+
+64
+00:04:23,340 --> 00:04:25,420
+<font face="UVN La Xanh" size="166"><b>Ta thấy mà thương xót thay</b></font>
+
+65
+00:04:34,980 --> 00:04:35,980
+<font face="UVN La Xanh" size="166"><b>Đúng lúc</b></font>
+
+66
+00:04:37,180 --> 00:04:38,660
+<font face="UVN La Xanh" size="166"><b>Hai sủng cơ này của ta</b></font>
+
+67
+00:04:38,660 --> 00:04:40,220
+<font face="UVN La Xanh" size="166"><b>Ta cũng thấy hơi chán rồi</b></font>
+
+68
+00:04:41,340 --> 00:04:43,860
+<font face="UVN La Xanh" size="166"><b>Đằng nào thì sắc đẹp và tu vi cũng tương tự</b></font>
+
+69
+00:04:45,020 --> 00:04:46,700
+<font face="UVN La Xanh" size="166"><b>Lấy hai người này</b></font>
+
+70
+00:04:46,700 --> 00:04:47,780
+<font face="UVN La Xanh" size="166"><b>Trao đổi với ngươi đi</b></font>
+
+71
+00:04:48,820 --> 00:04:49,780
+<font face="UVN La Xanh" size="166"><b>Được không?</b></font>
+
+72
+00:04:57,860 --> 00:04:59,620
+<font face="UVN La Xanh" size="166"><b>Xem ra là không tình nguyện lắm</b></font>
+
+73
+00:05:02,500 --> 00:05:05,900
+<font face="UVN La Xanh" size="166"><b>Vậy thì tỉ thí thần thức xem ai mạnh ai yếu đi</b></font>
+
+74
+00:05:06,740 --> 00:05:08,820
+<font face="UVN La Xanh" size="166"><b>Nếu ngươi thắng</b></font>
+
+75
+00:05:09,220 --> 00:05:11,340
+<font face="UVN La Xanh" size="166"><b>Hai ái thiếp của bổn hầu</b></font>
+
+76
+00:05:11,980 --> 00:05:13,620
+<font face="UVN La Xanh" size="166"><b>Sẽ là của ngươi</b></font>
+
+77
+00:05:19,340 --> 00:05:20,340
+<font face="UVN La Xanh" size="166"><b>Lữ sư huynh</b></font>
+
+78
+00:05:20,340 --> 00:05:21,580
+<font face="UVN La Xanh" size="166"><b>Cưỡng chế giao dịch</b></font>
+
+79
+00:05:21,580 --> 00:05:22,620
+<font face="UVN La Xanh" size="166"><b>Có quy định thế nào?</b></font>
+
+80
+00:05:22,940 --> 00:05:23,700
+<font face="UVN La Xanh" size="166"><b>Hàn sư đệ</b></font>
+
+81
+00:05:24,220 --> 00:05:25,100
+<font face="UVN La Xanh" size="166"><b>Cưỡng chế giao dịch</b></font>
+
+82
+00:05:25,100 --> 00:05:26,820
+<font face="UVN La Xanh" size="166"><b>Là một quy định đặc thù</b></font>
+
+83
+00:05:26,820 --> 00:05:28,380
+<font face="UVN La Xanh" size="166"><b>Của sở giao dịch Điền Thiên Thành</b></font>
+
+84
+00:05:28,380 --> 00:05:30,940
+<font face="UVN La Xanh" size="166"><b>Mục đích là để tu sĩ Nguyên Anh tranh đấu với nhau</b></font>
+
+85
+00:05:30,940 --> 00:05:33,460
+<font face="UVN La Xanh" size="166"><b>Nhưng không làm tổn thương đến tính mạng</b></font>
+
+86
+00:05:33,460 --> 00:05:35,620
+<font face="UVN La Xanh" size="166"><b>Giờ thì rắc rối to rồi đây</b></font>
+
+87
+00:05:35,620 --> 00:05:37,540
+<font face="UVN La Xanh" size="166"><b>Dù có chấp pháp của liên minh Cửu Quốc ở đây</b></font>
+
+88
+00:05:37,540 --> 00:05:39,220
+<font face="UVN La Xanh" size="166"><b>Cũng không thể can thiệp vào</b></font>
+
+89
+00:05:46,140 --> 00:05:48,660
+<font face="UVN La Xanh" size="166"><b>Hàn đạo hữu sợ bị thương</b></font>
+
+90
+00:05:49,420 --> 00:05:50,260
+<font face="UVN La Xanh" size="166"><b>Cũng không sao</b></font>
+
+91
+00:05:51,220 --> 00:05:53,220
+<font face="UVN La Xanh" size="166"><b>Vậy chúng ta giao dịch thẳng luôn đi</b></font>
+
+92
+00:05:53,940 --> 00:05:55,780
+<font face="UVN La Xanh" size="166"><b>Đằng nào hai đổi một</b></font>
+
+93
+00:05:57,540 --> 00:05:58,900
+<font face="UVN La Xanh" size="166"><b>Cũng là ngươi lời</b></font>
+
+94
+00:06:07,020 --> 00:06:07,900
+<font face="UVN La Xanh" size="166"><b>Được</b></font>
+
+95
+00:06:11,700 --> 00:06:12,700
+<font face="UVN La Xanh" size="166"><b>Tỉ thí xem sao</b></font>
+
+96
+00:06:15,220 --> 00:06:16,980
+<font face="UVN La Xanh" size="166"><b>Nếu Hàn mỗ may mắn thắng</b></font>
+
+97
+00:06:17,660 --> 00:06:19,820
+<font face="UVN La Xanh" size="166"><b>Cũng không lấy ái thiếp của Quân Hầu đâu</b></font>
+
+98
+00:06:20,940 --> 00:06:22,260
+<font face="UVN La Xanh" size="166"><b>Chỉ là muốn biết</b></font>
+
+99
+00:06:22,260 --> 00:06:24,740
+<font face="UVN La Xanh" size="166"><b>Lý do thực sự vì sao Nam Lũng đạo hữu</b></font>
+
+100
+00:06:25,540 --> 00:06:26,620
+<font face="UVN La Xanh" size="166"><b>Khăng khăng đòi tỉ thí thôi</b></font>
+
+101
+00:06:31,420 --> 00:06:33,300
+<font face="UVN La Xanh" size="166"><b>Đạo hữu đừng nói là</b></font>
+
+102
+00:06:35,020 --> 00:06:36,820
+<font face="UVN La Xanh" size="166"><b>Ngứa mắt tại hạ</b></font>
+
+103
+00:06:38,260 --> 00:06:39,140
+<font face="UVN La Xanh" size="166"><b>Hoặc là</b></font>
+
+104
+00:06:41,500 --> 00:06:44,100
+<font face="UVN La Xanh" size="166"><b>Thấy sắc nên nổi lòng tà dâm đấy nhé</b></font>
+
+105
+00:07:00,340 --> 00:07:01,500
+<font face="UVN La Xanh" size="166"><b>Được</b></font>
+
+106
+00:07:02,220 --> 00:07:03,500
+<font face="UVN La Xanh" size="166"><b>Được lắm</b></font>
+
+107
+00:07:04,380 --> 00:07:06,300
+<font face="UVN La Xanh" size="166"><b>Bổn hầu đồng ý</b></font>
+
+108
+00:07:09,020 --> 00:07:10,100
+<font face="UVN La Xanh" size="166"><b>Công tử</b></font>
+
+109
+00:07:14,820 --> 00:07:16,620
+<font face="UVN La Xanh" size="166"><b>Sư đệ cẩn thận đấy</b></font>
+
+110
+00:07:16,620 --> 00:07:17,500
+<font face="UVN La Xanh" size="166"><b>Nếu không ổn</b></font>
+
+111
+00:07:17,500 --> 00:07:18,540
+<font face="UVN La Xanh" size="166"><b>Thì nhận thua luôn</b></font>
+
+112
+00:07:18,940 --> 00:07:20,460
+<font face="UVN La Xanh" size="166"><b>Sư huynh sẽ ngăn cản ngay</b></font>
+
+113
+00:07:20,460 --> 00:07:21,540
+<font face="UVN La Xanh" size="166"><b>Đừng để bị thương</b></font>
+
+114
+00:07:34,700 --> 00:07:35,700
+<font face="UVN La Xanh" size="166"><b>Tốt lắm</b></font>
+
+115
+00:07:35,700 --> 00:07:36,020
+<font face="UVN La Xanh" size="166"><b>Tốt lắm</b></font>
+
+116
+00:07:39,140 --> 00:07:40,540
+<font face="UVN La Xanh" size="166"><b>Quân Hầu</b></font>
+
+117
+00:07:40,540 --> 00:07:42,140
+<font face="UVN La Xanh" size="166"><b>Dụng ý thâm sâu như vậy</b></font>
+
+118
+00:07:42,460 --> 00:07:43,980
+<font face="UVN La Xanh" size="166"><b>Hàn mỗ thực sự</b></font>
+
+119
+00:07:43,980 --> 00:07:46,100
+<font face="UVN La Xanh" size="166"><b>Có chút tò mò rồi đấy</b></font>
+
+120
+00:07:50,340 --> 00:07:52,820
+<font face="UVN La Xanh" size="166"><b>Nói chuyện với người thông minh không mệt chút nào</b></font>
+
+121
+00:07:53,500 --> 00:07:55,740
+<font face="UVN La Xanh" size="166"><b>Nếu không phải vì lúc nãy ngươi quét qua ta</b></font>
+
+122
+00:07:55,780 --> 00:07:57,660
+<font face="UVN La Xanh" size="166"><b>Làm ta cảm thấy thần thức ngươi không yếu</b></font>
+
+123
+00:07:58,460 --> 00:08:02,020
+<font face="UVN La Xanh" size="166"><b>Thì ta cũng chẳng thèm đích thân tỉ thí với ngươi đâu</b></font>
+
+124
+00:08:04,740 --> 00:08:06,460
+<font face="UVN La Xanh" size="166"><b>Hàn mỗ mới kết Nguyên Anh không lâu</b></font>
+
+125
+00:08:06,940 --> 00:08:08,260
+<font face="UVN La Xanh" size="166"><b>Đang muốn thử xem</b></font>
+
+126
+00:08:08,580 --> 00:08:10,700
+<font face="UVN La Xanh" size="166"><b>Thần thức có cách biệt thế nào với Nguyên Anh khác</b></font>
+
+127
+00:08:11,700 --> 00:08:13,260
+<font face="UVN La Xanh" size="166"><b>Nguyên Anh khác?</b></font>
+
+128
+00:08:13,660 --> 00:08:14,300
+<font face="UVN La Xanh" size="166"><b>Ta...</b></font>
+
+129
+00:08:18,220 --> 00:08:19,780
+<font face="UVN La Xanh" size="166"><b>Hay lắm</b></font>
+
+130
+00:09:00,260 --> 00:09:01,780
+<font face="UVN La Xanh" size="166"><b>Thần thức hóa hình</b></font>
+
+131
+00:09:02,620 --> 00:09:03,060
+<font face="UVN La Xanh" size="166"><b>Đây...</b></font>
+
+132
+00:09:03,540 --> 00:09:04,340
+<font face="UVN La Xanh" size="166"><b>Sao có thể?</b></font>
+
+133
+00:09:05,540 --> 00:09:07,340
+<font face="UVN La Xanh" size="166"><b>Thần thức hóa hình</b></font>
+
+134
+00:09:07,340 --> 00:09:08,780
+<font face="UVN La Xanh" size="166"><b>Thần thức của Hàn sư đệ</b></font>
+
+135
+00:09:09,100 --> 00:09:10,700
+<font face="UVN La Xanh" size="166"><b>Lại mạnh đến mức này ư?</b></font>
+
+136
+00:09:11,980 --> 00:09:12,780
+<font face="UVN La Xanh" size="166"><b>Vậy</b></font>
+
+137
+00:09:12,780 --> 00:09:14,380
+<font face="UVN La Xanh" size="166"><b>Công tử có thắng được không?</b></font>
+
+138
+00:09:16,100 --> 00:09:17,180
+<font face="UVN La Xanh" size="166"><b>Không biết nữa</b></font>
+
+139
+00:09:17,700 --> 00:09:18,740
+<font face="UVN La Xanh" size="166"><b>Theo lẽ thường</b></font>
+
+140
+00:09:18,740 --> 00:09:20,060
+<font face="UVN La Xanh" size="166"><b>Thần thức hóa hình</b></font>
+
+141
+00:09:20,260 --> 00:09:21,820
+<font face="UVN La Xanh" size="166"><b>Phải chờ đến Nguyên Anh trung kỳ</b></font>
+
+142
+00:09:21,820 --> 00:09:24,300
+<font face="UVN La Xanh" size="166"><b>Mới dùng sức mạnh thần thức mạnh mẽ khống chế được</b></font>
+
+143
+00:09:24,580 --> 00:09:26,580
+<font face="UVN La Xanh" size="166"><b>Nhưng Hàn sư đệ...</b></font>
+
+144
+00:09:27,700 --> 00:09:28,900
+<font face="UVN La Xanh" size="166"><b>Cuối cùng ta cũng biết</b></font>
+
+145
+00:09:28,900 --> 00:09:30,500
+<font face="UVN La Xanh" size="166"><b>Công pháp chủ tu của Hàn sư đệ</b></font>
+
+146
+00:09:30,740 --> 00:09:32,260
+<font face="UVN La Xanh" size="166"><b>Chính là thuộc loại thần thức</b></font>
+
+147
+00:09:46,540 --> 00:09:47,540
+<font face="UVN La Xanh" size="166"><b>Cái gì?</b></font>
+
+148
+00:09:47,540 --> 00:09:49,740
+<font face="UVN La Xanh" size="166"><b>Thần thức hai bên vẫn còn đang tăng</b></font>
+
+149
+00:09:50,940 --> 00:09:51,980
+<font face="UVN La Xanh" size="166"><b>Như vậy</b></font>
+
+150
+00:09:52,220 --> 00:09:53,100
+<font face="UVN La Xanh" size="166"><b>Công tử</b></font>
+
+151
+00:09:53,100 --> 00:09:54,580
+<font face="UVN La Xanh" size="166"><b>Cũng ngang bằng được chứ?</b></font>
+
+152
+00:09:55,580 --> 00:09:56,620
+<font face="UVN La Xanh" size="166"><b>Không chắc chắn lắm</b></font>
+
+153
+00:09:57,380 --> 00:09:58,060
+<font face="UVN La Xanh" size="166"><b>Nam Lũng Hầu</b></font>
+
+154
+00:09:58,060 --> 00:10:00,940
+<font face="UVN La Xanh" size="166"><b>Đã tiến cấp Nguyên Anh trung kỳ từ 300 năm trước</b></font>
+
+155
+00:10:01,500 --> 00:10:02,420
+<font face="UVN La Xanh" size="166"><b>Bây giờ</b></font>
+
+156
+00:10:02,420 --> 00:10:04,700
+<font face="UVN La Xanh" size="166"><b>E rằng cũng sắp đến hậu kỳ rồi</b></font>
+
+157
+00:10:05,660 --> 00:10:07,420
+<font face="UVN La Xanh" size="166"><b>Muốn thắng được lão quái vật như thế</b></font>
+
+158
+00:10:08,620 --> 00:10:09,420
+<font face="UVN La Xanh" size="166"><b>Khó đấy</b></font>
+
+159
+00:10:31,140 --> 00:10:32,660
+<font face="UVN La Xanh" size="166"><b>Họ lại</b></font>
+
+160
+00:10:33,900 --> 00:10:35,660
+<font face="UVN La Xanh" size="166"><b>Đánh ngang sức nhau</b></font>
+
+161
+00:10:49,860 --> 00:10:50,860
+<font face="UVN La Xanh" size="166"><b>Không tệ</b></font>
+
+162
+00:11:01,540 --> 00:11:03,500
+<font face="UVN La Xanh" size="166"><b>Cuối cùng cũng nghiêm túc rồi sao?</b></font>
+
+163
+00:11:25,780 --> 00:11:26,620
+<font face="UVN La Xanh" size="166"><b>Phá!</b></font>
+
+164
+00:11:54,060 --> 00:11:55,220
+<font face="UVN La Xanh" size="166"><b>Kiếm</b></font>
+
+165
+00:11:55,220 --> 00:11:56,460
+<font face="UVN La Xanh" size="166"><b>Hay lắm</b></font>
+
+166
+00:12:44,620 --> 00:12:46,460
+<font face="UVN La Xanh" size="166"><b>Uy lực thế này</b></font>
+
+167
+00:12:46,460 --> 00:12:48,180
+<font face="UVN La Xanh" size="166"><b>Thật khiến người ta</b></font>
+
+168
+00:13:28,700 --> 00:13:29,420
+<font face="UVN La Xanh" size="166"><b>Nhìn kìa!</b></font>
+
+169
+00:13:29,700 --> 00:13:31,220
+<font face="UVN La Xanh" size="166"><b>Có tu sĩ Nguyên Anh quyết đấu</b></font>
+
+170
+00:13:31,220 --> 00:13:33,180
+<font face="UVN La Xanh" size="166"><b>Thật đáng sợ</b></font>
+
+171
+00:14:21,100 --> 00:14:23,660
+<font face="UVN La Xanh" size="166"><b>Đã sử dụng bảy tám phần mười sức mạnh thần thức</b></font>
+
+172
+00:14:24,340 --> 00:14:26,060
+<font face="UVN La Xanh" size="166"><b>Người này vẫn có thể đỡ được nhẹ nhàng</b></font>
+
+173
+00:14:26,060 --> 00:14:27,020
+<font face="UVN La Xanh" size="166"><b>Thành thạo điêu luyện</b></font>
+
+174
+00:14:28,300 --> 00:14:29,500
+<font face="UVN La Xanh" size="166"><b>Lẽ nào thần thức của hắn</b></font>
+
+175
+00:14:30,020 --> 00:14:31,260
+<font face="UVN La Xanh" size="166"><b>Thật sự cao hơn mình?</b></font>
+
+176
+00:14:32,020 --> 00:14:33,380
+<font face="UVN La Xanh" size="166"><b>Tỉ thí dừng ở đây đi</b></font>
+
+177
+00:14:34,380 --> 00:14:35,820
+<font face="UVN La Xanh" size="166"><b>Nếu tiếp tục</b></font>
+
+178
+00:14:36,660 --> 00:14:37,980
+<font face="UVN La Xanh" size="166"><b>Ta e rằng</b></font>
+
+179
+00:14:38,380 --> 00:14:40,140
+<font face="UVN La Xanh" size="166"><b>Thật sự không chống đỡ nổi nữa</b></font>
+
+180
+00:14:41,860 --> 00:14:44,060
+<font face="UVN La Xanh" size="166"><b>Hàn đạo hữu quá khiêm tốn rồi</b></font>
+
+181
+00:14:44,940 --> 00:14:46,020
+<font face="UVN La Xanh" size="166"><b>Không xét công pháp</b></font>
+
+182
+00:14:46,020 --> 00:14:47,780
+<font face="UVN La Xanh" size="166"><b>Chỉ xét thần thức</b></font>
+
+183
+00:14:47,780 --> 00:14:49,900
+<font face="UVN La Xanh" size="166"><b>Đạo hữu chắc chắn không thua kém bổn hầu</b></font>
+
+184
+00:14:51,220 --> 00:14:53,780
+<font face="UVN La Xanh" size="166"><b>Lần này tỉ thí dừng ở đây cũng tốt</b></font>
+
+185
+00:14:54,180 --> 00:14:56,220
+<font face="UVN La Xanh" size="166"><b>Nếu không, thật sự tổn thương hòa khí</b></font>
+
+186
+00:14:56,380 --> 00:14:57,660
+<font face="UVN La Xanh" size="166"><b>Giữa tu sĩ với nhau</b></font>
+
+187
+00:14:57,940 --> 00:14:59,700
+<font face="UVN La Xanh" size="166"><b>Dù đạt đến cảnh giới nào</b></font>
+
+188
+00:15:00,300 --> 00:15:02,460
+<font face="UVN La Xanh" size="166"><b>Cuối cùng vẫn phải dùng thực lực nói chuyện</b></font>
+
+189
+00:15:03,340 --> 00:15:04,420
+<font face="UVN La Xanh" size="166"><b>Thực lực của ngươi</b></font>
+
+190
+00:15:04,420 --> 00:15:05,780
+<font face="UVN La Xanh" size="166"><b>Ta đã tìm hiểu rồi</b></font>
+
+191
+00:15:06,420 --> 00:15:07,660
+<font face="UVN La Xanh" size="166"><b>Nếu như vậy</b></font>
+
+192
+00:15:08,260 --> 00:15:11,340
+<font face="UVN La Xanh" size="166"><b>Các hạ cũng phù hợp với điều kiện tham gia hành động</b></font>
+
+193
+00:15:14,020 --> 00:15:15,020
+<font face="UVN La Xanh" size="166"><b>Nhưng</b></font>
+
+194
+00:15:15,420 --> 00:15:17,460
+<font face="UVN La Xanh" size="166"><b>Chuyện này liên quan rất lớn</b></font>
+
+195
+00:15:17,780 --> 00:15:19,420
+<font face="UVN La Xanh" size="166"><b>Ở đây không tiện nói</b></font>
+
+196
+00:15:21,300 --> 00:15:23,500
+<font face="UVN La Xanh" size="166"><b>Ngày thứ tư sau khi hội giao dịch bắt đầu</b></font>
+
+197
+00:15:23,900 --> 00:15:27,220
+<font face="UVN La Xanh" size="166"><b>Đạo hữu hãy đến nơi đánh dấu trên mảnh ngọc này</b></font>
+
+198
+00:15:28,180 --> 00:15:31,220
+<font face="UVN La Xanh" size="166"><b>Lúc đó, bổn hầu sẽ giới thiệu vài người cho ngươi</b></font>
+
+199
+00:15:31,860 --> 00:15:33,300
+<font face="UVN La Xanh" size="166"><b>Còn có một</b></font>
+
+200
+00:15:33,580 --> 00:15:35,780
+<font face="UVN La Xanh" size="166"><b>Cơ duyên rất lớn</b></font>
+
+201
+00:15:43,460 --> 00:15:45,140
+<font face="UVN La Xanh" size="166"><b>Cơ duyên?</b></font>
+
+202
+00:15:45,140 --> 00:15:46,660
+<font face="UVN La Xanh" size="166"><b>Giới thiệu vài người</b></font>
+
+203
+00:15:50,220 --> 00:15:52,340
+<font face="UVN La Xanh" size="166"><b>Con người ngươi thật thú vị</b></font>
+
+204
+00:15:52,940 --> 00:15:54,980
+<font face="UVN La Xanh" size="166"><b>Biết giấu sự sắc bén</b></font>
+
+205
+00:15:56,820 --> 00:15:58,380
+<font face="UVN La Xanh" size="166"><b>Nếu nhất thời không để tâm</b></font>
+
+206
+00:15:59,020 --> 00:16:01,540
+<font face="UVN La Xanh" size="166"><b>Thì sẽ dễ chịu thiệt dưới tay ngươi</b></font>
+
+207
+00:16:19,780 --> 00:16:21,180
+<font face="UVN La Xanh" size="166"><b>Hành động thất thường</b></font>
+
+208
+00:16:21,180 --> 00:16:22,500
+<font face="UVN La Xanh" size="166"><b>Bộc lộ tài năng</b></font>
+
+209
+00:16:23,260 --> 00:16:25,940
+<font face="UVN La Xanh" size="166"><b>Cũng là một cách che giấu mưu tính mà thôi</b></font>
+
+210
+00:16:26,580 --> 00:16:27,220
+<font face="UVN La Xanh" size="166"><b>Như nhau</b></font>
+
+211
+00:16:27,620 --> 00:16:28,700
+<font face="UVN La Xanh" size="166"><b>Như nhau thôi</b></font>
+
+212
+00:16:34,060 --> 00:16:34,860
+<font face="UVN La Xanh" size="166"><b>Công tử</b></font>
+
+213
+00:16:34,860 --> 00:16:35,340
+<font face="UVN La Xanh" size="166"><b>Ngài</b></font>
+
+214
+00:16:40,340 --> 00:16:41,380
+<font face="UVN La Xanh" size="166"><b>Ngài không sao chứ?</b></font>
+
+215
+00:16:41,740 --> 00:16:42,420
+<font face="UVN La Xanh" size="166"><b>Không sao</b></font>
+
+216
+00:16:43,300 --> 00:16:44,780
+<font face="UVN La Xanh" size="166"><b>Chỉ là tiêu hao một chút thần thức</b></font>
+
+217
+00:16:49,500 --> 00:16:51,020
+<font face="UVN La Xanh" size="166"><b>Sư đệ tốt của ta</b></font>
+
+218
+00:16:51,020 --> 00:16:53,380
+<font face="UVN La Xanh" size="166"><b>Giấu sư huynh nhiều thật đấy</b></font>
+
+219
+00:16:53,380 --> 00:16:55,180
+<font face="UVN La Xanh" size="166"><b>Để sư huynh lo lắng như vậy</b></font>
+
+220
+00:16:56,460 --> 00:16:58,380
+<font face="UVN La Xanh" size="166"><b>Sư đệ không hề che giấu gì cả</b></font>
+
+221
+00:16:58,660 --> 00:17:00,020
+<font face="UVN La Xanh" size="166"><b>Chỉ là hai vị sư huynh</b></font>
+
+222
+00:17:00,020 --> 00:17:01,180
+<font face="UVN La Xanh" size="166"><b>Chưa từng hỏi mà thôi</b></font>
+
+223
+00:17:02,020 --> 00:17:02,900
+<font face="UVN La Xanh" size="166"><b>Nào nào</b></font>
+
+224
+00:17:04,380 --> 00:17:06,340
+<font face="UVN La Xanh" size="166"><b>Nhưng thật sự không ngờ</b></font>
+
+225
+00:17:06,620 --> 00:17:09,300
+<font face="UVN La Xanh" size="166"><b>Sư đệ lại có thể đấu thần thức với Nam Lũng Hầu</b></font>
+
+226
+00:17:09,300 --> 00:17:10,100
+<font face="UVN La Xanh" size="166"><b>Không rơi vào thế yếu</b></font>
+
+227
+00:17:11,940 --> 00:17:13,860
+<font face="UVN La Xanh" size="166"><b>Người này thành danh đã lâu</b></font>
+
+228
+00:17:14,300 --> 00:17:16,340
+<font face="UVN La Xanh" size="166"><b>Trong tán tu ở khắp Thiên Nam</b></font>
+
+229
+00:17:16,820 --> 00:17:17,940
+<font face="UVN La Xanh" size="166"><b>Cũng coi như</b></font>
+
+230
+00:17:17,940 --> 00:17:19,140
+<font face="UVN La Xanh" size="166"><b>Xếp hạng rất cao</b></font>
+
+231
+00:17:20,060 --> 00:17:21,300
+<font face="UVN La Xanh" size="166"><b>Xuất thân người này</b></font>
+
+232
+00:17:21,300 --> 00:17:22,620
+<font face="UVN La Xanh" size="166"><b>Cũng ít có người biết</b></font>
+
+233
+00:17:23,140 --> 00:17:24,980
+<font face="UVN La Xanh" size="166"><b>Nếu còn qua lại với loại người đó</b></font>
+
+234
+00:17:25,660 --> 00:17:26,460
+<font face="UVN La Xanh" size="166"><b>Sư huynh</b></font>
+
+235
+00:17:26,660 --> 00:17:27,660
+<font face="UVN La Xanh" size="166"><b>Động tĩnh lúc nãy</b></font>
+
+236
+00:17:27,660 --> 00:17:29,180
+<font face="UVN La Xanh" size="166"><b>E là sẽ thu hút không ít tu sĩ</b></font>
+
+237
+00:17:29,620 --> 00:17:31,100
+<font face="UVN La Xanh" size="166"><b>Chi bằng bây giờ chúng ta</b></font>
+
+238
+00:17:31,100 --> 00:17:31,820
+<font face="UVN La Xanh" size="166"><b>Xuất phát</b></font>
+
+239
+00:17:33,180 --> 00:17:33,780
+<font face="UVN La Xanh" size="166"><b>Đúng đúng</b></font>
+
+240
+00:17:42,180 --> 00:17:44,340
+<font face="UVN La Xanh" size="166"><b>Lúc nãy mặc dù hơi hoảng hốt</b></font>
+
+241
+00:17:44,340 --> 00:17:45,220
+<font face="UVN La Xanh" size="166"><b>Nhưng</b></font>
+
+242
+00:17:45,220 --> 00:17:47,980
+<font face="UVN La Xanh" size="166"><b>Chuyện mà sư huynh và ta luôn tò mò về sư đệ</b></font>
+
+243
+00:17:48,340 --> 00:17:50,220
+<font face="UVN La Xanh" size="166"><b>Cuối cùng cũng có đáp án</b></font>
+
+244
+00:17:51,020 --> 00:17:52,100
+<font face="UVN La Xanh" size="166"><b>Là chuyện gì?</b></font>
+
+245
+00:17:52,780 --> 00:17:54,580
+<font face="UVN La Xanh" size="166"><b>Công pháp sư đệ chủ tu</b></font>
+
+246
+00:17:59,020 --> 00:18:00,740
+<font face="UVN La Xanh" size="166"><b>Là về mặt thần thức</b></font>
+
+247
+00:18:02,380 --> 00:18:03,940
+<font face="UVN La Xanh" size="166"><b>Còn có thể là gì được</b></font>
+
+248
+00:18:05,100 --> 00:18:06,660
+<font face="UVN La Xanh" size="166"><b>Nhưng sư đệ không cần lo</b></font>
+
+249
+00:18:07,260 --> 00:18:08,220
+<font face="UVN La Xanh" size="166"><b>Chúng ta</b></font>
+
+250
+00:18:08,220 --> 00:18:09,660
+<font face="UVN La Xanh" size="166"><b>Chỉ lo lắng suông</b></font>
+
+251
+00:18:10,540 --> 00:18:12,860
+<font face="UVN La Xanh" size="166"><b>Mặc dù không phải công pháp sát phạt</b></font>
+
+252
+00:18:13,700 --> 00:18:15,140
+<font face="UVN La Xanh" size="166"><b>Cũng không tính là</b></font>
+
+253
+00:18:15,140 --> 00:18:17,420
+<font face="UVN La Xanh" size="166"><b>Thần thông sắc bén bỏ trốn quỷ dị gì</b></font>
+
+254
+00:18:17,820 --> 00:18:19,180
+<font face="UVN La Xanh" size="166"><b>Cũng không phải</b></font>
+
+255
+00:18:19,180 --> 00:18:20,900
+<font face="UVN La Xanh" size="166"><b>Hỗ trợ trận pháp ngự thú</b></font>
+
+256
+00:18:21,140 --> 00:18:21,940
+<font face="UVN La Xanh" size="166"><b>Nhưng</b></font>
+
+257
+00:18:22,500 --> 00:18:24,100
+<font face="UVN La Xanh" size="166"><b>Tự bảo vệ là được</b></font>
+
+258
+00:18:27,700 --> 00:18:29,220
+<font face="UVN La Xanh" size="166"><b>Lạc Văn Tông chúng ta</b></font>
+
+259
+00:18:29,820 --> 00:18:31,140
+<font face="UVN La Xanh" size="166"><b>Có thể tự bảo vệ</b></font>
+
+260
+00:18:31,580 --> 00:18:33,020
+<font face="UVN La Xanh" size="166"><b>Là tốt lắm rồi</b></font>
+
+261
+00:18:49,980 --> 00:19:33,980
+<font face="UVN La Xanh" size="166"><b>{\an8}4K Eac3 5.1 PĐ_kimngonx5
+Donate hoặc mua Fshare Point ủng hộ. ZL, Momo, BIDV: 0848245445
+Cảm ơn mọi người, I L0v3 3000</b></font>
+
+262
+00:19:06,620 --> 00:19:09,460
+<font face="UTM Silk Script" size="166"><b>{\an1}♪ Thoát khỏi hồng trần ♪</b></font>
+
+263
+00:19:09,700 --> 00:19:12,740
+<font face="UTM Silk Script" size="166"><b>{\an1}♪ Đường dài không cần hỏi lối về ♪</b></font>
+
+264
+00:19:13,260 --> 00:19:15,460
+<font face="UTM Silk Script" size="166"><b>{\an1}♪ Tâm cảnh như nước đọng ♪</b></font>
+
+265
+00:19:15,460 --> 00:19:19,780
+<font face="UTM Silk Script" size="166"><b>{\an1}♪ Bên trong có càn khôn ♪</b></font>
+
+266
+00:19:20,900 --> 00:19:23,940
+<font face="UTM Silk Script" size="166"><b>{\an1}♪ Nửa đời trôi nổi ♪</b></font>
+
+267
+00:19:23,940 --> 00:19:27,540
+<font face="UTM Silk Script" size="166"><b>{\an1}♪ Đừng hỏi những chuyện cũ kiếp trước ♪</b></font>
+
+268
+00:19:27,540 --> 00:19:29,460
+<font face="UTM Silk Script" size="166"><b>{\an1}♪ Nguyện đôi bàn tay này ♪</b></font>
+
+269
+00:19:29,460 --> 00:19:32,780
+<font face="UTM Silk Script" size="166"><b>{\an1}♪ Có thể hái xuống sao trời ♪</b></font>
+
+270
+00:19:34,100 --> 00:19:36,380
+<font face="UTM Silk Script" size="166"><b>{\an1}♪ Đốt lên một ngọn minh đăng ♪</b></font>
+
+271
+00:19:36,380 --> 00:19:41,460
+<font face="UTM Silk Script" size="166"><b>{\an1}♪ Dạy ta tham ngộ vạn vật chúng sinh ♪</b></font>
+
+272
+00:19:41,980 --> 00:19:43,340
+<font face="UTM Silk Script" size="166"><b>{\an1}♪ Là ảo giác, là hư không ♪</b></font>
+
+273
+00:19:43,340 --> 00:19:48,180
+<font face="UTM Silk Script" size="166"><b>{\an1}♪ Là ai mang linh hồn của ta đi ♪</b></font>
+
+274
+00:19:51,740 --> 00:19:56,100
+<font face="UTM Silk Script" size="166"><b>{\an1}♪ Để ta nghiêng ngả, lảo đảo, chìm chìm, nổi nổi, qua một đời ♪</b></font>
+
+275
+00:19:56,300 --> 00:19:59,820
+<font face="UTM Silk Script" size="166"><b>{\an1}♪ Dám yêu dám hận thống khoái, như thiêu thân lao đầu vào lửa  ♪</b></font>
+
+276
+00:19:59,820 --> 00:20:05,780
+<font face="UTM Silk Script" size="166"><b>{\an1}♪ Quá nhiều quấy nhiễu, quá nhiều chấp niệm. Hà tất nghiêm túc quá làm gì ♪</b></font>
+
+277
+00:20:06,140 --> 00:20:10,420
+<font face="UTM Silk Script" size="166"><b>{\an1}♪ Nhìn rõ thấu thấu, triệt triệt, rõ rõ, ràng ràng mỗi một tấc ♪</b></font>
+
+278
+00:20:10,420 --> 00:20:14,060
+<font face="UTM Silk Script" size="166"><b>{\an1}♪ Ai cùng ta đẩy cánh cửa của giác ngộ này ♪</b></font>
+
+279
+00:20:14,060 --> 00:20:20,180
+<font face="UTM Silk Script" size="166"><b>{\an1}♪ Tụ tán ly hợp, cười cái là qua. Ngươi ta đều là phàm nhân ♪</b></font>
+
