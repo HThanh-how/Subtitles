@@ -1,0 +1,44 @@
+[
+  {
+    "old_name": "Blackpink.Light.Up.the.Sky.2020.2160p.WEB.x265-LiQUiD.mkv",
+    "new_name": "Blackpink.Light.Up.the.Sky.2020.2160p.WEB.x265-LiQUiD_vie.srt",
+    "timestamp": "2025-11-23T14:08:47.742409",
+    "signature": "9475834111_4776.807000",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Blackpink.Light.Up.the.Sky.2020.2160p.WEB.x265-LiQUiD_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251123_140847_Blackpink.Light.Up.the.Sky.2020.2160p.WEB.x265-LiQUiD_vie.srt"
+  },
+  {
+    "old_name": "Blackpink.Light.Up.the.Sky.2020.2160p.WEB.x265-LiQUiD.mkv",
+    "new_name": "4K_ENG_Blackpink.Light.Up.the.Sky.2020.2160p.WEB.x265-LiQUiD.mkv",
+    "timestamp": "2025-11-23T14:08:50.019496",
+    "signature": "9475834111_4776.807000",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_ENG_Blackpink.Light.Up.the.Sky.2020.2160p.WEB.x265-LiQUiD.mkv",
+    "language": null,
+    "notes": null
+  },
+  {
+    "old_name": "BLACKPINK.The.Movie.2021.1080p.DSNP.WEB-DL.DDP5.1.H.264-Imagine.mkv",
+    "new_name": "BLACKPINK.The.Movie.2021.1080p.DSNP.WEB-DL.DDP5.1.H.264-Imagine_vie.srt",
+    "timestamp": "2025-11-23T14:09:24.377331",
+    "signature": "6143949956_9250.000000",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\BLACKPINK.The.Movie.2021.1080p.DSNP.WEB-DL.DDP5.1.H.264-Imagine_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251123_140924_BLACKPINK.The.Movie.2021.1080p.DSNP.WEB-DL.DDP5.1.H.264-Imagine_vie.srt"
+  },
+  {
+    "old_name": "BLACKPINK.The.Movie.2021.1080p.DSNP.WEB-DL.DDP5.1.H.264-Imagine.mkv",
+    "new_name": "FHD_KOR_BLACKPINK.The.Movie.2021.1080p.DSNP.WEB-DL.DDP5.1.H.264-Imagine.mkv",
+    "timestamp": "2025-11-23T14:09:26.191618",
+    "signature": "6143949956_9250.000000",
+    "category": "video",
+    "output_path": "D:\\Video\\FHD_KOR_BLACKPINK.The.Movie.2021.1080p.DSNP.WEB-DL.DDP5.1.H.264-Imagine.mkv",
+    "language": null,
+    "notes": null
+  }
+]
