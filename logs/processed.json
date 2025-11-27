@@ -4317,5 +4317,79 @@
     "timestamp": "2025-08-23 13:42:09",
     "signature": "",
     "category": "video"
+  },
+  {
+    "old_name": "Mission.Impossible.The.Final.Reckoning.2025.IMAX.2160p.AMZN.WEB-DL.DDP5.1.H.265-WADU (Sub Viet).mkv",
+    "new_name": "Mission.Impossible.The.Final.Reckoning.2025.IMAX.2160p.AMZN.WEB-DL.DDP5.1.H.265-WADU (Sub Viet)_vie.srt",
+    "timestamp": "2025-11-27T10:10:02.900789",
+    "signature": "19863319504_10374.948000_2_eng,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Mission.Impossible.The.Final.Reckoning.2025.IMAX.2160p.AMZN.WEB-DL.DDP5.1.H.265-WADU (Sub Viet)_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251127_101002_Mission.Impossible.The.Final.Reckoning.2025.IMAX.2160p.AMZN.WEB-DL.DDP5.1.H.265-WADU (Sub Viet)_vie.srt"
+  },
+  {
+    "old_name": "Mission.Impossible.The.Final.Reckoning.2025.IMAX.2160p.AMZN.WEB-DL.DDP5.1.H.265-WADU (Sub Viet).mkv",
+    "new_name": "4K_ENG_English_Mission.Impossible.The.Final.Reckoning.2025.IMAX.2160p.AMZN.WEB-DL.DDP5.1.H.265-WADU (Sub Viet).mkv",
+    "timestamp": "2025-11-27T10:10:05.782497",
+    "signature": "19863319504_10374.948000_2_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_ENG_English_Mission.Impossible.The.Final.Reckoning.2025.IMAX.2160p.AMZN.WEB-DL.DDP5.1.H.265-WADU (Sub Viet).mkv",
+    "language": null,
+    "notes": null
+  },
+  {
+    "old_name": "New.Kung.Fu.Cult.Master.I.2022.ViE-Sub.2160p.WEB-DL.DDP5.1.H.265-Dave-Thuyetminh-Vietsub.mkv",
+    "new_name": "New.Kung.Fu.Cult.Master.I.2022.ViE-Sub.2160p.WEB-DL.DDP5.1.H.265-Dave-Thuyetminh-Vietsub_vie.srt",
+    "timestamp": "2025-11-27T10:13:03.232263",
+    "signature": "14184819086_6829.760000_2_vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\New.Kung.Fu.Cult.Master.I.2022.ViE-Sub.2160p.WEB-DL.DDP5.1.H.265-Dave-Thuyetminh-Vietsub_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251127_101303_New.Kung.Fu.Cult.Master.I.2022.ViE-Sub.2160p.WEB-DL.DDP5.1.H.265-Dave-Thuyetminh-Vietsub_vie.srt"
+  },
+  {
+    "old_name": "New.Kung.Fu.Cult.Master.I.2022.ViE-Sub.2160p.WEB-DL.DDP5.1.H.265-Dave-Thuyetminh-Vietsub.mkv",
+    "new_name": "New.Kung.Fu.Cult.Master.I.2022.ViE-Sub.2160p.WEB-DL.DDP5.1.H.265-Dave-Thuyetminh-Vietsub_vie.srt",
+    "timestamp": "2025-11-27T10:13:05.200950",
+    "signature": "14184819086_6829.760000_2_vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\New.Kung.Fu.Cult.Master.I.2022.ViE-Sub.2160p.WEB-DL.DDP5.1.H.265-Dave-Thuyetminh-Vietsub_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251127_101305_New.Kung.Fu.Cult.Master.I.2022.ViE-Sub.2160p.WEB-DL.DDP5.1.H.265-Dave-Thuyetminh-Vietsub_vie.srt"
+  },
+  {
+    "old_name": "New.Kung.Fu.Cult.Master.I.2022.ViE-Sub.2160p.WEB-DL.DDP5.1.H.265-Dave-Thuyetminh-Vietsub.mkv",
+    "new_name": "4K_CHI_粤语_New.Kung.Fu.Cult.Master.I.2022.ViE-Sub.2160p.WEB-DL.DDP5.1.H.265-Dave-Thuyetminh-Vietsub.mkv",
+    "timestamp": "2025-11-27T10:22:03.870741",
+    "signature": "14184819086_6829.760000_2_vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_CHI_粤语_New.Kung.Fu.Cult.Master.I.2022.ViE-Sub.2160p.WEB-DL.DDP5.1.H.265-Dave-Thuyetminh-Vietsub.mkv",
+    "language": null,
+    "notes": null
+  },
+  {
+    "old_name": "Tron.Legacy.2010.2160p.x265.10bit.SDR.AC3.VN.mkv",
+    "new_name": "Tron.Legacy.2010.2160p.x265.10bit.SDR.AC3.VN_vie.srt",
+    "timestamp": "2025-11-27T10:24:38.041686",
+    "signature": "8674181120_7508.736000_1_vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Tron.Legacy.2010.2160p.x265.10bit.SDR.AC3.VN_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251127_102438_Tron.Legacy.2010.2160p.x265.10bit.SDR.AC3.VN_vie.srt"
+  },
+  {
+    "old_name": "Tron.Legacy.2010.2160p.x265.10bit.SDR.AC3.VN.mkv",
+    "new_name": "4K_VIE_Tron.Legacy.2010.2160p.x265.10bit.SDR.AC3.VN.mkv",
+    "timestamp": "2025-11-27T10:30:44.055041",
+    "signature": "8674181120_7508.736000_1_vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_VIE_Tron.Legacy.2010.2160p.x265.10bit.SDR.AC3.VN.mkv",
+    "language": null,
+    "notes": null
   }
 ]
