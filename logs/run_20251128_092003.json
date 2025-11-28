@@ -1,0 +1,23 @@
+[
+  {
+    "old_name": "Lilo.and.Stitch.2025.2160p.AMZN.WEB-DL.DDP5.1.Atmos.H.265-BYNDR(Vietsub).mkv",
+    "new_name": "Lilo.and.Stitch.2025.2160p.AMZN.WEB-DL.DDP5.1.Atmos.H.265-BYNDR(Vietsub)_vie.srt",
+    "timestamp": "2025-11-28T09:19:03.220794",
+    "signature": "12762547801_6563.959000_5_eng,fre,spa,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Lilo.and.Stitch.2025.2160p.AMZN.WEB-DL.DDP5.1.Atmos.H.265-BYNDR(Vietsub)_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251128_091903_Lilo.and.Stitch.2025.2160p.AMZN.WEB-DL.DDP5.1.Atmos.H.265-BYNDR(Vietsub)_vie.srt"
+  },
+  {
+    "old_name": "Lilo.and.Stitch.2025.2160p.AMZN.WEB-DL.DDP5.1.Atmos.H.265-BYNDR(Vietsub).mkv",
+    "new_name": "4K_ENG_Lilo.and.Stitch.2025.2160p.AMZN.WEB-DL.DDP5.1.Atmos.H.265-BYNDR(Vietsub).mkv",
+    "timestamp": "2025-11-28T09:19:05.513268",
+    "signature": "12762547801_6563.959000_5_eng,fre,spa,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_ENG_Lilo.and.Stitch.2025.2160p.AMZN.WEB-DL.DDP5.1.Atmos.H.265-BYNDR(Vietsub).mkv",
+    "language": null,
+    "notes": null
+  }
+]
