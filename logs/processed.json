@@ -4422,5 +4422,26 @@
     "output_path": "D:\\Video\\4K_ENG_DTS-HD MA 7.1 @ 4702 kbps - Blu-ray EUR_Life.of.Pi.2012.ViE.2160p.UHD.BluRay.HDR.DTS-HD.MA.7.1.x265-ULTRAHDCLUB.mkv",
     "language": null,
     "notes": null
+  },
+  {
+    "old_name": "(Vietsub) Edge of Tomorrow.2014.2160p.UHD.BluRay.HDR.DoVi.TrueHD 7.1.Atmos.x265-SPHD-KM.mkv",
+    "new_name": "(Vietsub) Edge of Tomorrow.2014.2160p.UHD.BluRay.HDR.DoVi.TrueHD 7.1.Atmos.x265-SPHD-KM_vie.srt",
+    "timestamp": "2025-11-30T12:06:23.795010",
+    "signature": "39133988841_6807.808000_37_ara,bul,chi,cze,dan,dut,eng,est,fin,fre,ger,heb,hrv,hun,ice,ind,ita,jpn,kor,lav,lit,nor,pol,por,rum,rus,slv,spa,srp,swe,tha,tur,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\(Vietsub) Edge of Tomorrow.2014.2160p.UHD.BluRay.HDR.DoVi.TrueHD 7.1.Atmos.x265-SPHD-KM_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251130_120623_(Vietsub) Edge of Tomorrow.2014.2160p.UHD.BluRay.HDR.DoVi.TrueHD 7.1.Atmos.x265-SPHD-KM_vie.srt"
+  },
+  {
+    "old_name": "(Vietsub) Edge of Tomorrow.2014.2160p.UHD.BluRay.HDR.DoVi.TrueHD 7.1.Atmos.x265-SPHD-KM.mkv",
+    "new_name": "4K_ENG_(Vietsub) Edge of Tomorrow.2014.2160p.UHD.BluRay.HDR.DoVi.TrueHD 7.1.Atmos.x265-SPHD-KM.mkv",
+    "timestamp": "2025-11-30T12:06:26.197476",
+    "signature": "39133988841_6807.808000_37_ara,bul,chi,cze,dan,dut,eng,est,fin,fre,ger,heb,hrv,hun,ice,ind,ita,jpn,kor,lav,lit,nor,pol,por,rum,rus,slv,spa,srp,swe,tha,tur,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_ENG_(Vietsub) Edge of Tomorrow.2014.2160p.UHD.BluRay.HDR.DoVi.TrueHD 7.1.Atmos.x265-SPHD-KM.mkv",
+    "language": null,
+    "notes": null
   }
 ]
