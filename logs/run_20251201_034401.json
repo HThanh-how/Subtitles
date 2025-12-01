@@ -1,0 +1,22 @@
+[
+  {
+    "old_name": "The.Great.Gatsby.2013.ViE.1080p.BluRay.DTS.x264.mkv",
+    "new_name": "FHD_ENG_Eng DTS @ 1510 Kbps_The.Great.Gatsby.2013.ViE.1080p.BluRay.DTS.x264.mkv",
+    "timestamp": "2025-12-01T03:44:01.335863",
+    "signature": "15689245623_8525.728000_3_eng,fre,vie",
+    "category": "video",
+    "output_path": "E:\\Original\\FHD_ENG_Eng DTS @ 1510 Kbps_The.Great.Gatsby.2013.ViE.1080p.BluRay.DTS.x264.mkv",
+    "language": "eng",
+    "notes": null
+  },
+  {
+    "old_name": "The.Great.Gatsby.2013.ViE.1080p.BluRay.DTS.x264.mkv",
+    "new_name": "FHD_VIE_ViE DTS @ 1510 Kbps_The.Great.Gatsby.2013.ViE.1080p.BluRay.DTS.x264.mkv",
+    "timestamp": "2025-12-01T03:44:01.604457",
+    "signature": "15689245623_8525.728000_3_eng,fre,vie",
+    "category": "video",
+    "output_path": "E:\\FHD_VIE_ViE DTS @ 1510 Kbps_The.Great.Gatsby.2013.ViE.1080p.BluRay.DTS.x264.mkv",
+    "language": null,
+    "notes": null
+  }
+]
