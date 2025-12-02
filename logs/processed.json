@@ -4538,5 +4538,37 @@
     "language": "vie",
     "notes": null,
     "remote_path": "subtitles/20251202_070848_The.Great.Gatsby.2013.ViE.1080p.BluRay.DTS.x264_vie.srt"
+  },
+  {
+    "old_name": "Troll.2.2025.ViE.2160p.NF.WEB-DL.DDP.5.1.Atmos.HDR10.H.265-CHDWEB_(1).mkv",
+    "new_name": "Troll.2.2025.ViE.2160p.NF.WEB-DL.DDP.5.1.Atmos.HDR10.H.265-CHDWEB_(1)_vie.srt",
+    "timestamp": "2025-12-02T08:10:04.756874",
+    "signature": "15166144671_6290.688000_63_ara,baq,cat,chi,cze,dan,dut,eng,fil,fin,fre,ger,glg,gre,heb,hrv,hun,ice,ind,ita,jpn,kor,may,nob,pol,por,rum,rus,spa,swe,tha,tur,ukr,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Troll.2.2025.ViE.2160p.NF.WEB-DL.DDP.5.1.Atmos.HDR10.H.265-CHDWEB_(1)_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251202_081004_Troll.2.2025.ViE.2160p.NF.WEB-DL.DDP.5.1.Atmos.HDR10.H.265-CHDWEB_(1)_vie.srt"
+  },
+  {
+    "old_name": "Troll.2.2025.ViE.2160p.NF.WEB-DL.DDP.5.1.Atmos.HDR10.H.265-CHDWEB_(1).mkv",
+    "new_name": "Troll.2.2025.ViE.2160p.NF.WEB-DL.DDP.5.1.Atmos.HDR10.H.265-CHDWEB_(1)_vie.srt",
+    "timestamp": "2025-12-02T08:10:06.615451",
+    "signature": "15166144671_6290.688000_63_ara,baq,cat,chi,cze,dan,dut,eng,fil,fin,fre,ger,glg,gre,heb,hrv,hun,ice,ind,ita,jpn,kor,may,nob,pol,por,rum,rus,spa,swe,tha,tur,ukr,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Troll.2.2025.ViE.2160p.NF.WEB-DL.DDP.5.1.Atmos.HDR10.H.265-CHDWEB_(1)_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251202_081006_Troll.2.2025.ViE.2160p.NF.WEB-DL.DDP.5.1.Atmos.HDR10.H.265-CHDWEB_(1)_vie.srt"
+  },
+  {
+    "old_name": "Troll.2.2025.ViE.2160p.NF.WEB-DL.DDP.5.1.Atmos.HDR10.H.265-CHDWEB_(1).mkv",
+    "new_name": "4K_NOB_Troll.2.2025.ViE.2160p.NF.WEB-DL.DDP.5.1.Atmos.HDR10.H.265-CHDWEB_(1).mkv",
+    "timestamp": "2025-12-02T08:16:10.824687",
+    "signature": "15166144671_6290.688000_63_ara,baq,cat,chi,cze,dan,dut,eng,fil,fin,fre,ger,glg,gre,heb,hrv,hun,ice,ind,ita,jpn,kor,may,nob,pol,por,rum,rus,spa,swe,tha,tur,ukr,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Original\\4K_NOB_Troll.2.2025.ViE.2160p.NF.WEB-DL.DDP.5.1.Atmos.HDR10.H.265-CHDWEB_(1).mkv",
+    "language": "nob",
+    "notes": null
   }
 ]
