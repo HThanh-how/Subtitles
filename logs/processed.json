@@ -4737,5 +4737,15 @@
     "output_path": "D:\\Video\\Original\\FHD_ENG_English DTS 5.1 @ 1510 Kbps_Tangled.2010.ViE.1080p.BluRay.x264-CtrlHD.VAV.mkv",
     "language": "eng",
     "notes": null
+  },
+  {
+    "old_name": "Tangled.2010.ViE.DUB.2160p.UHD.Blu-ray.REMUX.HEVC.HDR.DDP.Atmos.5.1-SSTV.mkv",
+    "new_name": "4K_VIE_Tiếng Việt _ Lồng tiếng _ AAC 2.0 #192kbps_Tangled.2010.ViE.DUB.2160p.UHD.Blu-ray.REMUX.HEVC.HDR.DDP.Atmos.5.1-SSTV.mkv",
+    "timestamp": "2025-12-09T08:21:22.709433",
+    "signature": "40249702888_6017.637000_2_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Lồng Tiếng - Thuyết Minh\\4K_VIE_Tiếng Việt _ Lồng tiếng _ AAC 2.0 #192kbps_Tangled.2010.ViE.DUB.2160p.UHD.Blu-ray.REMUX.HEVC.HDR.DDP.Atmos.5.1-SSTV.mkv",
+    "language": "vie",
+    "notes": null
   }
 ]
