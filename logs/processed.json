@@ -4716,5 +4716,26 @@
     "output_path": "D:\\Video\\Original\\4K_CHI_[国语] DTS环绕声_Hit.N.Fun.2025.ViE.AI.WEB-DL.2160p.60fps.HDR.DTS.x265.mkv",
     "language": "chi",
     "notes": null
+  },
+  {
+    "old_name": "Tangled.2010.ViE.1080p.BluRay.x264-CtrlHD.VAV.mkv",
+    "new_name": "Tangled.2010.ViE.1080p.BluRay.x264-CtrlHD.VAV_vie.srt",
+    "timestamp": "2025-12-09T06:26:18.884464",
+    "signature": "9668384894_6017.174000_3_eng,fre,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Tangled.2010.ViE.1080p.BluRay.x264-CtrlHD.VAV_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251209_062618_Tangled.2010.ViE.1080p.BluRay.x264-CtrlHD.VAV_vie.srt"
+  },
+  {
+    "old_name": "Tangled.2010.ViE.1080p.BluRay.x264-CtrlHD.VAV.mkv",
+    "new_name": "FHD_ENG_English DTS 5.1 @ 1510 Kbps_Tangled.2010.ViE.1080p.BluRay.x264-CtrlHD.VAV.mkv",
+    "timestamp": "2025-12-09T06:29:54.284760",
+    "signature": "9668384894_6017.174000_3_eng,fre,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Original\\FHD_ENG_English DTS 5.1 @ 1510 Kbps_Tangled.2010.ViE.1080p.BluRay.x264-CtrlHD.VAV.mkv",
+    "language": "eng",
+    "notes": null
   }
 ]
