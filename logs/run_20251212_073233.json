@@ -1,0 +1,23 @@
+[
+  {
+    "old_name": "Encanto.2021.2160p.10bit.HDR.BluRay.DTS-HD.MA.7.1.x265.HEVC-PSA_Remuxed.mkv",
+    "new_name": "Encanto.2021.2160p.10bit.HDR.BluRay.DTS-HD.MA.7.1.x265.HEVC-PSA_Remuxed_vie.srt",
+    "timestamp": "2025-12-12T07:31:29.613887",
+    "signature": "7071106133_6127.050000_4_eng,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Encanto.2021.2160p.10bit.HDR.BluRay.DTS-HD.MA.7.1.x265.HEVC-PSA_Remuxed_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251212_073129_Encanto.2021.2160p.10bit.HDR.BluRay.DTS-HD.MA.7.1.x265.HEVC-PSA_Remuxed_vie.srt"
+  },
+  {
+    "old_name": "Encanto.2021.2160p.10bit.HDR.BluRay.DTS-HD.MA.7.1.x265.HEVC-PSA_Remuxed.mkv",
+    "new_name": "4K_ENG_Encanto.2021.2160p.10bit.HDR.BluRay.DTS-HD.MA.7.1.x265.HEVC-PSA_Remuxed.mkv",
+    "timestamp": "2025-12-12T07:31:31.761004",
+    "signature": "7071106133_6127.050000_4_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_ENG_Encanto.2021.2160p.10bit.HDR.BluRay.DTS-HD.MA.7.1.x265.HEVC-PSA_Remuxed.mkv",
+    "language": null,
+    "notes": null
+  }
+]
