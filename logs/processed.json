@@ -4790,5 +4790,79 @@
     "output_path": "D:\\Video\\4K_ENG_Encanto.2021.2160p.10bit.HDR.BluRay.DTS-HD.MA.7.1.x265.HEVC-PSA_Remuxed.mkv",
     "language": null,
     "notes": null
+  },
+  {
+    "old_name": "(TM_SV) Chainsaw.Man.The.Movie.-.Reze.Arc.2025.ViE.AI.2160p.WEB-DL.DUAL.DDP5.1.DV.HDR10.H.265-WADU.mkv",
+    "new_name": "(TM_SV) Chainsaw.Man.The.Movie.-.Reze.Arc.2025.ViE.AI.2160p.WEB-DL.DUAL.DDP5.1.DV.HDR10.H.265-WADU_vie.srt",
+    "timestamp": "2025-12-12T09:36:03.879814",
+    "signature": "19648541112_6015.520000_34_ara,bul,chi,cze,dan,dut,eng,est,fin,fre,ger,gre,heb,hun,ind,ita,kor,lav,lit,nor,por,slo,slv,spa,swe,tha,ukr,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\(TM_SV) Chainsaw.Man.The.Movie.-.Reze.Arc.2025.ViE.AI.2160p.WEB-DL.DUAL.DDP5.1.DV.HDR10.H.265-WADU_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251212_093603_(TM_SV) Chainsaw.Man.The.Movie.-.Reze.Arc.2025.ViE.AI.2160p.WEB-DL.DUAL.DDP5.1.DV.HDR10.H.265-WADU_vie.srt"
+  },
+  {
+    "old_name": "(TM_SV) Chainsaw.Man.The.Movie.-.Reze.Arc.2025.ViE.AI.2160p.WEB-DL.DUAL.DDP5.1.DV.HDR10.H.265-WADU.mkv",
+    "new_name": "4K_JPN_(TM_SV) Chainsaw.Man.The.Movie.-.Reze.Arc.2025.ViE.AI.2160p.WEB-DL.DUAL.DDP5.1.DV.HDR10.H.265-WADU.mkv",
+    "timestamp": "2025-12-12T09:44:01.245838",
+    "signature": "19648541112_6015.520000_34_ara,bul,chi,cze,dan,dut,eng,est,fin,fre,ger,gre,heb,hun,ind,ita,kor,lav,lit,nor,por,slo,slv,spa,swe,tha,ukr,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Original\\4K_JPN_(TM_SV) Chainsaw.Man.The.Movie.-.Reze.Arc.2025.ViE.AI.2160p.WEB-DL.DUAL.DDP5.1.DV.HDR10.H.265-WADU.mkv",
+    "language": "jpn",
+    "notes": null
+  },
+  {
+    "old_name": "(TM_SV) The.Running.Man.2025.ViE.AI.2160p.AMZN.WEB-DL.DV.HDR10.mkv",
+    "new_name": "(TM_SV) The.Running.Man.2025.ViE.AI.2160p.AMZN.WEB-DL.DV.HDR10_vie.srt",
+    "timestamp": "2025-12-12T09:47:14.976889",
+    "signature": "16695525768_8185.120000_3_eng,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\(TM_SV) The.Running.Man.2025.ViE.AI.2160p.AMZN.WEB-DL.DV.HDR10_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251212_094714_(TM_SV) The.Running.Man.2025.ViE.AI.2160p.AMZN.WEB-DL.DV.HDR10_vie.srt"
+  },
+  {
+    "old_name": "(TM_SV) The.Running.Man.2025.ViE.AI.2160p.AMZN.WEB-DL.DV.HDR10.mkv",
+    "new_name": "(TM_SV) The.Running.Man.2025.ViE.AI.2160p.AMZN.WEB-DL.DV.HDR10_vie.srt",
+    "timestamp": "2025-12-12T09:47:17.619845",
+    "signature": "16695525768_8185.120000_3_eng,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\(TM_SV) The.Running.Man.2025.ViE.AI.2160p.AMZN.WEB-DL.DV.HDR10_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251212_094717_(TM_SV) The.Running.Man.2025.ViE.AI.2160p.AMZN.WEB-DL.DV.HDR10_vie.srt"
+  },
+  {
+    "old_name": "(TM_SV) The.Running.Man.2025.ViE.AI.2160p.AMZN.WEB-DL.DV.HDR10.mkv",
+    "new_name": "4K_ENG_(TM_SV) The.Running.Man.2025.ViE.AI.2160p.AMZN.WEB-DL.DV.HDR10.mkv",
+    "timestamp": "2025-12-12T09:54:48.228241",
+    "signature": "16695525768_8185.120000_3_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Original\\4K_ENG_(TM_SV) The.Running.Man.2025.ViE.AI.2160p.AMZN.WEB-DL.DV.HDR10.mkv",
+    "language": "eng",
+    "notes": null
+  },
+  {
+    "old_name": "Avatar.The.Way.of.Water.2022.ViE.2160p.10bit.IMAX.MA.WEBRip.SDR.DDP5.1.Atmos.H.265.Homerander(4K60FPS - TM - PĐ).mkv",
+    "new_name": "Avatar.The.Way.of.Water.2022.ViE.2160p.10bit.IMAX.MA.WEBRip.SDR.DDP5.1.Atmos.H.265.Homerander(4K60FP_vie.srt",
+    "timestamp": "2025-12-12T10:03:55.117028",
+    "signature": "61015882833_11558.200000_4_eng,spa,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Avatar.The.Way.of.Water.2022.ViE.2160p.10bit.IMAX.MA.WEBRip.SDR.DDP5.1.Atmos.H.265.Homerander(4K60FP_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251212_100355_Avatar.The.Way.of.Water.2022.ViE.2160p.10bit.IMAX.MA.WEBRip.SDR.DDP5.1.Atmos.H.265.Homerander(4K60FP_vie.srt"
+  },
+  {
+    "old_name": "Avatar.The.Way.of.Water.2022.ViE.2160p.10bit.IMAX.MA.WEBRip.SDR.DDP5.1.Atmos.H.265.Homerander(4K60FPS - TM - PĐ).mkv",
+    "new_name": "4K_ENG_Avatar.The.Way.of.Water.2022.ViE.2160p.10bit.IMAX.MA.WEBRip.SDR.DDP5.1.Atmos.H.265.Homerander(4K60FPS - TM - PĐ).mkv",
+    "timestamp": "2025-12-12T10:30:33.802619",
+    "signature": "61015882833_11558.200000_4_eng,spa,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Original\\4K_ENG_Avatar.The.Way.of.Water.2022.ViE.2160p.10bit.IMAX.MA.WEBRip.SDR.DDP5.1.Atmos.H.265.Homerander(4K60FPS - TM - PĐ).mkv",
+    "language": "eng",
+    "notes": null
   }
 ]
