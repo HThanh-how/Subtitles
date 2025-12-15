@@ -4864,5 +4864,47 @@
     "output_path": "D:\\Video\\Original\\4K_ENG_Avatar.The.Way.of.Water.2022.ViE.2160p.10bit.IMAX.MA.WEBRip.SDR.DDP5.1.Atmos.H.265.Homerander(4K60FPS - TM - PĐ).mkv",
     "language": "eng",
     "notes": null
+  },
+  {
+    "old_name": "(Sub Viet) Ninja III The Domination 1984 Remux 2160p USA UHD Blu-ray DV HDR HEVC DTS-HD MA 2.0.mkv",
+    "new_name": "(Sub Viet) Ninja III The Domination 1984 Remux 2160p USA UHD Blu-ray DV HDR HEVC DTS-HD MA 2.0_vie.srt",
+    "timestamp": "2025-12-15T03:52:26.177073",
+    "signature": "69288466745_5600.022000_2_eng,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\(Sub Viet) Ninja III The Domination 1984 Remux 2160p USA UHD Blu-ray DV HDR HEVC DTS-HD MA 2.0_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251215_035226_(Sub Viet) Ninja III The Domination 1984 Remux 2160p USA UHD Blu-ray DV HDR HEVC DTS-HD MA 2.0_vie.srt"
+  },
+  {
+    "old_name": "(Sub Viet) Ninja III The Domination 1984 Remux 2160p USA UHD Blu-ray DV HDR HEVC DTS-HD MA 2.0.mkv",
+    "new_name": "4K_ENG_(Sub Viet) Ninja III The Domination 1984 Remux 2160p USA UHD Blu-ray DV HDR HEVC DTS-HD MA 2.0.mkv",
+    "timestamp": "2025-12-15T03:52:28.258332",
+    "signature": "69288466745_5600.022000_2_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_ENG_(Sub Viet) Ninja III The Domination 1984 Remux 2160p USA UHD Blu-ray DV HDR HEVC DTS-HD MA 2.0.mkv",
+    "language": null,
+    "notes": null
+  },
+  {
+    "old_name": "(Sub Viet) Revenge of the Ninja 1983 Remux 2160p USA UHD Blu-ray DV HDR HEVC DTS-HD MA 2.0.mkv",
+    "new_name": "(Sub Viet) Revenge of the Ninja 1983 Remux 2160p USA UHD Blu-ray DV HDR HEVC DTS-HD MA 2.0_vie.srt",
+    "timestamp": "2025-12-15T04:03:06.312531",
+    "signature": "66138965338_5407.158000_2_eng,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\(Sub Viet) Revenge of the Ninja 1983 Remux 2160p USA UHD Blu-ray DV HDR HEVC DTS-HD MA 2.0_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251215_040306_(Sub Viet) Revenge of the Ninja 1983 Remux 2160p USA UHD Blu-ray DV HDR HEVC DTS-HD MA 2.0_vie.srt"
+  },
+  {
+    "old_name": "(Sub Viet) Revenge of the Ninja 1983 Remux 2160p USA UHD Blu-ray DV HDR HEVC DTS-HD MA 2.0.mkv",
+    "new_name": "4K_ENG_(Sub Viet) Revenge of the Ninja 1983 Remux 2160p USA UHD Blu-ray DV HDR HEVC DTS-HD MA 2.0.mkv",
+    "timestamp": "2025-12-15T04:03:08.420062",
+    "signature": "66138965338_5407.158000_2_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_ENG_(Sub Viet) Revenge of the Ninja 1983 Remux 2160p USA UHD Blu-ray DV HDR HEVC DTS-HD MA 2.0.mkv",
+    "language": null,
+    "notes": null
   }
 ]
