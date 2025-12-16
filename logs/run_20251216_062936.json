@@ -1,0 +1,54 @@
+[
+  {
+    "old_name": "Now.You.See.Me.Now.You.Dont.2025.ViE.AI.2160p.AMZN.WEB-DL.DDP5.1.H.265.mkv",
+    "new_name": "Now.You.See.Me.Now.You.Dont.2025.ViE.AI.2160p.AMZN.WEB-DL.DDP5.1.H.265_vie.srt",
+    "timestamp": "2025-12-16T06:20:30.304637",
+    "signature": "10844715751_6775.518000_2_eng,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Now.You.See.Me.Now.You.Dont.2025.ViE.AI.2160p.AMZN.WEB-DL.DDP5.1.H.265_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251216_062030_Now.You.See.Me.Now.You.Dont.2025.ViE.AI.2160p.AMZN.WEB-DL.DDP5.1.H.265_vie.srt"
+  },
+  {
+    "old_name": "Now.You.See.Me.Now.You.Dont.2025.ViE.AI.2160p.AMZN.WEB-DL.DDP5.1.H.265.mkv",
+    "new_name": "2K_ENG_Now.You.See.Me.Now.You.Dont.2025.ViE.AI.2160p.AMZN.WEB-DL.DDP5.1.H.265.mkv",
+    "timestamp": "2025-12-16T06:25:04.498258",
+    "signature": "10844715751_6775.518000_2_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Original\\2K_ENG_Now.You.See.Me.Now.You.Dont.2025.ViE.AI.2160p.AMZN.WEB-DL.DDP5.1.H.265.mkv",
+    "language": "eng",
+    "notes": null
+  },
+  {
+    "old_name": "Now.You.See.Me.Now.You.Dont.2025.ViE.AI.2160p.AMZN.WEB-DL.DDP5.1.H.265.mkv",
+    "new_name": "2K_VIE_zinzuno AI_Now.You.See.Me.Now.You.Dont.2025.ViE.AI.2160p.AMZN.WEB-DL.DDP5.1.H.265.mkv",
+    "timestamp": "2025-12-16T06:25:04.816258",
+    "signature": "10844715751_6775.518000_2_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\2K_VIE_zinzuno AI_Now.You.See.Me.Now.You.Dont.2025.ViE.AI.2160p.AMZN.WEB-DL.DDP5.1.H.265.mkv",
+    "language": null,
+    "notes": null
+  },
+  {
+    "old_name": "Saving.Private.Ryan.1998.Hybrid.2160p.UHD.BluRay.DV.HDR10.DDP7.1.x265-BiTOR-Vietsub.mkv",
+    "new_name": "Saving.Private.Ryan.1998.Hybrid.2160p.UHD.BluRay.DV.HDR10.DDP7.1.x265-BiTOR-Vietsub_vie.srt",
+    "timestamp": "2025-12-16T06:28:28.538029",
+    "signature": "21710901478_10166.848000_36_ara,chi,cze,dan,dut,eng,est,fin,fre,ger,gre,heb,hin,hun,ice,ita,jpn,kor,lav,lit,may,nor,pol,por,rum,rus,spa,swe,tha,tur,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Saving.Private.Ryan.1998.Hybrid.2160p.UHD.BluRay.DV.HDR10.DDP7.1.x265-BiTOR-Vietsub_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251216_062828_Saving.Private.Ryan.1998.Hybrid.2160p.UHD.BluRay.DV.HDR10.DDP7.1.x265-BiTOR-Vietsub_vie.srt"
+  },
+  {
+    "old_name": "Saving.Private.Ryan.1998.Hybrid.2160p.UHD.BluRay.DV.HDR10.DDP7.1.x265-BiTOR-Vietsub.mkv",
+    "new_name": "4K_ENG_7.1 BiTOR_Saving.Private.Ryan.1998.Hybrid.2160p.UHD.BluRay.DV.HDR10.DDP7.1.x265-BiTOR-Vietsub.mkv",
+    "timestamp": "2025-12-16T06:28:30.857995",
+    "signature": "21710901478_10166.848000_36_ara,chi,cze,dan,dut,eng,est,fin,fre,ger,gre,heb,hin,hun,ice,ita,jpn,kor,lav,lit,may,nor,pol,por,rum,rus,spa,swe,tha,tur,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_ENG_7.1 BiTOR_Saving.Private.Ryan.1998.Hybrid.2160p.UHD.BluRay.DV.HDR10.DDP7.1.x265-BiTOR-Vietsub.mkv",
+    "language": null,
+    "notes": null
+  }
+]
