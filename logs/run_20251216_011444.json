@@ -1,0 +1,33 @@
+[
+  {
+    "old_name": "A Writers Odyssey 2021 ViE BluRay 1080p TrueHD 5.1 x264-CHD.mkv",
+    "new_name": "A Writers Odyssey 2021 ViE BluRay 1080p TrueHD 5.1 x264-CHD_vie.srt",
+    "timestamp": "2025-12-16T01:06:39.104342",
+    "signature": "18152384296_7790.070000_7_chi,eng,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\A Writers Odyssey 2021 ViE BluRay 1080p TrueHD 5.1 x264-CHD_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251216_010639_A Writers Odyssey 2021 ViE BluRay 1080p TrueHD 5.1 x264-CHD_vie.srt"
+  },
+  {
+    "old_name": "A Writers Odyssey 2021 ViE BluRay 1080p TrueHD 5.1 x264-CHD.mkv",
+    "new_name": "FHD_VIE_AUV_A Writers Odyssey 2021 ViE BluRay 1080p TrueHD 5.1 x264-CHD.mkv",
+    "timestamp": "2025-12-16T01:13:43.038060",
+    "signature": "18152384296_7790.070000_7_chi,eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Lồng Tiếng - Thuyết Minh\\FHD_VIE_AUV_A Writers Odyssey 2021 ViE BluRay 1080p TrueHD 5.1 x264-CHD.mkv",
+    "language": "vie",
+    "notes": null
+  },
+  {
+    "old_name": "A Writers Odyssey 2021 ViE BluRay 1080p TrueHD 5.1 x264-CHD.mkv",
+    "new_name": "FHD_CHI_A Writers Odyssey 2021 ViE BluRay 1080p TrueHD 5.1 x264-CHD.mkv",
+    "timestamp": "2025-12-16T01:13:43.476777",
+    "signature": "18152384296_7790.070000_7_chi,eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\FHD_CHI_A Writers Odyssey 2021 ViE BluRay 1080p TrueHD 5.1 x264-CHD.mkv",
+    "language": null,
+    "notes": null
+  }
+]
