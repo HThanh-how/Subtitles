@@ -5095,5 +5095,37 @@
     "output_path": "D:\\Video\\Lồng Tiếng - Thuyết Minh\\4K_VIE_Lồng Tiếng_Soul.2020.VIE.DUB.2160p.HDR.BluRay.DDP5.1.x265.10bit.HEVC-QTZ_Remuxed.mkv",
     "language": "vie",
     "notes": null
+  },
+  {
+    "old_name": "(TM_SV) Sisu.Road.to.Revenge.2025.ViE.AI.2160p.iT.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-WADU.mkv",
+    "new_name": "(TM_SV) Sisu.Road.to.Revenge.2025.ViE.AI.2160p.iT.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-WADU_vie.srt",
+    "timestamp": "2025-12-18T02:16:36.930504",
+    "signature": "17413144552_5354.976000_36_ara,bul,chi,cze,dan,dut,eng,est,fre,ger,gre,heb,hun,ind,ita,kor,lav,lit,nor,pol,por,slo,slv,spa,swe,tha,tur,ukr,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\(TM_SV) Sisu.Road.to.Revenge.2025.ViE.AI.2160p.iT.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-WADU_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251218_021636_(TM_SV) Sisu.Road.to.Revenge.2025.ViE.AI.2160p.iT.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-WADU_vie.srt"
+  },
+  {
+    "old_name": "(TM_SV) Sisu.Road.to.Revenge.2025.ViE.AI.2160p.iT.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-WADU.mkv",
+    "new_name": "(TM_SV) Sisu.Road.to.Revenge.2025.ViE.AI.2160p.iT.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-WADU_vie.srt",
+    "timestamp": "2025-12-18T02:16:38.876384",
+    "signature": "17413144552_5354.976000_36_ara,bul,chi,cze,dan,dut,eng,est,fre,ger,gre,heb,hun,ind,ita,kor,lav,lit,nor,pol,por,slo,slv,spa,swe,tha,tur,ukr,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\(TM_SV) Sisu.Road.to.Revenge.2025.ViE.AI.2160p.iT.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-WADU_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251218_021638_(TM_SV) Sisu.Road.to.Revenge.2025.ViE.AI.2160p.iT.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-WADU_vie.srt"
+  },
+  {
+    "old_name": "(TM_SV) Sisu.Road.to.Revenge.2025.ViE.AI.2160p.iT.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-WADU.mkv",
+    "new_name": "4K_ENG_English_(TM_SV) Sisu.Road.to.Revenge.2025.ViE.AI.2160p.iT.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-WADU.mkv",
+    "timestamp": "2025-12-18T02:23:59.375233",
+    "signature": "17413144552_5354.976000_36_ara,bul,chi,cze,dan,dut,eng,est,fre,ger,gre,heb,hun,ind,ita,kor,lav,lit,nor,pol,por,slo,slv,spa,swe,tha,tur,ukr,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Original\\4K_ENG_English_(TM_SV) Sisu.Road.to.Revenge.2025.ViE.AI.2160p.iT.WEB-DL.DDP5.1.Atmos.DV.HDR.H.265-WADU.mkv",
+    "language": "eng",
+    "notes": null
   }
 ]
