@@ -5187,5 +5187,36 @@
     "output_path": "D:\\Video\\Original\\FHD_ENG_Ice.Age.5.Collision.Course.2016.Vie.Dub.Bluray.1080p.x264.mkv",
     "language": "eng",
     "notes": null
+  },
+  {
+    "old_name": "Avatar.2009.IMAX.2160p.10bit.HDR.BluRay.TrueHD.Atmos.7.1.x265.HEVC-PSA_Remuxed.mkv",
+    "new_name": "Avatar.2009.IMAX.2160p.10bit.HDR.BluRay.TrueHD.Atmos.7.1.x265.HEVC-PSA_Remuxed_vie.srt",
+    "timestamp": "2025-12-20T08:10:21.849385",
+    "signature": "22223052968_9722.015000_2_eng,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Avatar.2009.IMAX.2160p.10bit.HDR.BluRay.TrueHD.Atmos.7.1.x265.HEVC-PSA_Remuxed_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251220_081021_Avatar.2009.IMAX.2160p.10bit.HDR.BluRay.TrueHD.Atmos.7.1.x265.HEVC-PSA_Remuxed_vie.srt"
+  },
+  {
+    "old_name": "Avatar.2009.IMAX.2160p.10bit.HDR.BluRay.TrueHD.Atmos.7.1.x265.HEVC-PSA_Remuxed.mkv",
+    "new_name": "4K_ENG_Avatar.2009.IMAX.2160p.10bit.HDR.BluRay.TrueHD.Atmos.7.1.x265.HEVC-PSA_Remuxed.mkv",
+    "timestamp": "2025-12-20T08:10:24.206809",
+    "signature": "22223052968_9722.015000_2_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_ENG_Avatar.2009.IMAX.2160p.10bit.HDR.BluRay.TrueHD.Atmos.7.1.x265.HEVC-PSA_Remuxed.mkv",
+    "language": null,
+    "notes": null
+  },
+  {
+    "old_name": "The.Green.Mile.1999.1080p.BluRay.DTS.dxva.x264.D-Z0N3.mkv",
+    "new_name": "FHD_ENG_D-Z0N3 HD DTS Audio @ 1536 Kbps_The.Green.Mile.1999.1080p.BluRay.DTS.dxva.x264.D-Z0N3.mkv",
+    "timestamp": "2025-12-20T08:10:24.757977",
+    "signature": "17700989932_11317.899000_1_eng",
+    "category": "video",
+    "output_path": "D:\\Video\\FHD_ENG_D-Z0N3 HD DTS Audio @ 1536 Kbps_The.Green.Mile.1999.1080p.BluRay.DTS.dxva.x264.D-Z0N3.mkv",
+    "language": null,
+    "notes": null
   }
 ]
