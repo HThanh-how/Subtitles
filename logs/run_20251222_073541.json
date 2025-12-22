@@ -1,0 +1,95 @@
+[
+  {
+    "old_name": "Inside.Out.2015.ViE.DUB.UHD.Remux.2160p.x265.10bit.HDR.Master5.mkv",
+    "new_name": "Inside.Out.2015.ViE.DUB.UHD.Remux.2160p.x265.10bit.HDR.Master5_vie.srt",
+    "timestamp": "2025-12-22T06:21:00.893642",
+    "signature": "42051091246_5679.675000_5_eng,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Inside.Out.2015.ViE.DUB.UHD.Remux.2160p.x265.10bit.HDR.Master5_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251222_062100_Inside.Out.2015.ViE.DUB.UHD.Remux.2160p.x265.10bit.HDR.Master5_vie.srt"
+  },
+  {
+    "old_name": "Inside.Out.2015.ViE.DUB.UHD.Remux.2160p.x265.10bit.HDR.Master5.mkv",
+    "new_name": "4K_ENG_Inside.Out.2015.ViE.DUB.UHD.Remux.2160p.x265.10bit.HDR.Master5.mkv",
+    "timestamp": "2025-12-22T06:48:31.974060",
+    "signature": "42051091246_5679.675000_5_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Original\\4K_ENG_Inside.Out.2015.ViE.DUB.UHD.Remux.2160p.x265.10bit.HDR.Master5.mkv",
+    "language": "eng",
+    "notes": null
+  },
+  {
+    "old_name": "Inside.Out.2015.ViE.DUB.UHD.Remux.2160p.x265.10bit.HDR.Master5.mkv",
+    "new_name": "4K_VIE_Vietnamese 7.1 Lồng Tiếng_Inside.Out.2015.ViE.DUB.UHD.Remux.2160p.x265.10bit.HDR.Master5.mkv",
+    "timestamp": "2025-12-22T06:48:32.357881",
+    "signature": "42051091246_5679.675000_5_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_VIE_Vietnamese 7.1 Lồng Tiếng_Inside.Out.2015.ViE.DUB.UHD.Remux.2160p.x265.10bit.HDR.Master5.mkv",
+    "language": null,
+    "notes": null
+  },
+  {
+    "old_name": "Up.2009.VIE.2160p.HDR.BluRay.DD5.1.x265.10bit.HEVC-QTZ_Remuxed.mkv",
+    "new_name": "Up.2009.VIE.2160p.HDR.BluRay.DD5.1.x265.10bit.HEVC-QTZ_Remuxed_vie.srt",
+    "timestamp": "2025-12-22T06:49:38.286014",
+    "signature": "3921684654_5804.755000_2_eng,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Up.2009.VIE.2160p.HDR.BluRay.DD5.1.x265.10bit.HEVC-QTZ_Remuxed_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251222_064938_Up.2009.VIE.2160p.HDR.BluRay.DD5.1.x265.10bit.HEVC-QTZ_Remuxed_vie.srt"
+  },
+  {
+    "old_name": "Up.2009.VIE.2160p.HDR.BluRay.DD5.1.x265.10bit.HEVC-QTZ_Remuxed.mkv",
+    "new_name": "4K_VIE_Thuyết Minh by HDAT_Up.2009.VIE.2160p.HDR.BluRay.DD5.1.x265.10bit.HEVC-QTZ_Remuxed.mkv",
+    "timestamp": "2025-12-22T06:50:25.090390",
+    "signature": "3921684654_5804.755000_2_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Lồng Tiếng - Thuyết Minh\\4K_VIE_Thuyết Minh by HDAT_Up.2009.VIE.2160p.HDR.BluRay.DD5.1.x265.10bit.HEVC-QTZ_Remuxed.mkv",
+    "language": "vie",
+    "notes": null
+  },
+  {
+    "old_name": "Up.2009.VIE.2160p.HDR.BluRay.DD5.1.x265.10bit.HEVC-QTZ_Remuxed.mkv",
+    "new_name": "4K_ENG_ENG VO _ AC3 5.1_Up.2009.VIE.2160p.HDR.BluRay.DD5.1.x265.10bit.HEVC-QTZ_Remuxed.mkv",
+    "timestamp": "2025-12-22T06:50:25.364111",
+    "signature": "3921684654_5804.755000_2_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_ENG_ENG VO _ AC3 5.1_Up.2009.VIE.2160p.HDR.BluRay.DD5.1.x265.10bit.HEVC-QTZ_Remuxed.mkv",
+    "language": null,
+    "notes": null
+  },
+  {
+    "old_name": "Zootopia 2016 ViE DUB 2160p UHD Blu-ray REMUX HDR HEVC Atmos DTS-HD MA 7.1-VietDL.mkv",
+    "new_name": "Zootopia 2016 ViE DUB 2160p UHD Blu-ray REMUX HDR HEVC Atmos DTS-HD MA 7.1-VietDL_vie.srt",
+    "timestamp": "2025-12-22T07:02:27.998543",
+    "signature": "46273706898_6513.867000_2_eng,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Zootopia 2016 ViE DUB 2160p UHD Blu-ray REMUX HDR HEVC Atmos DTS-HD MA 7.1-VietDL_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251222_070227_Zootopia 2016 ViE DUB 2160p UHD Blu-ray REMUX HDR HEVC Atmos DTS-HD MA 7.1-VietDL_vie.srt"
+  },
+  {
+    "old_name": "Zootopia 2016 ViE DUB 2160p UHD Blu-ray REMUX HDR HEVC Atmos DTS-HD MA 7.1-VietDL.mkv",
+    "new_name": "4K_VIE_Tiếng Việt_Zootopia 2016 ViE DUB 2160p UHD Blu-ray REMUX HDR HEVC Atmos DTS-HD MA 7.1-VietDL.mkv",
+    "timestamp": "2025-12-22T07:34:28.639096",
+    "signature": "46273706898_6513.867000_2_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Lồng Tiếng - Thuyết Minh\\4K_VIE_Tiếng Việt_Zootopia 2016 ViE DUB 2160p UHD Blu-ray REMUX HDR HEVC Atmos DTS-HD MA 7.1-VietDL.mkv",
+    "language": "vie",
+    "notes": null
+  },
+  {
+    "old_name": "Zootopia 2016 ViE DUB 2160p UHD Blu-ray REMUX HDR HEVC Atmos DTS-HD MA 7.1-VietDL.mkv",
+    "new_name": "4K_ENG_English_Zootopia 2016 ViE DUB 2160p UHD Blu-ray REMUX HDR HEVC Atmos DTS-HD MA 7.1-VietDL.mkv",
+    "timestamp": "2025-12-22T07:34:29.276185",
+    "signature": "46273706898_6513.867000_2_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_ENG_English_Zootopia 2016 ViE DUB 2160p UHD Blu-ray REMUX HDR HEVC Atmos DTS-HD MA 7.1-VietDL.mkv",
+    "language": null,
+    "notes": null
+  }
+]
