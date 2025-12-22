@@ -1,0 +1,54 @@
+[
+  {
+    "old_name": "A Record Of A Mortals Journey To Immortality 4K 10Bit HDR 174 TMPĐ_kimngonx5.mkv",
+    "new_name": "A Record Of A Mortals Journey To Immortality 4K 10Bit HDR 174 TMPĐ_kimngonx5_vie.srt",
+    "timestamp": "2025-12-22T01:05:52.878176",
+    "signature": "1617123390_1128.384000_1_vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\A Record Of A Mortals Journey To Immortality 4K 10Bit HDR 174 TMPĐ_kimngonx5_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251222_010552_A Record Of A Mortals Journey To Immortality 4K 10Bit HDR 174 TMPĐ_kimngonx5_vie.srt"
+  },
+  {
+    "old_name": "A Record Of A Mortals Journey To Immortality 4K 10Bit HDR 174 TMPĐ_kimngonx5.mkv",
+    "new_name": "4K_VIE_A Record Of A Mortals Journey To Immortality 4K 10Bit HDR 174 TMPĐ_kimngonx5.mkv",
+    "timestamp": "2025-12-22T01:05:59.587026",
+    "signature": "1617123390_1128.384000_1_vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Lồng Tiếng - Thuyết Minh\\4K_VIE_A Record Of A Mortals Journey To Immortality 4K 10Bit HDR 174 TMPĐ_kimngonx5.mkv",
+    "language": "vie",
+    "notes": null
+  },
+  {
+    "old_name": "A Record Of A Mortals Journey To Immortality 4K 10Bit HDR 174 TMPĐ_kimngonx5.mkv",
+    "new_name": "4K_CHI_A Record Of A Mortals Journey To Immortality 4K 10Bit HDR 174 TMPĐ_kimngonx5.mkv",
+    "timestamp": "2025-12-22T01:05:59.849000",
+    "signature": "1617123390_1128.384000_1_vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_CHI_A Record Of A Mortals Journey To Immortality 4K 10Bit HDR 174 TMPĐ_kimngonx5.mkv",
+    "language": null,
+    "notes": null
+  },
+  {
+    "old_name": "Crouching.Tiger.Hidden.Dragon.2000.1080p.NF.WEB-DL.DDP5.1.x264.mkv",
+    "new_name": "Crouching.Tiger.Hidden.Dragon.2000.1080p.NF.WEB-DL.DDP5.1.x264_vie.srt",
+    "timestamp": "2025-12-22T01:07:06.868196",
+    "signature": "9869196184_7221.536000_22_ara,chi,cze,eng,gre,heb,hin,hun,ind,jpn,kor,pol,por,rum,rus,spa,tha,tur,ukr,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Crouching.Tiger.Hidden.Dragon.2000.1080p.NF.WEB-DL.DDP5.1.x264_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251222_010706_Crouching.Tiger.Hidden.Dragon.2000.1080p.NF.WEB-DL.DDP5.1.x264_vie.srt"
+  },
+  {
+    "old_name": "Crouching.Tiger.Hidden.Dragon.2000.1080p.NF.WEB-DL.DDP5.1.x264.mkv",
+    "new_name": "FHD_POR_Brazilian Portuguese_Crouching.Tiger.Hidden.Dragon.2000.1080p.NF.WEB-DL.DDP5.1.x264.mkv",
+    "timestamp": "2025-12-22T01:07:09.616220",
+    "signature": "9869196184_7221.536000_22_ara,chi,cze,eng,gre,heb,hin,hun,ind,jpn,kor,pol,por,rum,rus,spa,tha,tur,ukr,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\FHD_POR_Brazilian Portuguese_Crouching.Tiger.Hidden.Dragon.2000.1080p.NF.WEB-DL.DDP5.1.x264.mkv",
+    "language": null,
+    "notes": null
+  }
+]
