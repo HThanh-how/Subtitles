@@ -1,0 +1,33 @@
+[
+  {
+    "old_name": "4K_ENG_English_Zootopia 2016 ViE DUB 2160p UHD Blu-ray REMUX HDR HEVC Atmos DTS-HD MA 7.1-VietDL.mkv",
+    "new_name": "4K_ENG_English_Zootopia 2016 ViE DUB 2160p UHD Blu-ray REMUX HDR HEVC Atmos DTS-HD MA 7.1-VietDL_vie.srt",
+    "timestamp": "2025-12-23T13:02:32.422614",
+    "signature": "46273706898_6513.867000_2_eng,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\4K_ENG_English_Zootopia 2016 ViE DUB 2160p UHD Blu-ray REMUX HDR HEVC Atmos DTS-HD MA 7.1-VietDL_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251223_130232_4K_ENG_English_Zootopia 2016 ViE DUB 2160p UHD Blu-ray REMUX HDR HEVC Atmos DTS-HD MA 7.1-VietDL_vie.srt"
+  },
+  {
+    "old_name": "4K_ENG_English_Zootopia 2016 ViE DUB 2160p UHD Blu-ray REMUX HDR HEVC Atmos DTS-HD MA 7.1-VietDL.mkv",
+    "new_name": "4K_VIE_Tiếng Việt_4K_ENG_English_Zootopia 2016 ViE DUB 2160p UHD Blu-ray REMUX HDR HEVC Atmos DTS-HD MA 7.1-VietDL.mkv",
+    "timestamp": "2025-12-23T13:20:52.791653",
+    "signature": "46273706898_6513.867000_2_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Lồng Tiếng - Thuyết Minh\\4K_VIE_Tiếng Việt_4K_ENG_English_Zootopia 2016 ViE DUB 2160p UHD Blu-ray REMUX HDR HEVC Atmos DTS-HD MA 7.1-VietDL.mkv",
+    "language": "vie",
+    "notes": null
+  },
+  {
+    "old_name": "4K_ENG_English_Zootopia 2016 ViE DUB 2160p UHD Blu-ray REMUX HDR HEVC Atmos DTS-HD MA 7.1-VietDL.mkv",
+    "new_name": "4K_ENG_English_4K_ENG_English_Zootopia 2016 ViE DUB 2160p UHD Blu-ray REMUX HDR HEVC Atmos DTS-HD MA 7.1-VietDL.mkv",
+    "timestamp": "2025-12-23T13:20:53.541804",
+    "signature": "46273706898_6513.867000_2_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_ENG_English_4K_ENG_English_Zootopia 2016 ViE DUB 2160p UHD Blu-ray REMUX HDR HEVC Atmos DTS-HD MA 7.1-VietDL.mkv",
+    "language": null,
+    "notes": null
+  }
+]
