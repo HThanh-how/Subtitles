@@ -1,0 +1,64 @@
+[
+  {
+    "old_name": "(TM_SV) The.Legend.of.Hei.2.2025.ViE.2160p.HQ.WEB-DL.H265.HDR.DTS5.1-CHDWEB.mkv",
+    "new_name": "(TM_SV) The.Legend.of.Hei.2.2025.ViE.2160p.HQ.WEB-DL.H265.HDR.DTS5.1-CHDWEB_vie.srt",
+    "timestamp": "2025-12-24T17:09:48.894955",
+    "signature": "18081441959_7130.720000_1_vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\(TM_SV) The.Legend.of.Hei.2.2025.ViE.2160p.HQ.WEB-DL.H265.HDR.DTS5.1-CHDWEB_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251224_170948_(TM_SV) The.Legend.of.Hei.2.2025.ViE.2160p.HQ.WEB-DL.H265.HDR.DTS5.1-CHDWEB_vie.srt"
+  },
+  {
+    "old_name": "(TM_SV) The.Legend.of.Hei.2.2025.ViE.2160p.HQ.WEB-DL.H265.HDR.DTS5.1-CHDWEB.mkv",
+    "new_name": "4K_CHI_[Mandarin DTS5.1] fm. youku_(TM_SV) The.Legend.of.Hei.2.2025.ViE.2160p.HQ.WEB-DL.H265.HDR.DTS5.1-CHDWEB.mkv",
+    "timestamp": "2025-12-24T17:17:07.117101",
+    "signature": "18081441959_7130.720000_1_vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Original\\4K_CHI_[Mandarin DTS5.1] fm. youku_(TM_SV) The.Legend.of.Hei.2.2025.ViE.2160p.HQ.WEB-DL.H265.HDR.DTS5.1-CHDWEB.mkv",
+    "language": "chi",
+    "notes": null
+  },
+  {
+    "old_name": "(TM_SV) The.Legend.of.Hei.2.2025.ViE.2160p.HQ.WEB-DL.H265.HDR.DTS5.1-CHDWEB.mkv",
+    "new_name": "4K_VIE_canodinh_(TM_SV) The.Legend.of.Hei.2.2025.ViE.2160p.HQ.WEB-DL.H265.HDR.DTS5.1-CHDWEB.mkv",
+    "timestamp": "2025-12-24T17:17:07.520520",
+    "signature": "18081441959_7130.720000_1_vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_VIE_canodinh_(TM_SV) The.Legend.of.Hei.2.2025.ViE.2160p.HQ.WEB-DL.H265.HDR.DTS5.1-CHDWEB.mkv",
+    "language": null,
+    "notes": null
+  },
+  {
+    "old_name": "Detective Conan Movie 28 One-eyed Flashback 2025 ViE 2160P Bluray HEVC-10bit FLAC.mkv",
+    "new_name": "Detective Conan Movie 28 One-eyed Flashback 2025 ViE 2160P Bluray HEVC-10bit FLAC_vie.srt",
+    "timestamp": "2025-12-24T17:19:05.070210",
+    "signature": "12710068541_6558.470000_1_vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Detective Conan Movie 28 One-eyed Flashback 2025 ViE 2160P Bluray HEVC-10bit FLAC_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251224_171905_Detective Conan Movie 28 One-eyed Flashback 2025 ViE 2160P Bluray HEVC-10bit FLAC_vie.srt"
+  },
+  {
+    "old_name": "Detective Conan Movie 28 One-eyed Flashback 2025 ViE 2160P Bluray HEVC-10bit FLAC.mkv",
+    "new_name": "4K_JPN_Detective Conan Movie 28 One-eyed Flashback 2025 ViE 2160P Bluray HEVC-10bit FLAC.mkv",
+    "timestamp": "2025-12-24T17:24:00.900432",
+    "signature": "12710068541_6558.470000_1_vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Original\\4K_JPN_Detective Conan Movie 28 One-eyed Flashback 2025 ViE 2160P Bluray HEVC-10bit FLAC.mkv",
+    "language": "jpn",
+    "notes": null
+  },
+  {
+    "old_name": "Detective Conan Movie 28 One-eyed Flashback 2025 ViE 2160P Bluray HEVC-10bit FLAC.mkv",
+    "new_name": "4K_VIE_zinzuno_Detective Conan Movie 28 One-eyed Flashback 2025 ViE 2160P Bluray HEVC-10bit FLAC.mkv",
+    "timestamp": "2025-12-24T17:24:01.271637",
+    "signature": "12710068541_6558.470000_1_vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_VIE_zinzuno_Detective Conan Movie 28 One-eyed Flashback 2025 ViE 2160P Bluray HEVC-10bit FLAC.mkv",
+    "language": null,
+    "notes": null
+  }
+]
