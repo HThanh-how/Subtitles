@@ -1,0 +1,33 @@
+[
+  {
+    "old_name": "4K_ENG_(4K_LT _Sub Viet) ) Sing 2.2021.ViE.2160p.UHD.BluRay.HDR.DoVi.TrueHD 7.1.Atmos.x265-SPHD.mkv",
+    "new_name": "4K_ENG_(4K_LT _Sub Viet) ) Sing 2.2021.ViE.2160p.UHD.BluRay.HDR.DoVi.TrueHD 7.1.Atmos.x265-SPHD_vie.srt",
+    "timestamp": "2025-12-29T16:06:16.887106",
+    "signature": "31081626432_6589.600000_1_vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\4K_ENG_(4K_LT _Sub Viet) ) Sing 2.2021.ViE.2160p.UHD.BluRay.HDR.DoVi.TrueHD 7.1.Atmos.x265-SPHD_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251229_160616_4K_ENG_(4K_LT _Sub Viet) ) Sing 2.2021.ViE.2160p.UHD.BluRay.HDR.DoVi.TrueHD 7.1.Atmos.x265-SPHD_vie.srt"
+  },
+  {
+    "old_name": "4K_ENG_(4K_LT _Sub Viet) ) Sing 2.2021.ViE.2160p.UHD.BluRay.HDR.DoVi.TrueHD 7.1.Atmos.x265-SPHD.mkv",
+    "new_name": "4K_VIE_Vietnam_4K_ENG_(4K_LT _Sub Viet) ) Sing 2.2021.ViE.2160p.UHD.BluRay.HDR.DoVi.TrueHD 7.1.Atmos.x265-SPHD.mkv",
+    "timestamp": "2025-12-29T16:19:47.447005",
+    "signature": "31081626432_6589.600000_1_vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Lồng Tiếng - Thuyết Minh\\4K_VIE_Vietnam_4K_ENG_(4K_LT _Sub Viet) ) Sing 2.2021.ViE.2160p.UHD.BluRay.HDR.DoVi.TrueHD 7.1.Atmos.x265-SPHD.mkv",
+    "language": "vie",
+    "notes": null
+  },
+  {
+    "old_name": "4K_ENG_(4K_LT _Sub Viet) ) Sing 2.2021.ViE.2160p.UHD.BluRay.HDR.DoVi.TrueHD 7.1.Atmos.x265-SPHD.mkv",
+    "new_name": "4K_ENG_4K_ENG_(4K_LT _Sub Viet) ) Sing 2.2021.ViE.2160p.UHD.BluRay.HDR.DoVi.TrueHD 7.1.Atmos.x265-SPHD.mkv",
+    "timestamp": "2025-12-29T16:19:48.049653",
+    "signature": "31081626432_6589.600000_1_vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_ENG_4K_ENG_(4K_LT _Sub Viet) ) Sing 2.2021.ViE.2160p.UHD.BluRay.HDR.DoVi.TrueHD 7.1.Atmos.x265-SPHD.mkv",
+    "language": null,
+    "notes": null
+  }
+]
