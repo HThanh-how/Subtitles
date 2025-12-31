@@ -5544,5 +5544,173 @@
     "language": "vie",
     "notes": null,
     "remote_path": "subtitles/20251229_160616_4K_ENG_(4K_LT _Sub Viet) ) Sing 2.2021.ViE.2160p.UHD.BluRay.HDR.DoVi.TrueHD 7.1.Atmos.x265-SPHD_vie.srt"
+  },
+  {
+    "old_name": "(Sub Viet AI) Woman.with.Red.Hair.1979.1080p.Remux.AVC.FLAC2.0-KX.mkv",
+    "new_name": "(Sub Viet AI) Woman.with.Red.Hair.1979.1080p.Remux.AVC.FLAC2.0-KX_vie.srt",
+    "timestamp": "2025-12-31T02:16:37.183209",
+    "signature": "19481660231_4411.949000_2_eng,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\(Sub Viet AI) Woman.with.Red.Hair.1979.1080p.Remux.AVC.FLAC2.0-KX_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251231_021637_(Sub Viet AI) Woman.with.Red.Hair.1979.1080p.Remux.AVC.FLAC2.0-KX_vie.srt"
+  },
+  {
+    "old_name": "(Sub Viet AI) Woman.with.Red.Hair.1979.1080p.Remux.AVC.FLAC2.0-KX.mkv",
+    "new_name": "FHD_JPN_(Sub Viet AI) Woman.with.Red.Hair.1979.1080p.Remux.AVC.FLAC2.0-KX.mkv",
+    "timestamp": "2025-12-31T02:16:39.383904",
+    "signature": "19481660231_4411.949000_2_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\FHD_JPN_(Sub Viet AI) Woman.with.Red.Hair.1979.1080p.Remux.AVC.FLAC2.0-KX.mkv",
+    "language": null,
+    "notes": null
+  },
+  {
+    "old_name": "(TM_SV) Five.Nights.at.Freddys.2.2025.ViE.AI.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC.mkv",
+    "new_name": "(TM_SV) Five.Nights.at.Freddys.2.2025.ViE.AI.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC_vie.srt",
+    "timestamp": "2025-12-31T02:19:42.355562",
+    "signature": "19990858280_6246.907000_2_eng,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\(TM_SV) Five.Nights.at.Freddys.2.2025.ViE.AI.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251231_021942_(TM_SV) Five.Nights.at.Freddys.2.2025.ViE.AI.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC_vie.srt"
+  },
+  {
+    "old_name": "(TM_SV) Five.Nights.at.Freddys.2.2025.ViE.AI.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC.mkv",
+    "new_name": "2K_ENG_(TM_SV) Five.Nights.at.Freddys.2.2025.ViE.AI.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC.mkv",
+    "timestamp": "2025-12-31T02:29:05.089584",
+    "signature": "19990858280_6246.907000_2_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Original\\2K_ENG_(TM_SV) Five.Nights.at.Freddys.2.2025.ViE.AI.Hybrid.2160p.WEB-DL.DV.HDR.DDP5.1.Atmos.H265-AOC.mkv",
+    "language": "eng",
+    "notes": null
+  },
+  {
+    "old_name": "(Vietsub) Pirates.of.the.Caribbean.1.2003.UHD.BluRay.2160p.2Audio.TrueHD.Atmos.7.1.x265.10bit.HDR-BeiTai.mkv",
+    "new_name": "(Vietsub) Pirates.of.the.Caribbean.1.2003.UHD.BluRay.2160p.2Audio.TrueHD.Atmos.7.1.x265.10bit.HDR-Be_vie.srt",
+    "timestamp": "2025-12-31T02:32:06.585523",
+    "signature": "17903777745_8595.936000_6_chi,eng,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\(Vietsub) Pirates.of.the.Caribbean.1.2003.UHD.BluRay.2160p.2Audio.TrueHD.Atmos.7.1.x265.10bit.HDR-Be_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251231_023206_(Vietsub) Pirates.of.the.Caribbean.1.2003.UHD.BluRay.2160p.2Audio.TrueHD.Atmos.7.1.x265.10bit.HDR-Be_vie.srt"
+  },
+  {
+    "old_name": "(Vietsub) Pirates.of.the.Caribbean.1.2003.UHD.BluRay.2160p.2Audio.TrueHD.Atmos.7.1.x265.10bit.HDR-BeiTai.mkv",
+    "new_name": "4K_ENG_English Dolby TrueHD 7.1 (Atmos) @ 4755 kbps_(Vietsub) Pirates.of.the.Caribbean.1.2003.UHD.BluRay.2160p.2Audio.TrueHD.Atmos.7.1.x265.10bit.HDR-BeiTai.mkv",
+    "timestamp": "2025-12-31T02:32:08.967985",
+    "signature": "17903777745_8595.936000_6_chi,eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_ENG_English Dolby TrueHD 7.1 (Atmos) @ 4755 kbps_(Vietsub) Pirates.of.the.Caribbean.1.2003.UHD.BluRay.2160p.2Audio.TrueHD.Atmos.7.1.x265.10bit.HDR-BeiTai.mkv",
+    "language": null,
+    "notes": null
+  },
+  {
+    "old_name": "Monsters.Inc.2001.VIE.2160p.HDR.BluRay.DD5.1.x265.10bit.HEVC-QTZ_Remuxed.mkv",
+    "new_name": "Monsters.Inc.2001.VIE.2160p.HDR.BluRay.DD5.1.x265.10bit.HEVC-QTZ_Remuxed_vie.srt",
+    "timestamp": "2025-12-31T02:32:46.018367",
+    "signature": "4053143369_5561.598000_2_eng,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Monsters.Inc.2001.VIE.2160p.HDR.BluRay.DD5.1.x265.10bit.HEVC-QTZ_Remuxed_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251231_023246_Monsters.Inc.2001.VIE.2160p.HDR.BluRay.DD5.1.x265.10bit.HEVC-QTZ_Remuxed_vie.srt"
+  },
+  {
+    "old_name": "Monsters.Inc.2001.VIE.2160p.HDR.BluRay.DD5.1.x265.10bit.HEVC-QTZ_Remuxed.mkv",
+    "new_name": "4K_VIE_Thuyết Minh_Monsters.Inc.2001.VIE.2160p.HDR.BluRay.DD5.1.x265.10bit.HEVC-QTZ_Remuxed.mkv",
+    "timestamp": "2025-12-31T02:33:39.943872",
+    "signature": "4053143369_5561.598000_2_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Lồng Tiếng - Thuyết Minh\\4K_VIE_Thuyết Minh_Monsters.Inc.2001.VIE.2160p.HDR.BluRay.DD5.1.x265.10bit.HEVC-QTZ_Remuxed.mkv",
+    "language": "vie",
+    "notes": null
+  },
+  {
+    "old_name": "Monsters.University.2013.VIE.2160p.HDR.BluRay.DD5.1.x265.10bit.HEVC-QTZ_Remuxed.mkv",
+    "new_name": "Monsters.University.2013.VIE.2160p.HDR.BluRay.DD5.1.x265.10bit.HEVC-QTZ_Remuxed_vie.srt",
+    "timestamp": "2025-12-31T02:34:27.912300",
+    "signature": "4525739266_6228.416000_2_eng,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Monsters.University.2013.VIE.2160p.HDR.BluRay.DD5.1.x265.10bit.HEVC-QTZ_Remuxed_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251231_023427_Monsters.University.2013.VIE.2160p.HDR.BluRay.DD5.1.x265.10bit.HEVC-QTZ_Remuxed_vie.srt"
+  },
+  {
+    "old_name": "Monsters.University.2013.VIE.2160p.HDR.BluRay.DD5.1.x265.10bit.HEVC-QTZ_Remuxed.mkv",
+    "new_name": "4K_VIE_Thuyết Minh_Monsters.University.2013.VIE.2160p.HDR.BluRay.DD5.1.x265.10bit.HEVC-QTZ_Remuxed.mkv",
+    "timestamp": "2025-12-31T02:35:39.119012",
+    "signature": "4525739266_6228.416000_2_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Lồng Tiếng - Thuyết Minh\\4K_VIE_Thuyết Minh_Monsters.University.2013.VIE.2160p.HDR.BluRay.DD5.1.x265.10bit.HEVC-QTZ_Remuxed.mkv",
+    "language": "vie",
+    "notes": null
+  },
+  {
+    "old_name": "Toy.Story.1.1995.2160p.x265.10bit.SDR.AC3.VN.mkv",
+    "new_name": "Toy.Story.1.1995.2160p.x265.10bit.SDR.AC3.VN_vie.srt",
+    "timestamp": "2025-12-31T02:36:32.559441",
+    "signature": "4428083862_4866.028000_1_vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Toy.Story.1.1995.2160p.x265.10bit.SDR.AC3.VN_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251231_023632_Toy.Story.1.1995.2160p.x265.10bit.SDR.AC3.VN_vie.srt"
+  },
+  {
+    "old_name": "Toy.Story.1.1995.2160p.x265.10bit.SDR.AC3.VN.mkv",
+    "new_name": "4K_VIE_Toy.Story.1.1995.2160p.x265.10bit.SDR.AC3.VN.mkv",
+    "timestamp": "2025-12-31T02:37:49.406638",
+    "signature": "4428083862_4866.028000_1_vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Lồng Tiếng - Thuyết Minh\\4K_VIE_Toy.Story.1.1995.2160p.x265.10bit.SDR.AC3.VN.mkv",
+    "language": "vie",
+    "notes": null
+  },
+  {
+    "old_name": "Toy.Story.2.1999.2160p.x265.10bit.SDR.AC3.VN.mkv",
+    "new_name": "Toy.Story.2.1999.2160p.x265.10bit.SDR.AC3.VN_vie.srt",
+    "timestamp": "2025-12-31T02:38:43.588107",
+    "signature": "5052115175_5546.208000_1_vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Toy.Story.2.1999.2160p.x265.10bit.SDR.AC3.VN_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251231_023843_Toy.Story.2.1999.2160p.x265.10bit.SDR.AC3.VN_vie.srt"
+  },
+  {
+    "old_name": "Toy.Story.2.1999.2160p.x265.10bit.SDR.AC3.VN.mkv",
+    "new_name": "4K_VIE_Toy.Story.2.1999.2160p.x265.10bit.SDR.AC3.VN.mkv",
+    "timestamp": "2025-12-31T02:40:20.535579",
+    "signature": "5052115175_5546.208000_1_vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Lồng Tiếng - Thuyết Minh\\4K_VIE_Toy.Story.2.1999.2160p.x265.10bit.SDR.AC3.VN.mkv",
+    "language": "vie",
+    "notes": null
+  },
+  {
+    "old_name": "Toy.Story.4.2019.2160p.x265.10bit.SDR.AC3.VN.mkv",
+    "new_name": "Toy.Story.4.2019.2160p.x265.10bit.SDR.AC3.VN_vie.srt",
+    "timestamp": "2025-12-31T02:41:17.004697",
+    "signature": "5465613844_6003.488000_1_vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Toy.Story.4.2019.2160p.x265.10bit.SDR.AC3.VN_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20251231_024117_Toy.Story.4.2019.2160p.x265.10bit.SDR.AC3.VN_vie.srt"
+  },
+  {
+    "old_name": "Toy.Story.4.2019.2160p.x265.10bit.SDR.AC3.VN.mkv",
+    "new_name": "4K_VIE_Toy.Story.4.2019.2160p.x265.10bit.SDR.AC3.VN.mkv",
+    "timestamp": "2025-12-31T02:43:18.953511",
+    "signature": "5465613844_6003.488000_1_vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Lồng Tiếng - Thuyết Minh\\4K_VIE_Toy.Story.4.2019.2160p.x265.10bit.SDR.AC3.VN.mkv",
+    "language": "vie",
+    "notes": null
   }
 ]
