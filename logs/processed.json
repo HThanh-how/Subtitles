@@ -5754,5 +5754,58 @@
     "output_path": "D:\\Video\\4K_UNK_Tom.and.Jerry.Forbidden.Compass.2025.2160p.WEB-DL.H265.HDR.DDP5.1-QuickIO_VsubAI.mkv",
     "language": null,
     "notes": null
+  },
+  {
+    "old_name": "(Sub Viet) The.Great.Flood.2025.2160p.NF.WEB-DL.DV.HDR.H.265.DDP5.1.mkv",
+    "new_name": "(Sub Viet) The.Great.Flood.2025.2160p.NF.WEB-DL.DV.HDR.H.265.DDP5.1_vie.srt",
+    "timestamp": "2026-01-05T06:17:12.511443",
+    "signature": "15544507314_6532.526000_53_ara,baq,cat,chi,cze,dan,dut,eng,fil,fin,fre,ger,glg,gre,heb,hrv,hun,ind,ita,jpn,kor,may,nor,pol,por,rum,rus,spa,swe,tha,tur,ukr,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\(Sub Viet) The.Great.Flood.2025.2160p.NF.WEB-DL.DV.HDR.H.265.DDP5.1_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20260105_061712_(Sub Viet) The.Great.Flood.2025.2160p.NF.WEB-DL.DV.HDR.H.265.DDP5.1_vie.srt"
+  },
+  {
+    "old_name": "(Sub Viet) The.Great.Flood.2025.2160p.NF.WEB-DL.DV.HDR.H.265.DDP5.1.mkv",
+    "new_name": "(Sub Viet) The.Great.Flood.2025.2160p.NF.WEB-DL.DV.HDR.H.265.DDP5.1_vie.srt",
+    "timestamp": "2026-01-05T06:17:14.637768",
+    "signature": "15544507314_6532.526000_53_ara,baq,cat,chi,cze,dan,dut,eng,fil,fin,fre,ger,glg,gre,heb,hrv,hun,ind,ita,jpn,kor,may,nor,pol,por,rum,rus,spa,swe,tha,tur,ukr,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\(Sub Viet) The.Great.Flood.2025.2160p.NF.WEB-DL.DV.HDR.H.265.DDP5.1_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20260105_061714_(Sub Viet) The.Great.Flood.2025.2160p.NF.WEB-DL.DV.HDR.H.265.DDP5.1_vie.srt"
+  },
+  {
+    "old_name": "(Sub Viet) The.Great.Flood.2025.2160p.NF.WEB-DL.DV.HDR.H.265.DDP5.1.mkv",
+    "new_name": "4K_KOR_Korean_(Sub Viet) The.Great.Flood.2025.2160p.NF.WEB-DL.DV.HDR.H.265.DDP5.1.mkv",
+    "timestamp": "2026-01-05T06:17:15.731512",
+    "signature": "15544507314_6532.526000_53_ara,baq,cat,chi,cze,dan,dut,eng,fil,fin,fre,ger,glg,gre,heb,hrv,hun,ind,ita,jpn,kor,may,nor,pol,por,rum,rus,spa,swe,tha,tur,ukr,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_KOR_Korean_(Sub Viet) The.Great.Flood.2025.2160p.NF.WEB-DL.DV.HDR.H.265.DDP5.1.mkv",
+    "language": null,
+    "notes": null
+  },
+  {
+    "old_name": "The.Dark.Knight.2008.IMAX.2160p.10bit.HDR.DV.BluRay.TrueHD.5.1.x265.HEVC-PSA_Remuxed.mkv",
+    "new_name": "The.Dark.Knight.2008.IMAX.2160p.10bit.HDR.DV.BluRay.TrueHD.5.1.x265.HEVC-PSA_Remuxed_vie.srt",
+    "timestamp": "2026-01-05T06:18:47.647067",
+    "signature": "7891273154_9133.291000_2_eng,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\The.Dark.Knight.2008.IMAX.2160p.10bit.HDR.DV.BluRay.TrueHD.5.1.x265.HEVC-PSA_Remuxed_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20260105_061847_The.Dark.Knight.2008.IMAX.2160p.10bit.HDR.DV.BluRay.TrueHD.5.1.x265.HEVC-PSA_Remuxed_vie.srt"
+  },
+  {
+    "old_name": "The.Dark.Knight.2008.IMAX.2160p.10bit.HDR.DV.BluRay.TrueHD.5.1.x265.HEVC-PSA_Remuxed.mkv",
+    "new_name": "4K_ENG_The.Dark.Knight.2008.IMAX.2160p.10bit.HDR.DV.BluRay.TrueHD.5.1.x265.HEVC-PSA_Remuxed.mkv",
+    "timestamp": "2026-01-05T06:18:50.124160",
+    "signature": "7891273154_9133.291000_2_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_ENG_The.Dark.Knight.2008.IMAX.2160p.10bit.HDR.DV.BluRay.TrueHD.5.1.x265.HEVC-PSA_Remuxed.mkv",
+    "language": null,
+    "notes": null
   }
 ]
