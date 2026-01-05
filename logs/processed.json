@@ -5807,5 +5807,26 @@
     "output_path": "D:\\Video\\4K_ENG_The.Dark.Knight.2008.IMAX.2160p.10bit.HDR.DV.BluRay.TrueHD.5.1.x265.HEVC-PSA_Remuxed.mkv",
     "language": null,
     "notes": null
+  },
+  {
+    "old_name": "Bat.Man.3.The.Dark.Knight.Rises.2012.ViE.2160p.x265.10bit.SDR.AC3.mkv",
+    "new_name": "Bat.Man.3.The.Dark.Knight.Rises.2012.ViE.2160p.x265.10bit.SDR.AC3_vie.srt",
+    "timestamp": "2026-01-05T08:15:46.853068",
+    "signature": "9046093824_9873.888000_1_vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Bat.Man.3.The.Dark.Knight.Rises.2012.ViE.2160p.x265.10bit.SDR.AC3_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20260105_081546_Bat.Man.3.The.Dark.Knight.Rises.2012.ViE.2160p.x265.10bit.SDR.AC3_vie.srt"
+  },
+  {
+    "old_name": "Bat.Man.3.The.Dark.Knight.Rises.2012.ViE.2160p.x265.10bit.SDR.AC3.mkv",
+    "new_name": "4K_VIE_Bat.Man.3.The.Dark.Knight.Rises.2012.ViE.2160p.x265.10bit.SDR.AC3.mkv",
+    "timestamp": "2026-01-05T08:19:44.247916",
+    "signature": "9046093824_9873.888000_1_vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Lồng Tiếng - Thuyết Minh\\4K_VIE_Bat.Man.3.The.Dark.Knight.Rises.2012.ViE.2160p.x265.10bit.SDR.AC3.mkv",
+    "language": "vie",
+    "notes": null
   }
 ]
