@@ -5860,5 +5860,26 @@
     "output_path": "D:\\Video\\Lồng Tiếng - Thuyết Minh\\4K_VIE_Lồng Tiếng_(Vietsub - Lồng Tiếng Chuẩn) Detective.Conan.Movie.27.The.Million-Dolar.Pentagram.2024.2160p.Bluray.REMUX.AVC.TrueHD.5.1.mkv",
     "language": "vie",
     "notes": null
+  },
+  {
+    "old_name": "Dunkirk.2017.iMAX.UHD.BluRay.2160p.2Audio.DTS-HD.MA.5.1.x265.10bit.HDR-BeiTai-Vietsub.mkv",
+    "new_name": "Dunkirk.2017.iMAX.UHD.BluRay.2160p.2Audio.DTS-HD.MA.5.1.x265.10bit.HDR-BeiTai-Vietsub_vie.srt",
+    "timestamp": "2026-01-07T10:16:37.667750",
+    "signature": "19416901138_6398.240000_6_chi,eng,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Dunkirk.2017.iMAX.UHD.BluRay.2160p.2Audio.DTS-HD.MA.5.1.x265.10bit.HDR-BeiTai-Vietsub_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20260107_101637_Dunkirk.2017.iMAX.UHD.BluRay.2160p.2Audio.DTS-HD.MA.5.1.x265.10bit.HDR-BeiTai-Vietsub_vie.srt"
+  },
+  {
+    "old_name": "Dunkirk.2017.iMAX.UHD.BluRay.2160p.2Audio.DTS-HD.MA.5.1.x265.10bit.HDR-BeiTai-Vietsub.mkv",
+    "new_name": "4K_ENG_English DTS-HD Master Audio 5.1 @ 2411 kbps_Dunkirk.2017.iMAX.UHD.BluRay.2160p.2Audio.DTS-HD.MA.5.1.x265.10bit.HDR-BeiTai-Vietsub.mkv",
+    "timestamp": "2026-01-07T10:16:39.925031",
+    "signature": "19416901138_6398.240000_6_chi,eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_ENG_English DTS-HD Master Audio 5.1 @ 2411 kbps_Dunkirk.2017.iMAX.UHD.BluRay.2160p.2Audio.DTS-HD.MA.5.1.x265.10bit.HDR-BeiTai-Vietsub.mkv",
+    "language": null,
+    "notes": null
   }
 ]
