@@ -5881,5 +5881,26 @@
     "output_path": "D:\\Video\\4K_ENG_English DTS-HD Master Audio 5.1 @ 2411 kbps_Dunkirk.2017.iMAX.UHD.BluRay.2160p.2Audio.DTS-HD.MA.5.1.x265.10bit.HDR-BeiTai-Vietsub.mkv",
     "language": null,
     "notes": null
+  },
+  {
+    "old_name": "1986.Castle.in.the.Sky.1986.1080p.NF.WEB-DL.DDP2.0.x264.mkv",
+    "new_name": "1986.Castle.in.the.Sky.1986.1080p.NF.WEB-DL.DDP2.0.x264_vie.srt",
+    "timestamp": "2026-01-08T06:07:26.515405",
+    "signature": "9901219067_7496.096000_30_ara,chi,cze,dan,dut,eng,fin,fre,ger,gre,heb,hin,hun,ind,ita,jpn,kor,nor,pol,por,rum,rus,spa,swe,tha,tur,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\1986.Castle.in.the.Sky.1986.1080p.NF.WEB-DL.DDP2.0.x264_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20260108_060726_1986.Castle.in.the.Sky.1986.1080p.NF.WEB-DL.DDP2.0.x264_vie.srt"
+  },
+  {
+    "old_name": "1986.Castle.in.the.Sky.1986.1080p.NF.WEB-DL.DDP2.0.x264.mkv",
+    "new_name": "FHD_VIE_Vietnamese_1986.Castle.in.the.Sky.1986.1080p.NF.WEB-DL.DDP2.0.x264.mkv",
+    "timestamp": "2026-01-08T06:11:08.346988",
+    "signature": "9901219067_7496.096000_30_ara,chi,cze,dan,dut,eng,fin,fre,ger,gre,heb,hin,hun,ind,ita,jpn,kor,nor,pol,por,rum,rus,spa,swe,tha,tur,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Lồng Tiếng - Thuyết Minh\\FHD_VIE_Vietnamese_1986.Castle.in.the.Sky.1986.1080p.NF.WEB-DL.DDP2.0.x264.mkv",
+    "language": "vie",
+    "notes": null
   }
 ]
