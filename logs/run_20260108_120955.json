@@ -1,0 +1,23 @@
+[
+  {
+    "old_name": "Spider.Man.Into.The.Spider.Verse.2018.2160p.x265.10bit.SDR.AC3.mkv",
+    "new_name": "Spider.Man.Into.The.Spider.Verse.2018.2160p.x265.10bit.SDR.AC3_vie.srt",
+    "timestamp": "2026-01-08T12:09:50.600362",
+    "signature": "5595804067_7011.088000_1_vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Spider.Man.Into.The.Spider.Verse.2018.2160p.x265.10bit.SDR.AC3_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20260108_120950_Spider.Man.Into.The.Spider.Verse.2018.2160p.x265.10bit.SDR.AC3_vie.srt"
+  },
+  {
+    "old_name": "Spider.Man.Into.The.Spider.Verse.2018.2160p.x265.10bit.SDR.AC3.mkv",
+    "new_name": "4K_ENG_Spider.Man.Into.The.Spider.Verse.2018.2160p.x265.10bit.SDR.AC3.mkv",
+    "timestamp": "2026-01-08T12:09:53.069769",
+    "signature": "5595804067_7011.088000_1_vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_ENG_Spider.Man.Into.The.Spider.Verse.2018.2160p.x265.10bit.SDR.AC3.mkv",
+    "language": null,
+    "notes": null
+  }
+]
