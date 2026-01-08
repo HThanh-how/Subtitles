@@ -5902,5 +5902,26 @@
     "output_path": "D:\\Video\\Lồng Tiếng - Thuyết Minh\\FHD_VIE_Vietnamese_1986.Castle.in.the.Sky.1986.1080p.NF.WEB-DL.DDP2.0.x264.mkv",
     "language": "vie",
     "notes": null
+  },
+  {
+    "old_name": "Inception.2010.2160p.x265.10bit.SDR.AC3.VN.mkv",
+    "new_name": "Inception.2010.2160p.x265.10bit.SDR.AC3.VN_vie.srt",
+    "timestamp": "2026-01-08T07:14:15.546391",
+    "signature": "7521247232_8888.480000_1_vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Inception.2010.2160p.x265.10bit.SDR.AC3.VN_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20260108_071415_Inception.2010.2160p.x265.10bit.SDR.AC3.VN_vie.srt"
+  },
+  {
+    "old_name": "Inception.2010.2160p.x265.10bit.SDR.AC3.VN.mkv",
+    "new_name": "4K_VIE_Inception.2010.2160p.x265.10bit.SDR.AC3.VN.mkv",
+    "timestamp": "2026-01-08T07:17:35.072557",
+    "signature": "7521247232_8888.480000_1_vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Lồng Tiếng - Thuyết Minh\\4K_VIE_Inception.2010.2160p.x265.10bit.SDR.AC3.VN.mkv",
+    "language": "vie",
+    "notes": null
   }
 ]
