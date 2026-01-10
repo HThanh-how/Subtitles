@@ -1,0 +1,33 @@
+[
+  {
+    "old_name": "(TM_SV) Now.You.See.Me.Now.You.Dont.2025.ViE.2160p.iT.WEB-DL.DDP5.1.Atmos.HDR.H.265-BYNDR.mkv",
+    "new_name": "(TM_SV) Now.You.See.Me.Now.You.Dont.2025.ViE.2160p.iT.WEB-DL.DDP5.1.Atmos.HDR.H.265-BYNDR_vie.srt",
+    "timestamp": "2026-01-10T06:47:27.191248",
+    "signature": "13111158327_6756.374000_3_eng,fre,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\(TM_SV) Now.You.See.Me.Now.You.Dont.2025.ViE.2160p.iT.WEB-DL.DDP5.1.Atmos.HDR.H.265-BYNDR_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20260110_064727_(TM_SV) Now.You.See.Me.Now.You.Dont.2025.ViE.2160p.iT.WEB-DL.DDP5.1.Atmos.HDR.H.265-BYNDR_vie.srt"
+  },
+  {
+    "old_name": "(TM_SV) Now.You.See.Me.Now.You.Dont.2025.ViE.2160p.iT.WEB-DL.DDP5.1.Atmos.HDR.H.265-BYNDR.mkv",
+    "new_name": "2K_ENG_(TM_SV) Now.You.See.Me.Now.You.Dont.2025.ViE.2160p.iT.WEB-DL.DDP5.1.Atmos.HDR.H.265-BYNDR.mkv",
+    "timestamp": "2026-01-10T06:50:46.153446",
+    "signature": "13111158327_6756.374000_3_eng,fre,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Original\\2K_ENG_(TM_SV) Now.You.See.Me.Now.You.Dont.2025.ViE.2160p.iT.WEB-DL.DDP5.1.Atmos.HDR.H.265-BYNDR.mkv",
+    "language": "eng",
+    "notes": null
+  },
+  {
+    "old_name": "(TM_SV) Now.You.See.Me.Now.You.Dont.2025.ViE.2160p.iT.WEB-DL.DDP5.1.Atmos.HDR.H.265-BYNDR.mkv",
+    "new_name": "2K_VIE_canodinh_(TM_SV) Now.You.See.Me.Now.You.Dont.2025.ViE.2160p.iT.WEB-DL.DDP5.1.Atmos.HDR.H.265-BYNDR.mkv",
+    "timestamp": "2026-01-10T06:50:48.416826",
+    "signature": "13111158327_6756.374000_3_eng,fre,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\2K_VIE_canodinh_(TM_SV) Now.You.See.Me.Now.You.Dont.2025.ViE.2160p.iT.WEB-DL.DDP5.1.Atmos.HDR.H.265-BYNDR.mkv",
+    "language": null,
+    "notes": null
+  }
+]
