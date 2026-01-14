@@ -6132,5 +6132,47 @@
     "output_path": "D:\\Video\\Lồng Tiếng - Thuyết Minh\\4K_VIE_AU VIE 1_Spider.Man.5.The.Amazing.Spider.Man.2.2014.2160p.x265.10bit.SDR.AC3.VN.mkv",
     "language": "vie",
     "notes": null
+  },
+  {
+    "old_name": "(4K_TM_SV) Final.Destination.Bloodlines.2025.ViE.2160p.BluRay.DoVi.x265.10bit.Atmos.TrueHD7.1-WiKi.mkv",
+    "new_name": "(4K_TM_SV) Final.Destination.Bloodlines.2025.ViE.2160p.BluRay.DoVi.x265.10bit.Atmos.TrueHD7.1-WiKi_vie.srt",
+    "timestamp": "2026-01-14T06:24:49.996892",
+    "signature": "30032669188_6588.608000_2_eng,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\(4K_TM_SV) Final.Destination.Bloodlines.2025.ViE.2160p.BluRay.DoVi.x265.10bit.Atmos.TrueHD7.1-WiKi_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20260114_062449_(4K_TM_SV) Final.Destination.Bloodlines.2025.ViE.2160p.BluRay.DoVi.x265.10bit.Atmos.TrueHD7.1-WiKi_vie.srt"
+  },
+  {
+    "old_name": "(4K_TM_SV) Final.Destination.Bloodlines.2025.ViE.2160p.BluRay.DoVi.x265.10bit.Atmos.TrueHD7.1-WiKi.mkv",
+    "new_name": "4K_VIE_(4K_TM_SV) Final.Destination.Bloodlines.2025.ViE.2160p.BluRay.DoVi.x265.10bit.Atmos.TrueHD7.1-WiKi.mkv",
+    "timestamp": "2026-01-14T06:33:01.885686",
+    "signature": "30032669188_6588.608000_2_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Lồng Tiếng - Thuyết Minh\\4K_VIE_(4K_TM_SV) Final.Destination.Bloodlines.2025.ViE.2160p.BluRay.DoVi.x265.10bit.Atmos.TrueHD7.1-WiKi.mkv",
+    "language": "vie",
+    "notes": null
+  },
+  {
+    "old_name": "(TM_SV) Nobody.2025.ViE.2160p.HQ.WEB-DL.H265.HDR.DTS-ADWeb.mkv",
+    "new_name": "(TM_SV) Nobody.2025.ViE.2160p.HQ.WEB-DL.H265.HDR.DTS-ADWeb_vie.srt",
+    "timestamp": "2026-01-14T06:36:18.005782",
+    "signature": "18054378574_7095.856000_1_vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\(TM_SV) Nobody.2025.ViE.2160p.HQ.WEB-DL.H265.HDR.DTS-ADWeb_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20260114_063618_(TM_SV) Nobody.2025.ViE.2160p.HQ.WEB-DL.H265.HDR.DTS-ADWeb_vie.srt"
+  },
+  {
+    "old_name": "(TM_SV) Nobody.2025.ViE.2160p.HQ.WEB-DL.H265.HDR.DTS-ADWeb.mkv",
+    "new_name": "4K_UNK_DDP5.1_(TM_SV) Nobody.2025.ViE.2160p.HQ.WEB-DL.H265.HDR.DTS-ADWeb.mkv",
+    "timestamp": "2026-01-14T06:43:28.448200",
+    "signature": "18054378574_7095.856000_1_vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Original\\4K_UNK_DDP5.1_(TM_SV) Nobody.2025.ViE.2160p.HQ.WEB-DL.H265.HDR.DTS-ADWeb.mkv",
+    "language": "und",
+    "notes": null
   }
 ]
