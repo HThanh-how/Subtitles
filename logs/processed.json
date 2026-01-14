@@ -6174,5 +6174,26 @@
     "output_path": "D:\\Video\\Original\\4K_UNK_DDP5.1_(TM_SV) Nobody.2025.ViE.2160p.HQ.WEB-DL.H265.HDR.DTS-ADWeb.mkv",
     "language": "und",
     "notes": null
+  },
+  {
+    "old_name": "Minions.2015.ViE.2160p.UHD.BluRay.REMUX.HEVC.TrueHD7.1-DBSK.mkv",
+    "new_name": "Minions.2015.ViE.2160p.UHD.BluRay.REMUX.HEVC.TrueHD7.1-DBSK_vie.srt",
+    "timestamp": "2026-01-14T11:48:18.881839",
+    "signature": "53308209922_5457.940000_3_eng,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Minions.2015.ViE.2160p.UHD.BluRay.REMUX.HEVC.TrueHD7.1-DBSK_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20260114_114818_Minions.2015.ViE.2160p.UHD.BluRay.REMUX.HEVC.TrueHD7.1-DBSK_vie.srt"
+  },
+  {
+    "old_name": "Minions.2015.ViE.2160p.UHD.BluRay.REMUX.HEVC.TrueHD7.1-DBSK.mkv",
+    "new_name": "4K_VIE_DTS-HD MA 7.1 dbsklangchanh_Minions.2015.ViE.2160p.UHD.BluRay.REMUX.HEVC.TrueHD7.1-DBSK.mkv",
+    "timestamp": "2026-01-14T12:09:05.367040",
+    "signature": "53308209922_5457.940000_3_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Lồng Tiếng - Thuyết Minh\\4K_VIE_DTS-HD MA 7.1 dbsklangchanh_Minions.2015.ViE.2160p.UHD.BluRay.REMUX.HEVC.TrueHD7.1-DBSK.mkv",
+    "language": "vie",
+    "notes": null
   }
 ]
