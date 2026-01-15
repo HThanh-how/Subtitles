@@ -1,0 +1,23 @@
+[
+  {
+    "old_name": "Zootopia.2.2025.1440p.DCP.WEBRIP.DD2.0.SDR.H264-AOC.mkv",
+    "new_name": "Zootopia.2.2025.1440p.DCP.WEBRIP.DD2.0.SDR.H264-AOC_vie.srt",
+    "timestamp": "2026-01-15T06:17:37.168396",
+    "signature": "16430215042_6451.459000_1_vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Zootopia.2.2025.1440p.DCP.WEBRIP.DD2.0.SDR.H264-AOC_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20260115_061737_Zootopia.2.2025.1440p.DCP.WEBRIP.DD2.0.SDR.H264-AOC_vie.srt"
+  },
+  {
+    "old_name": "Zootopia.2.2025.1440p.DCP.WEBRIP.DD2.0.SDR.H264-AOC.mkv",
+    "new_name": "FHD_ENG_English_Zootopia.2.2025.1440p.DCP.WEBRIP.DD2.0.SDR.H264-AOC.mkv",
+    "timestamp": "2026-01-15T06:17:40.200188",
+    "signature": "16430215042_6451.459000_1_vie",
+    "category": "video",
+    "output_path": "D:\\Video\\FHD_ENG_English_Zootopia.2.2025.1440p.DCP.WEBRIP.DD2.0.SDR.H264-AOC.mkv",
+    "language": null,
+    "notes": null
+  }
+]
