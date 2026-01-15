@@ -1,0 +1,33 @@
+[
+  {
+    "old_name": "Midway.2019.ViE.2160p.10bit.HDR.BluRay.DTS-ES.5.1.x265.HEVC-PSA_Remuxed.mkv",
+    "new_name": "Midway.2019.ViE.2160p.10bit.HDR.BluRay.DTS-ES.5.1.x265.HEVC-PSA_Remuxed_vie.srt",
+    "timestamp": "2026-01-15T08:42:09.058862",
+    "signature": "5303215454_8305.311000_3_eng,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Midway.2019.ViE.2160p.10bit.HDR.BluRay.DTS-ES.5.1.x265.HEVC-PSA_Remuxed_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20260115_084209_Midway.2019.ViE.2160p.10bit.HDR.BluRay.DTS-ES.5.1.x265.HEVC-PSA_Remuxed_vie.srt"
+  },
+  {
+    "old_name": "Midway.2019.ViE.2160p.10bit.HDR.BluRay.DTS-ES.5.1.x265.HEVC-PSA_Remuxed.mkv",
+    "new_name": "4K_VIE_Midway.2019.ViE.2160p.10bit.HDR.BluRay.DTS-ES.5.1.x265.HEVC-PSA_Remuxed.mkv",
+    "timestamp": "2026-01-15T08:42:42.681571",
+    "signature": "5303215454_8305.311000_3_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\Lồng Tiếng - Thuyết Minh\\4K_VIE_Midway.2019.ViE.2160p.10bit.HDR.BluRay.DTS-ES.5.1.x265.HEVC-PSA_Remuxed.mkv",
+    "language": "vie",
+    "notes": null
+  },
+  {
+    "old_name": "Midway.2019.ViE.2160p.10bit.HDR.BluRay.DTS-ES.5.1.x265.HEVC-PSA_Remuxed.mkv",
+    "new_name": "4K_ENG_Midway.2019.ViE.2160p.10bit.HDR.BluRay.DTS-ES.5.1.x265.HEVC-PSA_Remuxed.mkv",
+    "timestamp": "2026-01-15T08:42:46.129476",
+    "signature": "5303215454_8305.311000_3_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_ENG_Midway.2019.ViE.2160p.10bit.HDR.BluRay.DTS-ES.5.1.x265.HEVC-PSA_Remuxed.mkv",
+    "language": null,
+    "notes": null
+  }
+]
