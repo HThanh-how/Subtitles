@@ -6269,5 +6269,25 @@
     "output_path": "D:\\Video\\4K_ENG_Atmos 7.1_(4K_SV) Ballerina 2025 Hybrid UHD BluRay 2160p DV HDR10 DDP Atmos 7.1 x265-BiTOR.mkv",
     "language": null,
     "notes": null
+  },
+  {
+    "old_name": "(LongTieng) Doraemon.The.Movie.Nobitas.Little.Star.Wars.2021.ViE.DUB.2022.AMZN.WEBRip.H264-JenkaStudioVN.mkv",
+    "new_name": "FHD_JPN_日本語_(LongTieng) Doraemon.The.Movie.Nobitas.Little.Star.Wars.2021.ViE.DUB.2022.AMZN.WEBRip.H264-JenkaStudioVN.mkv",
+    "timestamp": "2026-01-16T10:13:13.581391",
+    "signature": "4454518707_6542.411000_1_jpn",
+    "category": "video",
+    "output_path": "D:\\Video\\Original\\FHD_JPN_日本語_(LongTieng) Doraemon.The.Movie.Nobitas.Little.Star.Wars.2021.ViE.DUB.2022.AMZN.WEBRip.H264-JenkaStudioVN.mkv",
+    "language": "jpn",
+    "notes": null
+  },
+  {
+    "old_name": "Doraemon.the.Movie.Nobitas.New.Dinosaur.ViE.DUB.1080p.WEB-DL.DD2.0.x264-JadViE.mkv",
+    "new_name": "FHD_JPN_Japanese_Doraemon.the.Movie.Nobitas.New.Dinosaur.ViE.DUB.1080p.WEB-DL.DD2.0.x264-JadViE.mkv",
+    "timestamp": "2026-01-16T10:13:50.754605",
+    "signature": "2598429060_6641.706000_0_none",
+    "category": "video",
+    "output_path": "D:\\Video\\Original\\FHD_JPN_Japanese_Doraemon.the.Movie.Nobitas.New.Dinosaur.ViE.DUB.1080p.WEB-DL.DD2.0.x264-JadViE.mkv",
+    "language": "jpn",
+    "notes": null
   }
 ]
