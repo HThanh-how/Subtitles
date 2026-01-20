@@ -1,0 +1,23 @@
+[
+  {
+    "old_name": "Portrait.of.a.Lady.on.Fire.2019.2160p.NF.WEB-DL.DTS-HD.MA.5.1.HEVC-WELP-18 (phụ đề).mkv",
+    "new_name": "Portrait.of.a.Lady.on.Fire.2019.2160p.NF.WEB-DL.DTS-HD.MA.5.1.HEVC-WELP-18 (phụ đề)_vie.srt",
+    "timestamp": "2026-01-20T02:42:30.240591",
+    "signature": "13963422587_7259.335000_11_eng,fre,ger,ita,spa,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Portrait.of.a.Lady.on.Fire.2019.2160p.NF.WEB-DL.DTS-HD.MA.5.1.HEVC-WELP-18 (phụ đề)_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20260120_024230_Portrait.of.a.Lady.on.Fire.2019.2160p.NF.WEB-DL.DTS-HD.MA.5.1.HEVC-WELP-18 (phụ đề)_vie.srt"
+  },
+  {
+    "old_name": "Portrait.of.a.Lady.on.Fire.2019.2160p.NF.WEB-DL.DTS-HD.MA.5.1.HEVC-WELP-18 (phụ đề).mkv",
+    "new_name": "4K_FRE_Portrait.of.a.Lady.on.Fire.2019.2160p.NF.WEB-DL.DTS-HD.MA.5.1.HEVC-WELP-18 (phụ đề).mkv",
+    "timestamp": "2026-01-20T02:42:33.341048",
+    "signature": "13963422587_7259.335000_11_eng,fre,ger,ita,spa,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\4K_FRE_Portrait.of.a.Lady.on.Fire.2019.2160p.NF.WEB-DL.DTS-HD.MA.5.1.HEVC-WELP-18 (phụ đề).mkv",
+    "language": null,
+    "notes": null
+  }
+]
