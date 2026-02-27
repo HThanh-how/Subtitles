@@ -6394,5 +6394,26 @@
     "output_path": "D:\\Video\\4K_UNK_DDP5.1_Nobody.2025.2160p.HQ.WEB-DL.H265.HDR.DTS-QuickIO_Vsub.mkv",
     "language": null,
     "notes": null
+  },
+  {
+    "old_name": "Mahal Ko Ang Mahal Mo 2024 2160p WEB-DL AAC x264.mkv _ 🔐 Auto Leech _ Private Service.mkv",
+    "new_name": "Mahal Ko Ang Mahal Mo 2024 2160p WEB-DL AAC x264.mkv _ 🔐 Auto Leech _ Private Service_vie.srt",
+    "timestamp": "2026-02-27T09:03:58.680072",
+    "signature": "9337390743_7478.336000_2_eng,vie",
+    "category": "subtitle",
+    "output_path": "D:\\Video\\Subtitles\\Mahal Ko Ang Mahal Mo 2024 2160p WEB-DL AAC x264.mkv _ 🔐 Auto Leech _ Private Service_vie.srt",
+    "language": "vie",
+    "notes": null,
+    "remote_path": "subtitles/20260227_090358_Mahal Ko Ang Mahal Mo 2024 2160p WEB-DL AAC x264.mkv _ 🔐 Auto Leech _ Private Service_vie.srt"
+  },
+  {
+    "old_name": "Mahal Ko Ang Mahal Mo 2024 2160p WEB-DL AAC x264.mkv _ 🔐 Auto Leech _ Private Service.mkv",
+    "new_name": "FHD_KOR_Korean_Mahal Ko Ang Mahal Mo 2024 2160p....mkv",
+    "timestamp": "2026-02-27T09:04:02.194999",
+    "signature": "9337390743_7478.336000_2_eng,vie",
+    "category": "video",
+    "output_path": "D:\\Video\\FHD_KOR_Korean_Mahal Ko Ang Mahal Mo 2024 2160p....mkv",
+    "language": null,
+    "notes": null
   }
 ]
